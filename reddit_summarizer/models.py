@@ -104,7 +104,37 @@ class SubredditDigest:
 
         return md
 
+    def to_json(self) -> dict:
+        """Convert digest to JSON-serializable dictionary"""
+        return {
+            "subreddit": self.subreddit,
+            "start_date": self.start_date.strftime('%Y-%m-%d'),
+            "end_date": self.end_date.strftime('%Y-%m-%d'),
+            "total_posts_analyzed": self.total_posts_analyzed,
+            "posts_summarized": len(self.post_summaries),
+            "summaries": [
+                {
+                    "title": summary.post.title,
+                    "author": summary.post.author,
+                    "url": summary.post.full_url,
+                    "upvotes": summary.post.score,
+                    "comments": summary.post.num_comments,
+                    "date": summary.post.created_utc.strftime('%Y-%m-%d'),
+                    "summary": summary.summary,
+                    "key_points": summary.key_points,
+                    "discussion_highlights": summary.discussion_highlights,
+                }
+                for summary in self.post_summaries
+            ]
+        }
+
     def save_to_file(self, filepath: str) -> None:
-        """Save digest to a markdown file"""
-        with open(filepath, "w", encoding="utf-8") as f:
-            f.write(self.to_markdown())
+        """Save digest to a markdown or JSON file based on extension"""
+        import json
+
+        if filepath.endswith('.json'):
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(self.to_json(), f, indent=2, ensure_ascii=False)
+        else:
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write(self.to_markdown())
