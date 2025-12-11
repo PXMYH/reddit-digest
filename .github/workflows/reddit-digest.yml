@@ -1,0 +1,109 @@
+name: Reddit Digest Generator
+
+on:
+  schedule:
+    # Run every 4 hours (at :00 minutes)
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # Allow manual triggers
+
+jobs:
+  generate-digests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install UV
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        run: |
+          uv sync
+
+      - name: Calculate date range (last 7 days)
+        id: dates
+        run: |
+          END_DATE=$(date +%Y-%m-%d)
+          START_DATE=$(date -d '7 days ago' +%Y-%m-%d)
+          echo "start_date=$START_DATE" >> $GITHUB_OUTPUT
+          echo "end_date=$END_DATE" >> $GITHUB_OUTPUT
+          echo "Date range: $START_DATE to $END_DATE"
+
+      - name: Generate Formula1 digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          uv run python summarize_subreddit.py formula1 \
+            --start ${{ steps.dates.outputs.start_date }} \
+            --end ${{ steps.dates.outputs.end_date }} \
+            --min-upvotes 100 \
+            --min-comments 20
+        continue-on-error: true
+
+      - name: Generate LocalLLaMA digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          uv run python summarize_subreddit.py LocalLLaMA \
+            --start ${{ steps.dates.outputs.start_date }} \
+            --end ${{ steps.dates.outputs.end_date }} \
+            --min-upvotes 100 \
+            --min-comments 20
+        continue-on-error: true
+
+      - name: Generate FIRE digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          uv run python summarize_subreddit.py Fire \
+            --start ${{ steps.dates.outputs.start_date }} \
+            --end ${{ steps.dates.outputs.end_date }} \
+            --min-upvotes 100 \
+            --min-comments 20
+        continue-on-error: true
+
+      - name: Generate Financial Independence digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          uv run python summarize_subreddit.py financialindependence \
+            --start ${{ steps.dates.outputs.start_date }} \
+            --end ${{ steps.dates.outputs.end_date }} \
+            --min-upvotes 100 \
+            --min-comments 20
+        continue-on-error: true
+
+      - name: Generate Bogleheads digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          uv run python summarize_subreddit.py Bogleheads \
+            --start ${{ steps.dates.outputs.start_date }} \
+            --end ${{ steps.dates.outputs.end_date }} \
+            --min-upvotes 100 \
+            --min-comments 20
+        continue-on-error: true
+
+      - name: Commit and push digests
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add digest/
+
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update Reddit digests ($(date +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi
