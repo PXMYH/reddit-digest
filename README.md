@@ -10,6 +10,10 @@ An AI-powered tool that generates reading digests from Reddit subreddits using t
 - 💬 **Discussion Analysis**: Includes analysis of top comments and community consensus
 - 📝 **Markdown Output**: Clean, formatted reading digests
 - 🔄 **Flexible Date Ranges**: Fetch posts from any time period
+- 📊 **Progress Indicators**: Real-time progress bars with tqdm for better user experience
+- ✅ **Comprehensive Tests**: Full test coverage with pytest and mocked API
+- 🔒 **Type Safety**: Complete type hints for better IDE support and error prevention
+- 🎨 **Code Quality**: Formatted with Black, validated with proper error handling
 
 ## Installation
 
@@ -179,19 +183,52 @@ workspace/
 
 ### Running Tests
 
+The project includes comprehensive unit and integration tests:
+
 ```bash
-python -m pytest tests/
+# Run all tests
+pytest
+
+# Run with verbose output
+pytest -v
+
+# Run specific test file
+pytest tests/test_models.py
+
+# Run with coverage report
+pytest --cov=reddit_summarizer
+
+# Run basic tests (no pytest required)
+python test_basic.py
 ```
+
+**Test Coverage:**
+- ✅ Unit tests for all data models (RedditPost, PostSummary, SubredditDigest)
+- ✅ Integration tests for Reddit API fetching (with mocked API)
+- ✅ Edge cases and error handling
+- ✅ File I/O operations
 
 ### Code Quality
 
-```bash
-# Format code
-black reddit_summarizer/ summarize_subreddit.py
+The codebase follows Python best practices:
 
-# Type checking
+```bash
+# Format code with Black
+black reddit_summarizer/ tests/ *.py
+
+# Type checking with MyPy
 mypy reddit_summarizer/
+
+# Run linter
+pylint reddit_summarizer/
 ```
+
+**Quality Features:**
+- ✅ Comprehensive type hints throughout the codebase
+- ✅ Consistent code formatting with Black (line length: 100)
+- ✅ Full docstring coverage for all public functions
+- ✅ Proper error handling and validation
+- ✅ Progress indicators with tqdm for better UX
 
 ## License
 
