@@ -37,7 +37,7 @@ class RedditSummarizer:
 
     def __init__(
         self,
-        model: str = "openrouter/anthropic/claude-3.5-sonnet",
+        model: str = "openrouter/mistralai/devstral-2512:free",
         skillbook_path: Optional[str] = None,
         fetcher: Optional[RedditFetcher] = None,
     ):
@@ -45,7 +45,7 @@ class RedditSummarizer:
         Initialize the summarizer with ACE components
 
         Args:
-            model: LLM model to use (default: openrouter/anthropic/claude-3.5-sonnet)
+            model: LLM model to use (default: openrouter/mistralai/devstral-2512:free)
             skillbook_path: Path to load existing skillbook (optional)
             fetcher: RedditFetcher instance (optional, will create one if not provided)
         """
@@ -60,13 +60,7 @@ class RedditSummarizer:
             self.skillbook = Skillbook.load_from_file(skillbook_path)
             print(f"Loaded skillbook from {skillbook_path}")
         else:
-            self.skillbook = Skillbook(
-                title="Reddit Post Summarization",
-                objective=(
-                    "Generate concise, informative summaries of "
-                    "Reddit posts and their discussions"
-                ),
-            )
+            self.skillbook = Skillbook()
 
         # Initialize ACE components with v2.1 prompts (recommended)
         prompt_mgr = PromptManager()
@@ -129,8 +123,9 @@ Format your response as JSON:
 """
 
         # Use ACE agent to generate summary with skillbook context
-        agent_output = self.agent.generate_answer(
-            task=task,
+        agent_output = self.agent.generate(
+            question=task,
+            context=None,
             skillbook=self.skillbook,
         )
 
@@ -342,7 +337,7 @@ Format your response as JSON:
         )
 
         # Apply updates to skillbook
-        self.skillbook.apply_updates(updates)
+        self.skillbook.apply_update(updates)
         print(f"Skillbook updated with {len(updates.operations)} operations")
 
     def save_skillbook(self, filepath: str) -> None:
@@ -353,7 +348,7 @@ Format your response as JSON:
     def print_skillbook_stats(self) -> None:
         """Print current skillbook statistics"""
         print(f"\n📊 Skillbook Stats:")
-        print(f"  Title: {self.skillbook.title}")
-        print(f"  Total skills: {len(self.skillbook.skills)}")
-        for skill in self.skillbook.skills:
+        skills = self.skillbook.skills()  # Call the method to get skills list
+        print(f"  Total skills: {len(skills)}")
+        for skill in skills:
             print(f"    - {skill.content[:60]}... [+{skill.helpful}/-{skill.harmful}]")

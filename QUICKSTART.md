@@ -11,9 +11,6 @@ Generates AI-powered reading digests from Reddit subreddits. Uses the ACE framew
 ```bash
 # Install dependencies (using uv - recommended)
 uv pip install -r requirements.txt
-
-# Or using traditional pip
-pip install -r requirements.txt
 ```
 
 ## Setup
@@ -24,8 +21,6 @@ Create a `.env` file with your API key:
 # Get your key at https://openrouter.ai/keys
 OPENROUTER_API_KEY=sk-or-v1-your-key-here
 ```
-
-**That's it!** No Reddit API credentials needed - uses public JSON API.
 
 ## Basic Usage
 
