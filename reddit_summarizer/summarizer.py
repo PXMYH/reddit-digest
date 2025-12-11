@@ -1,0 +1,226 @@
+"""
+ACE-powered Reddit post summarizer with self-improving capabilities
+"""
+
+import json
+from typing import List, Optional
+from .models import RedditPost, PostSummary, SubredditDigest
+from .fetcher import RedditFetcher
+
+try:
+    from ace import Skillbook, Agent, Reflector, SkillManager
+    from ace.llm_providers.litellm_client import LiteLLMClient
+    from ace.prompts_v2_1 import PromptManager
+except ImportError:
+    raise ImportError(
+        "ACE framework not installed. Install with: pip install ace-framework"
+    )
+
+
+class RedditSummarizer:
+    """
+    Summarizes Reddit posts using ACE framework for self-improving summaries
+    """
+
+    def __init__(
+        self,
+        model: str = "gpt-4o-mini",
+        skillbook_path: Optional[str] = None,
+        fetcher: Optional[RedditFetcher] = None,
+    ):
+        """
+        Initialize the summarizer with ACE components
+
+        Args:
+            model: LLM model to use (default: gpt-4o-mini)
+            skillbook_path: Path to load existing skillbook (optional)
+            fetcher: RedditFetcher instance (optional, will create one if not provided)
+        """
+        self.model = model
+        self.fetcher = fetcher
+
+        # Initialize LLM client
+        self.llm = LiteLLMClient(model=model)
+
+        # Initialize or load skillbook
+        if skillbook_path:
+            self.skillbook = Skillbook.load_from_file(skillbook_path)
+            print(f"Loaded skillbook from {skillbook_path}")
+        else:
+            self.skillbook = Skillbook(
+                title="Reddit Post Summarization",
+                objective="Generate concise, informative summaries of Reddit posts and their discussions",
+            )
+
+        # Initialize ACE components with v2.1 prompts (recommended)
+        prompt_mgr = PromptManager()
+        self.agent = Agent(
+            llm=self.llm,
+            prompt_template=prompt_mgr.get_agent_prompt(),
+        )
+        self.reflector = Reflector(
+            llm=self.llm,
+            prompt_template=prompt_mgr.get_reflector_prompt(),
+        )
+        self.skill_manager = SkillManager(
+            llm=self.llm,
+            prompt_template=prompt_mgr.get_skill_manager_prompt(),
+        )
+
+    def summarize_post(
+        self, post: RedditPost, include_comments: bool = True
+    ) -> PostSummary:
+        """
+        Generate a summary for a single Reddit post
+
+        Args:
+            post: RedditPost to summarize
+            include_comments: Whether to fetch and include top comments (default: True)
+
+        Returns:
+            PostSummary with AI-generated summary and key points
+        """
+        # Fetch top comments if requested
+        comments_text = ""
+        if include_comments and self.fetcher:
+            comments = self.fetcher.fetch_post_comments(post, limit=10)
+            if comments:
+                comments_text = "\n\nTop Comments:\n"
+                for i, comment in enumerate(comments[:5], 1):
+                    comments_text += f"{i}. [{comment['score']} upvotes] {comment['body'][:200]}...\n"
+
+        # Prepare prompt for the agent
+        task = f"""Summarize this Reddit post from r/{post.subreddit}:
+
+Title: {post.title}
+Author: u/{post.author}
+Upvotes: {post.score} | Comments: {post.num_comments}
+
+Content: {post.selftext[:2000] if post.selftext else "[Link post - no text content]"}
+{comments_text}
+
+Please provide:
+1. A concise summary (2-3 sentences)
+2. 3-5 key points from the post and discussion
+3. Brief description of discussion highlights or consensus (if applicable)
+
+Format your response as JSON:
+{{
+    "summary": "...",
+    "key_points": ["point1", "point2", "point3"],
+    "discussion_highlights": "..."
+}}
+"""
+
+        # Use ACE agent to generate summary with skillbook context
+        agent_output = self.agent.generate_answer(
+            task=task,
+            skillbook=self.skillbook,
+        )
+
+        # Parse the response
+        try:
+            result = json.loads(agent_output.final_answer)
+            summary = result.get("summary", "")
+            key_points = result.get("key_points", [])
+            discussion_highlights = result.get("discussion_highlights")
+        except json.JSONDecodeError:
+            # Fallback if JSON parsing fails
+            summary = agent_output.final_answer
+            key_points = []
+            discussion_highlights = None
+
+        return PostSummary(
+            post=post,
+            summary=summary,
+            key_points=key_points,
+            discussion_highlights=discussion_highlights,
+        )
+
+    def generate_digest(
+        self,
+        posts: List[RedditPost],
+        subreddit: str,
+        start_date,
+        end_date,
+        include_comments: bool = True,
+    ) -> SubredditDigest:
+        """
+        Generate a complete digest for multiple posts
+
+        Args:
+            posts: List of RedditPost objects to summarize
+            subreddit: Subreddit name
+            start_date: Start date of the digest period
+            end_date: End date of the digest period
+            include_comments: Whether to include comment analysis
+
+        Returns:
+            SubredditDigest with all post summaries
+        """
+        summaries = []
+        total = len(posts)
+
+        print(f"\nGenerating summaries for {total} posts...")
+
+        for i, post in enumerate(posts, 1):
+            print(f"[{i}/{total}] Summarizing: {post.title[:50]}...")
+            try:
+                summary = self.summarize_post(post, include_comments=include_comments)
+                summaries.append(summary)
+            except Exception as e:
+                print(f"  ⚠️  Error summarizing post: {e}")
+                continue
+
+        digest = SubredditDigest(
+            subreddit=subreddit,
+            start_date=start_date,
+            end_date=end_date,
+            post_summaries=summaries,
+            total_posts_analyzed=total,
+        )
+
+        return digest
+
+    def learn_from_feedback(self, task: str, answer: str, feedback: str):
+        """
+        Manual learning: update skillbook based on feedback
+
+        Args:
+            task: The original task
+            answer: The agent's answer
+            feedback: User feedback on the answer quality
+        """
+        # Use reflector to analyze the performance
+        reflection = self.reflector.reflect(
+            task=task,
+            agent_answer=answer,
+            ground_truth=None,
+            feedback=feedback,
+            skillbook=self.skillbook,
+        )
+
+        # Use skill manager to update the skillbook
+        updates = self.skill_manager.curate_skills(
+            task=task,
+            agent_answer=answer,
+            reflection=reflection,
+            skillbook=self.skillbook,
+        )
+
+        # Apply updates to skillbook
+        self.skillbook.apply_updates(updates)
+        print(f"Skillbook updated with {len(updates.operations)} operations")
+
+    def save_skillbook(self, filepath: str):
+        """Save the skillbook to a file"""
+        self.skillbook.save_to_file(filepath)
+        print(f"Skillbook saved to {filepath}")
+
+    def print_skillbook_stats(self):
+        """Print current skillbook statistics"""
+        print(f"\n📊 Skillbook Stats:")
+        print(f"  Title: {self.skillbook.title}")
+        print(f"  Total skills: {len(self.skillbook.skills)}")
+        for skill in self.skillbook.skills:
+            print(f"    - {skill.content[:60]}... [+{skill.helpful}/-{skill.harmful}]")
