@@ -8,7 +8,7 @@ An AI-powered tool that generates reading digests from Reddit subreddits using t
 - 🤖 **AI Summarization**: Uses GPT-4 or other LLMs to generate concise summaries
 - 📈 **Self-Improving**: Leverages ACE framework to improve summary quality over time
 - 💬 **Discussion Analysis**: Includes analysis of top comments and community consensus
-- 📝 **Markdown Output**: Clean, formatted reading digests
+- 📝 **Multiple Output Formats**: Export as Markdown or JSON (auto-detected by file extension)
 - 🔄 **Flexible Date Ranges**: Fetch posts from any time period
 - 📊 **Progress Indicators**: Real-time progress bars with tqdm for better user experience
 - 💾 **Checkpoint Support**: Resumable processing for long-running tasks
@@ -70,6 +70,24 @@ python summarize_subreddit.py python \
   --checkpoint progress.json \
   --checkpoint-interval 10
 ```
+
+### Export Formats
+
+The tool supports both **Markdown** and **JSON** export formats:
+
+```bash
+# Export as Markdown (default)
+python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --output digest.md
+
+# Export as JSON for programmatic use
+python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --output digest.json
+```
+
+The format is automatically detected based on the file extension.
 
 ### Resumable Processing with Checkpoints
 
