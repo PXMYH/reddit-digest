@@ -59,6 +59,7 @@ class RedditSummarizer:
         max_posts: int = 100,
         timeout: int = 10,
         rate_limit_delay: float = 1.0,
+        llm_client=None,
     ):
         """
         Initialize the summarizer.
@@ -69,12 +70,14 @@ class RedditSummarizer:
             max_posts: Maximum posts to fetch (pagination limit)
             timeout: Request timeout in seconds [api_patterns-00002]
             rate_limit_delay: Delay between requests [api_patterns-00004]
+            llm_client: Optional LLM client for AI-powered summaries
         """
         self.min_upvotes = min_upvotes
         self.min_comments = min_comments
         self.max_posts = max_posts
         self.timeout = timeout
         self.rate_limit_delay = rate_limit_delay
+        self.llm_client = llm_client
 
         # Placeholder for PRAW reddit instance
         self.reddit = None
@@ -208,6 +211,84 @@ class RedditSummarizer:
         summary_lines.append("=" * 80)
         return "\n".join(summary_lines)
 
+    def generate_llm_summary(
+        self,
+        posts: List[RedditPost],
+        subreddit_name: str
+    ) -> str:
+        """
+        Generate AI-powered summary with consensus and discussion themes.
+
+        Args:
+            posts: List of RedditPost objects
+            subreddit_name: Name of the subreddit
+
+        Returns:
+            LLM-generated summary with insights
+        """
+        if not self.llm_client:
+            return self.generate_text_summary(posts)
+
+        if not posts:
+            return "No important posts found in the specified date range."
+
+        # Prepare post summaries for LLM
+        post_summaries = []
+        for i, post in enumerate(posts[:20], 1):  # Limit to top 20 for token efficiency
+            summary = f"{i}. '{post.title}' ({post.score} upvotes, {post.num_comments} comments)\n"
+            if post.selftext:
+                preview = post.selftext[:300].replace('\n', ' ')
+                summary += f"   Content: {preview}...\n"
+            post_summaries.append(summary)
+
+        # Create prompt for LLM
+        prompt = f"""Analyze these important posts from r/{subreddit_name} and provide:
+
+1. **Key Themes**: What are the main topics being discussed?
+2. **Community Consensus**: What views or opinions are gaining traction?
+3. **Notable Debates**: What controversies or disagreements exist?
+4. **Trending Topics**: What's capturing the most attention?
+
+Posts ({len(posts)} total, showing top {len(post_summaries)}):
+
+{"".join(post_summaries)}
+
+Provide a concise, insightful summary in markdown format."""
+
+        try:
+            print("\n🤖 Generating AI-powered summary...")
+            response = self.llm_client.complete(prompt)
+
+            # Format the output
+            summary_lines = [
+                "=" * 80,
+                f"AI-POWERED REDDIT DIGEST: r/{subreddit_name}",
+                "=" * 80,
+                f"\nAnalyzed {len(posts)} important posts",
+                f"Criteria: ≥{self.min_upvotes} upvotes AND ≥{self.min_comments} comments\n",
+                "-" * 80,
+                "\n" + response + "\n",
+                "-" * 80,
+                "\n## Complete Post List:\n",
+            ]
+
+            # Add post list
+            for i, post in enumerate(posts, 1):
+                summary_lines.extend([
+                    f"\n{i}. {post.title}",
+                    f"   👤 u/{post.author} | ⬆️ {post.score} | 💬 {post.num_comments}",
+                    f"   📅 {post.created_datetime.strftime('%Y-%m-%d %H:%M')}",
+                    f"   🔗 {post.permalink}",
+                ])
+
+            summary_lines.append("\n" + "=" * 80)
+            return "\n".join(summary_lines)
+
+        except Exception as e:
+            print(f"⚠️  LLM generation failed: {e}")
+            print("   Falling back to text summary...")
+            return self.generate_text_summary(posts)
+
 
 def parse_date(date_str: str) -> datetime:
     """Parse date string in YYYY-MM-DD format."""
@@ -216,6 +297,137 @@ def parse_date(date_str: str) -> datetime:
     except ValueError as e:
         print(f"Error: Invalid date format '{date_str}'. Use YYYY-MM-DD format.")
         sys.exit(1)
+
+
+def convert_to_html(
+    text_summary: str,
+    subreddit_name: str,
+    start_date: datetime,
+    end_date: datetime
+) -> str:
+    """
+    Convert text summary to HTML format.
+
+    Following [api_patterns-00027]: Provide HTML export format
+
+    Args:
+        text_summary: Plain text summary
+        subreddit_name: Name of the subreddit
+        start_date: Start date of range
+        end_date: End date of range
+
+    Returns:
+        HTML formatted string
+    """
+    # Convert markdown-style formatting to HTML
+    import re
+
+    # Escape HTML characters
+    html_content = text_summary.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+
+    # Convert markdown headers
+    html_content = re.sub(r'^## (.+)$', r'<h2>\1</h2>', html_content, flags=re.MULTILINE)
+    html_content = re.sub(r'^\*\*(.+)\*\*:?', r'<strong>\1</strong>', html_content, flags=re.MULTILINE)
+
+    # Convert links
+    html_content = re.sub(
+        r'https?://[^\s]+',
+        r'<a href="\g<0>" target="_blank">\g<0></a>',
+        html_content
+    )
+
+    # Convert line breaks to <br> tags
+    html_content = html_content.replace('\n', '<br>\n')
+
+    # Create full HTML document
+    html_template = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Digest: r/{subreddit_name}</title>
+    <style>
+        body {{
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+            color: #1a1a1b;
+            line-height: 1.6;
+        }}
+        .header {{
+            background: linear-gradient(135deg, #ff4500, #ff6a33);
+            color: white;
+            padding: 30px;
+            border-radius: 12px;
+            margin-bottom: 30px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }}
+        .header h1 {{
+            margin: 0 0 10px 0;
+            font-size: 2.5em;
+        }}
+        .header .meta {{
+            opacity: 0.9;
+            font-size: 0.95em;
+        }}
+        .content {{
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+        }}
+        h2 {{
+            color: #ff4500;
+            border-bottom: 2px solid #ff4500;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }}
+        strong {{
+            color: #1a1a1b;
+        }}
+        a {{
+            color: #0079d3;
+            text-decoration: none;
+        }}
+        a:hover {{
+            text-decoration: underline;
+        }}
+        .footer {{
+            text-align: center;
+            margin-top: 40px;
+            padding: 20px;
+            color: #7c7c7c;
+            font-size: 0.9em;
+        }}
+        pre {{
+            background: #f6f8fa;
+            padding: 15px;
+            border-radius: 6px;
+            overflow-x: auto;
+        }}
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📊 r/{subreddit_name} Digest</h1>
+        <div class="meta">
+            📅 {start_date.strftime('%B %d, %Y')} - {end_date.strftime('%B %d, %Y')}<br>
+            🤖 Generated by Reddit Summarizer
+        </div>
+    </div>
+    <div class="content">
+{html_content}
+    </div>
+    <div class="footer">
+        Generated with ❤️ by Reddit Summarizer<br>
+        Powered by ACE Framework
+    </div>
+</body>
+</html>"""
+
+    return html_template
 
 
 def main():
@@ -277,6 +489,23 @@ Examples:
         help="Reddit API client secret (or set REDDIT_CLIENT_SECRET env var)",
         type=str
     )
+    parser.add_argument(
+        "--use-llm",
+        help="Use LLM for AI-powered summaries",
+        action="store_true"
+    )
+    parser.add_argument(
+        "--llm-model",
+        help="LLM model to use (default: gpt-4o-mini)",
+        type=str,
+        default="gpt-4o-mini"
+    )
+    parser.add_argument(
+        "--format",
+        help="Output format: text or html (default: text)",
+        choices=["text", "html"],
+        default="text"
+    )
 
     args = parser.parse_args()
 
@@ -301,10 +530,28 @@ Examples:
         print("or provide --client-id and --client-secret arguments")
         sys.exit(1)
 
+    # Initialize LLM client if requested
+    llm_client = None
+    if args.use_llm:
+        try:
+            # Try to import from ACE framework
+            import sys
+            import os
+            sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', '..'))
+            from ace.llm_providers.litellm_client import LiteLLMClient
+
+            llm_client = LiteLLMClient(model=args.llm_model)
+            print(f"✓ Initialized LLM: {args.llm_model}")
+        except ImportError as e:
+            print(f"⚠️  Could not import LLM client: {e}")
+            print("   Install ACE framework or disable --use-llm")
+            sys.exit(1)
+
     # Initialize summarizer
     summarizer = RedditSummarizer(
         min_upvotes=args.min_upvotes,
         min_comments=args.min_comments,
+        llm_client=llm_client,
     )
 
     # Connect to Reddit
@@ -313,7 +560,16 @@ Examples:
 
     # Fetch and summarize posts
     posts = summarizer.fetch_posts(args.subreddit, start_date, end_date)
-    summary = summarizer.generate_text_summary(posts)
+
+    # Generate summary based on format
+    if args.use_llm:
+        summary = summarizer.generate_llm_summary(posts, args.subreddit)
+    else:
+        summary = summarizer.generate_text_summary(posts)
+
+    # Convert to HTML if requested [api_patterns-00027]
+    if args.format == "html":
+        summary = convert_to_html(summary, args.subreddit, start_date, end_date)
 
     # Output results
     if args.output:
