@@ -1,0 +1,142 @@
+"""
+Reddit data fetcher using PRAW (Python Reddit API Wrapper)
+"""
+
+import os
+from datetime import datetime
+from typing import List, Optional
+import praw
+from .models import RedditPost
+
+
+class RedditFetcher:
+    """Fetches posts from Reddit using PRAW"""
+
+    def __init__(
+        self,
+        client_id: Optional[str] = None,
+        client_secret: Optional[str] = None,
+        user_agent: Optional[str] = None,
+    ):
+        """
+        Initialize Reddit API client
+
+        Args:
+            client_id: Reddit API client ID (defaults to REDDIT_CLIENT_ID env var)
+            client_secret: Reddit API client secret (defaults to REDDIT_CLIENT_SECRET env var)
+            user_agent: User agent string (defaults to REDDIT_USER_AGENT env var)
+        """
+        self.client_id = client_id or os.getenv("REDDIT_CLIENT_ID")
+        self.client_secret = client_secret or os.getenv("REDDIT_CLIENT_SECRET")
+        self.user_agent = user_agent or os.getenv(
+            "REDDIT_USER_AGENT", "RedditSummarizer/0.1.0"
+        )
+
+        if not self.client_id or not self.client_secret:
+            raise ValueError(
+                "Reddit API credentials not provided. Set REDDIT_CLIENT_ID and "
+                "REDDIT_CLIENT_SECRET environment variables or pass them to constructor."
+            )
+
+        self.reddit = praw.Reddit(
+            client_id=self.client_id,
+            client_secret=self.client_secret,
+            user_agent=self.user_agent,
+        )
+
+    def fetch_posts(
+        self,
+        subreddit_name: str,
+        start_date: datetime,
+        end_date: datetime,
+        min_upvotes: int = 100,
+        min_comments: int = 30,
+        max_posts: int = 100,
+    ) -> List[RedditPost]:
+        """
+        Fetch posts from a subreddit within a date range that meet thresholds
+
+        Args:
+            subreddit_name: Name of the subreddit (without 'r/')
+            start_date: Start of date range
+            end_date: End of date range
+            min_upvotes: Minimum upvotes threshold (default: 100)
+            min_comments: Minimum comments threshold (default: 30)
+            max_posts: Maximum number of posts to fetch (default: 100)
+
+        Returns:
+            List of RedditPost objects that meet the criteria
+        """
+        subreddit = self.reddit.subreddit(subreddit_name)
+        posts = []
+
+        # Convert to Unix timestamps
+        start_timestamp = start_date.timestamp()
+        end_timestamp = end_date.timestamp()
+
+        # Fetch posts sorted by top in the time range
+        # PRAW doesn't have built-in date filtering, so we'll fetch more and filter
+        for submission in subreddit.top(time_filter="all", limit=max_posts * 3):
+            # Check if within date range
+            if submission.created_utc < start_timestamp:
+                continue
+            if submission.created_utc > end_timestamp:
+                continue
+
+            # Check if meets thresholds
+            if submission.score < min_upvotes:
+                continue
+            if submission.num_comments < min_comments:
+                continue
+
+            post = RedditPost(
+                title=submission.title,
+                author=str(submission.author) if submission.author else "[deleted]",
+                url=submission.url,
+                selftext=submission.selftext,
+                score=submission.score,
+                num_comments=submission.num_comments,
+                created_utc=datetime.fromtimestamp(submission.created_utc),
+                permalink=submission.permalink,
+                post_id=submission.id,
+                subreddit=subreddit_name,
+            )
+
+            posts.append(post)
+
+            # Stop if we've reached the max
+            if len(posts) >= max_posts:
+                break
+
+        # Sort by score (upvotes) descending
+        posts.sort(key=lambda p: p.score, reverse=True)
+
+        return posts
+
+    def fetch_post_comments(self, post: RedditPost, limit: int = 10) -> List[dict]:
+        """
+        Fetch top comments for a post
+
+        Args:
+            post: RedditPost object
+            limit: Maximum number of top-level comments to fetch
+
+        Returns:
+            List of comment dictionaries
+        """
+        submission = self.reddit.submission(id=post.post_id)
+        submission.comment_sort = "top"
+        submission.comment_limit = limit
+
+        comments = []
+        for comment in submission.comments[:limit]:
+            if hasattr(comment, "body"):  # Skip MoreComments objects
+                comments.append(
+                    {
+                        "author": str(comment.author) if comment.author else "[deleted]",
+                        "body": comment.body,
+                        "score": comment.score,
+                    }
+                )
+
+        return comments
