@@ -77,6 +77,36 @@ class PostSummary:
         md += "---\n\n"
         return md
 
+    def to_html(self) -> str:
+        """Convert summary to HTML format"""
+        html = '<div class="post-summary">\n'
+        html += f'  <h3><a href="{self.post.full_url}">{self.post.title}</a></h3>\n'
+        html += '  <div class="post-meta">\n'
+        html += f'    <span class="author">u/{self.post.author}</span> | \n'
+        html += f'    <span class="upvotes">▲ {self.post.score}</span> | \n'
+        html += f'    <span class="comments">💬 {self.post.num_comments}</span> | \n'
+        date = self.post.created_utc.strftime('%Y-%m-%d')
+        html += f'    <span class="date">{date}</span>\n'
+        html += '  </div>\n'
+        html += f'  <p class="summary"><strong>Summary:</strong> {self.summary}</p>\n'
+
+        if self.key_points:
+            html += '  <div class="key-points">\n'
+            html += '    <strong>Key Points:</strong>\n'
+            html += '    <ul>\n'
+            for point in self.key_points:
+                html += f'      <li>{point}</li>\n'
+            html += '    </ul>\n'
+            html += '  </div>\n'
+
+        if self.discussion_highlights:
+            html += '  <p class="discussion"><strong>Discussion Highlights:</strong> '
+            html += f'{self.discussion_highlights}</p>\n'
+
+        html += '</div>\n'
+        html += '<hr>\n'
+        return html
+
 
 @dataclass
 class SubredditDigest:
@@ -128,13 +158,59 @@ class SubredditDigest:
             ]
         }
 
+    def to_html(self) -> str:
+        """Convert digest to styled HTML format"""
+        start = self.start_date.strftime('%Y-%m-%d')
+        end = self.end_date.strftime('%Y-%m-%d')
+
+        html = '<!DOCTYPE html>\n<html lang="en">\n<head>\n'
+        html += '  <meta charset="UTF-8">\n'
+        html += '  <meta name="viewport" content="width=device-width, initial-scale=1.0">\n'
+        html += f'  <title>r/{self.subreddit} Reading Digest</title>\n'
+        html += '  <style>\n'
+        html += '    body { font-family: -apple-system, system-ui, sans-serif; '
+        html += 'max-width: 900px; margin: 0 auto; padding: 20px; '
+        html += 'background: #f5f5f5; }\n'
+        html += '    h1 { color: #ff4500; border-bottom: 3px solid #ff4500; '
+        html += 'padding-bottom: 10px; }\n'
+        html += '    .meta { color: #666; margin-bottom: 30px; }\n'
+        html += '    .post-summary { background: white; padding: 20px; '
+        html += 'margin-bottom: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }\n'
+        html += '    .post-summary h3 { margin-top: 0; color: #1a1a1b; }\n'
+        html += '    .post-summary a { color: #0079d3; text-decoration: none; }\n'
+        html += '    .post-summary a:hover { text-decoration: underline; }\n'
+        html += '    .post-meta { color: #7c7c7c; font-size: 14px; margin-bottom: 15px; }\n'
+        html += '    .summary { line-height: 1.6; }\n'
+        html += '    .key-points ul { line-height: 1.8; }\n'
+        html += '    .discussion { background: #f8f9fa; padding: 10px; '
+        html += 'border-left: 3px solid #0079d3; margin-top: 15px; }\n'
+        html += '    hr { border: none; border-top: 1px solid #edeff1; margin: 20px 0; }\n'
+        html += '  </style>\n'
+        html += '</head>\n<body>\n'
+        html += f'  <h1>r/{self.subreddit} Reading Digest</h1>\n'
+        html += '  <div class="meta">\n'
+        html += f'    <strong>Period:</strong> {start} to {end}<br>\n'
+        html += f'    <strong>Posts Summarized:</strong> {len(self.post_summaries)}<br>\n'
+        html += f'    <strong>Total Posts Analyzed:</strong> {self.total_posts_analyzed}\n'
+        html += '  </div>\n\n'
+
+        for i, summary in enumerate(self.post_summaries, 1):
+            html += f'  <div class="post-number">Post #{i}</div>\n'
+            html += '  ' + summary.to_html().replace('\n', '\n  ')
+
+        html += '</body>\n</html>\n'
+        return html
+
     def save_to_file(self, filepath: str) -> None:
-        """Save digest to a markdown or JSON file based on extension"""
+        """Save digest to markdown, JSON, or HTML file based on extension"""
         import json
 
         if filepath.endswith('.json'):
             with open(filepath, "w", encoding="utf-8") as f:
                 json.dump(self.to_json(), f, indent=2, ensure_ascii=False)
+        elif filepath.endswith('.html'):
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write(self.to_html())
         else:
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(self.to_markdown())
