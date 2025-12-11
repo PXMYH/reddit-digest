@@ -113,8 +113,8 @@ def test_subreddit_digest_model():
     assert "r/test Reading Digest" in markdown
     assert "2024-01-01" in markdown
     assert "2024-01-31" in markdown
-    assert "Posts Summarized: 1" in markdown
-    assert "Total Posts Analyzed: 10" in markdown
+    assert "**Posts Summarized:** 1" in markdown
+    assert "**Total Posts Analyzed:** 10" in markdown
 
     print("  ✅ SubredditDigest model tests passed")
 
