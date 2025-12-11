@@ -246,3 +246,81 @@ class TestSubredditDigest:
         markdown = digest.to_markdown()
         assert "**Posts Summarized:** 0" in markdown
         assert "**Total Posts Analyzed:** 0" in markdown
+
+    def test_to_json(self, sample_summary):
+        """Test JSON conversion"""
+        digest = SubredditDigest(
+            subreddit="test",
+            start_date=datetime(2024, 1, 1),
+            end_date=datetime(2024, 1, 31),
+            post_summaries=[sample_summary],
+            total_posts_analyzed=5,
+        )
+
+        json_data = digest.to_json()
+
+        # Check structure
+        assert json_data["subreddit"] == "test"
+        assert json_data["start_date"] == "2024-01-01"
+        assert json_data["end_date"] == "2024-01-31"
+        assert json_data["total_posts_analyzed"] == 5
+        assert json_data["posts_summarized"] == 1
+
+        # Check summaries
+        assert len(json_data["summaries"]) == 1
+        summary = json_data["summaries"][0]
+        assert summary["title"] == "Sample Post Title"
+        assert summary["upvotes"] == 150
+        assert summary["comments"] == 45
+        assert summary["summary"] == "This is a summary"
+        assert len(summary["key_points"]) == 3
+
+    def test_save_to_json_file(self, sample_summary, tmp_path):
+        """Test saving digest to JSON file"""
+        import json
+
+        digest = SubredditDigest(
+            subreddit="test",
+            start_date=datetime(2024, 1, 1),
+            end_date=datetime(2024, 1, 31),
+            post_summaries=[sample_summary],
+            total_posts_analyzed=5,
+        )
+
+        # Save as JSON
+        output_file = tmp_path / "test_digest.json"
+        digest.save_to_file(str(output_file))
+
+        # Verify file was created
+        assert output_file.exists()
+
+        # Verify content is valid JSON
+        with open(output_file, "r", encoding="utf-8") as f:
+            data = json.load(f)
+
+        assert data["subreddit"] == "test"
+        assert len(data["summaries"]) == 1
+
+    def test_save_auto_detects_format(self, sample_summary, tmp_path):
+        """Test that save_to_file auto-detects format by extension"""
+        digest = SubredditDigest(
+            subreddit="test",
+            start_date=datetime(2024, 1, 1),
+            end_date=datetime(2024, 1, 31),
+            post_summaries=[sample_summary],
+            total_posts_analyzed=5,
+        )
+
+        # Save as markdown
+        md_file = tmp_path / "digest.md"
+        digest.save_to_file(str(md_file))
+        assert md_file.exists()
+        md_content = md_file.read_text(encoding="utf-8")
+        assert md_content.startswith("# r/test Reading Digest")
+
+        # Save as JSON
+        json_file = tmp_path / "digest.json"
+        digest.save_to_file(str(json_file))
+        assert json_file.exists()
+        json_content = json_file.read_text(encoding="utf-8")
+        assert json_content.startswith("{")
