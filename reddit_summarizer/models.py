@@ -91,7 +91,9 @@ class SubredditDigest:
     def to_markdown(self) -> str:
         """Convert digest to markdown format"""
         md = f"# r/{self.subreddit} Reading Digest\n\n"
-        md += f"**Period:** {self.start_date.strftime('%Y-%m-%d')} to {self.end_date.strftime('%Y-%m-%d')}\n"
+        start = self.start_date.strftime('%Y-%m-%d')
+        end = self.end_date.strftime('%Y-%m-%d')
+        md += f"**Period:** {start} to {end}\n"
         md += f"**Posts Summarized:** {len(self.post_summaries)}\n"
         md += f"**Total Posts Analyzed:** {self.total_posts_analyzed}\n\n"
         md += "---\n\n"
