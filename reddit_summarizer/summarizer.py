@@ -62,7 +62,10 @@ class RedditSummarizer:
         else:
             self.skillbook = Skillbook(
                 title="Reddit Post Summarization",
-                objective="Generate concise, informative summaries of Reddit posts and their discussions",
+                objective=(
+                    "Generate concise, informative summaries of "
+                    "Reddit posts and their discussions"
+                ),
             )
 
         # Initialize ACE components with v2.1 prompts (recommended)
