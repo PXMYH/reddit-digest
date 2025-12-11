@@ -3,6 +3,7 @@ ACE-powered Reddit post summarizer with self-improving capabilities
 """
 
 import json
+from datetime import datetime
 from typing import List, Optional
 from .models import RedditPost, PostSummary, SubredditDigest
 from .fetcher import RedditFetcher
@@ -150,8 +151,8 @@ Format your response as JSON:
         self,
         posts: List[RedditPost],
         subreddit: str,
-        start_date,
-        end_date,
+        start_date: datetime,
+        end_date: datetime,
         include_comments: bool = True,
         show_progress: bool = True,
     ) -> SubredditDigest:
@@ -208,7 +209,7 @@ Format your response as JSON:
 
         return digest
 
-    def learn_from_feedback(self, task: str, answer: str, feedback: str):
+    def learn_from_feedback(self, task: str, answer: str, feedback: str) -> None:
         """
         Manual learning: update skillbook based on feedback
 
@@ -238,12 +239,12 @@ Format your response as JSON:
         self.skillbook.apply_updates(updates)
         print(f"Skillbook updated with {len(updates.operations)} operations")
 
-    def save_skillbook(self, filepath: str):
+    def save_skillbook(self, filepath: str) -> None:
         """Save the skillbook to a file"""
         self.skillbook.save_to_file(filepath)
         print(f"Skillbook saved to {filepath}")
 
-    def print_skillbook_stats(self):
+    def print_skillbook_stats(self) -> None:
         """Print current skillbook statistics"""
         print(f"\n📊 Skillbook Stats:")
         print(f"  Title: {self.skillbook.title}")
