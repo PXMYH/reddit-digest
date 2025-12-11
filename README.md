@@ -102,7 +102,7 @@ With OpenRouter, you have access to 100+ models:
 # Claude 3.5 Sonnet (default - high quality)
 uv run python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
-  --model openrouter/anthropic/claude-3.5-sonnet
+  --model openrouter/mistralai/devstral-2512:free
 
 # GPT-4o (OpenAI's latest)
 uv run python summarize_subreddit.py python \
@@ -173,7 +173,7 @@ python summarize_subreddit.py MachineLearning \
 | `--min-upvotes` | Minimum upvotes threshold | 100 |
 | `--min-comments` | Minimum comments threshold | 30 |
 | `--max-posts` | Maximum posts to analyze | 50 |
-| `--model` | LLM model to use | `openrouter/anthropic/claude-3.5-sonnet` |
+| `--model` | LLM model to use | `openrouter/mistralai/devstral-2512:free` |
 | `--output`, `-o` | Output file path | auto-generated |
 | `--skillbook` | Load existing skillbook | None |
 | `--save-skillbook` | Save updated skillbook | None |
@@ -237,7 +237,7 @@ The tool supports **100+ models** via OpenRouter with a single API key:
 ### Via OpenRouter (Recommended)
 
 **Anthropic (Claude):**
-- `openrouter/anthropic/claude-3.5-sonnet` (default, high quality)
+- `openrouter/mistralai/devstral-2512:free` (default, high quality)
 - `openrouter/anthropic/claude-3-opus`
 - `openrouter/anthropic/claude-3-haiku`
 
@@ -435,7 +435,7 @@ If you were using v1.0 with Reddit API credentials, here's how to upgrade:
 - Higher rate limits (public API)
 
 **🔄 Changes:**
-- Default model changed from `gpt-4o-mini` to `openrouter/anthropic/claude-3.5-sonnet`
+- Default model changed from `gpt-4o-mini` to `openrouter/mistralai/devstral-2512:free`
 - Reddit fetcher now uses `requests` instead of PRAW
 - Rate limiting behavior slightly different (more permissive)
 

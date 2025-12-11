@@ -131,7 +131,7 @@ Output:
   -o, --output FILE       Output file (default: auto-generated)
 
 LLM Settings:
-  --model MODEL           LLM model to use (default: openrouter/anthropic/claude-3.5-sonnet)
+  --model MODEL           LLM model to use (default: openrouter/mistralai/devstral-2512:free)
                           Use format: openrouter/provider/model for OpenRouter
                           Or use provider/model for direct API (e.g., gpt-4o-mini)
 

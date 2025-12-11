@@ -54,8 +54,8 @@ load_dotenv()
 )
 @click.option(
     "--model",
-    default="openrouter/anthropic/claude-3.5-sonnet",
-    help="LLM model to use (default: openrouter/anthropic/claude-3.5-sonnet)",
+    default="openrouter/mistralai/devstral-2512:free",
+    help="LLM model to use (default: openrouter/mistralai/devstral-2512:free)",
 )
 @click.option(
     "--output",

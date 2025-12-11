@@ -62,7 +62,7 @@ uv run python summarize_subreddit.py technology \
 ### Different LLM models
 ```bash
 # Claude 3.5 Sonnet (default - high quality)
---model openrouter/anthropic/claude-3.5-sonnet
+--model openrouter/mistralai/devstral-2512:free
 
 # GPT-4o (OpenAI)
 --model openrouter/openai/gpt-4o

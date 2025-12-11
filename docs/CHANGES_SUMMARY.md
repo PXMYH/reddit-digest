@@ -36,7 +36,7 @@ The Reddit Subreddit Summarizer has been upgraded from v1.0 to v2.0 with major i
 - Limited to OpenAI models
 
 **After:**
-- ✅ Default model: `openrouter/anthropic/claude-3.5-sonnet`
+- ✅ Default model: `openrouter/mistralai/devstral-2512:free`
 - ✅ **Uses OpenRouter** for access to 100+ models
 - ✅ One API key for OpenAI, Anthropic, Google, Meta, Cohere, and more
 - ✅ LiteLLM already supported OpenRouter - just changed defaults!
@@ -113,7 +113,7 @@ The Reddit Subreddit Summarizer has been upgraded from v1.0 to v2.0 with major i
 #### summarize_subreddit.py
 ```diff
 - default="gpt-4o-mini",
-+ default="openrouter/anthropic/claude-3.5-sonnet",
++ default="openrouter/mistralai/devstral-2512:free",
 
 - # Check for Reddit API credentials
 - if not os.getenv("REDDIT_CLIENT_ID") or not os.getenv("REDDIT_CLIENT_SECRET"):
@@ -156,7 +156,7 @@ uv run python summarize_subreddit.py python \
 All models accessible with one API key:
 
 **Anthropic (Claude):**
-- `openrouter/anthropic/claude-3.5-sonnet` (default)
+- `openrouter/mistralai/devstral-2512:free` (default)
 - `openrouter/anthropic/claude-3-opus`
 - `openrouter/anthropic/claude-3-haiku`
 

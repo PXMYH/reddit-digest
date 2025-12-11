@@ -32,7 +32,7 @@ OPENROUTER_API_KEY=your_openrouter_key
 ### ⚙️ Changed: Default LLM Model
 
 **Old default:** `gpt-4o-mini` (OpenAI)
-**New default:** `openrouter/anthropic/claude-3.5-sonnet` (OpenRouter)
+**New default:** `openrouter/mistralai/devstral-2512:free` (OpenRouter)
 
 ## Migration Steps
 
@@ -93,7 +93,7 @@ fetcher = RedditFetcher()  # That's it!
 
 # New: OpenRouter by default
 summarizer = RedditSummarizer(
-    model="openrouter/anthropic/claude-3.5-sonnet"
+    model="openrouter/mistralai/devstral-2512:free"
 )
 ```
 
@@ -127,7 +127,7 @@ summarizer = RedditSummarizer(
 **Available models:**
 ```bash
 # Anthropic Claude
-openrouter/anthropic/claude-3.5-sonnet
+openrouter/mistralai/devstral-2512:free
 openrouter/anthropic/claude-3-opus
 
 # OpenAI

@@ -16,7 +16,7 @@ All requested changes have been implemented and tested. The Reddit Summarizer is
 - **Tested** basic imports and initialization
 
 ### 2. OpenRouter Integration ✅
-- **Changed** default model to `openrouter/anthropic/claude-3.5-sonnet`
+- **Changed** default model to `openrouter/mistralai/devstral-2512:free`
 - **Updated** all example code to use OpenRouter
 - **Verified** LiteLLM already supports OpenRouter (no code changes needed)
 - **Added** support for 100+ models with one API key
@@ -131,7 +131,7 @@ All documentation has been updated:
 With OpenRouter, you now have access to:
 
 ### Anthropic (Claude)
-- `openrouter/anthropic/claude-3.5-sonnet` ⭐ (default)
+- `openrouter/mistralai/devstral-2512:free` ⭐ (default)
 - `openrouter/anthropic/claude-3-opus`
 - `openrouter/anthropic/claude-3-haiku`
 
@@ -179,7 +179,7 @@ model="gpt-4o-mini"
 
 **After:** OpenRouter with 100+ models
 ```python
-model="openrouter/anthropic/claude-3.5-sonnet"
+model="openrouter/mistralai/devstral-2512:free"
 # or any model from https://openrouter.ai/models
 ```
 

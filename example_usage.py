@@ -50,7 +50,7 @@ def main():
     # Step 3: Initialize the summarizer
     print("3. Initializing ACE-powered summarizer...")
     summarizer = RedditSummarizer(
-        model="openrouter/anthropic/claude-3.5-sonnet",  # OpenRouter with Claude
+        model="openrouter/mistralai/devstral-2512:free",  # OpenRouter with Devstral
         skillbook_path=None,  # Start with empty skillbook
     )
 
