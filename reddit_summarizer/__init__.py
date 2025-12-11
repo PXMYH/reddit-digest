@@ -21,7 +21,7 @@ except ImportError as e:
     import warnings
 
     warnings.warn(
-        f"RedditFetcher not available: {e}. Install with: pip install praw", ImportWarning
+        f"RedditFetcher not available: {e}. Install with: pip install requests", ImportWarning
     )
     RedditFetcher = None  # type: ignore
 

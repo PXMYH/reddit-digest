@@ -1,7 +1,7 @@
-# Reddit API
-praw>=7.7.1
+# HTTP client (for Reddit public JSON API)
+requests>=2.31.0
 
-# ACE Framework
+# ACE Framework (includes LiteLLM for OpenRouter support)
 ace-framework>=0.5.0
 
 # CLI and utilities

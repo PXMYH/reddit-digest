@@ -2,11 +2,13 @@
 
 ## 🎉 Status: Ready to Use!
 
-The Reddit Subreddit Summarizer is **fully implemented and tested**. All your requirements have been met:
+The Reddit Subreddit Summarizer is **fully implemented and tested**.
 
 ✅ Takes subreddit name and date range as input
 ✅ Filters by importance (>100 upvotes AND >30 comments)
 ✅ Generates AI-powered summaries with discussion/consensus
+✅ **No Reddit API credentials needed** - uses public JSON API
+✅ **OpenRouter integration** - access to 100+ LLM models
 ✅ All changes committed after each edit
 ✅ Planning documents in .agent/ directory
 ✅ 35/35 tests passing
@@ -18,19 +20,20 @@ The Reddit Subreddit Summarizer is **fully implemented and tested**. All your re
 pip install -r requirements.txt
 ```
 
-### 2. Configure API Keys
+### 2. Configure API Key
 
-Create a `.env` file with your credentials:
+Create a `.env` file with your LLM API key:
 
 ```bash
-# Reddit API credentials (get from https://www.reddit.com/prefs/apps)
-REDDIT_CLIENT_ID=your_client_id
-REDDIT_CLIENT_SECRET=your_secret
-REDDIT_USER_AGENT=RedditSummarizer/0.1.0
+# OpenRouter API key (RECOMMENDED - access to 100+ models)
+# Get your key at: https://openrouter.ai/keys
+OPENROUTER_API_KEY=your_openrouter_api_key_here
 
-# OpenAI API key (for LLM summaries)
-OPENAI_API_KEY=your_openai_key
+# Alternative: Use OpenAI directly
+# OPENAI_API_KEY=your_openai_key
 ```
+
+**Note:** Reddit API credentials are **NO LONGER REQUIRED**! The tool now uses Reddit's public JSON API, which requires no authentication.
 
 ### 3. Run Your First Summary
 
@@ -78,11 +81,27 @@ python summarize_subreddit.py python \
 
 If interrupted, just rerun the same command to resume.
 
-### Using Different LLM Models
+### Using Different LLM Models (via OpenRouter)
 ```bash
+# Default: Claude 3.5 Sonnet (via OpenRouter)
+python summarize_subreddit.py python --start 2024-12-01 --end 2024-12-10
+
+# Use GPT-4o via OpenRouter
 python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
-  --model gpt-4o  # or claude-3-5-sonnet-20241022, etc.
+  --model openrouter/openai/gpt-4o
+
+# Use Gemini via OpenRouter
+python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --model openrouter/google/gemini-pro
+
+# Use OpenAI directly (if you set OPENAI_API_KEY)
+python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --model gpt-4o-mini
+
+# See all available models at: https://openrouter.ai/models
 ```
 
 ## Command-Line Options
@@ -102,7 +121,9 @@ Output:
   -o, --output FILE       Output file (default: auto-generated)
 
 LLM Settings:
-  --model MODEL           LLM model to use (default: gpt-4o-mini)
+  --model MODEL           LLM model to use (default: openrouter/anthropic/claude-3.5-sonnet)
+                          Use format: openrouter/provider/model for OpenRouter
+                          Or use provider/model for direct API (e.g., gpt-4o-mini)
 
 Advanced:
   --skillbook FILE        Load existing skillbook
@@ -169,9 +190,10 @@ Each digest includes:
 ## Features
 
 ### Core Features
-- ✅ Reddit API integration with rate limiting
+- ✅ **No authentication required** - uses Reddit's public JSON API
 - ✅ Configurable importance thresholds
-- ✅ AI-powered summarization (GPT-4o-mini default)
+- ✅ AI-powered summarization with **OpenRouter** (Claude 3.5 Sonnet default)
+- ✅ Access to 100+ LLM models via OpenRouter
 - ✅ Comment analysis and consensus detection
 - ✅ Multiple output formats (MD, JSON, HTML)
 
@@ -244,32 +266,49 @@ Key Discussion:
 
 ## Troubleshooting
 
-### Reddit API Errors
+### Reddit Rate Limiting
 ```
 Error: 429 Too Many Requests
 ```
-**Solution**: The tool includes automatic rate limiting and retry logic. Wait a minute and it will resume automatically.
+**Solution**: The tool includes automatic rate limiting and retry logic. Wait a minute and it will resume automatically. Reddit's public API is more permissive than the authenticated API.
 
 ### LLM API Errors
 ```
-Error: OpenAI API key not found
+Error: OpenRouter API key not found
 ```
-**Solution**: Ensure `OPENAI_API_KEY` is set in your `.env` file.
+**Solution**:
+1. Get your API key at https://openrouter.ai/keys
+2. Set `OPENROUTER_API_KEY` in your `.env` file
+3. Alternatively, use `OPENAI_API_KEY` if you prefer OpenAI directly
 
 ### Import Errors
 ```
-ModuleNotFoundError: No module named 'praw'
+ModuleNotFoundError: No module named 'requests'
 ```
 **Solution**: Run `pip install -r requirements.txt`
 
 ## Architecture
 
 The implementation uses:
-- **PRAW**: Reddit API wrapper
+- **Requests**: HTTP client for Reddit's public JSON API (no auth required)
 - **ACE Framework**: Self-improving AI agent system
-- **LiteLLM**: Multi-provider LLM integration
+- **LiteLLM**: Multi-provider LLM integration (OpenRouter, OpenAI, Anthropic, etc.)
 - **Click**: CLI framework
 - **Pydantic**: Data validation
+
+### Why Public JSON API?
+- ✅ No Reddit API credentials needed
+- ✅ No OAuth flow or app registration
+- ✅ Higher rate limits for public access
+- ✅ Simpler setup - just run and go!
+- ✅ Access to all public subreddit content
+
+### Why OpenRouter?
+- ✅ Access to 100+ LLM models with one API key
+- ✅ Automatic fallback to alternate models
+- ✅ Competitive pricing across providers
+- ✅ Usage analytics and monitoring
+- ✅ One API key for OpenAI, Anthropic, Google, Meta, and more
 
 ## Testing
 

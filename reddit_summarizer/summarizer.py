@@ -37,7 +37,7 @@ class RedditSummarizer:
 
     def __init__(
         self,
-        model: str = "gpt-4o-mini",
+        model: str = "openrouter/anthropic/claude-3.5-sonnet",
         skillbook_path: Optional[str] = None,
         fetcher: Optional[RedditFetcher] = None,
     ):
@@ -45,7 +45,7 @@ class RedditSummarizer:
         Initialize the summarizer with ACE components
 
         Args:
-            model: LLM model to use (default: gpt-4o-mini)
+            model: LLM model to use (default: openrouter/anthropic/claude-3.5-sonnet)
             skillbook_path: Path to load existing skillbook (optional)
             fetcher: RedditFetcher instance (optional, will create one if not provided)
         """

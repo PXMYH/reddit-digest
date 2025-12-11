@@ -53,8 +53,8 @@ load_dotenv()
 )
 @click.option(
     "--model",
-    default="gpt-4o-mini",
-    help="LLM model to use (default: gpt-4o-mini)",
+    default="openrouter/anthropic/claude-3.5-sonnet",
+    help="LLM model to use (default: openrouter/anthropic/claude-3.5-sonnet)",
 )
 @click.option(
     "--output",
@@ -129,14 +129,14 @@ def main(
     click.echo(f"Filters: ≥{min_upvotes} upvotes, ≥{min_comments} comments")
     click.echo(f"Model: {model}\n")
 
-    # Check for Reddit API credentials
-    if not os.getenv("REDDIT_CLIENT_ID") or not os.getenv("REDDIT_CLIENT_SECRET"):
-        click.echo("❌ Error: Reddit API credentials not found!", err=True)
-        click.echo("\nPlease set the following environment variables:")
-        click.echo("  - REDDIT_CLIENT_ID")
-        click.echo("  - REDDIT_CLIENT_SECRET")
-        click.echo("\nGet credentials at: https://www.reddit.com/prefs/apps")
-        sys.exit(1)
+    # Check for LLM API key (OpenRouter recommended)
+    if not os.getenv("OPENROUTER_API_KEY") and not os.getenv("OPENAI_API_KEY"):
+        click.echo("⚠️  Warning: No LLM API key found!", err=True)
+        click.echo("\nFor OpenRouter (recommended), set: OPENROUTER_API_KEY")
+        click.echo("Get your key at: https://openrouter.ai/keys")
+        click.echo("\nAlternatively, set OPENAI_API_KEY for OpenAI models.")
+        click.echo("\nNote: Reddit API credentials are NO LONGER REQUIRED!")
+        click.echo("The tool now uses Reddit's public JSON API.\n")
 
     try:
         # Initialize fetcher and summarizer

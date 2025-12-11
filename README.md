@@ -2,20 +2,31 @@
 
 An AI-powered tool that generates reading digests from Reddit subreddits using the **ACE (Agentic Context Engineering)** framework for self-improving summarization.
 
+## 🆕 v2.0 - Major Update!
+
+**What's New:**
+- ✅ **No Reddit API credentials required** - Uses public JSON API
+- ✅ **OpenRouter integration** - Access 100+ LLM models with one API key
+- ✅ **Simpler setup** - Just one API key needed!
+
+**Upgrading from v1.0?** See [Migration Guide](#migration-from-v10) below.
+
 ## Features
 
+- 🚫 **No Authentication Required**: Uses Reddit's public JSON API - no API credentials needed!
+- 🌐 **100+ LLM Models**: Access OpenAI, Anthropic, Google, Meta, and more via OpenRouter
 - 🎯 **Smart Filtering**: Automatically identifies important posts (>100 upvotes, >30 comments)
-- 🤖 **AI Summarization**: Uses GPT-4 or other LLMs to generate concise summaries
+- 🤖 **AI Summarization**: Uses Claude, GPT-4, Gemini, or other LLMs for concise summaries
 - 📈 **Self-Improving**: Leverages ACE framework to improve summary quality over time
 - 💬 **Discussion Analysis**: Includes analysis of top comments and community consensus
 - 📝 **Multiple Output Formats**: Export as Markdown, JSON, or styled HTML
 - 🔄 **Flexible Date Ranges**: Fetch posts from any time period
 - 📊 **Progress Indicators**: Real-time progress bars with tqdm for better user experience
 - 💾 **Checkpoint Support**: Resumable processing for long-running tasks
-- ⏱️ **Smart Rate Limiting**: Respects Reddit API limits (configurable delays)
+- ⏱️ **Smart Rate Limiting**: Respects Reddit's public API limits
 - 🔄 **Automatic Retry**: Exponential backoff for transient API errors
 - 🔒 **Timeout Protection**: Prevents hanging requests with configurable timeouts
-- ✅ **Comprehensive Tests**: 38 passing tests with pytest and mocked API
+- ✅ **Comprehensive Tests**: 35+ passing tests with pytest
 - 🔐 **Type Safety**: Complete type hints for better IDE support and error prevention
 - 🎨 **Code Quality**: Formatted with Black, validated with proper error handling
 
@@ -24,53 +35,92 @@ An AI-powered tool that generates reading digests from Reddit subreddits using t
 ### 1. Install Dependencies
 
 ```bash
+# Using uv (recommended)
+uv pip install -r requirements.txt
+
+# Or using pip
 pip install -r requirements.txt
 ```
 
-### 2. Setup Reddit API Credentials
+### 2. Get OpenRouter API Key
 
-1. Go to https://www.reddit.com/prefs/apps
-2. Click "create another app..."
-3. Select "script" as the app type
-4. Copy your `client_id` and `client_secret`
+1. Visit https://openrouter.ai/keys
+2. Sign up or log in
+3. Create a new API key
+4. Copy the key (starts with `sk-or-...`)
 
-### 3. Configure Environment Variables
+### 3. Configure Environment Variable
 
 Create a `.env` file in the workspace directory:
 
 ```bash
-# Reddit API Credentials (required)
-REDDIT_CLIENT_ID=your_client_id_here
-REDDIT_CLIENT_SECRET=your_client_secret_here
-REDDIT_USER_AGENT=RedditSummarizer/0.1.0
+# OpenRouter API Key (RECOMMENDED - access to 100+ models)
+OPENROUTER_API_KEY=sk-or-v1-your-key-here
 
-# OpenAI API Key (required for summarization)
-OPENAI_API_KEY=your_openai_api_key_here
+# Alternative: Use OpenAI directly (if you prefer)
+# OPENAI_API_KEY=sk-your-openai-key
+
+# NOTE: Reddit API credentials are NO LONGER REQUIRED!
+# The tool now uses Reddit's public JSON API.
 ```
+
+**That's it!** No Reddit API setup needed.
 
 ## Usage
 
 ### Basic Usage
 
 ```bash
+# Using uv (recommended)
+uv run python summarize_subreddit.py MachineLearning --start 2024-01-01 --end 2024-01-31
+
+# Or directly with python
 python summarize_subreddit.py MachineLearning --start 2024-01-01 --end 2024-01-31
 ```
 
 ### Advanced Options
 
 ```bash
-python summarize_subreddit.py python \
+uv run python summarize_subreddit.py python \
   --start 2024-12-01 \
   --end 2024-12-10 \
   --min-upvotes 200 \
   --min-comments 50 \
   --max-posts 25 \
-  --model gpt-4o-mini \
+  --model openrouter/openai/gpt-4o \
   --output my_digest.md \
   --save-skillbook skillbook.json \
   --checkpoint progress.json \
   --checkpoint-interval 10
 ```
+
+### Using Different LLM Models
+
+With OpenRouter, you have access to 100+ models:
+
+```bash
+# Claude 3.5 Sonnet (default - high quality)
+uv run python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --model openrouter/anthropic/claude-3.5-sonnet
+
+# GPT-4o (OpenAI's latest)
+uv run python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --model openrouter/openai/gpt-4o
+
+# Gemini Pro (Google's model)
+uv run python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --model openrouter/google/gemini-pro
+
+# Llama 3.1 70B (Meta's open model)
+uv run python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --model openrouter/meta-llama/llama-3.1-70b-instruct
+```
+
+See all available models at: https://openrouter.ai/models
 
 ### Export Formats
 
@@ -123,7 +173,7 @@ python summarize_subreddit.py MachineLearning \
 | `--min-upvotes` | Minimum upvotes threshold | 100 |
 | `--min-comments` | Minimum comments threshold | 30 |
 | `--max-posts` | Maximum posts to analyze | 50 |
-| `--model` | LLM model to use | gpt-4o-mini |
+| `--model` | LLM model to use | `openrouter/anthropic/claude-3.5-sonnet` |
 | `--output`, `-o` | Output file path | auto-generated |
 | `--skillbook` | Load existing skillbook | None |
 | `--save-skillbook` | Save updated skillbook | None |
@@ -164,7 +214,7 @@ The tool generates a markdown file with:
 
 ### Architecture
 
-1. **Reddit Fetcher** (`fetcher.py`): Uses PRAW to fetch posts matching criteria
+1. **Reddit Fetcher** (`fetcher.py`): Uses Reddit's **public JSON API** (no authentication required)
 2. **Data Models** (`models.py`): Structured data for posts, summaries, and digests
 3. **ACE Summarizer** (`summarizer.py`): AI-powered summarization with learning
 4. **CLI Interface** (`summarize_subreddit.py`): User-friendly command-line tool
@@ -182,11 +232,35 @@ As you use the tool more, it learns what makes a good summary and improves its o
 
 ## Supported LLM Models
 
-The tool supports any model compatible with LiteLLM:
+The tool supports **100+ models** via OpenRouter with a single API key:
 
-- OpenAI: `gpt-4o`, `gpt-4o-mini`, `gpt-4-turbo`
-- Anthropic: `claude-3-5-sonnet`, `claude-3-opus`
-- Google: `gemini-pro`, `gemini-1.5-pro`
+### Via OpenRouter (Recommended)
+
+**Anthropic (Claude):**
+- `openrouter/anthropic/claude-3.5-sonnet` (default, high quality)
+- `openrouter/anthropic/claude-3-opus`
+- `openrouter/anthropic/claude-3-haiku`
+
+**OpenAI:**
+- `openrouter/openai/gpt-4o`
+- `openrouter/openai/gpt-4-turbo`
+- `openrouter/openai/gpt-3.5-turbo`
+
+**Google:**
+- `openrouter/google/gemini-pro`
+- `openrouter/google/gemini-1.5-pro`
+
+**Meta:**
+- `openrouter/meta-llama/llama-3.1-70b-instruct`
+- `openrouter/meta-llama/llama-3.1-405b-instruct`
+
+**And many more at:** https://openrouter.ai/models
+
+### Direct Provider APIs (Alternative)
+
+If you prefer to use provider APIs directly:
+- Set `OPENAI_API_KEY` and use models like `gpt-4o-mini`
+- Set `ANTHROPIC_API_KEY` and use models like `claude-3-5-sonnet`
 - Local models via Ollama: `ollama/llama3`, `ollama/mistral`
 
 ## Tips for Best Results
@@ -201,19 +275,29 @@ The tool supports any model compatible with LiteLLM:
 
 ## Troubleshooting
 
-### "Reddit API credentials not found"
-- Make sure your `.env` file exists and contains valid credentials
-- Check that environment variables are properly set
+### "No LLM API key found"
+**Solution:**
+1. Get your OpenRouter API key at https://openrouter.ai/keys
+2. Add `OPENROUTER_API_KEY=sk-or-v1-...` to your `.env` file
+3. Alternatively, use `OPENAI_API_KEY` if you prefer OpenAI directly
 
 ### "No posts found matching criteria"
+**Solution:**
 - Try lowering `--min-upvotes` and `--min-comments` thresholds
 - Verify the date range contains posts in that subreddit
 - Check that the subreddit name is spelled correctly
 
-### Rate Limiting
-- Reddit API has rate limits (60 requests/minute)
-- Reduce `--max-posts` if you hit limits
-- Add delays between runs
+### Rate Limiting (429 errors)
+**Solution:**
+- Reddit's public API is fairly permissive
+- The tool includes automatic rate limiting and retry logic
+- Wait a minute and it will resume automatically
+- For heavy usage, reduce `--max-posts` or add longer delays
+
+### "Module 'requests' not found"
+**Solution:**
+- Run `uv pip install -r requirements.txt` or `pip install -r requirements.txt`
+- Make sure you're using the updated requirements.txt (v2.0)
 
 ## Project Structure
 
@@ -301,8 +385,62 @@ This tool has been enhanced with learned strategies from the ACE framework's ski
 3. **Checkpoint System**: Save progress every N posts, auto-resume on interruption
 4. **Improved Reliability**: Better error handling and recovery mechanisms
 
+## Migration from v1.0
+
+If you were using v1.0 with Reddit API credentials, here's how to upgrade:
+
+### Quick Migration Steps
+
+1. **Update dependencies:**
+   ```bash
+   uv pip install -r requirements.txt
+   ```
+
+2. **Get OpenRouter API key:**
+   - Visit https://openrouter.ai/keys
+   - Create a new API key
+
+3. **Update `.env` file:**
+   ```bash
+   # Remove these lines (no longer needed):
+   # REDDIT_CLIENT_ID=...
+   # REDDIT_CLIENT_SECRET=...
+   # REDDIT_USER_AGENT=...
+
+   # Add this line:
+   OPENROUTER_API_KEY=sk-or-v1-your-key-here
+   ```
+
+4. **Test it:**
+   ```bash
+   uv run python summarize_subreddit.py python \
+     --start 2024-12-01 --end 2024-12-10 --max-posts 5
+   ```
+
+### What Changed
+
+**✅ Improvements:**
+- No Reddit API credentials needed
+- Access to 100+ LLM models
+- Simpler setup process
+- Higher rate limits (public API)
+
+**🔄 Changes:**
+- Default model changed from `gpt-4o-mini` to `openrouter/anthropic/claude-3.5-sonnet`
+- Reddit fetcher now uses `requests` instead of PRAW
+- Rate limiting behavior slightly different (more permissive)
+
+**✅ Unchanged:**
+- All command-line options work the same
+- Output formats (MD, JSON, HTML) unchanged
+- Checkpointing and resume functionality
+- Skillbook persistence
+
+For detailed migration information, see `MIGRATION_GUIDE.md`.
+
 ## Credits
 
 - **ACE Framework**: Agentic Context Engineering for self-improving AI
-- **PRAW**: Python Reddit API Wrapper
+- **OpenRouter**: Universal LLM API gateway (100+ models)
 - **LiteLLM**: Universal LLM API interface
+- **Reddit Public JSON API**: No authentication required
