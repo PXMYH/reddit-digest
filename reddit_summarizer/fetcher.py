@@ -127,13 +127,19 @@ class RedditFetcher:
         start_timestamp = start_date.timestamp()
         end_timestamp = end_date.timestamp()
 
-        # Reddit's public JSON API endpoint
-        url = f"https://www.reddit.com/r/{subreddit_name}/top.json"
-        params = {"limit": 100, "t": "all"}  # Fetch top posts of all time
+        # Reddit's public JSON API endpoint - use 'new' to get posts in time order
+        # Note: Reddit's API doesn't support date filtering directly, so we fetch
+        # posts sorted by 'new' and filter them by date locally
+        url = f"https://www.reddit.com/r/{subreddit_name}/new.json"
+        params = {"limit": 100}  # Fetch most recent posts
         after = None
 
+        # Track if we've gone too far back in time
+        posts_checked = 0
+        max_posts_to_check = 1000  # Safety limit to avoid infinite loops
+
         # Fetch posts in batches using pagination
-        while len(posts) < max_posts:
+        while len(posts) < max_posts and posts_checked < max_posts_to_check:
             if after:
                 params["after"] = after
 
@@ -153,13 +159,27 @@ class RedditFetcher:
                 if not children:
                     break
 
+                # Track if we've gone past the start date (posts are in reverse chronological order)
+                all_posts_too_old = True
+
                 for child in children:
                     post_data = child["data"]
+                    posts_checked += 1
 
                     # Check if within date range
                     created_utc = post_data.get("created_utc", 0)
-                    if created_utc < start_timestamp or created_utc > end_timestamp:
+
+                    # If post is newer than end_date, skip but keep looking
+                    if created_utc > end_timestamp:
+                        all_posts_too_old = False
                         continue
+
+                    # If post is older than start_date, we can stop pagination
+                    if created_utc < start_timestamp:
+                        continue
+
+                    # Post is in range!
+                    all_posts_too_old = False
 
                     # Check if meets thresholds
                     score = post_data.get("score", 0)
@@ -189,6 +209,10 @@ class RedditFetcher:
                     # Stop if we've reached the max [api_patterns-00003]
                     if len(posts) >= max_posts:
                         break
+
+                # If all posts in this batch were too old, we can stop pagination
+                if all_posts_too_old:
+                    break
 
                 # Get next page token
                 after = data["data"].get("after")
