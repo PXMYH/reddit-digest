@@ -23,21 +23,48 @@ from reddit_summarizer.summarizer import RedditSummarizer
 
 
 @pytest.fixture
-def mock_llm_client():
-    """Fixture for mocked LLM client"""
-    with patch("reddit_summarizer.summarizer.LiteLLMClient") as mock:
-        client = Mock()
-        mock.return_value = client
-        yield client
+def mock_ace_components():
+    """Fixture for mocked ACE components"""
+    with patch("reddit_summarizer.summarizer.LiteLLMClient") as mock_llm, \
+         patch("reddit_summarizer.summarizer.Skillbook") as mock_skillbook_cls, \
+         patch("reddit_summarizer.summarizer.Agent") as mock_agent_cls, \
+         patch("reddit_summarizer.summarizer.Reflector") as mock_reflector_cls, \
+         patch("reddit_summarizer.summarizer.SkillManager") as mock_sm_cls, \
+         patch("reddit_summarizer.summarizer.PromptManager") as mock_pm_cls:
 
+        # Create mock instances
+        llm = Mock()
+        skillbook = Mock()
+        skillbook.title = "Reddit Post Summarization"
+        skillbook.skills = []
+        skillbook.apply_updates = Mock()
+        skillbook.save_to_file = Mock()
 
-@pytest.fixture
-def mock_agent():
-    """Fixture for mocked Agent"""
-    with patch("reddit_summarizer.summarizer.Agent") as mock:
         agent = Mock()
-        mock.return_value = agent
-        yield agent
+        reflector = Mock()
+        skill_manager = Mock()
+        prompt_manager = Mock()
+
+        # Setup return values
+        mock_llm.return_value = llm
+        mock_skillbook_cls.return_value = skillbook
+        mock_agent_cls.return_value = agent
+        mock_reflector_cls.return_value = reflector
+        mock_sm_cls.return_value = skill_manager
+        mock_pm_cls.return_value = prompt_manager
+
+        prompt_manager.get_agent_prompt.return_value = "agent_prompt"
+        prompt_manager.get_reflector_prompt.return_value = "reflector_prompt"
+        prompt_manager.get_skill_manager_prompt.return_value = "sm_prompt"
+
+        yield {
+            'llm': llm,
+            'skillbook': skillbook,
+            'agent': agent,
+            'reflector': reflector,
+            'skill_manager': skill_manager,
+            'prompt_manager': prompt_manager,
+        }
 
 
 @pytest.fixture
@@ -54,7 +81,7 @@ def mock_fetcher():
 class TestRedditSummarizer:
     """Test cases for RedditSummarizer class"""
 
-    def test_initialization_new_skillbook(self, mock_llm_client):
+    def test_initialization_new_skillbook(self, mock_ace_components):
         """Test initializing summarizer with new skillbook"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
 
@@ -68,18 +95,10 @@ class TestRedditSummarizer:
         assert summarizer.skill_manager is not None
 
     def test_initialization_with_existing_skillbook(
-        self, mock_llm_client, tmp_path
+        self, mock_ace_components, tmp_path
     ):
         """Test loading existing skillbook"""
-        # Create a temporary skillbook file
         skillbook_path = tmp_path / "test_skillbook.json"
-        skillbook_data = {
-            "title": "Test Skillbook",
-            "objective": "Test objective",
-            "skills": [],
-        }
-        with open(skillbook_path, "w") as f:
-            json.dump(skillbook_data, f)
 
         with patch(
             "reddit_summarizer.summarizer.Skillbook.load_from_file"
@@ -97,7 +116,7 @@ class TestRedditSummarizer:
             assert summarizer.skillbook == mock_skillbook
 
     def test_summarize_post_without_comments(
-        self, mock_llm_client, sample_post
+        self, mock_ace_components, sample_post
     ):
         """Test summarizing a post without fetching comments"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
@@ -120,7 +139,7 @@ class TestRedditSummarizer:
         assert summary.discussion_highlights == "Active discussion."
 
     def test_summarize_post_with_comments(
-        self, mock_llm_client, sample_post, mock_fetcher
+        self, mock_ace_components, sample_post, mock_fetcher
     ):
         """Test summarizing a post with comments"""
         summarizer = RedditSummarizer(
@@ -147,7 +166,7 @@ class TestRedditSummarizer:
         assert len(summary.key_points) == 2
 
     def test_summarize_post_json_parse_fallback(
-        self, mock_llm_client, sample_post
+        self, mock_ace_components, sample_post
     ):
         """Test fallback when JSON parsing fails"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
@@ -165,7 +184,7 @@ class TestRedditSummarizer:
         assert summary.discussion_highlights is None
 
     def test_generate_digest(
-        self, mock_llm_client, sample_post_list
+        self, mock_ace_components, sample_post_list
     ):
         """Test generating a complete digest"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
@@ -199,7 +218,7 @@ class TestRedditSummarizer:
         assert digest.total_posts_analyzed == 5
 
     def test_generate_digest_with_checkpoint(
-        self, mock_llm_client, sample_post_list, tmp_path
+        self, mock_ace_components, sample_post_list, tmp_path
     ):
         """Test digest generation with checkpoint saving"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
@@ -233,7 +252,7 @@ class TestRedditSummarizer:
         assert not checkpoint_file.exists()
 
     def test_checkpoint_save_and_load(
-        self, mock_llm_client, sample_post_list, tmp_path
+        self, mock_ace_components, sample_post_list, tmp_path
     ):
         """Test checkpoint save and resume functionality"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
@@ -266,7 +285,7 @@ class TestRedditSummarizer:
         assert summaries[0].summary == "Test summary"
         assert summaries[0].post.title == sample_post_list[0].title
 
-    def test_learn_from_feedback(self, mock_llm_client):
+    def test_learn_from_feedback(self, mock_ace_components):
         """Test manual learning from feedback"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
 
@@ -294,7 +313,7 @@ class TestRedditSummarizer:
         summarizer.skill_manager.curate_skills.assert_called_once()
         summarizer.skillbook.apply_updates.assert_called_once_with(mock_updates)
 
-    def test_save_skillbook(self, mock_llm_client, tmp_path):
+    def test_save_skillbook(self, mock_ace_components, tmp_path):
         """Test saving skillbook to file"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
         skillbook_path = tmp_path / "saved_skillbook.json"
@@ -307,7 +326,7 @@ class TestRedditSummarizer:
             str(skillbook_path)
         )
 
-    def test_print_skillbook_stats(self, mock_llm_client, capsys):
+    def test_print_skillbook_stats(self, mock_ace_components, capsys):
         """Test printing skillbook statistics"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
 
@@ -326,7 +345,7 @@ class TestRedditSummarizer:
         assert "Total skills: 1" in captured.out
 
     def test_generate_digest_error_handling(
-        self, mock_llm_client, sample_post_list
+        self, mock_ace_components, sample_post_list
     ):
         """Test digest generation continues on individual post errors"""
         summarizer = RedditSummarizer(model="gpt-4o-mini")
