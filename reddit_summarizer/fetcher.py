@@ -5,7 +5,7 @@ Reddit data fetcher using PRAW (Python Reddit API Wrapper)
 import os
 import time
 from datetime import datetime
-from typing import List, Optional
+from typing import List, Optional, Callable, TypeVar, Any
 import praw
 from praw.exceptions import PRAWException
 from prawcore.exceptions import (
@@ -16,6 +16,8 @@ from prawcore.exceptions import (
     ResponseException,
 )
 from .models import RedditPost
+
+T = TypeVar("T")
 
 
 class RedditFetcher:
@@ -57,6 +59,52 @@ class RedditFetcher:
             user_agent=self.user_agent,
             timeout=self.timeout,  # Following api_patterns-00002
         )
+
+    def _retry_with_backoff(
+        self,
+        func: Callable[..., T],
+        max_retries: int = 3,
+        initial_delay: float = 1.0,
+        backoff_factor: float = 2.0,
+    ) -> T:
+        """
+        Retry a function with exponential backoff for transient errors
+
+        Args:
+            func: Function to retry
+            max_retries: Maximum number of retry attempts (default: 3)
+            initial_delay: Initial delay in seconds (default: 1.0)
+            backoff_factor: Multiplier for delay between retries (default: 2.0)
+
+        Returns:
+            Result from the function
+
+        Raises:
+            The last exception if all retries fail
+        """
+        delay = initial_delay
+        last_exception = None
+
+        for attempt in range(max_retries + 1):
+            try:
+                return func()
+            except (ServerError, ResponseException) as e:
+                last_exception = e
+                if attempt < max_retries:
+                    print(
+                        f"⚠️  Transient error (attempt {attempt + 1}/{max_retries + 1}): {e}"
+                    )
+                    print(f"   Retrying in {delay:.1f}s...")
+                    time.sleep(delay)
+                    delay *= backoff_factor
+                else:
+                    print(f"❌ All retry attempts failed after {max_retries + 1} tries")
+            except (NotFound, Forbidden, ValueError) as e:
+                # Don't retry for permanent errors
+                raise e
+
+        # If we get here, all retries failed
+        raise last_exception
 
     def fetch_posts(
         self,
@@ -170,7 +218,7 @@ class RedditFetcher:
 
     def fetch_post_comments(self, post: RedditPost, limit: int = 10) -> List[dict]:
         """
-        Fetch top comments for a post
+        Fetch top comments for a post with retry logic
 
         Args:
             post: RedditPost object
@@ -185,32 +233,39 @@ class RedditFetcher:
         if limit <= 0:
             raise ValueError("limit must be positive")
 
-        try:
-            submission = self.reddit.submission(id=post.post_id)
-            submission.comment_sort = "top"
-            submission.comment_limit = limit
+        def _fetch_comments_impl() -> List[dict]:
+            """Internal implementation wrapped by retry logic"""
+            try:
+                submission = self.reddit.submission(id=post.post_id)
+                submission.comment_sort = "top"
+                submission.comment_limit = limit
 
-            comments = []
-            for comment in submission.comments[:limit]:
-                if hasattr(comment, "body"):  # Skip MoreComments objects
-                    try:
-                        comments.append(
-                            {
-                                "author": str(comment.author) if comment.author else "[deleted]",
-                                "body": comment.body,
-                                "score": comment.score,
-                            }
-                        )
-                    except Exception as e:
-                        # Skip individual comments that fail to parse
-                        print(f"Warning: Failed to parse comment: {e}")
-                        continue
+                comments = []
+                for comment in submission.comments[:limit]:
+                    if hasattr(comment, "body"):  # Skip MoreComments objects
+                        try:
+                            comments.append(
+                                {
+                                    "author": (
+                                        str(comment.author) if comment.author else "[deleted]"
+                                    ),
+                                    "body": comment.body,
+                                    "score": comment.score,
+                                }
+                            )
+                        except Exception as e:
+                            # Skip individual comments that fail to parse
+                            print(f"Warning: Failed to parse comment: {e}")
+                            continue
 
-            return comments
+                return comments
 
-        except (ServerError, ResponseException) as e:
-            raise RequestException(
-                f"Reddit API error fetching comments: {e}. Please try again later."
-            )
-        except PRAWException as e:
-            raise RequestException(f"Reddit API error fetching comments: {e}")
+            except (ServerError, ResponseException) as e:
+                raise RequestException(
+                    f"Reddit API error fetching comments: {e}. Please try again later."
+                )
+            except PRAWException as e:
+                raise RequestException(f"Reddit API error fetching comments: {e}")
+
+        # Use retry logic for robustness
+        return self._retry_with_backoff(_fetch_comments_impl)
