@@ -43,3 +43,10 @@ uv.lock
 
 # Checkpoints (optional - uncomment to ignore)
 # *.checkpoint.json
+
+# PyInstaller
+*.spec
+build/
+dist/
+*.manifest
+*.exe
