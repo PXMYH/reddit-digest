@@ -11,8 +11,34 @@ target/package-lock.json
 
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 .env
+.venv
+venv/
+ENV/
+env/
+
+# Generated outputs
+*_digest_*.md
+skillbook_*.json
 
 # OS
 .DS_Store
