@@ -1,20 +1,13 @@
-# Source code is cloned from external repo
-source/
-
-# Claude Code working directory
-.agent/
-
-# Build artifacts
-target/node_modules/
-target/package-lock.json
-*.log
-
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
+env/
+.venv/
+venv/
+ENV/
 build/
 develop-eggs/
 dist/
@@ -30,20 +23,23 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-.env
-.venv
-venv/
-ENV/
-env/
 
-# Test coverage
+# UV
+uv.lock
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 .coverage
 .pytest_cache/
-htmlcov/
-
-# Generated outputs
-*_digest_*.md
-skillbook_*.json
-
-# OS
 .DS_Store
+
+# Checkpoints (optional - uncomment to ignore)
+# *.checkpoint.json

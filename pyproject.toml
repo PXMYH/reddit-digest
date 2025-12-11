@@ -1,0 +1,22 @@
+[project]
+name = "reddit-summarizer"
+version = "0.1.0"
+description = "AI-powered Reddit digest generator using ACE framework"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ace-framework>=0.5.0",
+    "click>=8.1.0",
+    "python-dotenv>=1.0.0",
+    "requests>=2.31.0",
+    "tqdm>=4.66.0",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = []
+
+[tool.uv.sources]
