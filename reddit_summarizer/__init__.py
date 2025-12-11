@@ -7,13 +7,30 @@ with self-improving capabilities through the Agentic Context Engineering framewo
 
 __version__ = "0.1.0"
 
-from .models import RedditPost, SubredditDigest
-from .fetcher import RedditFetcher
-from .summarizer import RedditSummarizer
+# Always available - no dependencies
+from .models import RedditPost, PostSummary, SubredditDigest
 
-__all__ = [
-    "RedditPost",
-    "SubredditDigest",
-    "RedditFetcher",
-    "RedditSummarizer",
-]
+# Import optional components with graceful fallback
+__all__ = ["RedditPost", "PostSummary", "SubredditDigest"]
+
+try:
+    from .fetcher import RedditFetcher
+    __all__.append("RedditFetcher")
+except ImportError as e:
+    import warnings
+    warnings.warn(
+        f"RedditFetcher not available: {e}. Install with: pip install praw",
+        ImportWarning
+    )
+    RedditFetcher = None  # type: ignore
+
+try:
+    from .summarizer import RedditSummarizer
+    __all__.append("RedditSummarizer")
+except ImportError as e:
+    import warnings
+    warnings.warn(
+        f"RedditSummarizer not available: {e}. Install with: pip install ace-framework",
+        ImportWarning
+    )
+    RedditSummarizer = None  # type: ignore
