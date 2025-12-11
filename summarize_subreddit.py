@@ -78,6 +78,16 @@ load_dotenv()
     is_flag=True,
     help="Skip fetching and analyzing comments",
 )
+@click.option(
+    "--checkpoint",
+    default=None,
+    help="Path to checkpoint file for resumable processing",
+)
+@click.option(
+    "--checkpoint-interval",
+    default=5,
+    help="Save checkpoint every N posts (default: 5)",
+)
 def main(
     subreddit: str,
     start: str,
@@ -90,6 +100,8 @@ def main(
     skillbook: str,
     save_skillbook: str,
     no_comments: bool,
+    checkpoint: str,
+    checkpoint_interval: int,
 ):
     """
     Generate a reading digest for a subreddit within a date range.
@@ -156,12 +168,18 @@ def main(
 
         # Generate digest
         click.echo("🔮 Generating digest with AI summaries...")
+        if checkpoint:
+            click.echo(f"📂 Checkpoint enabled: {checkpoint}")
+            click.echo(f"   Saving every {checkpoint_interval} posts")
+
         digest = summarizer.generate_digest(
             posts=posts,
             subreddit=subreddit,
             start_date=start_date,
             end_date=end_date,
             include_comments=not no_comments,
+            checkpoint_file=checkpoint,
+            checkpoint_interval=checkpoint_interval,
         )
 
         # Determine output path
