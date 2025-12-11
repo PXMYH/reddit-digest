@@ -8,13 +8,14 @@ An AI-powered tool that generates reading digests from Reddit subreddits using t
 - 🤖 **AI Summarization**: Uses GPT-4 or other LLMs to generate concise summaries
 - 📈 **Self-Improving**: Leverages ACE framework to improve summary quality over time
 - 💬 **Discussion Analysis**: Includes analysis of top comments and community consensus
-- 📝 **Multiple Output Formats**: Export as Markdown or JSON (auto-detected by file extension)
+- 📝 **Multiple Output Formats**: Export as Markdown, JSON, or styled HTML
 - 🔄 **Flexible Date Ranges**: Fetch posts from any time period
 - 📊 **Progress Indicators**: Real-time progress bars with tqdm for better user experience
 - 💾 **Checkpoint Support**: Resumable processing for long-running tasks
 - ⏱️ **Smart Rate Limiting**: Respects Reddit API limits (configurable delays)
+- 🔄 **Automatic Retry**: Exponential backoff for transient API errors
 - 🔒 **Timeout Protection**: Prevents hanging requests with configurable timeouts
-- ✅ **Comprehensive Tests**: Full test coverage with pytest and mocked API
+- ✅ **Comprehensive Tests**: 38 passing tests with pytest and mocked API
 - 🔐 **Type Safety**: Complete type hints for better IDE support and error prevention
 - 🎨 **Code Quality**: Formatted with Black, validated with proper error handling
 
@@ -73,7 +74,7 @@ python summarize_subreddit.py python \
 
 ### Export Formats
 
-The tool supports both **Markdown** and **JSON** export formats:
+The tool supports **Markdown**, **JSON**, and **HTML** export formats:
 
 ```bash
 # Export as Markdown (default)
@@ -85,9 +86,14 @@ python summarize_subreddit.py python \
 python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
   --output digest.json
+
+# Export as styled HTML for rich viewing in browser
+python summarize_subreddit.py python \
+  --start 2024-12-01 --end 2024-12-10 \
+  --output digest.html
 ```
 
-The format is automatically detected based on the file extension.
+The format is automatically detected based on the file extension (.md, .json, or .html).
 
 ### Resumable Processing with Checkpoints
 
