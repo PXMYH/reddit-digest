@@ -333,17 +333,17 @@ class TestSubredditDigest:
         assert '<div class="post-summary">' in html
         assert '<h3><a href="' in html
         assert "Sample Post Title" in html
-        assert "u/testuser" in html
-        assert "▲ 150" in html  # upvotes
-        assert "💬 50" in html  # comments
+        assert "u/test_user" in html
+        assert "▲ 250" in html  # upvotes (from fixture)
+        assert "💬 75" in html  # comments (from fixture)
 
         # Check summary content
         assert "This is a concise summary" in html
 
         # Check key points are in list
         assert "<ul>" in html
-        assert "<li>Key point 1</li>" in html
-        assert "<li>Key point 2</li>" in html
+        assert "<li>Point 1</li>" in html
+        assert "<li>Point 2</li>" in html
 
     def test_digest_to_html(self, sample_summary):
         """Test HTML generation for full digest"""
