@@ -324,3 +324,75 @@ class TestSubredditDigest:
         assert json_file.exists()
         json_content = json_file.read_text(encoding="utf-8")
         assert json_content.startswith("{")
+
+    def test_to_html_basic(self, sample_summary):
+        """Test HTML generation for post summary"""
+        html = sample_summary.to_html()
+
+        # Check HTML structure
+        assert '<div class="post-summary">' in html
+        assert '<h3><a href="' in html
+        assert "Sample Post Title" in html
+        assert "u/testuser" in html
+        assert "▲ 150" in html  # upvotes
+        assert "💬 50" in html  # comments
+
+        # Check summary content
+        assert "This is a concise summary" in html
+
+        # Check key points are in list
+        assert "<ul>" in html
+        assert "<li>Key point 1</li>" in html
+        assert "<li>Key point 2</li>" in html
+
+    def test_digest_to_html(self, sample_summary):
+        """Test HTML generation for full digest"""
+        digest = SubredditDigest(
+            subreddit="test",
+            start_date=datetime(2024, 1, 1),
+            end_date=datetime(2024, 1, 31),
+            post_summaries=[sample_summary],
+            total_posts_analyzed=5,
+        )
+
+        html = digest.to_html()
+
+        # Check HTML document structure
+        assert "<!DOCTYPE html>" in html
+        assert "<html lang=\"en\">" in html
+        assert "<head>" in html
+        assert "<title>r/test Reading Digest</title>" in html
+
+        # Check CSS styling present
+        assert "<style>" in html
+        assert "body {" in html
+        assert "font-family:" in html
+
+        # Check content
+        assert "r/test Reading Digest" in html
+        assert "2024-01-01 to 2024-01-31" in html
+        assert "Posts Summarized: 1" in html
+        assert "Sample Post Title" in html
+
+    def test_save_to_html_file(self, sample_summary, tmp_path):
+        """Test saving digest to HTML file"""
+        digest = SubredditDigest(
+            subreddit="test",
+            start_date=datetime(2024, 1, 1),
+            end_date=datetime(2024, 1, 31),
+            post_summaries=[sample_summary],
+            total_posts_analyzed=5,
+        )
+
+        # Save as HTML
+        html_file = tmp_path / "digest.html"
+        digest.save_to_file(str(html_file))
+
+        # Verify file was created
+        assert html_file.exists()
+
+        # Verify content is valid HTML
+        content = html_file.read_text(encoding="utf-8")
+        assert content.startswith("<!DOCTYPE html>")
+        assert "</html>" in content
+        assert "r/test Reading Digest" in content
