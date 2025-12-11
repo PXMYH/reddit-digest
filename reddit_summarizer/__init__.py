@@ -15,22 +15,25 @@ __all__ = ["RedditPost", "PostSummary", "SubredditDigest"]
 
 try:
     from .fetcher import RedditFetcher
+
     __all__.append("RedditFetcher")
 except ImportError as e:
     import warnings
+
     warnings.warn(
-        f"RedditFetcher not available: {e}. Install with: pip install praw",
-        ImportWarning
+        f"RedditFetcher not available: {e}. Install with: pip install praw", ImportWarning
     )
     RedditFetcher = None  # type: ignore
 
 try:
     from .summarizer import RedditSummarizer
+
     __all__.append("RedditSummarizer")
 except ImportError as e:
     import warnings
+
     warnings.warn(
         f"RedditSummarizer not available: {e}. Install with: pip install ace-framework",
-        ImportWarning
+        ImportWarning,
     )
     RedditSummarizer = None  # type: ignore

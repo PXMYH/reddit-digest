@@ -36,7 +36,9 @@ class RedditPost:
         return {
             "title": self.title,
             "author": self.author,
-            "content": self.selftext[:1000] if self.selftext else "[Link Post]",  # Truncate long posts
+            "content": (
+                self.selftext[:1000] if self.selftext else "[Link Post]"
+            ),  # Truncate long posts
             "upvotes": self.score,
             "comments": self.num_comments,
             "url": self.full_url,
@@ -102,5 +104,5 @@ class SubredditDigest:
 
     def save_to_file(self, filepath: str) -> None:
         """Save digest to a markdown file"""
-        with open(filepath, 'w', encoding='utf-8') as f:
+        with open(filepath, "w", encoding="utf-8") as f:
             f.write(self.to_markdown())

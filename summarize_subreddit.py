@@ -189,6 +189,7 @@ def main(
     except Exception as e:
         click.echo(f"\n❌ Error: {e}", err=True)
         import traceback
+
         traceback.print_exc()
         sys.exit(1)
 

@@ -36,9 +36,7 @@ class RedditFetcher:
         """
         self.client_id = client_id or os.getenv("REDDIT_CLIENT_ID")
         self.client_secret = client_secret or os.getenv("REDDIT_CLIENT_SECRET")
-        self.user_agent = user_agent or os.getenv(
-            "REDDIT_USER_AGENT", "RedditSummarizer/0.1.0"
-        )
+        self.user_agent = user_agent or os.getenv("REDDIT_USER_AGENT", "RedditSummarizer/0.1.0")
 
         if not self.client_id or not self.client_secret:
             raise ValueError(
@@ -152,13 +150,9 @@ class RedditFetcher:
         except NotFound:
             raise NotFound(f"Subreddit r/{subreddit_name} does not exist")
         except Forbidden:
-            raise Forbidden(
-                f"Subreddit r/{subreddit_name} is private, banned, or quarantined"
-            )
+            raise Forbidden(f"Subreddit r/{subreddit_name} is private, banned, or quarantined")
         except (ServerError, ResponseException) as e:
-            raise RequestException(
-                f"Reddit API error: {e}. Please try again later."
-            )
+            raise RequestException(f"Reddit API error: {e}. Please try again later.")
         except PRAWException as e:
             raise RequestException(f"Reddit API error: {e}")
 

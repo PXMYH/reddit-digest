@@ -10,21 +10,22 @@ from .fetcher import RedditFetcher
 
 try:
     from tqdm import tqdm
+
     TQDM_AVAILABLE = True
 except ImportError:
     TQDM_AVAILABLE = False
+
     # Fallback: tqdm acts as a simple iterator
     def tqdm(iterable, **kwargs):
         return iterable
+
 
 try:
     from ace import Skillbook, Agent, Reflector, SkillManager
     from ace.llm_providers.litellm_client import LiteLLMClient
     from ace.prompts_v2_1 import PromptManager
 except ImportError:
-    raise ImportError(
-        "ACE framework not installed. Install with: pip install ace-framework"
-    )
+    raise ImportError("ACE framework not installed. Install with: pip install ace-framework")
 
 
 class RedditSummarizer:
@@ -77,9 +78,7 @@ class RedditSummarizer:
             prompt_template=prompt_mgr.get_skill_manager_prompt(),
         )
 
-    def summarize_post(
-        self, post: RedditPost, include_comments: bool = True
-    ) -> PostSummary:
+    def summarize_post(self, post: RedditPost, include_comments: bool = True) -> PostSummary:
         """
         Generate a summary for a single Reddit post
 
@@ -97,7 +96,9 @@ class RedditSummarizer:
             if comments:
                 comments_text = "\n\nTop Comments:\n"
                 for i, comment in enumerate(comments[:5], 1):
-                    comments_text += f"{i}. [{comment['score']} upvotes] {comment['body'][:200]}...\n"
+                    comments_text += (
+                        f"{i}. [{comment['score']} upvotes] {comment['body'][:200]}...\n"
+                    )
 
         # Prepare prompt for the agent
         task = f"""Summarize this Reddit post from r/{post.subreddit}:
@@ -181,7 +182,7 @@ Format your response as JSON:
             posts,
             desc="Summarizing posts",
             unit="post",
-            disable=not (show_progress and TQDM_AVAILABLE)
+            disable=not (show_progress and TQDM_AVAILABLE),
         )
 
         for post in posts_iter:
