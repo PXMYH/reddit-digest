@@ -9,7 +9,10 @@ Generates AI-powered reading digests from Reddit subreddits. Uses the ACE framew
 ## Installation
 
 ```bash
-# Install dependencies
+# Install dependencies (using uv - recommended)
+uv pip install -r requirements.txt
+
+# Or using traditional pip
 pip install -r requirements.txt
 ```
 
@@ -28,6 +31,12 @@ OPENROUTER_API_KEY=sk-or-v1-your-key-here
 
 ```bash
 # Summarize r/python from the last week (5 posts)
+uv run python summarize_subreddit.py python \
+  --start 2024-12-01 \
+  --end 2024-12-10 \
+  --max-posts 5
+
+# Or without uv
 python summarize_subreddit.py python \
   --start 2024-12-01 \
   --end 2024-12-10 \
@@ -43,14 +52,14 @@ python summarize_subreddit.py python \
 
 ### Weekly digest
 ```bash
-python summarize_subreddit.py MachineLearning \
+uv run python summarize_subreddit.py MachineLearning \
   --start 2024-12-01 --end 2024-12-07 \
   --min-upvotes 200 --min-comments 50
 ```
 
 ### Daily top 10
 ```bash
-python summarize_subreddit.py technology \
+uv run python summarize_subreddit.py technology \
   --start 2024-12-10 --end 2024-12-10 \
   --max-posts 10
 ```
@@ -85,7 +94,7 @@ See all models: https://openrouter.ai/models
 
 ### Checkpoints (resumable processing)
 ```bash
-python summarize_subreddit.py AskReddit \
+uv run python summarize_subreddit.py AskReddit \
   --start 2024-01-01 --end 2024-12-31 \
   --max-posts 100 \
   --checkpoint progress.json \
@@ -97,12 +106,12 @@ If interrupted, re-run the same command to resume!
 ### Skillbook (learning from experience)
 ```bash
 # First run - learns
-python summarize_subreddit.py python \
+uv run python summarize_subreddit.py python \
   --start 2024-01-01 --end 2024-01-31 \
   --save-skillbook python_skills.json
 
 # Next run - reuses learned skills
-python summarize_subreddit.py python \
+uv run python summarize_subreddit.py python \
   --start 2024-02-01 --end 2024-02-28 \
   --skillbook python_skills.json \
   --save-skillbook python_skills.json
@@ -138,7 +147,7 @@ python summarize_subreddit.py python \
 | `--checkpoint` | None | Checkpoint file path |
 | `--checkpoint-interval` | 5 | Save every N posts |
 
-Run `python summarize_subreddit.py --help` for full options.
+Run `uv run python summarize_subreddit.py --help` for full options.
 
 ## Next Steps
 

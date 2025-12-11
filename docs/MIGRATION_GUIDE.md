@@ -39,6 +39,10 @@ OPENROUTER_API_KEY=your_openrouter_key
 ### Step 1: Update Dependencies
 
 ```bash
+# Using uv (recommended)
+uv pip install -r requirements.txt
+
+# Or using traditional pip
 pip install -r requirements.txt
 ```
 
@@ -153,7 +157,7 @@ ANTHROPIC_API_KEY=sk-ant-...
 
 Then use models without the `openrouter/` prefix:
 ```bash
-python summarize_subreddit.py python \
+uv run python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
   --model gpt-4o-mini
 ```
@@ -164,23 +168,23 @@ python summarize_subreddit.py python \
 ```bash
 # With OpenRouter (default)
 export OPENROUTER_API_KEY=sk-or-v1-...
-python summarize_subreddit.py python --start 2024-12-01 --end 2024-12-10
+uv run python summarize_subreddit.py python --start 2024-12-01 --end 2024-12-10
 ```
 
 ### Using Different Models
 ```bash
 # GPT-4o via OpenRouter
-python summarize_subreddit.py python \
+uv run python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
   --model openrouter/openai/gpt-4o
 
 # Claude 3 Opus via OpenRouter
-python summarize_subreddit.py python \
+uv run python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
   --model openrouter/anthropic/claude-3-opus
 
 # Gemini Pro via OpenRouter
-python summarize_subreddit.py python \
+uv run python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
   --model openrouter/google/gemini-pro
 ```
@@ -215,7 +219,7 @@ python summarize_subreddit.py python \
 **Solution:** Remove old environment and reinstall:
 ```bash
 pip uninstall praw prawcore
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ### Model not working
@@ -239,10 +243,10 @@ pip install -r requirements.txt
 - ✅ Same great features
 
 **Quick migration checklist:**
-- [ ] Install updated dependencies (`pip install -r requirements.txt`)
+- [ ] Install updated dependencies (`uv pip install -r requirements.txt`)
 - [ ] Get OpenRouter API key (https://openrouter.ai/keys)
 - [ ] Update `.env` with `OPENROUTER_API_KEY`
 - [ ] Remove old `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET`
-- [ ] Test with: `python summarize_subreddit.py python --start 2024-12-01 --end 2024-12-10 --max-posts 5`
+- [ ] Test with: `uv run python summarize_subreddit.py python --start 2024-12-01 --end 2024-12-10 --max-posts 5`
 
 Enjoy the upgraded Reddit Summarizer! 🚀

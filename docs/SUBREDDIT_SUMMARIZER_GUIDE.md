@@ -17,6 +17,10 @@ The Reddit Subreddit Summarizer is **fully implemented and tested**.
 
 ### 1. Install Dependencies
 ```bash
+# Using uv (recommended)
+uv pip install -r requirements.txt
+
+# Or using traditional pip
 pip install -r requirements.txt
 ```
 
@@ -38,6 +42,10 @@ OPENROUTER_API_KEY=your_openrouter_api_key_here
 ### 3. Run Your First Summary
 
 ```bash
+# Using uv (recommended)
+uv run python summarize_subreddit.py python --start 2024-12-01 --end 2024-12-10
+
+# Or without uv
 python summarize_subreddit.py python --start 2024-12-01 --end 2024-12-10
 ```
 
@@ -48,6 +56,8 @@ This will:
 - Save the digest as a markdown file
 
 ## Usage Examples
+
+**Note:** All examples below use `python` directly. For better dependency management, prepend `uv run` to any command (e.g., `uv run python summarize_subreddit.py ...`).
 
 ### Basic Summary
 ```bash
@@ -285,7 +295,7 @@ Error: OpenRouter API key not found
 ```
 ModuleNotFoundError: No module named 'requests'
 ```
-**Solution**: Run `pip install -r requirements.txt`
+**Solution**: Run `uv pip install -r requirements.txt` (or `pip install -r requirements.txt`)
 
 ## Architecture
 

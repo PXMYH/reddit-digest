@@ -35,10 +35,10 @@ An AI-powered tool that generates reading digests from Reddit subreddits using t
 ### 1. Install Dependencies
 
 ```bash
-# Using uv (recommended)
+# Using uv (recommended - faster and better dependency management)
 uv pip install -r requirements.txt
 
-# Or using pip
+# Or using traditional pip
 pip install -r requirements.txt
 ```
 
@@ -321,19 +321,23 @@ workspace/
 The project includes comprehensive unit and integration tests:
 
 ```bash
-# Run all tests
-pytest
+# Run all tests (using uv - recommended)
+uv run pytest
 
 # Run with verbose output
-pytest -v
+uv run pytest -v
 
 # Run specific test file
-pytest tests/test_models.py
+uv run pytest tests/test_models.py
 
 # Run with coverage report
-pytest --cov=reddit_summarizer
+uv run pytest --cov=reddit_summarizer
 
 # Run basic tests (no pytest required)
+uv run python test_basic.py
+
+# Or without uv
+pytest
 python test_basic.py
 ```
 
@@ -348,13 +352,18 @@ python test_basic.py
 The codebase follows Python best practices:
 
 ```bash
-# Format code with Black
-black reddit_summarizer/ tests/ *.py
+# Format code with Black (using uv - recommended)
+uv run black reddit_summarizer/ tests/ *.py
 
 # Type checking with MyPy
-mypy reddit_summarizer/
+uv run mypy reddit_summarizer/
 
 # Run linter
+uv run pylint reddit_summarizer/
+
+# Or without uv
+black reddit_summarizer/ tests/ *.py
+mypy reddit_summarizer/
 pylint reddit_summarizer/
 ```
 
