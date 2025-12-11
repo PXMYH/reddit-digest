@@ -6,6 +6,14 @@ import os
 from datetime import datetime
 from typing import List, Optional
 import praw
+from praw.exceptions import PRAWException
+from prawcore.exceptions import (
+    NotFound,
+    Forbidden,
+    ServerError,
+    RequestException,
+    ResponseException,
+)
 from .models import RedditPost
 
 
@@ -66,52 +74,93 @@ class RedditFetcher:
 
         Returns:
             List of RedditPost objects that meet the criteria
+
+        Raises:
+            ValueError: If subreddit name is invalid or parameters are invalid
+            NotFound: If subreddit doesn't exist
+            Forbidden: If subreddit is private or banned
+            RequestException: If there are network or API errors
         """
-        subreddit = self.reddit.subreddit(subreddit_name)
-        posts = []
+        # Validate inputs
+        if not subreddit_name or not subreddit_name.strip():
+            raise ValueError("Subreddit name cannot be empty")
 
-        # Convert to Unix timestamps
-        start_timestamp = start_date.timestamp()
-        end_timestamp = end_date.timestamp()
+        if start_date >= end_date:
+            raise ValueError("Start date must be before end date")
 
-        # Fetch posts sorted by top in the time range
-        # PRAW doesn't have built-in date filtering, so we'll fetch more and filter
-        for submission in subreddit.top(time_filter="all", limit=max_posts * 3):
-            # Check if within date range
-            if submission.created_utc < start_timestamp:
-                continue
-            if submission.created_utc > end_timestamp:
-                continue
+        if min_upvotes < 0 or min_comments < 0:
+            raise ValueError("Thresholds cannot be negative")
 
-            # Check if meets thresholds
-            if submission.score < min_upvotes:
-                continue
-            if submission.num_comments < min_comments:
-                continue
+        if max_posts <= 0:
+            raise ValueError("max_posts must be positive")
 
-            post = RedditPost(
-                title=submission.title,
-                author=str(submission.author) if submission.author else "[deleted]",
-                url=submission.url,
-                selftext=submission.selftext,
-                score=submission.score,
-                num_comments=submission.num_comments,
-                created_utc=datetime.fromtimestamp(submission.created_utc),
-                permalink=submission.permalink,
-                post_id=submission.id,
-                subreddit=subreddit_name,
+        try:
+            subreddit = self.reddit.subreddit(subreddit_name)
+
+            # Test if subreddit exists and is accessible
+            _ = subreddit.id  # This will raise NotFound or Forbidden if issues
+
+            posts = []
+
+            # Convert to Unix timestamps
+            start_timestamp = start_date.timestamp()
+            end_timestamp = end_date.timestamp()
+
+            # Fetch posts sorted by top in the time range
+            # PRAW doesn't have built-in date filtering, so we'll fetch more and filter
+            for submission in subreddit.top(time_filter="all", limit=max_posts * 3):
+                # Check if within date range
+                if submission.created_utc < start_timestamp:
+                    continue
+                if submission.created_utc > end_timestamp:
+                    continue
+
+                # Check if meets thresholds
+                if submission.score < min_upvotes:
+                    continue
+                if submission.num_comments < min_comments:
+                    continue
+
+                try:
+                    post = RedditPost(
+                        title=submission.title,
+                        author=str(submission.author) if submission.author else "[deleted]",
+                        url=submission.url,
+                        selftext=submission.selftext,
+                        score=submission.score,
+                        num_comments=submission.num_comments,
+                        created_utc=datetime.fromtimestamp(submission.created_utc),
+                        permalink=submission.permalink,
+                        post_id=submission.id,
+                        subreddit=subreddit_name,
+                    )
+                    posts.append(post)
+                except Exception as e:
+                    # Skip individual posts that fail to parse
+                    print(f"Warning: Failed to parse post {submission.id}: {e}")
+                    continue
+
+                # Stop if we've reached the max
+                if len(posts) >= max_posts:
+                    break
+
+            # Sort by score (upvotes) descending
+            posts.sort(key=lambda p: p.score, reverse=True)
+
+            return posts
+
+        except NotFound:
+            raise NotFound(f"Subreddit r/{subreddit_name} does not exist")
+        except Forbidden:
+            raise Forbidden(
+                f"Subreddit r/{subreddit_name} is private, banned, or quarantined"
             )
-
-            posts.append(post)
-
-            # Stop if we've reached the max
-            if len(posts) >= max_posts:
-                break
-
-        # Sort by score (upvotes) descending
-        posts.sort(key=lambda p: p.score, reverse=True)
-
-        return posts
+        except (ServerError, ResponseException) as e:
+            raise RequestException(
+                f"Reddit API error: {e}. Please try again later."
+            )
+        except PRAWException as e:
+            raise RequestException(f"Reddit API error: {e}")
 
     def fetch_post_comments(self, post: RedditPost, limit: int = 10) -> List[dict]:
         """
@@ -123,20 +172,39 @@ class RedditFetcher:
 
         Returns:
             List of comment dictionaries
+
+        Raises:
+            RequestException: If there are network or API errors
         """
-        submission = self.reddit.submission(id=post.post_id)
-        submission.comment_sort = "top"
-        submission.comment_limit = limit
+        if limit <= 0:
+            raise ValueError("limit must be positive")
 
-        comments = []
-        for comment in submission.comments[:limit]:
-            if hasattr(comment, "body"):  # Skip MoreComments objects
-                comments.append(
-                    {
-                        "author": str(comment.author) if comment.author else "[deleted]",
-                        "body": comment.body,
-                        "score": comment.score,
-                    }
-                )
+        try:
+            submission = self.reddit.submission(id=post.post_id)
+            submission.comment_sort = "top"
+            submission.comment_limit = limit
 
-        return comments
+            comments = []
+            for comment in submission.comments[:limit]:
+                if hasattr(comment, "body"):  # Skip MoreComments objects
+                    try:
+                        comments.append(
+                            {
+                                "author": str(comment.author) if comment.author else "[deleted]",
+                                "body": comment.body,
+                                "score": comment.score,
+                            }
+                        )
+                    except Exception as e:
+                        # Skip individual comments that fail to parse
+                        print(f"Warning: Failed to parse comment: {e}")
+                        continue
+
+            return comments
+
+        except (ServerError, ResponseException) as e:
+            raise RequestException(
+                f"Reddit API error fetching comments: {e}. Please try again later."
+            )
+        except PRAWException as e:
+            raise RequestException(f"Reddit API error fetching comments: {e}")
