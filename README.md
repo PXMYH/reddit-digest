@@ -11,8 +11,11 @@ An AI-powered tool that generates reading digests from Reddit subreddits using t
 - 📝 **Markdown Output**: Clean, formatted reading digests
 - 🔄 **Flexible Date Ranges**: Fetch posts from any time period
 - 📊 **Progress Indicators**: Real-time progress bars with tqdm for better user experience
+- 💾 **Checkpoint Support**: Resumable processing for long-running tasks
+- ⏱️ **Smart Rate Limiting**: Respects Reddit API limits (configurable delays)
+- 🔒 **Timeout Protection**: Prevents hanging requests with configurable timeouts
 - ✅ **Comprehensive Tests**: Full test coverage with pytest and mocked API
-- 🔒 **Type Safety**: Complete type hints for better IDE support and error prevention
+- 🔐 **Type Safety**: Complete type hints for better IDE support and error prevention
 - 🎨 **Code Quality**: Formatted with Black, validated with proper error handling
 
 ## Installation
@@ -63,7 +66,27 @@ python summarize_subreddit.py python \
   --max-posts 25 \
   --model gpt-4o-mini \
   --output my_digest.md \
-  --save-skillbook skillbook.json
+  --save-skillbook skillbook.json \
+  --checkpoint progress.json \
+  --checkpoint-interval 10
+```
+
+### Resumable Processing with Checkpoints
+
+For long-running summarization tasks, use checkpoints to save progress:
+
+```bash
+# Start with checkpoint
+python summarize_subreddit.py MachineLearning \
+  --start 2024-01-01 --end 2024-12-31 \
+  --checkpoint ml_progress.json \
+  --checkpoint-interval 5
+
+# If interrupted, simply re-run the same command
+# It will automatically resume from the last checkpoint!
+python summarize_subreddit.py MachineLearning \
+  --start 2024-01-01 --end 2024-12-31 \
+  --checkpoint ml_progress.json
 ```
 
 ### Command Line Options
@@ -81,6 +104,8 @@ python summarize_subreddit.py python \
 | `--skillbook` | Load existing skillbook | None |
 | `--save-skillbook` | Save updated skillbook | None |
 | `--no-comments` | Skip comment analysis | False |
+| `--checkpoint` | Checkpoint file for resume | None |
+| `--checkpoint-interval` | Save checkpoint every N posts | 5 |
 
 ## Example Output
 
@@ -147,6 +172,8 @@ The tool supports any model compatible with LiteLLM:
 3. **Adjust thresholds** based on subreddit size (smaller subs may need lower thresholds)
 4. **Use GPT-4 models** for higher quality summaries (but slower/more expensive)
 5. **Enable comment analysis** for richer discussion insights
+6. **Use checkpoints** for processing >20 posts to enable resume on interruption
+7. **Adjust rate limits** if you have higher API quotas (modify timeout/delay in code)
 
 ## Troubleshooting
 
@@ -233,6 +260,22 @@ pylint reddit_summarizer/
 ## License
 
 This project uses the ACE framework and is intended for educational and research purposes.
+
+## Recent Improvements
+
+This tool has been enhanced with learned strategies from the ACE framework's skillbook:
+
+### Applied Strategies
+- **[api_patterns-00002]**: Set explicit timeout parameter on HTTP requests (10s default)
+- **[api_patterns-00003]**: Implement pagination limits for data collection (100 items max)
+- **[api_patterns-00004]**: Add rate limiting delays between API calls (1s default for Reddit)
+- **[execution_patterns-00005]**: Create progress checkpoints for multi-step tasks
+
+### Key Enhancements
+1. **Timeout Protection**: All Reddit API calls now have explicit timeouts
+2. **Rate Limiting**: Automatic delays between requests to respect API limits
+3. **Checkpoint System**: Save progress every N posts, auto-resume on interruption
+4. **Improved Reliability**: Better error handling and recovery mechanisms
 
 ## Credits
 
