@@ -11,3 +11,7 @@ tqdm>=4.66.0
 
 # Date handling
 python-dateutil>=2.8.2
+
+# Testing (development)
+pytest>=8.0.0
+pytest-mock>=3.12.0
