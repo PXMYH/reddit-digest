@@ -31,7 +31,7 @@ class RedditPost:
         """Check if post meets importance thresholds"""
         return self.score >= min_upvotes and self.num_comments >= min_comments
 
-    def to_dict(self) -> dict:
+    def to_dict(self) -> dict[str, str | int]:
         """Convert to dictionary for processing"""
         return {
             "title": self.title,
@@ -100,7 +100,7 @@ class SubredditDigest:
 
         return md
 
-    def save_to_file(self, filepath: str):
+    def save_to_file(self, filepath: str) -> None:
         """Save digest to a markdown file"""
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(self.to_markdown())
