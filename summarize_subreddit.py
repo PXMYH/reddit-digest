@@ -12,6 +12,7 @@ Usage:
 import os
 import sys
 from datetime import datetime
+from pathlib import Path
 import click
 from dotenv import load_dotenv
 
@@ -181,12 +182,18 @@ def main(
             checkpoint_interval=checkpoint_interval,
         )
 
+        # Create digest directory if it doesn't exist
+        digest_dir = Path("digest")
+        digest_dir.mkdir(exist_ok=True)
+
         # Determine output path
         if not output:
-            output = f"{subreddit}_digest_{start}_to_{end}.md"
+            output = digest_dir / f"{subreddit}_digest_{start}_to_{end}.md"
+        else:
+            output = digest_dir / Path(output).name
 
         # Save digest
-        digest.save_to_file(output)
+        digest.save_to_file(str(output))
         click.echo(f"\n✅ Digest saved to: {output}")
 
         # Print stats
