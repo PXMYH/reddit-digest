@@ -371,7 +371,7 @@ class TestSubredditDigest:
         # Check content
         assert "r/test Reading Digest" in html
         assert "2024-01-01 to 2024-01-31" in html
-        assert "Posts Summarized: 1" in html
+        assert "Posts Summarized:</strong> 1" in html  # HTML has <strong> tags
         assert "Sample Post Title" in html
 
     def test_save_to_html_file(self, sample_summary, tmp_path):
