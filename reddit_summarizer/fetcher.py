@@ -3,6 +3,7 @@ Reddit data fetcher using PRAW (Python Reddit API Wrapper)
 """
 
 import os
+import time
 from datetime import datetime
 from typing import List, Optional
 import praw
@@ -25,6 +26,8 @@ class RedditFetcher:
         client_id: Optional[str] = None,
         client_secret: Optional[str] = None,
         user_agent: Optional[str] = None,
+        timeout: int = 10,
+        rate_limit_delay: float = 1.0,
     ):
         """
         Initialize Reddit API client
@@ -33,10 +36,14 @@ class RedditFetcher:
             client_id: Reddit API client ID (defaults to REDDIT_CLIENT_ID env var)
             client_secret: Reddit API client secret (defaults to REDDIT_CLIENT_SECRET env var)
             user_agent: User agent string (defaults to REDDIT_USER_AGENT env var)
+            timeout: Request timeout in seconds (default: 10) [api_patterns-00002]
+            rate_limit_delay: Delay between API calls in seconds (default: 1.0) [api_patterns-00004]
         """
         self.client_id = client_id or os.getenv("REDDIT_CLIENT_ID")
         self.client_secret = client_secret or os.getenv("REDDIT_CLIENT_SECRET")
         self.user_agent = user_agent or os.getenv("REDDIT_USER_AGENT", "RedditSummarizer/0.1.0")
+        self.timeout = timeout
+        self.rate_limit_delay = rate_limit_delay
 
         if not self.client_id or not self.client_secret:
             raise ValueError(
@@ -48,6 +55,7 @@ class RedditFetcher:
             client_id=self.client_id,
             client_secret=self.client_secret,
             user_agent=self.user_agent,
+            timeout=self.timeout,  # Following api_patterns-00002
         )
 
     def fetch_posts(
@@ -107,6 +115,10 @@ class RedditFetcher:
             # Fetch posts sorted by top in the time range
             # PRAW doesn't have built-in date filtering, so we'll fetch more and filter
             for submission in subreddit.top(time_filter="all", limit=max_posts * 3):
+                # Rate limiting: delay between fetches [api_patterns-00004]
+                if len(posts) > 0:  # Don't delay on first fetch
+                    time.sleep(self.rate_limit_delay)
+
                 # Check if within date range
                 if submission.created_utc < start_timestamp:
                     continue
@@ -138,7 +150,7 @@ class RedditFetcher:
                     print(f"Warning: Failed to parse post {submission.id}: {e}")
                     continue
 
-                # Stop if we've reached the max
+                # Stop if we've reached the max [api_patterns-00003]
                 if len(posts) >= max_posts:
                     break
 
