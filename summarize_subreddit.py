@@ -12,7 +12,6 @@ Usage:
 import os
 import sys
 from datetime import datetime
-from pathlib import Path
 import click
 from dotenv import load_dotenv
 
