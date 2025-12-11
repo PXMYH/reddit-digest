@@ -7,6 +7,7 @@ ace-framework>=0.5.0
 # CLI and utilities
 python-dotenv>=1.0.0
 click>=8.1.0
+tqdm>=4.66.0
 
 # Date handling
 python-dateutil>=2.8.2

@@ -8,6 +8,15 @@ from .models import RedditPost, PostSummary, SubredditDigest
 from .fetcher import RedditFetcher
 
 try:
+    from tqdm import tqdm
+    TQDM_AVAILABLE = True
+except ImportError:
+    TQDM_AVAILABLE = False
+    # Fallback: tqdm acts as a simple iterator
+    def tqdm(iterable, **kwargs):
+        return iterable
+
+try:
     from ace import Skillbook, Agent, Reflector, SkillManager
     from ace.llm_providers.litellm_client import LiteLLMClient
     from ace.prompts_v2_1 import PromptManager
@@ -144,6 +153,7 @@ Format your response as JSON:
         start_date,
         end_date,
         include_comments: bool = True,
+        show_progress: bool = True,
     ) -> SubredditDigest:
         """
         Generate a complete digest for multiple posts
@@ -154,6 +164,7 @@ Format your response as JSON:
             start_date: Start date of the digest period
             end_date: End date of the digest period
             include_comments: Whether to include comment analysis
+            show_progress: Whether to show progress bar (default: True)
 
         Returns:
             SubredditDigest with all post summaries
@@ -161,15 +172,30 @@ Format your response as JSON:
         summaries = []
         total = len(posts)
 
-        print(f"\nGenerating summaries for {total} posts...")
+        if not show_progress or not TQDM_AVAILABLE:
+            print(f"\nGenerating summaries for {total} posts...")
 
-        for i, post in enumerate(posts, 1):
-            print(f"[{i}/{total}] Summarizing: {post.title[:50]}...")
+        # Create progress bar if tqdm is available
+        posts_iter = tqdm(
+            posts,
+            desc="Summarizing posts",
+            unit="post",
+            disable=not (show_progress and TQDM_AVAILABLE)
+        )
+
+        for post in posts_iter:
             try:
+                # Update description with current post title
+                if show_progress and TQDM_AVAILABLE:
+                    posts_iter.set_postfix_str(f"{post.title[:40]}...")
+
                 summary = self.summarize_post(post, include_comments=include_comments)
                 summaries.append(summary)
             except Exception as e:
-                print(f"  ⚠️  Error summarizing post: {e}")
+                if not show_progress or not TQDM_AVAILABLE:
+                    print(f"  ⚠️  Error summarizing post '{post.title[:50]}': {e}")
+                else:
+                    tqdm.write(f"  ⚠️  Error summarizing post '{post.title[:50]}': {e}")
                 continue
 
         digest = SubredditDigest(
