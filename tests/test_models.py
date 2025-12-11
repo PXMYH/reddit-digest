@@ -270,9 +270,9 @@ class TestSubredditDigest:
         assert len(json_data["summaries"]) == 1
         summary = json_data["summaries"][0]
         assert summary["title"] == "Sample Post Title"
-        assert summary["upvotes"] == 150
-        assert summary["comments"] == 45
-        assert summary["summary"] == "This is a summary"
+        assert summary["upvotes"] == 250
+        assert summary["comments"] == 75
+        assert summary["summary"] == "This is a concise summary of the post."
         assert len(summary["key_points"]) == 3
 
     def test_save_to_json_file(self, sample_summary, tmp_path):
