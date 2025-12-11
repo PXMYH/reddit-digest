@@ -4,12 +4,19 @@ Tests for RedditSummarizer with ACE framework integration
 
 import json
 import os
+import sys
 import tempfile
 from datetime import datetime
 from pathlib import Path
 from unittest.mock import Mock, patch, MagicMock
 
 import pytest
+
+# Mock praw and ACE modules before importing summarizer
+sys.modules['praw'] = Mock()
+sys.modules['praw.exceptions'] = Mock()
+sys.modules['prawcore'] = Mock()
+sys.modules['prawcore.exceptions'] = Mock()
 
 from reddit_summarizer.models import RedditPost, PostSummary, SubredditDigest
 from reddit_summarizer.summarizer import RedditSummarizer
