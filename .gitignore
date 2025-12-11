@@ -36,6 +36,11 @@ venv/
 ENV/
 env/
 
+# Test coverage
+.coverage
+.pytest_cache/
+htmlcov/
+
 # Generated outputs
 *_digest_*.md
 skillbook_*.json
