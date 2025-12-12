@@ -57,7 +57,7 @@ class PostSummary:
 
     def to_markdown(self) -> str:
         """Convert summary to markdown format"""
-        md = f"### [{self.post.title}]({self.post.full_url})\n\n"
+        md = f"[{self.post.title}]({self.post.full_url})\n\n"
         md += f"**Author:** u/{self.post.author} | "
         md += f"**Upvotes:** {self.post.score} | "
         md += f"**Comments:** {self.post.num_comments} | "
