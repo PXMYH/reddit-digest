@@ -1,0 +1,2326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Digest Reader</title>
+    
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: #FFF8F0;
+            color: #1A1A1B;
+            line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        header {
+            background: linear-gradient(135deg, #FF4500 0%, #FF8B60 100%);
+            color: white;
+            padding: 30px 0;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(255, 69, 0, 0.2);
+        }
+        h1 { font-size: 2.5em; text-align: center; margin-bottom: 10px; }
+        .last-updated { text-align: center; opacity: 0.9; font-size: 0.95em; }
+        .tabs {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .tab-button {
+            padding: 12px 24px;
+            border: none;
+            background: #f0f0f0;
+            color: #1A1A1B;
+            cursor: pointer;
+            border-radius: 6px;
+            font-size: 1em;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+        .tab-button:hover { background: #FFE5D9; }
+        .tab-button.active {
+            background: #FF4500;
+            color: white;
+            box-shadow: 0 2px 6px rgba(255, 69, 0, 0.3);
+        }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
+        .digest-header {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border-left: 4px solid #FF4500;
+        }
+        .digest-header h2 { color: #FF4500; margin-bottom: 15px; }
+        .digest-meta { color: #666; font-size: 0.95em; }
+        .post {
+            background: white;
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: box-shadow 0.3s ease;
+        }
+        .post:hover { box-shadow: 0 4px 12px rgba(255, 69, 0, 0.15); }
+        .post-title {
+            font-size: 1.3em;
+            margin-bottom: 10px;
+        }
+        .post-title a {
+            color: #0079D3;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .post-title a:hover { text-decoration: underline; }
+        .post-meta {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #eee;
+        }
+        .post-summary { margin-bottom: 15px; }
+        .key-points {
+            background: #FFF8F0;
+            padding: 15px;
+            border-radius: 6px;
+            margin-bottom: 15px;
+        }
+        .key-points h4 { color: #FF4500; margin-bottom: 10px; font-size: 1em; }
+        .key-points ul { margin-left: 20px; }
+        .key-points li { margin-bottom: 5px; }
+        .discussion {
+            background: #F8F9FA;
+            padding: 15px;
+            border-radius: 6px;
+            border-left: 3px solid #0079D3;
+        }
+        .discussion h4 { color: #0079D3; margin-bottom: 8px; font-size: 1em; }
+        @media (max-width: 768px) {
+            h1 { font-size: 1.8em; }
+            .tab-button { padding: 10px 16px; font-size: 0.9em; }
+            .post { padding: 15px; }
+        }
+    </style>
+    
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🔥 Reddit Digest Reader</h1>
+            <div class="last-updated">Last Updated: 2025-12-12 10:28 UTC</div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="tabs">
+            <button class="tab-button active" onclick="openTab('Bogleheads')">Bogleheads</button>
+            <button class="tab-button" onclick="openTab('Fire')">Fire</button>
+            <button class="tab-button" onclick="openTab('LocalLLaMA')">LocalLLaMA</button>
+            <button class="tab-button" onclick="openTab('financialindependence')">financialindependence</button>
+            <button class="tab-button" onclick="openTab('formula1')">formula1</button>
+        </div>
+
+        <div id="Bogleheads" class="tab-content active">
+            <div class="digest-header">
+                <h2>r/Bogleheads Reading Digest</h2>
+                <div class="digest-meta">
+                    <strong>Period:</strong> 2025-12-09 to 2025-12-12 |
+                    <strong>Posts:</strong> 4
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    1. <a href="https://reddit.com/r/Bogleheads/comments/1pj56li/something_to_think_about_when_compounding_takes/" target="_blank">Something to think about: When Compounding Takes Over: The Exact Moment Your Contributions Don’t Matter Anymore</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/dudreddit |
+                    <strong>Upvotes:</strong> 479 |
+                    <strong>Comments:</strong> 130 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The post discusses how contributions to wealth become less impactful over time due to compounding, particularly after reaching around $500K or year 15 of investing. The discussion highlights the trade-offs between continuing contributions and retiring earlier.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Contributions are most impactful early in the investment journey.</li>
+                        <li>After reaching ~$500K or year 15, compounding takes over, and contributions matter less.</li>
+                        <li>Spending contributions increases the wealth needed to support retirement spending.</li>
+                        <li>There is a trade-off between working longer for higher spending vs. retiring earlier.</li>
+                        <li>Some users suggest starting a new account to regain the motivation of seeing contributions grow.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion consensus emphasizes the importance of early contributions and the psychological impact of seeing contributions grow. Many users agree that after a certain point, compounding becomes the primary driver of wealth, and the focus shifts to balancing work, spending, and retirement timing.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    2. <a href="https://reddit.com/r/Bogleheads/comments/1pio24y/will_it_ever_matter_or_make_a_difference_if_you/" target="_blank">Will it ever matter or make a difference if you choose the total stock market index vs s&amp;amp;p500?</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/sethh27 |
+                    <strong>Upvotes:</strong> 431 |
+                    <strong>Comments:</strong> 130 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">The post discusses the differences and potential benefits of choosing a total stock market index fund versus an S&amp;P 500 index fund, questioning whether the added diversification of the total market index has historically provided any significant value.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The total stock market index offers added diversification compared to the S&amp;P 500.</li>
+                        <li>Historical data shows limited differences in performance between the two indexes.</li>
+                        <li>Some investors prefer the total market index for its broader representation of the US market.</li>
+                        <li>The S&amp;P 500 is not considered inferior but may be less diversified than the total market index.</li>
+                        <li>Tax-loss harvesting strategies can benefit from switching between these two indexes.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights that while the total stock market index offers more diversification, the practical differences in performance may be minimal. Investors often choose based on personal preference and specific investment strategies, such as tax-loss harvesting.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    3. <a href="https://reddit.com/r/Bogleheads/comments/1picyy1/2m_at_40_simple_8020_etf_portfolio_at_what_point/" target="_blank">$2M at 40, Simple 80/20 ETF Portfolio. At What Point Does DIY Tax Strategy Break Down?</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/CommercialApple2074 |
+                    <strong>Upvotes:</strong> 184 |
+                    <strong>Comments:</strong> 89 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">A 40-year-old financially independent individual with a $2M portfolio seeks advice on whether to manage tax strategies independently or hire a professional as their financial situation grows more complex. The discussion explores the feasibility of DIY tax planning versus professional assistance.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The author has a simple 80/20 ETF portfolio and is financially independent but struggles with tax optimization.</li>
+                        <li>Key concerns include tax loss harvesting, capital gains management, and Roth conversion strategies.</li>
+                        <li>The author questions the value of hiring an advisor for tax planning versus managing it themselves.</li>
+                        <li>Comments suggest that DIY is feasible but may require specialized software or occasional professional consultation.</li>
+                        <li>Health insurance and taxable income management for ACA subsidies are highlighted as important considerations.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The consensus leans towards DIY being feasible for tax planning, especially with the right tools and occasional professional help. Many commenters share their experiences of managing their own taxes and investments successfully, even at higher net worth levels. However, specific situations like health insurance planning and complex tax scenarios may warrant professional advice.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    4. <a href="https://reddit.com/r/Bogleheads/comments/1pjzbe4/bought_my_very_first_shares_of_vti_and_vxus_today/" target="_blank">Bought my very first shares of VTI and VXUS today :)</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/nerolyk42 |
+                    <strong>Upvotes:</strong> 172 |
+                    <strong>Comments:</strong> 29 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The user shares their excitement about making their first investment in VTI and VXUS, following an 80/20 domestic/international strategy, and the satisfaction of starting their retirement savings.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>User built an emergency fund before starting to invest.</li>
+                        <li>First investment of $400 in VTI and $100 in VXUS.</li>
+                        <li>Following an 80/20 domestic/international strategy.</li>
+                        <li>Positive feedback on the strategy and emergency fund.</li>
+                        <li>Suggestion to consider VT for simplicity.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community praised the user&#x27;s strategy and the importance of building an emergency fund first. There was a suggestion to consider VT for a more simplified approach.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div id="Fire" class="tab-content">
+            <div class="digest-header">
+                <h2>r/Fire Reading Digest</h2>
+                <div class="digest-meta">
+                    <strong>Period:</strong> 2025-12-09 to 2025-12-12 |
+                    <strong>Posts:</strong> 12
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    1. <a href="https://reddit.com/r/Fire/comments/1pipnkr/got_offered_a_6_month_contract_in_antarctica_and/" target="_blank">Got offered a 6 month contract in Antarctica and idk if I should take it</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Importantterry |
+                    <strong>Upvotes:</strong> 7267 |
+                    <strong>Comments:</strong> 4035 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">The author is considering a 6-month research contract in Antarctica with high pay and no expenses, but is concerned about the personal impact of isolation and time away from their girlfriend. The Reddit community overwhelmingly encourages taking the opportunity for financial and career benefits.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The offer includes a $145k salary for 6 months with all expenses covered.</li>
+                        <li>The author is concerned about the impact on their relationship and personal life.</li>
+                        <li>The opportunity could significantly accelerate their FIRE timeline.</li>
+                        <li>The Reddit community strongly supports taking the opportunity.</li>
+                        <li>McMurdo Station is described as less isolating due to its size and community.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The top comments emphasize the financial and career benefits of the opportunity, with many users encouraging the author to take the job. They highlight the uniqueness of the experience and the potential to double the author&#x27;s net worth in a short period. Some comments also suggest preparing for the isolation by setting up regular communication with loved ones.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    2. <a href="https://reddit.com/r/Fire/comments/1piacd2/35m_german_750k_nw_left_the_rat_race_for_a/" target="_blank">35M German. €750k NW. Left the rat race for a village in Spain. AMA.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Key_South1164 |
+                    <strong>Upvotes:</strong> 1284 |
+                    <strong>Comments:</strong> 359 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">A 35-year-old German software engineer with a €750k net worth moved to a small town in Spain to retire early, leveraging extreme savings and market gains. He now enjoys a low-cost lifestyle with golf, beach access, and a supportive local community.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Achieved financial independence through extreme savings and market gains</li>
+                        <li>Lived with parents to save 90% of income, investing in the S&amp;P 500</li>
+                        <li>Bought a €30k apartment in Spain with very low living costs</li>
+                        <li>Enjoys golf, beach access, and a supportive local community</li>
+                        <li>Encourages others to consider similar moves to hidden gems in Spain</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community praised the OP&#x27;s frugality and strategic planning. Key discussions included the benefits of living with parents, the appeal of Spain as a retirement destination, and the affordability of real estate in less touristy areas.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    3. <a href="https://reddit.com/r/Fire/comments/1pkh5zw/everything_has_changed_fiance_diagnosed_with/" target="_blank">Everything has changed -- Fiance Diagnosed with Stage 4 Cancer</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/No |
+                    <strong>Upvotes:</strong> 777 |
+                    <strong>Comments:</strong> 100 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">A 34-year-old man with a net worth of $2 million shares his emotional turmoil after his fiance was diagnosed with stage 4 cancer, despite previously beating stage 2 cancer. The prognosis is grim, with survival rates decreasing significantly over time. The post seeks advice and shared experiences from others who have faced similar situations.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The author&#x27;s fiance has been diagnosed with stage 4 cancer, with a prognosis of 70% survival for one year, 40% for three years, and 20% for five years.</li>
+                        <li>The author is emotionally shattered but determined to fight and support his fiance.</li>
+                        <li>The community advises focusing on emotional support, being present, and not worrying about financial matters.</li>
+                        <li>Suggestions include being the emotional rock for the fiance and seeking the best medical care available.</li>
+                        <li>The discussion highlights the importance of living in the moment and cherishing the time together.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community consensus emphasizes the importance of emotional support, being present, and not focusing on material concerns. Many commenters share their personal experiences and advise the author to be strong for his fiance and to seek the best possible medical care.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    4. <a href="https://reddit.com/r/Fire/comments/1piemtn/there_are_27_pay_periods_in_2026_not_26/" target="_blank">There are 27 Pay periods in 2026, not 26</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/poayjay07 |
+                    <strong>Upvotes:</strong> 570 |
+                    <strong>Comments:</strong> 69 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">The post discusses the unusual occurrence of 27 bi-weekly pay periods in 2026 instead of the typical 26, which happens approximately once every 10 years. The author advises adjusting financial plans accordingly, while commenters debate the accuracy and share their experiences.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>2026 will have 27 bi-weekly pay periods for some schedules, not the usual 26.</li>
+                        <li>This occurrence happens roughly once every 10 years.</li>
+                        <li>Adjustments may be needed for financial planning, especially for those maxing out contributions.</li>
+                        <li>The number of pay periods depends on the specific day of the week payments are made.</li>
+                        <li>Some companies adjust bi-weekly pay amounts in years with 27 pay periods.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion includes debates about the accuracy of the claim, with some commenters confirming 26 pay periods for their schedules. Others share experiences of companies adjusting pay amounts and express excitement about the potential for an extra paycheck. The consensus is that the number of pay periods depends on the specific payday schedule.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    5. <a href="https://reddit.com/r/Fire/comments/1pj2o67/why_i_want_to_fire/" target="_blank">Why I want to FIRE</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Leaglebeagle44 |
+                    <strong>Upvotes:</strong> 506 |
+                    <strong>Comments:</strong> 221 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">A 40-year-old lawyer with a newborn daughter expresses dissatisfaction with work-life balance and aims to achieve financial independence (FIRE) within two years, despite earning a high income. The post highlights the challenges of balancing a demanding career with family life and the desire for more personal time.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Author is a senior attorney earning $800K annually, with a goal to reach $3M for FIRE.</li>
+                        <li>Dissatisfaction stems from long work hours, lack of support during paternity leave, and missing time with family.</li>
+                        <li>Discussion suggests alternative career paths like in-house counsel or government jobs for better work-life balance.</li>
+                        <li>Financial considerations include the 3% withdrawal rule and potential for spouse to stop working.</li>
+                        <li>Consensus emphasizes the importance of balancing financial goals with personal happiness and family time.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a consensus around exploring alternative career options for better work-life balance, such as in-house counsel or government jobs. There is also an emphasis on careful financial planning, including adhering to the 3% withdrawal rule and considering the impact of a spouse&#x27;s career on overall family dynamics.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    6. <a href="https://reddit.com/r/Fire/comments/1pk1s1p/anyone_elses_expenses_just_explode_in_the_past_6/" target="_blank">Anyone else’s expenses just explode in the past 6 months?</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/calmete |
+                    <strong>Upvotes:</strong> 449 |
+                    <strong>Comments:</strong> 280 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses a sudden increase in monthly expenses over the past 6 months, including healthcare, home maintenance, property taxes, and insurance. Users share similar experiences and coping strategies.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Unexpected rise in expenses due to healthcare, home maintenance, property taxes, and insurance.</li>
+                        <li>Food expenses are outpacing home expenses for some users.</li>
+                        <li>Users are adopting cost-saving measures like bulk buying and reducing discretionary spending.</li>
+                        <li>Inflation is perceived to be higher than official statistics suggest.</li>
+                        <li>Some users planned for property tax and insurance increases in their budgets.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a consensus on the unpredictability of expense increases and the need for adaptive budgeting. Users share practical tips for managing rising costs, such as bulk buying and cutting back on certain goods.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    7. <a href="https://reddit.com/r/Fire/comments/1pkd9qb/senate_rejects_aca_credit_extension/" target="_blank">Senate rejects ACA credit extension</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/throwitfarandwide_1 |
+                    <strong>Upvotes:</strong> 377 |
+                    <strong>Comments:</strong> 210 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Senate rejected legislation to extend Affordable Care Act tax credits, leading to a steep rise in healthcare costs for millions of Americans starting January 1. Both Democratic and Republican bills failed, marking an unceremonious end to months of negotiations, including a government shutdown.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Senate rejected ACA tax credit extension, causing healthcare costs to rise</li>
+                        <li>Both Democratic and Republican bills failed in partisan votes</li>
+                        <li>Months of negotiations, including a government shutdown, ended without compromise</li>
+                        <li>Top comments reflect frustration and sarcasm about the political outcome</li>
+                        <li>Subreddit rules emphasize avoiding partisanship and maintaining civility</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights frustration and sarcasm among users regarding the political outcome. Comments reflect disappointment with the lack of compromise and the consequences of the failed negotiations. The subreddit moderator reminds users to adhere to rules against partisanship and incivility.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    8. <a href="https://reddit.com/r/Fire/comments/1pip849/just_got_a_promotion_fire_is_more_important_to_me/" target="_blank">Just got a promotion. FIRE is more important to me than ever</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/ToastBalancer |
+                    <strong>Upvotes:</strong> 324 |
+                    <strong>Comments:</strong> 156 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">A 28-year-old electrical engineer expresses frustration over a minimal pay increase following a promotion, highlighting the importance of financial independence and early retirement (FIRE). The post sparks a discussion on salary growth, inflation, and job-hopping strategies.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Promotion resulted in a minimal pay increase, barely keeping up with inflation.</li>
+                        <li>Job-hopping is suggested as a strategy for meaningful salary increases.</li>
+                        <li>Inflation rate is debated, with some correcting the author&#x27;s claim of 8% inflation.</li>
+                        <li>Salary increases in engineering roles are often modest, averaging around 10% or less.</li>
+                        <li>The author aims to retire early, emphasizing the importance of financial independence.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a consensus on the limitations of salary growth within a single company, with many suggesting job-hopping as a strategy for better wage growth. There is also a debate on inflation rates and the feasibility of early retirement.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    9. <a href="https://reddit.com/r/Fire/comments/1pjt4mu/panicking_boss_told_me_to_start_looking_for/" target="_blank">Panicking. Boss told me to start looking for another job.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Professional_Emu_773 |
+                    <strong>Upvotes:</strong> 314 |
+                    <strong>Comments:</strong> 145 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The author, earning $150k with a net worth of $800k, faces potential job loss and seeks advice on early retirement. They are reluctant to return to corporate work and seek alternative strategies to achieve financial independence.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Author&#x27;s net worth is $800k, with a FIRE number of $2M.</li>
+                        <li>Author is unwilling to return to corporate work and seeks alternative employment options.</li>
+                        <li>Top advice includes cutting expenses, finding a new job, and exploring flexible work arrangements like part-time or freelance roles.</li>
+                        <li>Consensus suggests preparing financially and considering interim roles or self-employment.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion emphasizes financial preparation, such as reducing expenses and securing unemployment benefits. There is a strong consensus on exploring flexible work options like part-time roles, freelancing, or self-employment to bridge the gap to full financial independence.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    10. <a href="https://reddit.com/r/Fire/comments/1pkg3b1/is_anyone_actually_using_the_4_rule_in_retirement/" target="_blank">Is anyone actually using the 4% rule in retirement?</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/ericdavis1240214 |
+                    <strong>Upvotes:</strong> 211 |
+                    <strong>Comments:</strong> 148 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses the practical use of the 4% rule in retirement, revealing that few retirees actually follow it strictly. Instead, most use it as a guideline or theoretical upper limit, often withdrawing less than 4% annually. Key points include: The 4% rule is more commonly used as a guideline rather than a strict withdrawal strategy. Most retirees withdraw less than 4% annually, often due to conservative planning. Variable withdrawal methods are preferred by some, adjusting based on portfolio performance and needs. Many retirees work longer than necessary due to overly conservative financial planning. The consensus among commenters is that the 4% rule is rarely followed strictly. Instead, retirees tend to withdraw what they need, often staying well below the 4% threshold. The rule is seen as a useful benchmark for planning but not a rigid withdrawal strategy.
+
+---</div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    11. <a href="https://reddit.com/r/Fire/comments/1pkemjo/upset_by_the_golden_handcuffs_of_health_insurance/" target="_blank">Upset by the golden handcuffs of health insurance</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/cozycorner |
+                    <strong>Upvotes:</strong> 185 |
+                    <strong>Comments:</strong> 105 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The author expresses frustration with the high cost of health insurance in the U.S., which is preventing them from retiring early despite being close to their FIRE number. They discuss potential solutions like moving abroad or finding part-time work with benefits, while also criticizing the systemic issues tying healthcare to employment. Key points include the barrier of health insurance costs to early retirement, considerations of moving abroad or part-time work, and the systemic issues of tying healthcare to employment. The discussion highlights the frustration and financial strain caused by the current healthcare system, with suggestions for part-time work with benefits and political action to advocate for healthcare reform.
+
+---</div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    12. <a href="https://reddit.com/r/Fire/comments/1pjr2bd/found_out_my_late_mother_had_a_big_secret_drip/" target="_blank">Found out my late mother had a big secret DRIP account in one stock. Need Advice!</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Odd_Size5486 |
+                    <strong>Upvotes:</strong> 167 |
+                    <strong>Comments:</strong> 68 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The author discovered a previously unknown DRIP account in UPS stock left by their late mother, valued at approximately $200K, including 1290 shares and $65K in cash. They seek advice on whether to reinstate the shares or liquidate them, and how to best utilize the funds given their financial situation and goals.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The DRIP account was unknown to the family and was discovered through unclaimed property processes.</li>
+                        <li>The account includes 1290 shares of UPS and $65K in cash from dividends.</li>
+                        <li>The author is in their mid-30s, finishing a master&#x27;s degree, and has a $100K job lined up.</li>
+                        <li>They have $47K in student loans and plan to use the dividend money to pay off debt.</li>
+                        <li>The author is considering whether to keep the UPS stock or diversify into broader index funds.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a consensus towards diversifying out of UPS into broader index funds or a selection of funds. Some commenters suggest paying off part or none of the student loans, depending on the interest rates, to better utilize the capital. There is also advice to seek professional financial advice due to the complexity of the situation, including potential tax implications and basis considerations.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div id="LocalLLaMA" class="tab-content">
+            <div class="digest-header">
+                <h2>r/LocalLLaMA Reading Digest</h2>
+                <div class="digest-meta">
+                    <strong>Period:</strong> 2025-12-09 to 2025-12-12 |
+                    <strong>Posts:</strong> 16
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    1. <a href="https://reddit.com/r/LocalLLaMA/comments/1pj51tu/you_can_now_train_llms_3x_faster_with_30_less/" target="_blank">You can now train LLMs 3x faster with 30% less memory! (&amp;lt;3.9GB VRAM)</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/danielhanchen |
+                    <strong>Upvotes:</strong> 992 |
+                    <strong>Comments:</strong> 113 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The post announces new Triton kernels and smart auto packing support in Unsloth, enabling 3x faster LLM training with 30-90% less VRAM without accuracy loss. It highlights optimizations like 2.3x faster QK Rotary Embedding and 2.5x to 5x faster uncontaminated packing, making it feasible to train models like Qwen3-4B on as little as 3.9GB VRAM.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>3x faster training with 30-90% less VRAM and no accuracy degradation</li>
+                        <li>New Triton kernels and smart auto packing support for optimizations</li>
+                        <li>Feasibility of training models like Qwen3-4B on low VRAM (e.g., 3.9GB)</li>
+                        <li>Improved SFT loss stability and predictable GPU utilization</li>
+                        <li>Optimizations include 2.3x faster QK Rotary Embedding and 2.5x to 5x faster uncontaminated packing</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community is highly positive, with comments highlighting the significant speed improvements over previous versions, the benefits for low VRAM users, and inquiries about multi-GPU support and feasibility of training larger models on consumer-grade GPUs.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    2. <a href="https://reddit.com/r/LocalLLaMA/comments/1pj8kb6/mistral_ai_drops_3x_as_many_llms_in_a_single_week/" target="_blank">Mistral AI drops 3x as many LLMs in a single week as OpenAI did in 6 years</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Snail_Inference |
+                    <strong>Upvotes:</strong> 814 |
+                    <strong>Comments:</strong> 105 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">Mistral AI released multiple LLMs in a single week, including coding, reasoning, and instruct models with varying parameter sizes, all under Apache 2.0 license. The community responded positively, appreciating the open-weight models and comparing them favorably to OpenAI&#x27;s offerings.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Mistral AI released a large number of LLMs in a short time frame</li>
+                        <li>Models include coding, reasoning, and instruct variants with sizes ranging from 3B to 675B parameters</li>
+                        <li>All models are licensed under Apache 2.0</li>
+                        <li>Community appreciates open-weight models and notes improvements over previous versions</li>
+                        <li>Comparisons to OpenAI highlight Mistral&#x27;s rapid release pace and model quality</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community discussion highlights appreciation for Mistral&#x27;s open-weight models and rapid release pace. Notable comments include comparisons to OpenAI, with users praising Mistral&#x27;s improvements and openness. Some users also humorously contrasted Mistral&#x27;s approach with OpenAI&#x27;s engagement strategies.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    3. <a href="https://reddit.com/r/LocalLLaMA/comments/1pi9q3t/introducing_devstral_2_and_mistral_vibe_cli/" target="_blank">Introducing: Devstral 2 and Mistral Vibe CLI. | Mistral AI</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/YanderMan |
+                    <strong>Upvotes:</strong> 684 |
+                    <strong>Comments:</strong> 218 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">The post introduces Devstral 2, a 123B-parameter dense transformer with a 256K context window, and Mistral Vibe CLI. The community discusses the potential impact and feasibility of these models.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Devstral 2 is a 123B-parameter dense transformer with a 256K context window.</li>
+                        <li>The community is excited about the potential of the 24B model.</li>
+                        <li>There is skepticism about the feasibility of dense models over 100B.</li>
+                        <li>The post gained significant attention with 684 upvotes and 218 comments.</li>
+                        <li>The author received special recognition for their contribution.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights excitement about the new models, particularly the 24B model, and skepticism about the feasibility of large dense models. The community is eager to test the models locally.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    4. <a href="https://reddit.com/r/LocalLLaMA/comments/1pk0ubn/new_in_llamacpp_live_model_switching/" target="_blank">New in llama.cpp: Live Model Switching</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/paf1138 |
+                    <strong>Upvotes:</strong> 432 |
+                    <strong>Comments:</strong> 84 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post highlights a new feature in llama.cpp called Live Model Switching, which allows users to switch models without restarting the server, improving workflow flexibility and testing efficiency.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Live Model Switching is a new feature in llama.cpp</li>
+                        <li>Allows model switching without server restart</li>
+                        <li>Improves workflow flexibility and testing efficiency</li>
+                        <li>Community appreciates the progress in closing UX gaps</li>
+                        <li>Feature is significant for smoother testing processes</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community response is largely positive, with users highlighting the importance of this feature for workflow flexibility and testing efficiency. There is a consensus that this is a significant step forward in improving the user experience.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    5. <a href="https://reddit.com/r/LocalLLaMA/comments/1pj4j87/new_cli_experience_has_been_merged_into_llamacpp/" target="_blank">new CLI experience has been merged into llama.cpp</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/jacek2023 |
+                    <strong>Upvotes:</strong> 413 |
+                    <strong>Comments:</strong> 122 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">A new CLI experience has been merged into llama.cpp, as announced in a GitHub pull request. The community is discussing its potential impact on ollama.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>New CLI experience merged into llama.cpp</li>
+                        <li>GitHub pull request #17824 referenced</li>
+                        <li>Community discussing potential impact on ollama</li>
+                        <li>Post received 413 upvotes and 122 comments</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The top comment suggests that this update might lead to the decline of ollama, indicating a competitive shift in the CLI tools landscape.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    6. <a href="https://reddit.com/r/LocalLLaMA/comments/1pjw7rj/mistrals_vibe_cli_now_supports_a_200k_token/" target="_blank">Mistral’s Vibe CLI now supports a 200K token context window (previously 100K)</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Dear |
+                    <strong>Upvotes:</strong> 411 |
+                    <strong>Comments:</strong> 36 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Mistral’s Vibe CLI has doubled its context window from 100K to 200K tokens, a change achieved with a simple configuration update. The community discusses the practical implications and limitations of larger context windows.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Context window increased from 100K to 200K tokens</li>
+                        <li>Change implemented via a single line config update</li>
+                        <li>Community notes that larger context windows may not always be useful</li>
+                        <li>Models often struggle with context beyond 100K tokens</li>
+                        <li>Update appreciated for potential use in summarizing long sessions</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community highlights the simplicity of the update and debates the practical utility of larger context windows, with some noting that models may struggle beyond 100K tokens.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    7. <a href="https://reddit.com/r/LocalLLaMA/comments/1pjbhyz/i_bought_a_gracehopper_server_for_75k_on_reddit/" target="_blank">I bought a Grace-Hopper server for €7.5k on Reddit and converted it into a desktop.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Reddactor |
+                    <strong>Upvotes:</strong> 409 |
+                    <strong>Comments:</strong> 103 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The author purchased a Grace-Hopper server for €7.5k, converted it into a desktop capable of running large AI models, and shared their journey of overcoming technical challenges.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Author bought a Grace-Hopper server for €7.5k and converted it into a desktop.</li>
+                        <li>The system can run 235B parameter models at home.</li>
+                        <li>Community reactions include admiration for the deal and technical advice like using vllm.</li>
+                        <li>The post highlights creative problem-solving and the challenges of repurposing datacenter hardware.</li>
+                        <li>Discussion includes speculation about future bargains in AI hardware.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community praised the author&#x27;s achievement, offered technical advice, and discussed the potential for future hardware bargains as datacenter equipment becomes more accessible.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    8. <a href="https://reddit.com/r/LocalLLaMA/comments/1pj5rg5/zaiorgglmtts_hugging_face/" target="_blank">zai-org/GLM-TTS · Hugging Face</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Dark_Fire_12 |
+                    <strong>Upvotes:</strong> 315 |
+                    <strong>Comments:</strong> 63 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The Reddit post highlights GLM-TTS, a model with advanced features like zero-shot voice cloning, emotion control, and high-quality speech synthesis. It supports bilingual text and real-time audio generation, garnering significant community interest. Key points include zero-shot voice cloning, RL-enhanced emotion control, high-quality synthesis, bilingual support, and strong community enthusiasm. The discussion highlights praise for the model&#x27;s rapid development and excitement about future potential.
+
+---</div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    9. <a href="https://reddit.com/r/LocalLLaMA/comments/1pjgce6/collection_of_every_gpu_from_amd_and_nvidia/" target="_blank">Collection of every GPU from AMD and Nvidia</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/No_Palpitation7740 |
+                    <strong>Upvotes:</strong> 304 |
+                    <strong>Comments:</strong> 32 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The Reddit post discusses a collection of GPUs from AMD and Nvidia, highlighting a video showcasing various models. The comments note that the collection is extensive but not exhaustive, with users sharing their personal experiences and opinions on different GPUs.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The collection is a solid sampling but not exhaustive.</li>
+                        <li>Users share personal experiences with various GPUs.</li>
+                        <li>The ATi Radeon 9700 pro is mentioned as a notable omission.</li>
+                        <li>Discussion includes historical GPUs like the 3DFX voodoo and ATI banshee.</li>
+                        <li>The focus appears to be on general consumer gaming cards.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights that while the collection is impressive, it is not complete. Users share their personal histories with GPUs, noting both positive and negative experiences. There is a consensus that the collection is extensive but lacks some notable models.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    10. <a href="https://reddit.com/r/LocalLLaMA/comments/1pjvtgn/leaked_footage_from_metas_posttraining_strategy/" target="_blank">Leaked footage from Meta&#x27;s post-training strategy meeting.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/YouCanMake1t |
+                    <strong>Upvotes:</strong> 285 |
+                    <strong>Comments:</strong> 70 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses Meta&#x27;s post-training strategy meeting, with comments highlighting concerns about data usage, leadership, and comparisons to other AI models.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Meta downloaded over 2000 videos but did not use them for training.</li>
+                        <li>Questions about the expertise of Meta&#x27;s AI leadership.</li>
+                        <li>Comparisons to other AI models like GLM and Deepseek.</li>
+                        <li>Copyright litigation concerns related to training data.</li>
+                        <li>Meta&#x27;s recent SOTA models like Dino v3 and SAM 3.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights concerns about Meta&#x27;s data usage, leadership expertise, and comparisons to other AI models, with some acknowledging Meta&#x27;s recent advancements in non-LLM models.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    11. <a href="https://reddit.com/r/LocalLLaMA/comments/1pj7wjd/we_did_years_of_research_so_you_dont_have_to/" target="_blank">We did years of research so you don’t have to guess your GGUF datatypes</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/enrique |
+                    <strong>Upvotes:</strong> 266 |
+                    <strong>Comments:</strong> 81 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The post introduces ShapeLearn, a method for optimizing datatypes in GGUF models, and announces the release of quantized models like Qwen3 4B and Llama 3.1 8B, focusing on low-bit quantization and providing benchmarks.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>ShapeLearn uses gradient descent to optimize per-tensor bitlengths for GGUF models.</li>
+                        <li>Models are released with variants from ~5 bits down to ~2.7 bits per weight.</li>
+                        <li>Benchmarks are provided for multiple hardware targets, including RTX 5090, Intel i7, and Raspberry Pi.</li>
+                        <li>The method is general and can be applied to any model, task, or quantization method.</li>
+                        <li>Feedback and collaboration are encouraged, especially for testing on different hardware and workloads.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion includes positive feedback on the work, interest in applying the method to larger models like Qwen3 235B, and a humorous comment about bit requirements. There is also an offer for collaboration from a fellow Canadian.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    12. <a href="https://reddit.com/r/LocalLLaMA/comments/1pkidf6/what_is_the_smartest_uncensored_nsfw_llm_you_can/" target="_blank">What is the smartest uncensored nsfw LLM you can run with 12GB VRAM and 32GB RAM?</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Dex921 |
+                    <strong>Upvotes:</strong> 249 |
+                    <strong>Comments:</strong> 93 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The post asks for recommendations on the smartest uncensored NSFW LLM that can run with 12GB VRAM and 32GB RAM, including both local and closed-source options. The discussion highlights a few models like TheDrummer_Cydonia-24B and GPT-oss-20b heretic models.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The post seeks recommendations for uncensored NSFW LLMs.</li>
+                        <li>The author is open to both local and closed-source models.</li>
+                        <li>TheDrummer_Cydonia-24B and GPT-oss-20b heretic models are mentioned as potential options.</li>
+                        <li>The discussion includes some humor and off-topic comments.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion includes a mix of serious recommendations and humorous comments. The top comment highlights the lack of focus on the OP&#x27;s specific request, while other comments provide specific model recommendations like TheDrummer_Cydonia-24B and GPT-oss-20b heretic models.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    13. <a href="https://reddit.com/r/LocalLLaMA/comments/1piabn8/devstralsmall224binstruct2512_on_hugging_face/" target="_blank">Devstral-Small-2-24B-Instruct-2512 on Hugging Face</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/paf1138 |
+                    <strong>Upvotes:</strong> 240 |
+                    <strong>Comments:</strong> 28 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">The post announces the release of Devstral-Small-2-24B-Instruct-2512 on Hugging Face, with positive reception from the community. Users appreciate the model and mention related variants and resources.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Announcement of Devstral-Small-2-24B-Instruct-2512 model</li>
+                        <li>Positive community feedback</li>
+                        <li>Mention of 123B variant and related resources</li>
+                        <li>Links to Hugging Face collections and GGUF files</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community shows enthusiasm for the new model, with some users expressing interest in related variants and sharing additional resources.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    14. <a href="https://reddit.com/r/LocalLLaMA/comments/1pihu16/bartowskimistralai/" target="_blank">bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/mantafloppy |
+                    <strong>Upvotes:</strong> 215 |
+                    <strong>Comments:</strong> 41 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">The Reddit post discusses the &#x27;bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF&#x27; model, highlighting contributions from community members and addressing technical issues and performance comparisons.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Acknowledgment of contributors (ngxson and compilade) for their help in the model conversion.</li>
+                        <li>Technical issues and solutions discussed, including a PR merge for functionality.</li>
+                        <li>Performance comparisons with other models like GPT-OSS 20B and Qwen3-30B.</li>
+                        <li>Mixed reviews on the model&#x27;s coding ability and usability.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a mix of technical troubleshooting and performance evaluations, with some users expressing disappointment in the model&#x27;s coding capabilities compared to alternatives.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    15. <a href="https://reddit.com/r/LocalLLaMA/comments/1pj6t0u/i_want_to_help_people_understand_what_the_topk/" target="_blank">I  want to help people understand what the Top-K, Top-P, Temperature, Min-P, and Repeat Penalty are.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Mental |
+                    <strong>Upvotes:</strong> 210 |
+                    <strong>Comments:</strong> 80 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The post uses a decision-making council metaphor to explain LLM sampling parameters like Top-K, Top-P, Temperature, Min-P, and Repeat Penalty. It describes how these parameters influence the selection of tokens (warriors) based on their probabilities (strengths). Key points include: Top-K limits the number of highest-ranked tokens considered, Top-P trims tokens based on cumulative probability, and the post clarifies that Top-P and Top-K can work together or separately. The discussion includes corrections to the Min-P explanation, appreciation for the analogy, and suggestions for sharing the content with other relevant communities.
+
+---</div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    16. <a href="https://reddit.com/r/LocalLLaMA/comments/1pi8z74/which_small_model_is_best_for_finetuning_we/" target="_blank">Which small model is best for fine-tuning? We tested 12 of them by spending $10K - here&#x27;s what we found</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/party |
+                    <strong>Upvotes:</strong> 207 |
+                    <strong>Comments:</strong> 59 |
+                    <strong>Date:</strong> 2025-12-09
+                </div>
+                <div class="post-summary">The post discusses fine-tuning 12 small models, finding that Llama-3.2-1B showed the biggest improvement in tunability, while Qwen3-4B delivered the best final performance, matching a 120B teacher on 7/8 tasks and outperforming by 19 points on SQuAD 2.0.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>12 models were fine-tuned using identical settings and tested on 8 benchmarks.</li>
+                        <li>Llama-3.2-1B ranked #1 for tunability, showing the biggest gains from fine-tuning.</li>
+                        <li>Qwen3-4B-Instruct-2507 matched or exceeded the 120B teacher on 7 out of 8 benchmarks.</li>
+                        <li>The 4B student outperformed the teacher by 19 points on the SQuAD 2.0 dataset.</li>
+                        <li>Smaller models showed significant improvements, making them competitive with larger models on specific tasks.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion includes comments about the cost of the experiment, potential applicability to VL models, and requests for the release of the fine-tuned models on Hugging Face.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div id="financialindependence" class="tab-content">
+            <div class="digest-header">
+                <h2>r/financialindependence Reading Digest</h2>
+                <div class="digest-meta">
+                    <strong>Period:</strong> 2025-12-09 to 2025-12-12 |
+                    <strong>Posts:</strong> 1
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    1. <a href="https://reddit.com/r/financialindependence/comments/1pjan62/my_retired_dad_hid_650k_of_debt_from_his_family/" target="_blank">My retired dad hid $650k of debt from his family. Now he’s in a mental crisis and I’m trying to save my parents&#x27; retirement, but don&#x27;t want to derail my own FIRE plans. What would you do?</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/midnight |
+                    <strong>Upvotes:</strong> 168 |
+                    <strong>Comments:</strong> 158 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">A Reddit user&#x27;s retired father hid $650k of debt from the family, leading to a mental crisis. The user seeks advice on how to manage the situation without derailing their own FIRE plans. Key points include the hidden debt, balancing family support with personal financial goals, and suggestions like obtaining financial power of attorney and downsizing living arrangements. The discussion highlights the need for immediate financial control and sustainable living arrangements for the parents.
+
+---</div>
+            </div>
+
+        </div>
+
+        <div id="formula1" class="tab-content">
+            <div class="digest-header">
+                <h2>r/formula1 Reading Digest</h2>
+                <div class="digest-meta">
+                    <strong>Period:</strong> 2025-12-09 to 2025-12-12 |
+                    <strong>Posts:</strong> 50
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    1. <a href="https://reddit.com/r/formula1/comments/1pjbm0z/f1_for_the_first_time_in_a_decade_both_williams/" target="_blank">[F1] For the first time in a decade, both Williams drivers finish in the top 10 of the drivers’ championship</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/PrimeyXE |
+                    <strong>Upvotes:</strong> 21069 |
+                    <strong>Comments:</strong> 307 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">For the first time in a decade, both Williams drivers finished in the top 10 of the drivers&#x27; championship, marking a significant achievement for the team.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Williams drivers achieved top 10 finishes in the championship.</li>
+                        <li>This is the first time in a decade for such an achievement.</li>
+                        <li>The community expresses hope for continued improvement and better cars next year.</li>
+                        <li>There is excitement and support for the Williams team&#x27;s revival.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community is positive about the Williams team&#x27;s performance, with hopes for further success and better equipment in the future. There is a sense of excitement and support for the team&#x27;s revival.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    2. <a href="https://reddit.com/r/formula1/comments/1pk06tg/both_dominated_the_past_decade/" target="_blank">Both dominated the past decade</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/EighteenLevel |
+                    <strong>Upvotes:</strong> 16292 |
+                    <strong>Comments:</strong> 466 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses the dominance of Lewis Hamilton and Max Verstappen in Formula 1, highlighting their limited direct competition and their status as all-time greats.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Lewis Hamilton and Max Verstappen have dominated their respective eras in Formula 1.</li>
+                        <li>They only had one season (2021) where they directly competed against each other.</li>
+                        <li>The 2021 season was highly competitive and appreciated by fans.</li>
+                        <li>Both drivers are considered among the greatest in the sport&#x27;s history.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion emphasizes the rarity of seeing two top drivers compete directly and the need for fans to appreciate such moments of greatness.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    3. <a href="https://reddit.com/r/formula1/comments/1pkdwhx/visual_on_how_f1_cars_will_change_2026_vs_2025/" target="_blank">Visual on how F1 cars will change, 2026 vs 2025</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/madhatterlock |
+                    <strong>Upvotes:</strong> 10801 |
+                    <strong>Comments:</strong> 463 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post compares the size of F1 cars in 2026 versus 2025, highlighting significant changes. Users discuss historical car sizes, safety implications, and request additional comparisons.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>F1 cars in 2026 will be noticeably smaller compared to 2025 models</li>
+                        <li>Historical context: cars from the 80s-90s were much smaller (e.g., MP4/4 wheelbase of 2875mm)</li>
+                        <li>Safety concerns arise with reducing car size further</li>
+                        <li>Users appreciate the visual comparison provided in the post</li>
+                        <li>Requests for additional comparisons (e.g., 2026 vs 2008)</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights appreciation for the visual comparison while debating the balance between smaller cars for better racing and maintaining safety standards. Some users express nostalgia for older, smaller cars and request more historical comparisons.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    4. <a href="https://reddit.com/r/formula1/comments/1pjqrnz/victories_in_turbo_hybrid_era/" target="_blank">Victories in turbo hybrid era</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/FewCollar227 |
+                    <strong>Upvotes:</strong> 5434 |
+                    <strong>Comments:</strong> 322 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses victories in the turbo hybrid era of Formula 1, with comments highlighting memorable moments and competitive dynamics.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>2024 was a standout season.</li>
+                        <li>Random wins in 2020 and 2021 were notable.</li>
+                        <li>The 2023 season was challenging.</li>
+                        <li>McLaren nearly surpassed Ferrari in performance.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights the unpredictability and excitement of recent seasons, with a focus on competitive shifts and memorable races.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    5. <a href="https://reddit.com/r/formula1/comments/1pjyg40/2024_2025_standings_and_points/" target="_blank">2024 / 2025 standings and points</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/EighteenLevel |
+                    <strong>Upvotes:</strong> 5379 |
+                    <strong>Comments:</strong> 338 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses the 2024/2025 Formula 1 standings and points, highlighting key performances and team achievements.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Hamilton is making a comeback to the top</li>
+                        <li>Williams had a significant year</li>
+                        <li>Mercedes scored 468 points in 2024 and 469 points in 2025</li>
+                        <li>Red Bull&#x27;s No.2 drivers performed poorly compared to their No.1 driver</li>
+                        <li>Three drivers broke the 400-point barrier</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights Hamilton&#x27;s resurgence, Williams&#x27; progress, Mercedes&#x27; consistent performance, Red Bull&#x27;s struggles with their No.2 drivers, and the rarity of three drivers breaking the 400-point barrier.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    6. <a href="https://reddit.com/r/formula1/comments/1pkah2c/lando_i_knew_yuki_was_gonna_make_my_day_difficult/" target="_blank">Lando: “I knew Yuki was gonna make my day difficult [...] I love Yuki. He&#x27;s one of the coolest, funniest, most genuine people. It&#x27;s sad to see him not in F1 next year, because he is a very strong driver. Off-track drivers parade, he&#x27;s always one of the first people to congratulate me or say hello&quot;</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/randomseocb |
+                    <strong>Upvotes:</strong> 4827 |
+                    <strong>Comments:</strong> 200 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Lando Norris expresses admiration for Yuki Tsunoda, highlighting his personality and driving skills, while lamenting his departure from F1. The post includes a video and comments from fans echoing similar sentiments.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Lando praises Yuki&#x27;s personality and driving abilities</li>
+                        <li>Yuki is well-liked by fellow drivers and fans</li>
+                        <li>Fans express sadness over Yuki&#x27;s departure from F1</li>
+                        <li>Yuki&#x27;s off-track behavior is highly regarded</li>
+                        <li>Fans hope Yuki finds success in other racing series</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a consensus of admiration for Yuki Tsunoda, both for his driving skills and his personality. Fans and fellow drivers alike express sadness over his departure from F1 and hope for his future success in other racing series.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    7. <a href="https://reddit.com/r/formula1/comments/1pjhppp/mercedes_will_cut_number_of_f1_teams_it_supplies/" target="_blank">Mercedes will cut number of F1 teams it supplies engines to - Wolff</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/NorthKoreanMissile7 |
+                    <strong>Upvotes:</strong> 4771 |
+                    <strong>Comments:</strong> 481 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">Mercedes plans to reduce the number of F1 teams it supplies engines to in the next cycle, with discussions suggesting Alpine might switch to Renault engines for the 2030 regulations.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Mercedes will reduce the number of teams it supplies engines to in the next cycle.</li>
+                        <li>The optimum number of teams for Mercedes is likely to be fewer than current.</li>
+                        <li>Alpine may switch to Renault engines for the 2030 regulations.</li>
+                        <li>There is speculation about Mercedes potentially stopping engine supply to McLaren in the future.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights potential changes in engine suppliers for teams like Alpine and McLaren, with a focus on the 2030 regulations and the possibility of Renault returning as an engine supplier.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    8. <a href="https://reddit.com/r/formula1/comments/1pkj77b/f1_2026_teams_and_engines/" target="_blank">F1 2026 teams and engines</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/EighteenLevel |
+                    <strong>Upvotes:</strong> 4167 |
+                    <strong>Comments:</strong> 332 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses the F1 2026 teams and their respective engines, highlighting various team-engine pairings and sparking discussions about the logic and aesthetics of these combinations.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Discussion about grouping teams with the same engines for aesthetic purposes</li>
+                        <li>Alpine&#x27;s use of a German engine despite being a French car</li>
+                        <li>Red Bull&#x27;s potential status as a works team</li>
+                        <li>Audi&#x27;s development of its own engine</li>
+                        <li>Aston Martin&#x27;s use of Honda engines in F1 despite using Mercedes engines in real life</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights include debates on the logic of team-engine pairings, with some users questioning the aesthetic and practical reasons behind these decisions. There is also curiosity about Red Bull&#x27;s status and Audi&#x27;s engine development.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    9. <a href="https://reddit.com/r/formula1/comments/1pjznae/helmut_marko_about_lando_he_proved_all_the/" target="_blank">Helmut Marko about Lando: &quot;He proved all the prognosis wrong saying he did not have the mentality to overcome this and win. He is a world class driver and is very strong in qualifying. So I believe ‘unfortunately’ if he gets the right car this result could be very much repeated in the future.&quot;</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/randomseocb |
+                    <strong>Upvotes:</strong> 3769 |
+                    <strong>Comments:</strong> 334 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Helmut Marko praises Lando Norris, stating that Norris has proven critics wrong by demonstrating a world-class mentality and strong qualifying skills, suggesting that with the right car, Norris could achieve similar success in the future.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Helmut Marko acknowledges Lando Norris&#x27;s world-class driving skills and strong qualifying performances.</li>
+                        <li>Norris has proven critics wrong by overcoming challenges and demonstrating a winning mentality.</li>
+                        <li>Marko believes that with the right car, Norris could repeat his success in the future.</li>
+                        <li>The community discusses Marko&#x27;s history of trying to sign Norris and his mixed comments about the driver.</li>
+                        <li>Top comments highlight the irony of Marko&#x27;s praise given his past attempts to poach Norris.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights the community&#x27;s reaction to Marko&#x27;s praise, with many noting the irony of his comments given his past attempts to sign Norris. Some users also discuss Norris&#x27;s performance and potential, agreeing with Marko&#x27;s assessment.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    10. <a href="https://reddit.com/r/formula1/comments/1pjx79h/fia_to_adjust_f1_terminology_for_2026_to_prevent/" target="_blank">FIA to adjust F1 terminology for 2026 to prevent fan confusion</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/FerrariStrategisttt |
+                    <strong>Upvotes:</strong> 3569 |
+                    <strong>Comments:</strong> 322 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The FIA plans to adjust F1 terminology for 2026 to prevent fan confusion, sparking humorous and nostalgic reactions from the community.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>FIA to adjust F1 terminology for 2026</li>
+                        <li>Decision aims to prevent fan confusion</li>
+                        <li>Community reacts with humor and nostalgia</li>
+                        <li>References to past F1 terminology like &#x27;KERS&#x27; and &#x27;DRS&#x27;</li>
+                        <li>Playful comments about the change</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion is marked by a playful tone, with users making humorous comments about the terminology change and referencing past F1 terms like &#x27;KERS&#x27; and &#x27;DRS&#x27;. The community seems to embrace the change with a mix of nostalgia and humor.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    11. <a href="https://reddit.com/r/formula1/comments/1pjfhyq/a_nice_moment_i_captured_from_sunday_night_as/" target="_blank">A nice moment I captured from Sunday night as Lando&#x27;s Mom hugged Oscar in Parc Ferme</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/jameypricephoto |
+                    <strong>Upvotes:</strong> 3473 |
+                    <strong>Comments:</strong> 86 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">A heartwarming moment was captured when Lando Norris&#x27;s mother hugged Oscar Piastri in Parc Ferme, highlighting the emotional and supportive side of the Formula 1 community.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Lando&#x27;s mom hugged Oscar Piastri in Parc Ferme</li>
+                        <li>The moment was described as heartwarming and reminiscent of other supportive moments in F1</li>
+                        <li>Lando&#x27;s mom was praised for her motherly and caring demeanor</li>
+                        <li>The community appreciated the emotional and human side of the sport</li>
+                        <li>Some humorous comments were made about the moment, such as joking about a penalty for violating Parc Ferme rules</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion was overwhelmingly positive, with many users appreciating the wholesome and emotional moment. Lando&#x27;s mom was particularly praised for her caring nature, and the moment was seen as a reminder of the human side of Formula 1.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    12. <a href="https://reddit.com/r/formula1/comments/1pj1nbn/sebastian_vettel_eats_a_banana_during_a_press/" target="_blank">Sebastian Vettel eats a banana during a press conference, 2017</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Metal_Sonic7 |
+                    <strong>Upvotes:</strong> 3096 |
+                    <strong>Comments:</strong> 101 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">A Reddit post from r/formula1 features a video of Sebastian Vettel eating a banana during a press conference in 2017. The comments reflect nostalgia for his press conferences and appreciation for his continued involvement in the sport.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Offseason content</li>
+                        <li>Nostalgia for Vettel&#x27;s press conferences</li>
+                        <li>Appreciation for his continued involvement in Formula 1</li>
+                        <li>Fondness for Vettel&#x27;s presence in the sport</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a consensus of fondness for Sebastian Vettel and a sense of missing his regular presence in Formula 1, with fans expressing nostalgia for his press conferences.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    13. <a href="https://reddit.com/r/formula1/comments/1pjfcgj/lando_norris_details_winter_break_plans_forget/" target="_blank">Lando Norris details winter break plans: &quot;Forget that I drive in Formula 1&quot;</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/bwoah07_gp2 |
+                    <strong>Upvotes:</strong> 2838 |
+                    <strong>Comments:</strong> 127 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">Lando Norris plans to take a break from Formula 1 during the winter, focusing on personal time and activities like skiing with friends. The discussion highlights his need to disconnect from the emotional rollercoaster of the season.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Lando Norris plans to forget about Formula 1 during the winter break</li>
+                        <li>He jokes about getting injuries out of the way early by skiing with friends</li>
+                        <li>The season was emotionally intense with many ups and downs</li>
+                        <li>Norris wants to disconnect from the rivalry and pressures of the sport</li>
+                        <li>Speculation about socializing with other drivers like Max Verstappen</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion reflects a mix of humor and understanding for Norris&#x27;s need to unwind. Fans express concern for his well-being while joking about his plans to ski and socialize. There&#x27;s a consensus that the season was emotionally taxing, and Norris deserves a break.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    14. <a href="https://reddit.com/r/formula1/comments/1pkchqs/yuki_tsunoda_finishes_with_the_biggest_points_gap/" target="_blank">Yuki Tsunoda finishes with the biggest points gap to a teammate in F1 history (and other records)</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/jz001 |
+                    <strong>Upvotes:</strong> 2766 |
+                    <strong>Comments:</strong> 474 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Yuki Tsunoda set a record for the largest points gap to a teammate in F1 history, with notable performances and challenges highlighted in the discussion.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Tsunoda&#x27;s memorable moment holding off Leclerc</li>
+                        <li>His challenging comparison to Max Verstappen</li>
+                        <li>Finishing 17th in the standings with 33 points</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights Tsunoda&#x27;s skills and memorable moments, while acknowledging the tough comparison to Verstappen and his final standing in the championship.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    15. <a href="https://reddit.com/r/formula1/comments/1pj1k1u/lewis_hamilton_and_charles_leclerc_free_to/" target="_blank">Lewis Hamilton and Charles Leclerc free to criticise Ferrari F1 team, says Fred Vasseur</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/memloh |
+                    <strong>Upvotes:</strong> 2414 |
+                    <strong>Comments:</strong> 121 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">Fred Vasseur states that Lewis Hamilton and Charles Leclerc are free to criticize the Ferrari F1 team. The Reddit discussion highlights skepticism about this claim, with users drawing parallels to past experiences and humorously questioning the consequences of such criticism.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Fred Vasseur claims drivers have freedom to criticize Ferrari</li>
+                        <li>Community skepticism about the sincerity of this freedom</li>
+                        <li>Comparisons to past experiences with parental figures and authority</li>
+                        <li>Humorous remarks about Charles Leclerc&#x27;s potential verbosity</li>
+                        <li>References to Ferrari leadership (John Elkann) and potential repercussions</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion is marked by skepticism and humor, with users questioning the authenticity of the freedom to criticize. Many comments draw parallels to personal experiences and highlight potential repercussions, suggesting a lack of trust in Ferrari&#x27;s leadership.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    16. <a href="https://reddit.com/r/formula1/comments/1pj493v/fia_revises_indycar_super_license_points/" target="_blank">FIA Revises IndyCar Super License Points</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/TheSalmonRoll |
+                    <strong>Upvotes:</strong> 2341 |
+                    <strong>Comments:</strong> 200 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The FIA has revised the IndyCar Super License points system, which has sparked discussion due to its timing after Colton Herta&#x27;s move to Europe. The change would have affected Herta&#x27;s eligibility for a Super License.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>FIA revised IndyCar Super License points system</li>
+                        <li>Timing coincides with Colton Herta&#x27;s move to Europe</li>
+                        <li>Herta would not have qualified under the new system</li>
+                        <li>Community finds the timing humorous and suspicious</li>
+                        <li>Source linked to FIA&#x27;s official announcement</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights the community&#x27;s amusement and skepticism about the timing of the revision, with many suggesting it was done to prevent Herta from qualifying. The consensus is that the change is notable and impacts driver eligibility significantly.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    17. <a href="https://reddit.com/r/formula1/comments/1pjprbb/tommy_hilfiger_appoints_sergio_pérez_as_global/" target="_blank">Tommy Hilfiger appoints Sergio Pérez as global menswear ambassador</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/curse_annihlator |
+                    <strong>Upvotes:</strong> 2008 |
+                    <strong>Comments:</strong> 134 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">Tommy Hilfiger has appointed Sergio Pérez as their global menswear ambassador, sparking discussions about his improved reputation and sponsorship appeal.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Sergio Pérez&#x27;s reputation has improved significantly without driving this year.</li>
+                        <li>He is known for his strong sponsorship appeal.</li>
+                        <li>Unexpected collaborations, like with Wonyoung, were humorously mentioned.</li>
+                        <li>The appointment highlights his global influence and marketability.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights Pérez&#x27;s positive reception, with many noting his improved reputation and strong sponsorship appeal. Humorous comments about unexpected collaborations and his influence were also prominent.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    18. <a href="https://reddit.com/r/formula1/comments/1pjuig9/2025_formula_1_dnf_championship/" target="_blank">2025 Formula 1 DNF Championship</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/iamabigtree |
+                    <strong>Upvotes:</strong> 1853 |
+                    <strong>Comments:</strong> 94 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The post discusses the 2025 Formula 1 DNF Championship, where drivers earn points based on their retirement order in races. Carlos Sainz won the championship, continuing Williams&#x27; dominance in the constructors&#x27; category for the third consecutive year.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The DNF Championship awards points to drivers who retire first in races, using the standard F1 points system.</li>
+                        <li>Carlos Sainz won the 2025 DNF Championship, following a close competition with Fernando Alonso.</li>
+                        <li>Williams has won the Constructors&#x27; Championship for the third year in a row.</li>
+                        <li>The post includes links to previous years&#x27; DNF Championships for reference.</li>
+                        <li>Top comments highlight George Russell&#x27;s reliability and suggestions for additional stats on DNF origins.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights George Russell&#x27;s impressive reliability with no DNFs all year and suggests adding more detailed stats on the origins of DNFs (technical, collision, crash) for better insights.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    19. <a href="https://reddit.com/r/formula1/comments/1pkgn37/rosberg_i_split_sixfigure_bill_for_2016_spanish/" target="_blank">Rosberg: I split six-figure bill for 2016 Spanish GP crash with Hamilton</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/jaapgrolleman |
+                    <strong>Upvotes:</strong> 1813 |
+                    <strong>Comments:</strong> 186 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Nico Rosberg revealed that he and Lewis Hamilton split a six-figure bill for their crash at the 2016 Spanish GP, with the amount being $360,000. The discussion highlights driver accountability and suggests contract clauses for such incidents.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Rosberg and Hamilton split a $360,000 bill for their 2016 Spanish GP crash</li>
+                        <li>The incident was discussed on the Sky pre-show for the Abu Dhabi GP</li>
+                        <li>Suggestions for driver contracts to include clauses for avoidable incidents</li>
+                        <li>Discussion on fairness and driver responsibility in such situations</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion focused on the fairness of splitting the bill and the idea of including clauses in driver contracts to handle avoidable incidents, with general agreement on the approach taken by Rosberg and Hamilton.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    20. <a href="https://reddit.com/r/formula1/comments/1pj7nag/final_f1_standings_if_nascar_points_were_used/" target="_blank">Final F1 Standings if NASCAR points were used</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/MPRitchie47 |
+                    <strong>Upvotes:</strong> 1755 |
+                    <strong>Comments:</strong> 428 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The post compares 2025 F1 standings using NASCAR&#x27;s points system, noting adjustments for fewer cars and races, and highlights a tie-breaker scenario between Piastri and Verstappen.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Final standings for 2025 using NASCAR&#x27;s points system</li>
+                        <li>Inclusion of NASCAR&#x27;s In Season Challenge</li>
+                        <li>Adjustments made for fewer cars and races</li>
+                        <li>Tie-breaker scenario between Piastri and Verstappen</li>
+                        <li>Criticism of NASCAR&#x27;s points system in comments</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion includes criticism of NASCAR&#x27;s points system, humorous comparisons, mentions of Lando&#x27;s potential championship under a playoff system, and general confusion about the post&#x27;s purpose.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    21. <a href="https://reddit.com/r/formula1/comments/1pj4wkz/f1_2025_championship_but_reversed/" target="_blank">F1 2025 Championship, but reversed</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Billlifferr |
+                    <strong>Upvotes:</strong> 1696 |
+                    <strong>Comments:</strong> 132 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The post explores reversing the 2025 F1 championship race order, analyzing how it changes the season&#x27;s narrative. Verstappen dominates most of the season, while Norris, Russell, and Piastri face varying challenges. The discussion highlights Piastri&#x27;s potential WDC loss and the impact of recency bias.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Verstappen leads the championship for 21 of 24 races, including a 20-race streak.</li>
+                        <li>Norris has a strong start with podiums in five of the first seven rounds.</li>
+                        <li>Piastri struggles with operational issues and risks falling behind Antonelli.</li>
+                        <li>McLaren faces media scrutiny for operational issues.</li>
+                        <li>The discussion focuses on Piastri&#x27;s potential WDC loss and recency bias.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion emphasizes the brutal impact on Piastri if he loses the WDC by spinning out on his home race. It also highlights how recency bias affects the overall narrative of the season.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    22. <a href="https://reddit.com/r/formula1/comments/1pjx718/the_athletic_how_f1_drivers_avoid_jet_lag_casino/" target="_blank">[The Athletic] How F1 drivers avoid jet lag: Casino lights, sleep coaching and making beds ‘sacred’</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Sauerz |
+                    <strong>Upvotes:</strong> 1629 |
+                    <strong>Comments:</strong> 126 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses strategies F1 drivers use to avoid jet lag, including personalized sleep environments and meal schedules. Fans contrast this with their own sleep deprivation to watch races.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Drivers use personalized bedding, lighting, and sleep coaching to optimize sleep.</li>
+                        <li>Maintaining a meal schedule helps regulate the body&#x27;s internal clock.</li>
+                        <li>Fans often sacrifice sleep to watch races, contrasting with drivers&#x27; strategies.</li>
+                        <li>Max Verstappen humorously suggests avoiding jet lag by racing constantly.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights the contrast between drivers&#x27; meticulous sleep strategies and fans&#x27; sleep deprivation. There is a consensus on the importance of meal schedules and personalized sleep environments for managing jet lag.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    23. <a href="https://reddit.com/r/formula1/comments/1pjownr/how_is_this_display_looking/" target="_blank">How is this display looking</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/EighteenLevel |
+                    <strong>Upvotes:</strong> 1545 |
+                    <strong>Comments:</strong> 66 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The Reddit post discusses a display related to Formula 1, with users providing feedback on its appearance and suggesting improvements like ordering by color, team age, or WCC points.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The display is related to Formula 1</li>
+                        <li>Users suggest ordering the display by color, team age, or WCC points</li>
+                        <li>Mixed opinions on the display&#x27;s appearance</li>
+                        <li>General consensus on the need for ordering</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a consensus on the need for ordering the display and a generally positive reception with some criticism.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    24. <a href="https://reddit.com/r/formula1/comments/1pjzzl8/two_days_two_crashes_same_corner/" target="_blank">Two days two crashes same corner.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/anitafidalgo |
+                    <strong>Upvotes:</strong> 1231 |
+                    <strong>Comments:</strong> 243 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses a driver crashing at the same corner on two consecutive days, highlighting their consistency and potential issues with the Suzuka circuit. The discussion includes humorous and critical comments about the driver&#x27;s performance.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Driver crashed at the same corner on two consecutive days</li>
+                        <li>Consistency noted, with humorous remarks about future championship potential</li>
+                        <li>Specific mention of disliking the Suzuka circuit</li>
+                        <li>Variation in crash directions noted</li>
+                        <li>Comparison to other drivers like Colapinto</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion is largely humorous and critical, with users joking about the driver&#x27;s consistency and potential future success, while also noting the specific challenges at Suzuka. Some comments suggest alternative drivers might have been better choices.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    25. <a href="https://reddit.com/r/formula1/comments/1pjjnbq/2025_usa_viewership_f1_ends_its_decades_long_run/" target="_blank">2025 USA Viewership: F1 ends its decades long run on traditional TV with its most watched season ever in America, beating 2022</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Thegen68 |
+                    <strong>Upvotes:</strong> 1066 |
+                    <strong>Comments:</strong> 254 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The 2025 F1 season in the USA marked its most watched season ever, surpassing the 2022 viewership records. This significant achievement comes as F1 ends its long-standing run on traditional TV. Key points include: 16 of the 24 races set viewership records for those specific races, 21 of 24 races saw year-over-year viewership increases, Monaco had the highest viewership for any race, and Miami was the most domestically watched US race. The discussion highlights a mix of excitement about the record-breaking viewership and concerns about potential changes, such as moving to platforms like Apple, with a notable consensus on the popularity of certain races like Monaco and Miami.
+
+---</div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    26. <a href="https://reddit.com/r/formula1/comments/1pjtqur/in_honour_of_drs_heres_a_video_of_what_the_drs/" target="_blank">In honour of DRS, here’s a video of what the DRS train looks like IRL. From Qatar 2025</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Luffy710j |
+                    <strong>Upvotes:</strong> 1048 |
+                    <strong>Comments:</strong> 65 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post shares a video of the DRS train from the Qatar 2025 Formula 1 race, showcasing the impressive speed and spectacle of the cars. The discussion highlights historical context, excitement for the visuals, and humorous reactions.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Historical context of &#x27;trains&#x27; in F1, such as the Trulli train</li>
+                        <li>Appreciation for the speed and angles shown in the video</li>
+                        <li>Humorous and awe-inspired reactions to the spectacle</li>
+                        <li>Anticipation for future developments in 2026</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The comments reflect a mix of nostalgia, excitement, and humor, with a consensus on the impressive speed and spectacle of the DRS train.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    27. <a href="https://reddit.com/r/formula1/comments/1pk4928/alex_albon_highlights_carlos_sainz_pairing_as_key/" target="_blank">Alex Albon highlights Carlos Sainz pairing as key to Williams&#x27; F1 2025 success</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/memloh |
+                    <strong>Upvotes:</strong> 1017 |
+                    <strong>Comments:</strong> 62 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Alex Albon emphasizes the partnership with Carlos Sainz as crucial for Williams&#x27; success in F1 2025, with positive team dynamics and leadership highlighted.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Alex Albon and Carlos Sainz&#x27;s pairing is key to Williams&#x27; 2025 success</li>
+                        <li>Improved team environment and leadership under James Vowles</li>
+                        <li>Positive collaboration between drivers</li>
+                        <li>Williams seen as a potential rising team for 2026</li>
+                        <li>Ferrari&#x27;s decision to let Sainz go is criticized</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a healthier team environment, strong leadership, and positive driver collaboration as key factors for Williams&#x27; potential success. Many commenters praise Sainz&#x27;s skills and criticize Ferrari&#x27;s decision to let him go.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    28. <a href="https://reddit.com/r/formula1/comments/1pjvj58/apple_tv_screenshots_from_ad/" target="_blank">Apple TV screenshots from ad</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/PaodeQueijoNow |
+                    <strong>Upvotes:</strong> 977 |
+                    <strong>Comments:</strong> 275 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses screenshots from an Apple TV ad, highlighting new features like multi-cam support and live stats for Formula 1 coverage. Users express excitement and anticipation for the new interface and potential Vision Pro support.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Apple TV ad showcases new Formula 1 interface features</li>
+                        <li>Features include multi-cam support and live stats</li>
+                        <li>Users express interest in Vision Pro support</li>
+                        <li>Discussion includes availability in different regions</li>
+                        <li>Mixed reactions from initial announcement to current excitement</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a shift in user sentiment from initial skepticism to excitement about the new interface. Users are eager for regional availability and hope for features like switching between broadcasts and support for Vision Pro.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    29. <a href="https://reddit.com/r/formula1/comments/1pjzkhg/on_this_day_in_f1_history/" target="_blank">On this day in F1 history</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/EighteenLevel |
+                    <strong>Upvotes:</strong> 973 |
+                    <strong>Comments:</strong> 21 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">In 2003, Michael Schumacher raced against a Eurofighter Typhoon in a Ferrari F2003, losing 2-1 over three distances. The event commemorated 100 years of manned flight and the 50th anniversary of Tazio Nuvolari&#x27;s death.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Schumacher raced a Eurofighter Typhoon in 2003, losing 2-1.</li>
+                        <li>The Ferrari F2003&#x27;s top speed of 370 kph was outmatched by the jet&#x27;s 2450 kph.</li>
+                        <li>The event honored historical milestones in aviation and motorsport.</li>
+                        <li>Users expressed nostalgia for Schumacher and noted advancements in car acceleration.</li>
+                        <li>Gilles Villeneuve&#x27;s similar race against a plane was mentioned.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>Users reflected on Schumacher&#x27;s legacy, compared modern car acceleration to jets, and referenced similar historical races.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    30. <a href="https://reddit.com/r/formula1/comments/1pj4kj0/motorsport_illness_forces_kalle_rovanpera_out_and/" target="_blank">[Motorsport] Illness forces Kalle Rovanpera out and Jack Doohan crashed on first day of Super Formula test</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/4_max_4 |
+                    <strong>Upvotes:</strong> 822 |
+                    <strong>Comments:</strong> 46 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">Kalle Rovanpera was forced to withdraw from Super Formula testing due to illness, while Jack Doohan crashed on the first day. The post and comments discuss the setbacks and community reactions.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Kalle Rovanpera withdrew from Super Formula testing due to illness</li>
+                        <li>Jack Doohan crashed on the first day of testing</li>
+                        <li>Community reactions include well-wishes for Rovanpera and speculation about Doohan&#x27;s inclusion</li>
+                        <li>Discussion about the challenges of transitioning to single-seater racing</li>
+                        <li>Mentions of team dynamics and potential motivations behind Doohan&#x27;s participation</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights community support for Rovanpera&#x27;s recovery and speculation about the reasons behind Doohan&#x27;s participation in the test. There is also a focus on the challenges faced by drivers transitioning to new racing formats.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    31. <a href="https://reddit.com/r/formula1/comments/1pkgeoj/a_third_kondo_on_the_wall_at_degner_during_the/" target="_blank">A third Kondo on the wall at Degner during the Super Formula tests</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Helpful_Hedgehog_204 |
+                    <strong>Upvotes:</strong> 798 |
+                    <strong>Comments:</strong> 145 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses Jack Doohan&#x27;s repeated crashes during Super Formula tests, specifically three crashes in three days at the same corner (Degner). The community reacts with a mix of humor and concern, noting the unusual pattern.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Jack Doohan crashed three times in three days at the same corner (Degner) during Super Formula tests.</li>
+                        <li>The community humorously references the repeated crashes with phrases like &#x27;a third Doohan has hit the barrier.&#x27;</li>
+                        <li>There is a consensus that such a pattern of crashes is highly unusual, even among less experienced drivers.</li>
+                        <li>Some commenters express sympathy for Doohan while acknowledging the bizarre nature of the incidents.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights the rarity of such repeated crashes and the community&#x27;s mix of humor and concern. Some commenters joke about the pattern, while others note the historical context of crashes in motorsport.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    32. <a href="https://reddit.com/r/formula1/comments/1pkbhvu/if_carlos_sainz_wants_to_keep_sprinkles_on_his/" target="_blank">If Carlos Sainz wants to keep Sprinkles on his helmet, I think this could be a cute idea!</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/CML |
+                    <strong>Upvotes:</strong> 647 |
+                    <strong>Comments:</strong> 32 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses Carlos Sainz&#x27;s helmet design, specifically the &#x27;Sprinkles&#x27; feature, and whether he should keep it. The discussion includes fan support, helmet sponsor regulations, and Sainz&#x27;s confirmation about retaining Sprinkles.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Carlos Sainz&#x27;s helmet design and the &#x27;Sprinkles&#x27; feature</li>
+                        <li>Fan support and its significance</li>
+                        <li>Helmet sponsor regulations and their impact</li>
+                        <li>Sainz&#x27;s confirmation about keeping Sprinkles</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights the importance of fan support and the challenges of balancing personal preferences with sponsor regulations. There is a consensus that Sainz should keep the &#x27;Sprinkles&#x27; feature as a tribute to fan support and his first season at Williams.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    33. <a href="https://reddit.com/r/formula1/comments/1pj5ali/ot_anthony_hamilton_plans_his_own_racing_series/" target="_blank">[OT?] Anthony Hamilton plans his own racing series</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/krzysiek_aleks |
+                    <strong>Upvotes:</strong> 610 |
+                    <strong>Comments:</strong> 118 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">Anthony Hamilton, father of Lewis Hamilton, appears to be planning a new racing series called HybridV10, with several related trademarks registered. The details are still unclear, but it has sparked discussion and speculation among Formula 1 fans.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Anthony Hamilton owns trademarks related to HybridV10 and other racing series names</li>
+                        <li>The exact nature of the series is unclear, with speculation ranging from a new racing series to a music festival</li>
+                        <li>Some commenters are skeptical about the series&#x27; longevity</li>
+                        <li>There is uncertainty about which engine manufacturers could participate due to existing contracts</li>
+                        <li>Some fans speculate this could be Lewis Hamilton&#x27;s next move after Formula 1</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion is marked by speculation and skepticism. While some are excited about the potential of a new racing series, others are doubtful about its feasibility and longevity. There is also humor and curiosity about what the series might entail, with suggestions ranging from a new racing league to a music festival.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    34. <a href="https://reddit.com/r/formula1/comments/1pjw5ib/lando_norris_on_working_with_a_psychologist_you/" target="_blank">Lando Norris on working with a psychologist: &quot;You go through everything ‘Is this going to help you potentially do a better job?’, and if it’s a yes, you’ve got to do as much of those different things as you can. And certainly working with a psychologist and different people [...] all played a part.&quot;</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/sdq22 |
+                    <strong>Upvotes:</strong> 526 |
+                    <strong>Comments:</strong> 101 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Lando Norris discusses the importance of working with a psychologist and other professionals to improve his performance, emphasizing that every small effort can contribute to significant results. He reflects on how these efforts helped him secure wins and ultimately the championship.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Lando Norris worked with a psychologist to improve his performance.</li>
+                        <li>He believes that every small effort can make a big difference.</li>
+                        <li>Norris credits his work with professionals for his success in the second half of the season.</li>
+                        <li>The discussion highlights his openness about mental health and its importance.</li>
+                        <li>Fans appreciate his willingness to talk about mental health and his champion mentality.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights Norris&#x27;s openness about mental health and his champion mentality. Fans commend his willingness to talk about mental health and his support for mental health charities. They also appreciate his relaxed demeanor and the insight provided by the interview.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    35. <a href="https://reddit.com/r/formula1/comments/1pjwges/alpine_and_audi_to_start_preseason_ahead_of_time/" target="_blank">Alpine and Audi to start pre-season ahead of time</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Darkmninya |
+                    <strong>Upvotes:</strong> 461 |
+                    <strong>Comments:</strong> 43 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Alpine and Audi will begin pre-season testing at Circuit de France in the second week of January, ahead of the official tests. Audi will debut under its new name, while Alpine will test their new Mercedes-powered car. The community is excited about early track action and potential leaks.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Alpine and Audi will test at Circuit de France on January 9th and 11th.</li>
+                        <li>Audi is rebranding from Sauber and aims to gather data for their new project.</li>
+                        <li>Alpine will unveil their new livery on January 23rd in Barcelona.</li>
+                        <li>The community is anticipating early spy photos and discussing the significance of early testing.</li>
+                        <li>Franco Colapinto will drive the new A526 for the first time.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community is excited about early testing and potential spy photos, with some highlighting the importance of early track time for teams undergoing significant changes. There is also anticipation for Franco Colapinto&#x27;s performance in the new season.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    36. <a href="https://reddit.com/r/formula1/comments/1pk70ti/changes_to_the_sporting_regulations_for_2026/" target="_blank">Changes to the Sporting Regulations for 2026 including: In low visibility conditions the race director may extend the maximum gap between cars under an SC to 20 car lengths and Driver Adjustable Bodywork can now be partially activated.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/zantkiller |
+                    <strong>Upvotes:</strong> 456 |
+                    <strong>Comments:</strong> 59 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The 2026 Formula 1 Sporting Regulations introduce several changes, including increased gaps between cars in low visibility conditions and partial activation of Driver Adjustable Bodywork. The regulations also include updates to qualifying formats, protest deposits, and session extensions.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Increased gap between cars to 20 car lengths in low visibility conditions</li>
+                        <li>Driver Adjustable Bodywork can now be partially activated</li>
+                        <li>Protest and Right of Review deposits increased from €2000 to €20,000</li>
+                        <li>Qualifying formats updated to accommodate a larger grid</li>
+                        <li>Session extensions for interrupted FP1 during sprint weekends</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights mixed reactions to the changes, with some users finding the car length rule enforcement questionable and others appreciating the detailed new Section A on general regulatory provisions.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    37. <a href="https://reddit.com/r/formula1/comments/1pj3vbu/new_regulations_announced_today_ie_one_preseason/" target="_blank">New regulations announced today: i.e. one pre-season test in 2027 confirmed, longer practice in Sprint weekend if Red Flagged, and more</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/CautionClock20 |
+                    <strong>Upvotes:</strong> 420 |
+                    <strong>Comments:</strong> 58 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The FIA announced new regulations for the 2026 Formula 1 season, including structural changes to the regulatory framework and updates to sporting and technical rules. Key changes include adjustments to sprint qualifying tire limitations, operational personnel limits, and race suspension procedures.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>New &#x27;Section A&#x27; created for general regulatory provisions to ensure consistency.</li>
+                        <li>Sprint Qualifying dry tire limitations will no longer be removed in wet conditions.</li>
+                        <li>Operational personnel limit increased to 60 for 2026 to manage new car generation.</li>
+                        <li>Single pre-season test confirmed from 2027 onwards.</li>
+                        <li>FP1 at Sprint events can be extended following a red flag.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a mix of opinions, with some users appreciating the adjustments while others express concerns about reduced pre-season testing and its impact on team preparedness.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    38. <a href="https://reddit.com/r/formula1/comments/1pj3z8x/time_penalties_given_out_during_the_2025_season/" target="_blank">Time penalties given out during the 2025 season</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Rameare |
+                    <strong>Upvotes:</strong> 358 |
+                    <strong>Comments:</strong> 86 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The Reddit post discusses time penalties given out during the 2025 Formula 1 season, with a focus on specific drivers like Hadjar and Doohan. The comments highlight surprises and opinions about the drivers&#x27; penalty records.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Hadjar has no penalties, which is surprising to some</li>
+                        <li>Doohan received 3 penalties in 6 races</li>
+                        <li>Ollie is perceived as the &#x27;bad boy&#x27; on the grid</li>
+                        <li>Positive sentiment towards Hadjar&#x27;s clean record</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a mix of surprise and admiration for Hadjar&#x27;s clean record, while also noting Doohan&#x27;s frequent penalties and Ollie&#x27;s reputation as a more aggressive driver.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    39. <a href="https://reddit.com/r/formula1/comments/1pjacs7/gaps_between_teammates_at_the_end_of_the_2025_abu/" target="_blank">Gaps Between Teammates At The End Of The 2025 Abu Dhabi GP</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/RLLukeYT |
+                    <strong>Upvotes:</strong> 279 |
+                    <strong>Comments:</strong> 42 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The Reddit post discusses the gaps between teammates at the 2025 Abu Dhabi GP, with comments highlighting performances of drivers like Hamilton, Tsunoda, and Colapinto.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Hamilton&#x27;s performance relative to Charles was unexpected, with Hamilton starting strong and Charles catching up later.</li>
+                        <li>Tsunoda&#x27;s struggles were noted, with comments suggesting he needs more time to adapt.</li>
+                        <li>Colapinto&#x27;s consistent pace close to Gasly was seen as a positive sign for future performance.</li>
+                        <li>Discussion about the fairness of comparing rookies to experienced drivers like Hulkenberg.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlighted mixed opinions on driver performances, with some defending rookies and others critiquing their struggles. There was also interest in a season-cumulative analysis of teammate gaps.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    40. <a href="https://reddit.com/r/formula1/comments/1pk3i8g/average_cumulative_gaps_between_teammates_at_the/" target="_blank">Average &amp;amp; Cumulative Gaps Between Teammates At The End Of 2025 Grands Prix</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/RLLukeYT |
+                    <strong>Upvotes:</strong> 234 |
+                    <strong>Comments:</strong> 88 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses the average and cumulative gaps between teammates at the end of the 2025 Formula 1 season, highlighting surprises and notable performances.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Colapinto was only 2.7 seconds behind his teammate, which was surprising.</li>
+                        <li>Lawson was closely matched to Hadjar, with a gap of only 2.2 seconds.</li>
+                        <li>Tsunoda had a significant gap of over a minute behind his teammate.</li>
+                        <li>Lawson&#x27;s performance was noted as comparable to Hadjar&#x27;s, with expectations that Hadjar may not surpass Lawson&#x27;s performance against Verstappen.</li>
+                        <li>Several drivers, including Lawson, Sainz, Colapinto, Piastri, Ocon, and Bortoleto, were observed to be at a similar level in this category.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlighted surprises in teammate performance gaps, with notable mentions of Colapinto and Lawson&#x27;s close performances. There was also a consensus on Tsunoda&#x27;s significant gap and observations about Ocon&#x27;s performance being under scrutiny.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    41. <a href="https://reddit.com/r/formula1/comments/1pkaicq/guenther_steiner_defends_yuki_tsunoda_after_abu/" target="_blank">Guenther Steiner defends Yuki Tsunoda after Abu Dhabi penalty: &quot;This is racing&quot;</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/bwoah07_gp2 |
+                    <strong>Upvotes:</strong> 227 |
+                    <strong>Comments:</strong> 83 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">Guenther Steiner defended Yuki Tsunoda after a penalty in Abu Dhabi, emphasizing that such incidents are part of racing. The discussion highlights Steiner&#x27;s history of managing controversial drivers and his consistent, often contentious, commentary.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Steiner defended Tsunoda, calling the penalty a part of racing.</li>
+                        <li>Steiner has a history of managing controversial drivers like Grosjean and Magnussen.</li>
+                        <li>His commentary is often seen as consistent but contentious.</li>
+                        <li>Haas&#x27;s performance improved after Steiner&#x27;s departure.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights Steiner&#x27;s controversial yet consistent management style and his history with controversial drivers. Many commenters note his long-standing approach to defending his drivers and his impact on Haas&#x27;s performance.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    42. <a href="https://reddit.com/r/formula1/comments/1pk46ri/retro_f1_sim_coming_to_steam_grand_pro_circuit/" target="_blank">Retro F1 Sim Coming To Steam: Grand Pro Circuit Announced</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/curva3 |
+                    <strong>Upvotes:</strong> 206 |
+                    <strong>Comments:</strong> 36 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post announces &#x27;Grand Pro Circuit&#x27;, a retro F1 simulation game coming to Steam. The community shows positive reception, praising the solo developer&#x27;s effort and the game&#x27;s nostalgic appeal.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Grand Pro Circuit is a retro F1 sim coming to Steam</li>
+                        <li>Developed by a solo developer, impressing the community</li>
+                        <li>Features humorous brand names similar to knock-off products</li>
+                        <li>Comparisons made to the classic F1 Challenge game</li>
+                        <li>Positive reception with many users planning to add it to their wishlist</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The community is excited about the game, appreciating the developer&#x27;s effort and the nostalgic feel. Many users express interest in purchasing the game, pending reasonable pricing.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    43. <a href="https://reddit.com/r/formula1/comments/1pj925h/from_the_spectator_perspective_whats_the/" target="_blank">From the spectator perspective, what&#x27;s the difference between DRS and the new overtake button?</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/WerdaVisla |
+                    <strong>Upvotes:</strong> 186 |
+                    <strong>Comments:</strong> 134 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The post discusses the similarities between DRS and the new overtake button in Formula 1, arguing that the new button makes overtaking even easier than DRS. The discussion highlights mixed opinions on the effectiveness and necessity of these overtaking aids.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The new overtake button is seen as similar to DRS but potentially easier to use.</li>
+                        <li>DRS was introduced to make overtaking possible, not necessarily too easy.</li>
+                        <li>The new button involves battery management, adding a strategic element.</li>
+                        <li>There is a call for better visibility of battery states during races.</li>
+                        <li>Some commenters believe DRS was necessary for overtaking in modern F1.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion reveals a consensus that while DRS was effective in enabling overtaking, the new overtake button introduces a different dynamic with battery management. Some fans appreciate the strategic element, while others feel the change is minimal or unnecessary.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    44. <a href="https://reddit.com/r/formula1/comments/1pjakk3/wheel_covers_are_staying_for_2026/" target="_blank">Wheel covers are staying for 2026</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/poatao_de_w123 |
+                    <strong>Upvotes:</strong> 168 |
+                    <strong>Comments:</strong> 48 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The 2026 technical regulations for Formula 1 will retain wheel covers, as a revision in issue 14 mandates that the outboard disc must fully enclose the wheel rim. This decision aligns with the purpose of preventing the use of wheels or brake ducts to create outwash.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Wheel covers will remain for 2026 due to a revision in the technical regulations.</li>
+                        <li>The internal diameter of the wheel cover has been redacted, and it must fully enclose the wheel rim.</li>
+                        <li>Wheel covers exist to prevent using wheels or brake ducts to create outwash.</li>
+                        <li>Some fans express disappointment over the loss of center-open wheel designs.</li>
+                        <li>There are suggestions to improve the aesthetic appeal of wheel covers, such as using bold flat livery colors.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights a general acceptance of the technical necessity of wheel covers, with some fans expressing nostalgia for open wheel designs and others suggesting aesthetic improvements to make the covers more visually appealing.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    45. <a href="https://reddit.com/r/formula1/comments/1pjv96n/kimi_raikkonen_last_win/" target="_blank">Kimi Raikkonen last win</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/EighteenLevel |
+                    <strong>Upvotes:</strong> 159 |
+                    <strong>Comments:</strong> 48 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses Kimi Raikkonen&#x27;s last win in Formula 1, with comments highlighting the year 2018 and the location Cota, along with general appreciation for the driver.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Kimi Raikkonen&#x27;s last win was in 2018</li>
+                        <li>The win occurred at Cota</li>
+                        <li>Comments express appreciation for Kimi Raikkonen</li>
+                        <li>Discussion includes anticipation for other drivers like Alonso</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion is a mix of appreciation for Kimi Raikkonen, confirmation of his last win in 2018 at Cota, and anticipation for other drivers like Alonso.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    46. <a href="https://reddit.com/r/formula1/comments/1pkifr8/i_got_bored_and_compared_the_basic_stats_from/" target="_blank">I got bored and compared the basic stats from each of the four World Champions on the 2026 grid, specifically from their maiden title seasons.</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/CynetCrawler |
+                    <strong>Upvotes:</strong> 135 |
+                    <strong>Comments:</strong> 50 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post compares the basic stats of the four World Champions on the 2026 grid from their maiden title seasons, presenting data as both raw numbers and percentages. The author aims to provide a basis for comparison and debate, given the varying lengths of F1 calendars over the years.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The comparison includes stats from the maiden title seasons of the four World Champions on the 2026 grid.</li>
+                        <li>Data is presented as both raw numbers and percentages to account for differences in calendar lengths.</li>
+                        <li>Rankings among the champions are provided for both raw and percentage-based stats.</li>
+                        <li>Comments highlight the evolution of F1, with mentions of Max&#x27;s performance and curiosity about teammates&#x27; performances.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights the changes in F1 over time, with comments noting the high number of DNFs in past seasons and the dominance of certain drivers like Max. There is also interest in how teammates performed relative to the champions.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    47. <a href="https://reddit.com/r/formula1/comments/1pk1y2u/the_f1_rookies_season_review/" target="_blank">The F1 Rookies&#x27; Season Review!</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/Rechuchatumare |
+                    <strong>Upvotes:</strong> 127 |
+                    <strong>Comments:</strong> 38 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses the performance and marketability of the new F1 rookies, highlighting their talents and personalities. The discussion includes comments on their potential, humor, and the dynamics within the group.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>The four rookies are considered talented and marketable, worthy of their F1 seats.</li>
+                        <li>The rookies displayed a playful and humorous demeanor, akin to high schoolers.</li>
+                        <li>There was a note of sadness that the group started with five but ended with four.</li>
+                        <li>Comparisons were made between the rookies and established drivers like Lestappen.</li>
+                        <li>The interviewer was praised for being well-prepared for the rookies&#x27; personalities.</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The consensus among commenters was positive, with a focus on the rookies&#x27; talents, marketability, and their playful interactions. There was also a note of sadness about the reduction in the number of rookies from five to four.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    48. <a href="https://reddit.com/r/formula1/comments/1pjdqej/2025_driver_rankings_from_f1analysiscom/" target="_blank">2025 Driver Rankings from F1-analysis.com</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/motorsportanalysis |
+                    <strong>Upvotes:</strong> 127 |
+                    <strong>Comments:</strong> 143 |
+                    <strong>Date:</strong> 2025-12-10
+                </div>
+                <div class="post-summary">The Reddit post discusses the 2025 Driver Rankings from F1-analysis.com, highlighting disagreements on Alonso&#x27;s rating and Tsunoda&#x27;s low ranking, which significantly impacted other drivers&#x27; ratings.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Disagreement on Alonso&#x27;s rating due to perceived bad luck</li>
+                        <li>Tsunoda ranked as the worst driver by a significant margin</li>
+                        <li>Tsunoda&#x27;s low rating affected other drivers like Hadjar, Lawson, and Gasly</li>
+                        <li>Debate on Franco&#x27;s ranking being higher than Isack</li>
+                        <li>Hadjar&#x27;s ranking considered too low by some users</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights disagreements on specific driver ratings, with a focus on Alonso&#x27;s perceived undervaluation and Tsunoda&#x27;s significant negative impact on other drivers&#x27; rankings. Users also debated the rankings of Franco, Isack, and Hadjar.</p>
+                </div>
+            </div>
+
+            <div class="post">
+                <div class="post-title">
+                    49. <a href="https://reddit.com/r/formula1/comments/1pjuwhd/bbc_sport_sports_personality_of_the_year_2025/" target="_blank">[BBC Sport] Sports Personality of the Year 2025 nominees: Hampton, Kelly, Kildunne, Littler, McIlroy, Norris</a>
+                </div>
+                <div class="post-meta">
+                    <strong>Author:</strong> u/PrimeyXE |
+                    <strong>Upvotes:</strong> 126 |
+                    <strong>Comments:</strong> 157 |
+                    <strong>Date:</strong> 2025-12-11
+                </div>
+                <div class="post-summary">The Reddit post discusses the BBC Sport&#x27;s Sports Personality of the Year 2025 nominees, including Hampton, Kelly, Kildunne, Littler, McIlroy, and Norris. The comments highlight Luke Littler&#x27;s popularity and potential to win, given his recent achievements in darts.</div>
+                <div class="key-points">
+                    <h4>Key Points</h4>
+                    <ul>
+                        <li>Nominees include Hampton, Kelly, Kildunne, Littler, McIlroy, and Norris</li>
+                        <li>Luke Littler is favored due to his recent success in darts</li>
+                        <li>Historical context: F1 drivers have won SPOTY 8 times</li>
+                        <li>Littler&#x27;s achievements include becoming World Champ at 17 and World Number 1</li>
+                        <li>Public opinion suggests Littler or McIlroy as likely winners</li>
+                    </ul>
+                </div>
+                <div class="discussion">
+                    <h4>Discussion Highlights</h4>
+                    <p>The discussion highlights Luke Littler&#x27;s significant impact and popularity, with many users predicting his win. Historical context about F1 drivers&#x27; past wins is also noted, along with mentions of other nominees like McIlroy and Norris.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <script>
+            function openTab(tabName) {
+                // Hide all tab content
+                var tabs = document.getElementsByClassName('tab-content');
+                for (var i = 0; i < tabs.length; i++) {
+                    tabs[i].classList.remove('active');
+                }
+
+                // Remove active class from all buttons
+                var buttons = document.getElementsByClassName('tab-button');
+                for (var i = 0; i < buttons.length; i++) {
+                    buttons[i].classList.remove('active');
+                }
+
+                // Show selected tab and mark button as active
+                document.getElementById(tabName).classList.add('active');
+                event.currentTarget.classList.add('active');
+            }
+        </script>
+    </div>
+</body>
+</html>

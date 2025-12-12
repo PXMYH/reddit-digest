@@ -108,3 +108,14 @@ jobs:
             git commit -m "chore: update Reddit digests ($(date +'%Y-%m-%d %H:%M UTC'))"
             git push
           fi
+
+      - name: Generate GitHub Pages index
+        run: |
+          python3 generate_index.py
+          git add docs/index.html
+
+          # Only commit if index.html changed
+          if ! git diff --staged --quiet; then
+            git commit -m "docs: update GitHub Pages index"
+            git push
+          fi
