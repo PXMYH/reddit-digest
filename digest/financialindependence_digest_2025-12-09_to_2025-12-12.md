@@ -8,18 +8,18 @@
 
 ## 1. ### [My retired dad hid $650k of debt from his family. Now he’s in a mental crisis and I’m trying to save my parents' retirement, but don't want to derail my own FIRE plans. What would you do?](https://reddit.com/r/financialindependence/comments/1pjan62/my_retired_dad_hid_650k_of_debt_from_his_family/)
 
-**Author:** u/midnight-marmot | **Upvotes:** 147 | **Comments:** 142 | **Date:** 2025-12-10
+**Author:** u/midnight-marmot | **Upvotes:** 150 | **Comments:** 143 | **Date:** 2025-12-10
 
-**Summary:** The author's retired father hid $650k of debt, causing a family crisis. The author seeks advice on managing the situation without derailing their own financial independence plans.
+**Summary:** A Reddit user seeks advice after discovering their retired father hid $650k in debt, causing a family crisis. The user is trying to balance helping their parents with maintaining their own financial independence plans.
 
 **Key Points:**
-- The father's mental state is deteriorating, possibly due to the recent death of his brother.
-- The family is dealing with significant hidden debt, impacting their retirement plans.
-- The community suggests obtaining financial power of attorney and stopping further financial damage.
-- Downsizing and living within their means is recommended.
-- The father's pension is sufficient for a decent life but not their preferred lifestyle.
+- The father's debt was hidden from the family and revealed after a family crisis.
+- The user is seeking advice on how to manage the situation without derailing their own financial plans.
+- The family is dealing with grief and financial stress simultaneously.
+- The discussion includes suggestions like obtaining financial power of attorney and downsizing living arrangements.
+- There is a consensus that the father's pension is sufficient for a decent life, but not their preferred lifestyle.
 
-**Discussion Highlights:** The community consensus focuses on obtaining financial power of attorney, stopping further financial bleeding, and downsizing to manage the debt. There is also a discussion about the father's pension being adequate for a decent life but not their preferred lifestyle.
+**Discussion Highlights:** The top comments suggest obtaining financial power of attorney, stopping further financial bleeding, and considering downsizing the family home. There is a general consensus that the father's pension is adequate for basic living but not for maintaining their current lifestyle.
 
 ---
 
