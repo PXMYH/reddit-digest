@@ -16,25 +16,19 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Install UV
+      - name: Download pre-built executable
         run: |
-          curl -LsSf https://astral.sh/uv/install.sh | sh
-          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
-
-      - name: Install dependencies
-        run: |
-          uv sync
+          curl -LO https://github.com/PXMYH/reddit-digest/releases/download/v1.0/reddit-digest-macos
+          chmod +x reddit-digest-macos
+          # Move to a standard location
+          mv reddit-digest-macos reddit-digest
 
       - name: Calculate date range (last 7 days)
         id: dates
         run: |
           END_DATE=$(date +%Y-%m-%d)
-          START_DATE=$(date -d '7 days ago' +%Y-%m-%d)
+          # macOS uses -v instead of -d for date arithmetic
+          START_DATE=$(date -v-7d +%Y-%m-%d)
           echo "start_date=$START_DATE" >> $GITHUB_OUTPUT
           echo "end_date=$END_DATE" >> $GITHUB_OUTPUT
           echo "Date range: $START_DATE to $END_DATE"
@@ -43,7 +37,7 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          uv run python summarize_subreddit.py formula1 \
+          ./reddit-digest formula1 \
             --start ${{ steps.dates.outputs.start_date }} \
             --end ${{ steps.dates.outputs.end_date }} \
             --min-upvotes 100 \
@@ -54,7 +48,7 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          uv run python summarize_subreddit.py LocalLLaMA \
+          ./reddit-digest LocalLLaMA \
             --start ${{ steps.dates.outputs.start_date }} \
             --end ${{ steps.dates.outputs.end_date }} \
             --min-upvotes 100 \
@@ -65,7 +59,7 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          uv run python summarize_subreddit.py Fire \
+          ./reddit-digest Fire \
             --start ${{ steps.dates.outputs.start_date }} \
             --end ${{ steps.dates.outputs.end_date }} \
             --min-upvotes 100 \
@@ -76,7 +70,7 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          uv run python summarize_subreddit.py financialindependence \
+          ./reddit-digest financialindependence \
             --start ${{ steps.dates.outputs.start_date }} \
             --end ${{ steps.dates.outputs.end_date }} \
             --min-upvotes 100 \
@@ -87,7 +81,7 @@ jobs:
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
-          uv run python summarize_subreddit.py Bogleheads \
+          ./reddit-digest Bogleheads \
             --start ${{ steps.dates.outputs.start_date }} \
             --end ${{ steps.dates.outputs.end_date }} \
             --min-upvotes 100 \
