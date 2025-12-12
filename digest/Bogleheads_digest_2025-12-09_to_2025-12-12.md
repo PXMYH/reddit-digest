@@ -1,65 +1,83 @@
 # r/Bogleheads Reading Digest
 
 **Period:** 2025-12-09 to 2025-12-12
-**Posts Summarized:** 4
-**Total Posts Analyzed:** 4
+**Posts Summarized:** 5
+**Total Posts Analyzed:** 5
 
 ---
 
 ## 1. [Something to think about: When Compounding Takes Over: The Exact Moment Your Contributions Don’t Matter Anymore](https://reddit.com/r/Bogleheads/comments/1pj56li/something_to_think_about_when_compounding_takes/)
 
-**Author:** u/dudreddit | **Upvotes:** 474 | **Comments:** 130 | **Date:** 2025-12-10
+**Author:** u/dudreddit | **Upvotes:** 477 | **Comments:** 130 | **Date:** 2025-12-10
 
-**Summary:** The post discusses how contributions to wealth become less impactful over time, particularly after reaching around $500K or year 15 of investing. The video linked highlights the shift from contribution-driven growth to compounding-driven growth.
+**Summary:** The post discusses how contributions to wealth become less impactful over time, particularly after year 15 or reaching around $500K, due to the power of compounding. The discussion highlights the trade-offs between continuing contributions and retiring early.
 
 **Key Points:**
-- Contributions are crucial in the early years but become less significant as compounding takes over.
-- After reaching a certain threshold (~$500K), the impact of additional contributions diminishes.
-- The trade-off between working longer for higher spending vs. retiring earlier is a key discussion point.
-- Some commenters suggest that reducing contributions after reaching a comfortable level can be a viable strategy.
+- Contributions are most impactful in the early years of investing.
+- After reaching a certain threshold (~$500K or year 15), compounding takes over and contributions matter less.
+- Spending contributions can increase the wealth needed to support retirement spending.
+- There is a trade-off between working longer for higher spending and retiring earlier.
+- Some users suggest starting a new account to regain the motivation of seeing contributions grow.
 
-**Discussion Highlights:** The discussion highlights the importance of early contributions and the eventual dominance of compounding. There is a consensus that while contributions matter less over time, they are critical in the early stages of wealth accumulation. The trade-offs between working longer and retiring earlier are also a significant point of discussion.
+**Discussion Highlights:** The discussion consensus emphasizes the importance of early contributions and the diminishing returns of later contributions. Users debate the benefits of working longer versus retiring early, with many preferring early retirement despite lower spending.
 
 ---
 
 ## 2. [Will it ever matter or make a difference if you choose the total stock market index vs s&amp;p500?](https://reddit.com/r/Bogleheads/comments/1pio24y/will_it_ever_matter_or_make_a_difference_if_you/)
 
-**Author:** u/sethh27 | **Upvotes:** 437 | **Comments:** 132 | **Date:** 2025-12-09
+**Author:** u/sethh27 | **Upvotes:** 439 | **Comments:** 130 | **Date:** 2025-12-09
 
-**Summary:** The post discusses the differences and potential benefits of choosing a total stock market index fund over an S&P 500 fund, questioning whether the added diversification has historically provided value. The discussion highlights varying perspectives on the practical implications and theoretical advantages of each index.
-
-**Key Points:**
-- The total stock market index offers added diversification compared to the S&P 500.
-- Historical data on the total stock market index is limited, making long-term comparisons difficult.
-- Some argue that the total market fund is a more practical implementation of indexing theory.
-- The S&P 500 was designed to track the total US market using a sampling methodology.
-- In major downturns, swapping between these funds can help with tax-loss harvesting while avoiding wash sale rules.
-
-**Discussion Highlights:** The discussion reveals a mix of opinions, with some favoring the total market index for its broader diversification and theoretical alignment with indexing principles, while others see minimal practical differences between the two. There is a consensus that both are strong investment options, with the choice potentially depending on individual preferences and specific financial strategies like tax-loss harvesting.
+**Summary:** The post discusses the differences and potential benefits of choosing a total stock market index fund over an S&P 500 index fund. While both are considered strong investment options, the discussion highlights nuances in diversification and practical implementation. Key points include: The total stock market index offers added diversification compared to the S&P 500. Historical data shows minimal performance differences between the two indexes. Some investors prefer the total market fund for its broader representation of the U.S. market. The S&P 500 is not considered inferior but may be less diversified than the total market index. Tax-loss harvesting strategies can benefit from switching between these two indexes. The consensus suggests that while the total stock market index may offer slight diversification benefits, the performance difference between the two is often negligible. Investors are encouraged to choose based on personal preference and practical considerations like tax strategies.
 
 ---
 
 ## 3. [$2M at 40, Simple 80/20 ETF Portfolio. At What Point Does DIY Tax Strategy Break Down?](https://reddit.com/r/Bogleheads/comments/1picyy1/2m_at_40_simple_8020_etf_portfolio_at_what_point/)
 
-**Author:** u/CommercialApple2074 | **Upvotes:** 186 | **Comments:** 89 | **Date:** 2025-12-09
+**Author:** u/CommercialApple2074 | **Upvotes:** 191 | **Comments:** 89 | **Date:** 2025-12-09
 
-**Summary:** The author, a 40-year-old financially independent individual with $2M invested, seeks advice on whether to manage their tax strategy independently or hire a professional as their financial situation grows more complex. They discuss their simple investment strategy and the challenges of tax optimization, asset location, and future planning. The discussion highlights a range of approaches to managing finances, with some advocating for DIY methods and others suggesting the value of professional advice, particularly for complex tax planning. Key points include the management of health insurance, taxable income, and the efficiency of different financial management strategies.
+**Summary:** A 40-year-old financially independent individual with $2M invested seeks advice on tax strategy and whether to hire an advisor for managing their portfolio and taxes. The discussion revolves around the feasibility of DIY tax planning versus hiring professionals.
+
+**Key Points:**
+- Author has a simple 80/20 ETF portfolio and is financially independent.
+- Main concern is tax optimization and whether to hire an advisor.
+- Discussion highlights include DIY feasibility, importance of software, health insurance considerations, and no specific threshold for needing an advisor.
+- Community members share their experiences with DIY and professional help.
+- Key considerations include tax loss harvesting, Roth conversions, and withdrawal sequencing.
+
+**Discussion Highlights:** The discussion highlights that many individuals in the $1M–$5M range manage their taxes and investments themselves, but some opt for professional help for specific tasks like tax filing or proactive planning. There is no consensus on a specific threshold where hiring an advisor becomes necessary.
 
 ---
 
 ## 4. [Bought my very first shares of VTI and VXUS today :)](https://reddit.com/r/Bogleheads/comments/1pjzbe4/bought_my_very_first_shares_of_vti_and_vxus_today/)
 
-**Author:** u/nerolyk42 | **Upvotes:** 169 | **Comments:** 29 | **Date:** 2025-12-11
+**Author:** u/nerolyk42 | **Upvotes:** 173 | **Comments:** 29 | **Date:** 2025-12-11
 
-**Summary:** The user shares their excitement about making their first investment in VTI and VXUS, following an 80/20 domestic/international strategy, after building an emergency fund. The community congratulates them and offers constructive feedback.
+**Summary:** The user shares their excitement about making their first investment in VTI and VXUS, following an 80/20 domestic/international strategy, and celebrates reaching this milestone after building an emergency fund.
 
 **Key Points:**
-- User's first investment in VTI and VXUS with an 80/20 strategy
-- Excitement and satisfaction from starting retirement savings
-- Community praise for the investment strategy and emergency fund
-- Suggestion to consider VT instead of manually allocating between VTI and VXUS
+- User invested $400 in VTI and $100 in VXUS, following an 80/20 allocation.
+- They prioritized building an emergency fund before investing.
+- The community praised their strategy and shared similar experiences.
+- Some suggested considering VT instead of manually allocating between VTI and VXUS.
 
-**Discussion Highlights:** The community congratulates the user on their first investment and praises their strategy. There is a suggestion to simplify the investment by using VT instead of manually allocating between VTI and VXUS.
+**Discussion Highlights:** The community congratulated the user on their disciplined approach, validated their investment strategy, and offered practical advice, such as considering VT for simplicity.
+
+---
+
+## 5. [Switched from VTI and VXUS to 100% VT in Roth IRA](https://reddit.com/r/Bogleheads/comments/1pkiltl/switched_from_vti_and_vxus_to_100_vt_in_roth_ira/)
+
+**Author:** u/jboy9622 | **Upvotes:** 129 | **Comments:** 44 | **Date:** 2025-12-11
+
+**Summary:** The author switched from an 80/20 VTI/VXUS allocation to 100% VT in their Roth IRA for simplicity and long-term growth, citing a 30-year investment horizon. The community largely supported this decision, emphasizing ease of management and long-term benefits.
+
+**Key Points:**
+- Author switched to 100% VT for simplicity and long-term investment.
+- Community support for the decision, highlighting ease of management.
+- Mention of expense ratio differences (0.06% vs. 0.03% & 0.05%).
+- Peace of mind and convenience as key factors in the decision.
+- Long-term investment horizon (30 years) as a justification.
+
+**Discussion Highlights:** The discussion consensus supports the switch to 100% VT for its simplicity and long-term benefits, with some comments highlighting the minor cost differences and the peace of mind gained from a simpler investment strategy.
 
 ---
 
