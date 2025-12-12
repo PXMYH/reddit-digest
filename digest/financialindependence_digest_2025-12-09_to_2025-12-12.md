@@ -8,9 +8,9 @@
 
 ## 1. [My retired dad hid $650k of debt from his family. Now he’s in a mental crisis and I’m trying to save my parents' retirement, but don't want to derail my own FIRE plans. What would you do?](https://reddit.com/r/financialindependence/comments/1pjan62/my_retired_dad_hid_650k_of_debt_from_his_family/)
 
-**Author:** u/midnight-marmot | **Upvotes:** 168 | **Comments:** 158 | **Date:** 2025-12-10
+**Author:** u/midnight-marmot | **Upvotes:** 167 | **Comments:** 160 | **Date:** 2025-12-10
 
-**Summary:** A Reddit user's retired father hid $650k of debt from the family, leading to a mental crisis. The user seeks advice on how to manage the situation without derailing their own FIRE plans. Key points include the hidden debt, balancing family support with personal financial goals, and suggestions like obtaining financial power of attorney and downsizing living arrangements. The discussion highlights the need for immediate financial control and sustainable living arrangements for the parents.
+**Summary:** A retired father hid $650k of debt from his family, leading to a mental crisis. The family is now trying to manage the debt while balancing their own financial independence plans. Key points include the hidden debt discovery, the need for financial power of attorney, and suggestions to downsize living arrangements. The community advises stopping further financial bleeding before considering a bailout.
 
 ---
 
