@@ -30,7 +30,7 @@ jobs:
         run: |
           END_DATE=$(date +%Y-%m-%d)
           # macOS uses -v instead of -d for date arithmetic
-          START_DATE=$(date -v-7d +%Y-%m-%d)
+          START_DATE=$(date -v-3d +%Y-%m-%d)
           echo "start_date=$START_DATE" >> $GITHUB_OUTPUT
           echo "end_date=$END_DATE" >> $GITHUB_OUTPUT
           echo "Date range: $START_DATE to $END_DATE"
