@@ -1,250 +1,159 @@
 # r/LocalLLaMA Reading Digest
 
 **Period:** 2025-12-09 to 2025-12-12
-**Posts Summarized:** 15
-**Total Posts Analyzed:** 22
+**Posts Summarized:** 9
+**Total Posts Analyzed:** 23
 
 ---
 
 ## 1. ### [You can now train LLMs 3x faster with 30% less memory! (&lt;3.9GB VRAM)](https://reddit.com/r/LocalLLaMA/comments/1pj51tu/you_can_now_train_llms_3x_faster_with_30_less/)
 
-**Author:** u/danielhanchen | **Upvotes:** 992 | **Comments:** 113 | **Date:** 2025-12-10
+**Author:** u/danielhanchen | **Upvotes:** 994 | **Comments:** 113 | **Date:** 2025-12-10
 
-**Summary:** Unsloth has released new Triton kernels and smart auto packing support, enabling 3x faster LLM training with 30-90% less VRAM without accuracy loss. This allows training models like Qwen3-4B on as little as 3.9GB VRAM while improving speed and stability.
+**Summary:** The post announces new Triton kernels and smart auto packing support from Unsloth, enabling 3x faster LLM training with 30-90% less VRAM and no accuracy loss. Users can now train models like Qwen3-4B on as little as 3.9GB VRAM. The optimizations include faster QK Rotary Embedding, updated SwiGLU/GeGLU kernels, and improved uncontaminated packing.
 
 **Key Points:**
-- 3x (sometimes 5x) faster training with 30-90% less VRAM and no accuracy degradation
-- New custom RoPE and MLP Triton kernels with smart auto uncontaminated packing
-- Optimizations include 2.3x faster QK Rotary Embedding and 2.5x-5x faster uncontaminated packing
-- Works out-of-the-box with default settings and maintains training loss stability
-- Low VRAM users (e.g., 6GB) can benefit significantly from these improvements
+- 3x faster training with 30-90% less VRAM and no accuracy degradation
+- New Triton kernels and smart auto packing support
+- Models like Qwen3-4B can now be trained on 3.9GB VRAM
+- Optimizations include faster QK Rotary Embedding and updated SwiGLU/GeGLU kernels
+- Improved SFT loss stability and predictable GPU utilization
 
-**Discussion Highlights:** Users expressed excitement about the speed improvements, with one noting it's '3x faster compared to Unsloth's old >2.5x faster' performance. Low VRAM users (6GB) see this as particularly beneficial, and there's interest in multi-GPU support (e.g., dual 3090s) and training larger models like Qwen3-14B on consumer GPUs (e.g., RTX 5060ti 16GB).
+**Discussion Highlights:** The community is highly positive about the updates, with users highlighting the benefits for low VRAM setups and expressing interest in multi-GPU support. Some users are curious about the feasibility of training larger models like Qwen3-14B on consumer-grade GPUs.
 
 ---
 
 ## 2. ### [Mistral AI drops 3x as many LLMs in a single week as OpenAI did in 6 years](https://reddit.com/r/LocalLLaMA/comments/1pj8kb6/mistral_ai_drops_3x_as_many_llms_in_a_single_week/)
 
-**Author:** u/Snail_Inference | **Upvotes:** 814 | **Comments:** 104 | **Date:** 2025-12-10
+**Author:** u/Snail_Inference | **Upvotes:** 815 | **Comments:** 105 | **Date:** 2025-12-10
 
-**Summary:** Mistral AI released multiple GGUF models for local use, including coding, reasoning, and instruct models with varying parameters (3B to 675B). The models are licensed under Apache 2.0 and have garnered significant community interest.
+**Summary:** Mistral AI released multiple GGUF models in a single week, including cutting-edge coding models, top-tier reasoning models, and powerful instruct models, all under Apache 2.0 license. The post highlights the variety of models with different parameter sizes, ready for local use.
 
 **Key Points:**
-- Mistral AI released a wide range of models in a single week, including coding, reasoning, and instruct models.
-- Models vary in size from 3B to 675B parameters, catering to different hardware capabilities.
-- All models are available under the Apache 2.0 license.
-- Community feedback highlights improvements in model performance and appreciation for open-source contributions.
-- Some discussions compare Mistral's approach to OpenAI's, noting differences in engagement strategies.
+- Mistral AI released a large number of models in a short time frame.
+- Models include coding, reasoning, and instruct variants with parameter sizes ranging from 3B to 675B.
+- All models are available under Apache 2.0 license.
+- The post gained significant attention with 815 upvotes and 105 comments.
+- Top comments discuss the quality of the models and appreciate open-source contributions.
 
-**Discussion Highlights:** The community appreciates Mistral AI's open-source contributions and notes improvements in model performance. Some discussions compare Mistral's approach to OpenAI's, with mixed opinions on engagement strategies.
+**Discussion Highlights:** The discussion highlights appreciation for Mistral AI's open-source contributions and the quality of their models. Some comments compare Mistral's models favorably to OpenAI's offerings, while others critique OpenAI's engagement strategies.
 
 ---
 
 ## 3. ### [Introducing: Devstral 2 and Mistral Vibe CLI. | Mistral AI](https://reddit.com/r/LocalLLaMA/comments/1pi9q3t/introducing_devstral_2_and_mistral_vibe_cli/)
 
-**Author:** u/YanderMan | **Upvotes:** 683 | **Comments:** 218 | **Date:** 2025-12-09
+**Author:** u/YanderMan | **Upvotes:** 686 | **Comments:** 218 | **Date:** 2025-12-09
 
-**Summary:** The Reddit post introduces Devstral 2, a 123B-parameter dense transformer with a 256K context window, and Mistral Vibe CLI by Mistral AI. The community discussion highlights excitement about the potential of these models, particularly the 24B model, and skepticism about the benchmarks.
+**Summary:** The post introduces Devstral 2, a 123B-parameter dense transformer with a 256K context window, and Mistral Vibe CLI by Mistral AI. The community discusses the potential impact and feasibility of these models.
 
 **Key Points:**
 - Devstral 2 is a 123B-parameter dense transformer with a 256K context window.
-- The 24B model is generating significant interest in the community.
-- There is skepticism about the benchmarks provided by Mistral AI.
-- The community is eager to test the models locally.
-- The post has gained popularity and recognition within the community.
+- The post gained significant attention with 686 upvotes and 218 comments.
+- Community members express excitement and skepticism about the new models.
+- A 24B model is mentioned as particularly promising.
+- Discussion includes benchmarks and local runnability of the models.
 
-**Discussion Highlights:** The discussion is largely positive, with excitement about the potential of the new models, particularly the 24B model. However, there is also skepticism about the benchmarks and a desire to test the models locally to verify their performance.
+**Discussion Highlights:** The community shows a mix of excitement and skepticism. Many are eager to try the new models, especially the 24B variant, but some question the feasibility of large dense models. The discussion also touches on benchmarks and the potential for local, efficient coding with these models.
 
 ---
 
-## 4. ### [new CLI experience has been merged into llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1pj4j87/new_cli_experience_has_been_merged_into_llamacpp/)
+## 4. ### [New in llama.cpp: Live Model Switching](https://reddit.com/r/LocalLLaMA/comments/1pk0ubn/new_in_llamacpp_live_model_switching/)
 
-**Author:** u/jacek2023 | **Upvotes:** 409 | **Comments:** 122 | **Date:** 2025-12-10
+**Author:** u/paf1138 | **Upvotes:** 430 | **Comments:** 81 | **Date:** 2025-12-11
 
-**Summary:** A new CLI experience has been merged into llama.cpp, as announced in a GitHub pull request. The community is discussing its potential impact on ollama.
+**Summary:** The Reddit post highlights a new feature in llama.cpp called 'Live Model Switching', which allows users to switch models without restarting the server, significantly improving workflow flexibility. The post has gained popularity, with the community appreciating the recent UX improvements.
+
+**Key Points:**
+- Live Model Switching feature introduced in llama.cpp
+- Allows model switching without server restart
+- Improves workflow flexibility and testing efficiency
+- Community appreciates recent UX improvements
+- Post recognized for its popularity and contribution
+
+**Discussion Highlights:** The community discussion highlights the significance of the Live Model Switching feature for workflow flexibility and testing efficiency. There is also appreciation for the recent UX improvements and recognition of the post's popularity and contribution to the community.
+
+---
+
+## 5. ### [Mistral’s Vibe CLI now supports a 200K token context window (previously 100K)](https://reddit.com/r/LocalLLaMA/comments/1pjw7rj/mistrals_vibe_cli_now_supports_a_200k_token/)
+
+**Author:** u/Dear-Success-1441 | **Upvotes:** 412 | **Comments:** 36 | **Date:** 2025-12-11
+
+**Summary:** Mistral’s Vibe CLI has doubled its context window from 100K to 200K tokens, a change achieved with a simple configuration update. The community discusses the practical implications and usability of such large context windows.
+
+**Key Points:**
+- Context window increased from 100K to 200K tokens
+- Change implemented via a single-line config update
+- Community acknowledges the feature but notes potential usability challenges
+- Large context windows may struggle with practical performance
+- Feature is appreciated for summarizing long sessions
+
+**Discussion Highlights:** The community generally appreciates the expanded context window but highlights the difference between supporting large contexts and effectively utilizing them. Some users note that models often struggle with performance beyond 100K tokens, though the feature is useful for specific tasks like session summarization.
+
+---
+
+## 6. ### [new CLI experience has been merged into llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1pj4j87/new_cli_experience_has_been_merged_into_llamacpp/)
+
+**Author:** u/jacek2023 | **Upvotes:** 411 | **Comments:** 122 | **Date:** 2025-12-10
+
+**Summary:** A new CLI experience has been merged into llama.cpp, as announced in a GitHub pull request. The community discusses its potential impact, including the possibility of it replacing ollama.
 
 **Key Points:**
 - New CLI experience merged into llama.cpp
-- GitHub pull request #17824 referenced
-- Community discussing potential impact on ollama
-- Post received 409 upvotes and 122 comments
-- Top comment suggests ollama might be affected
+- GitHub pull request #17824 linked
+- Community speculates about impact on ollama
+- Post received 411 upvotes and 122 comments
 
-**Discussion Highlights:** The discussion highlights a potential shift in the ecosystem, with some users speculating that this update could impact the popularity or relevance of ollama.
+**Discussion Highlights:** The top comment suggests this update might lead to the decline of ollama, indicating community interest in the competitive implications of the new CLI experience.
 
 ---
 
-## 5. ### [I bought a Grace-Hopper server for €7.5k on Reddit and converted it into a desktop.](https://reddit.com/r/LocalLLaMA/comments/1pjbhyz/i_bought_a_gracehopper_server_for_75k_on_reddit/)
+## 7. ### [I bought a Grace-Hopper server for €7.5k on Reddit and converted it into a desktop.](https://reddit.com/r/LocalLLaMA/comments/1pjbhyz/i_bought_a_gracehopper_server_for_75k_on_reddit/)
 
-**Author:** u/Reddactor | **Upvotes:** 407 | **Comments:** 103 | **Date:** 2025-12-10
+**Author:** u/Reddactor | **Upvotes:** 406 | **Comments:** 103 | **Date:** 2025-12-10
 
 **Summary:** The author purchased a Grace-Hopper server for €7.5k and converted it into a desktop capable of running large AI models. The post details the challenges and creative solutions involved in repurposing enterprise hardware for personal use.
 
 **Key Points:**
 - Author bought a Grace-Hopper server for €7.5k and converted it into a desktop.
-- The system can run 235B parameter models locally.
-- The process involved overcoming hardware challenges, including cooling issues.
-- The post highlights the potential for future bargains in AI hardware.
-- Community discussion emphasizes the value of the deal and the effort required.
+- The system can run 235B parameter models at home.
+- The process involved overcoming hardware challenges and near-disasters.
+- The community appreciates the effort and discusses potential future bargains in AI hardware.
+- Suggestions include using vllm for better performance.
 
-**Discussion Highlights:** The community praised the author's achievement, noting the significant effort and cost savings. Some comments highlighted the potential for future hardware bargains and recommended tools like vllm for optimization.
+**Discussion Highlights:** The community praised the author's effort and discussed the potential for future bargains in AI hardware. Some users suggested using vllm for better performance with the hardware.
 
 ---
 
-## 6. ### [New in llama.cpp: Live Model Switching](https://reddit.com/r/LocalLLaMA/comments/1pk0ubn/new_in_llamacpp_live_model_switching/)
+## 8. ### [DeepSeek-V3.2-REAP: 508B and 345B checkpoints](https://reddit.com/r/LocalLLaMA/comments/1pigb3i/deepseekv32reap_508b_and_345b_checkpoints/)
 
-**Author:** u/paf1138 | **Upvotes:** 400 | **Comments:** 72 | **Date:** 2025-12-11
+**Author:** u/ilzrvch | **Upvotes:** 186 | **Comments:** 26 | **Date:** 2025-12-09
 
-**Summary:** The Reddit post highlights a new feature in llama.cpp called 'Live Model Switching,' which allows users to switch models without restarting the server, improving workflow flexibility and testing efficiency.
+**Summary:** The post announces the release of DeepSeek-V3.2-REAP models with 508B and 345B checkpoints, available on Hugging Face. The author expresses excitement and mentions upcoming agentic evaluations for coding and other tasks.
 
 **Key Points:**
-- Live Model Switching enables seamless model changes without server restarts
-- This feature enhances workflow flexibility and testing efficiency
-- The community appreciates the progress in closing UX gaps
-- The feature is seen as a significant improvement for model testing
-- The post received recognition with a special flair and Discord feature
+- Release of DeepSeek-V3.2-REAP models at 25% and 50% compression
+- Links to Hugging Face repositories for both model sizes
+- Mention of upcoming agentic evaluations for coding and beyond
+- User appreciation and requests for additional formats or models
+- Discussion about potential use cases and future releases
 
-**Discussion Highlights:** The community discussion highlights enthusiasm for the new feature, with comments praising its impact on workflow flexibility and testing efficiency. Some users expressed surprise at the timing of the feature's release, while others appreciated the overall progress in improving user experience.
+**Discussion Highlights:** Users expressed gratitude for the release and shared their experiences with similar models. There were requests for GGUF format, conversation/RP models, and specific model variants like R1 0528. Some users also inquired about the possibility of even smaller compression ratios.
 
 ---
 
-## 7. ### [Mistral’s Vibe CLI now supports a 200K token context window (previously 100K)](https://reddit.com/r/LocalLLaMA/comments/1pjw7rj/mistrals_vibe_cli_now_supports_a_200k_token/)
+## 9. ### [Agentic Local AI on CPU = Mistral Vibe + Granite-4-h-1b](https://reddit.com/r/LocalLLaMA/comments/1pkdkjo/agentic_local_ai_on_cpu_mistral_vibe_granite4h1b/)
 
-**Author:** u/Dear-Success-1441 | **Upvotes:** 385 | **Comments:** 35 | **Date:** 2025-12-11
+**Author:** u/PotentialFunny7143 | **Upvotes:** 136 | **Comments:** 29 | **Date:** 2025-12-11
 
-**Summary:** Mistral’s Vibe CLI has doubled its context window from 100K to 200K tokens, a change achieved with a simple configuration update. The community discussed the practical implications and challenges of large context windows.
+**Summary:** The post discusses the effectiveness of using Mistral Vibe and Granite-4-h-1b for agentic local AI on CPU, highlighting its capabilities and performance.
 
 **Key Points:**
-- Context window increased from 100K to 200K tokens
-- Change implemented via a single line config update
-- Community reactions highlight both enthusiasm and skepticism about practical utility
-- Large context windows may struggle with usefulness beyond a certain threshold
+- Mistral Vibe and Granite-4-h-1b are effective for local AI on CPU.
+- Users are interested in performance metrics like tokens per second and hardware requirements.
+- There is curiosity about the UI and the upper boundary of capabilities.
+- Comparisons with other models like Cline are being discussed.
 
-**Discussion Highlights:** The discussion emphasized the simplicity of the change (a single config line) and debated the real-world utility of such large context windows, with some users noting that models often struggle with context beyond 100K tokens.
-
----
-
-## 8. ### [zai-org/GLM-TTS · Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1pj5rg5/zaiorgglmtts_hugging_face/)
-
-**Author:** u/Dark_Fire_12 | **Upvotes:** 313 | **Comments:** 61 | **Date:** 2025-12-10
-
-**Summary:** The Reddit post highlights GLM-TTS, a text-to-speech model with advanced features like zero-shot voice cloning, emotion control, and bilingual support. The discussion reflects enthusiasm for the rapid development and quality of GLM models. Key points include zero-shot voice cloning, RL-enhanced emotion control, high-quality synthesis, bilingual support, and community enthusiasm. The top comments express excitement about the frequent releases of high-quality models by the GLM team, with users praising the innovation and looking forward to future developments.
-
----
-
-## 9. ### [Collection of every GPU from AMD and Nvidia](https://reddit.com/r/LocalLLaMA/comments/1pjgce6/collection_of_every_gpu_from_amd_and_nvidia/)
-
-**Author:** u/No_Palpitation7740 | **Upvotes:** 303 | **Comments:** 32 | **Date:** 2025-12-10
-
-**Summary:** The Reddit post discusses a collection of GPUs from AMD and Nvidia, highlighting its scope and completeness. Users share their experiences and opinions on the collection, noting both its breadth and some omissions.
-
-**Key Points:**
-- The collection is extensive but not exhaustive, as noted by users.
-- Users share personal experiences with various GPUs, including Nvidia and ATI models.
-- Notable mentions include the ATi Radeon 9700 pro and 3DFX voodoo.
-- The discussion highlights the evolution of GPU technology and user preferences.
-
-**Discussion Highlights:** The discussion revolves around the completeness of the GPU collection, with users pointing out missing models and sharing their personal experiences with different GPUs. There is a consensus that while the collection is impressive, it is not all-encompassing.
-
----
-
-## 10. ### [Leaked footage from Meta's post-training strategy meeting.](https://reddit.com/r/LocalLLaMA/comments/1pjvtgn/leaked_footage_from_metas_posttraining_strategy/)
-
-**Author:** u/YouCanMake1t | **Upvotes:** 271 | **Comments:** 67 | **Date:** 2025-12-11
-
-**Summary:** The Reddit post discusses Meta's post-training strategy meeting, with comments highlighting concerns about data sourcing, team expertise, and copyright issues in AI training.
-
-**Key Points:**
-- Meta allegedly downloaded a large number of videos but did not use them for training.
-- Questions about the expertise of Meta's AI team leadership.
-- Comparison of Meta's practices with other companies like GLM and Deepseek.
-- Copyright litigation concerns related to training data sources.
-
-**Discussion Highlights:** The discussion focuses on the ethical and legal implications of data sourcing for AI training, with a consensus that transparency and proper attribution are critical.
-
----
-
-## 11. ### [We did years of research so you don’t have to guess your GGUF datatypes](https://reddit.com/r/LocalLLaMA/comments/1pj7wjd/we_did_years_of_research_so_you_dont_have_to/)
-
-**Author:** u/enrique-byteshape | **Upvotes:** 267 | **Comments:** 78 | **Date:** 2025-12-10
-
-**Summary:** The post introduces ShapeLearn, a method for optimizing datatypes in GGUF models, and announces the release of quantized models like Qwen3 4B and Llama 3.1 8B, focusing on low-bit quantization and providing benchmarks.
-
-**Key Points:**
-- ShapeLearn uses gradient descent to optimize per-tensor bitlengths for quantization.
-- GGUF models are released with variants from ~5 bits to ~2.7 bits per weight.
-- Benchmarks are provided for multiple hardware targets.
-- The method is general and can be applied to various models and tasks.
-- Positive feedback and interest in further applications from the community.
-
-**Discussion Highlights:** The discussion highlights positive feedback on the work, interest in applying the method to larger models, and offers for collaboration. Some users also shared humorous comments and expressed genuine interest in the benefits of the method.
-
----
-
-## 12. ### [Devstral-Small-2-24B-Instruct-2512 on Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1piabn8/devstralsmall224binstruct2512_on_hugging_face/)
-
-**Author:** u/paf1138 | **Upvotes:** 238 | **Comments:** 23 | **Date:** 2025-12-09
-
-**Summary:** The Reddit post announces the release of the Devstral-Small-2-24B-Instruct-2512 model on Hugging Face, with users expressing enthusiasm and appreciation for Mistral's work.
-
-**Key Points:**
-- New model Devstral-Small-2-24B-Instruct-2512 released
-- Users excited about the model
-- Mention of a larger 123B variant
-- Appreciation for Mistral's contributions
-
-**Discussion Highlights:** The discussion highlights enthusiasm for the new model, with users appreciating Mistral's work and mentioning a larger variant in the collection.
-
----
-
-## 13. ### [bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF](https://reddit.com/r/LocalLLaMA/comments/1pihu16/bartowskimistralai/)
-
-**Author:** u/mantafloppy | **Upvotes:** 216 | **Comments:** 41 | **Date:** 2025-12-09
-
-**Summary:** The Reddit post discusses the 'bartowski/mistralai_Devstral-Small-2-24B-Instruct-2512-GGUF' model, highlighting contributions from community members, technical challenges, and mixed reviews on its performance compared to other models.
-
-**Key Points:**
-- Acknowledgment of contributors (ngxson and compilade) for resolving conversion issues.
-- Technical challenges and solutions related to merging PRs for functionality.
-- Mixed reviews on coding ability, with some users preferring smaller models like GPT-OSS 20B.
-- Performance issues reported in tasks like generating an HTML Snake game.
-- Discussion on the model's performance in Mistral AI's new Vibe CLI.
-
-**Discussion Highlights:** The discussion highlights technical collaboration and mixed user experiences, with some users reporting success after merging PRs, while others express disappointment in the model's coding and task performance compared to alternatives like Qwen3-30B.
-
----
-
-## 14. ### [What is the smartest uncensored nsfw LLM you can run with 12GB VRAM and 32GB RAM?](https://reddit.com/r/LocalLLaMA/comments/1pkidf6/what_is_the_smartest_uncensored_nsfw_llm_you_can/)
-
-**Author:** u/Dex921 | **Upvotes:** 107 | **Comments:** 42 | **Date:** 2025-12-11
-
-**Summary:** The post asks for recommendations on the smartest uncensored NSFW LLM that can run with 12GB VRAM and 32GB RAM, including both local and closed-source options. The discussion highlights several models like TheDrummer_Cydonia-24B, GPT-oss-20b heretic models, and versions of mistral nemo.
-
-**Key Points:**
-- The post seeks recommendations for uncensored NSFW LLMs that can run with specific hardware constraints.
-- The discussion includes both local and closed-source models, despite the hardware constraints not applying to the latter.
-- Top comments mention models like TheDrummer_Cydonia-24B, GPT-oss-20b heretic models, and mistral nemo.
-- There is a notable comment pointing out that the discussion is ignoring the OP's specific request about NSFW uncensored models.
-- Some comments provide personal experiences and recommendations for specific models.
-
-**Discussion Highlights:** The discussion highlights a few models that users have found effective for uncensored NSFW use, with TheDrummer_Cydonia-24B and GPT-oss-20b heretic models being mentioned as viable options. There is also a consensus that mistral nemo versions could be suitable. However, some comments deviate from the main topic, focusing on the hardware constraints and the nature of the request.
-
----
-
-## 15. ### [MagicQuant - Hybrid Evolution GGUF (TPS boosts, precision gains, full transparency)](https://reddit.com/r/LocalLLaMA/comments/1piasv8/magicquant_hybrid_evolution_gguf_tps_boosts/)
-
-**Author:** u/crossivejoker | **Upvotes:** 100 | **Comments:** 65 | **Date:** 2025-12-09
-
-**Summary:** The post introduces MagicQuant, a system that evolves hybrid GGUF quantizations to optimize tensor configurations automatically. It highlights significant improvements in performance and precision loss compared to standard baselines, as demonstrated with the Seed-OSS 36B model.
-
-**Key Points:**
-- MagicQuant automates the optimization of GGUF quantizations.
-- It uses survival rounds, epsilon-greedy exploration, and precision-loss scoring.
-- Example with Seed-OSS 36B shows a 15.5% increase in TPS and 75% reduction in precision loss.
-- Community feedback is positive, with users praising the performance improvements.
-- Requests for additional model support and questions about the development process.
-
-**Discussion Highlights:** The discussion highlights positive feedback on the performance improvements of MagicQuant, with users expressing interest in additional model support. Some users also raised questions about the development process and the use of AI in documentation.
+**Discussion Highlights:** The discussion focuses on performance metrics, hardware requirements, and comparisons with other models. Users are keen on understanding the practical aspects and capabilities of Mistral Vibe and Granite-4-h-1b.
 
 ---
 
