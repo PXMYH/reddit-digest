@@ -18,8 +18,8 @@ jobs:
 
       - name: Download pre-built executable
         run: |
-          # Use GitHub CLI to download from private release (handles auth automatically)
-          gh release download v1.0 --pattern "reddit-digest-macos" --repo PXMYH/reddit-digest
+          # Use GitHub CLI to download from latest release (handles auth automatically)
+          gh release download --pattern "reddit-digest-macos" --repo PXMYH/reddit-digest
           # Move to a standard location
           mv reddit-digest-macos reddit-digest
           # Add executable permission
