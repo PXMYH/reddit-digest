@@ -1,6 +1,16 @@
 # Reddit Digest GitHub Actions Workflow
 
-This workflow automatically generates Reddit digests for specified subreddits every 4 hours.
+This workflow automatically generates Reddit digests for specified subreddits every 4 hours using pre-built executables.
+
+## Quick Start
+
+Get your Reddit digests up and running in 3 steps:
+
+1. **Add API Key**: Go to Repository Settings → Secrets → Actions → Add `OPENROUTER_API_KEY` ([get one free](https://openrouter.ai/keys))
+2. **Enable Actions**: Settings → Actions → General → Enable "Read and write permissions"
+3. **Run Manually**: Actions tab → "Reddit Digest Generator" → "Run workflow"
+
+Done! Digests will be generated every 4 hours and auto-committed to the `digest/` directory.
 
 ## Setup Instructions
 
@@ -80,7 +90,7 @@ Add a new step to the workflow:
   env:
     OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
   run: |
-    uv run python summarize_subreddit.py YourSubreddit \
+    ./reddit-digest YourSubreddit \
       --start ${{ steps.dates.outputs.start_date }} \
       --end ${{ steps.dates.outputs.end_date }} \
       --min-upvotes 100 \
@@ -99,14 +109,15 @@ Modify the `--min-upvotes` and `--min-comments` parameters:
 
 ### Change Date Range
 
-The workflow currently uses a rolling 7-day window. To change this, modify the date calculation step:
+The workflow currently uses a rolling 3-day window. To change this, modify the date calculation step:
 
 ```yaml
-- name: Calculate date range (last 30 days)
+- name: Calculate date range (last 7 days)
   id: dates
   run: |
     END_DATE=$(date +%Y-%m-%d)
-    START_DATE=$(date -d '30 days ago' +%Y-%m-%d)  # Changed from 7 to 30
+    # macOS: use -v, Linux: use -d '7 days ago'
+    START_DATE=$(date -v-7d +%Y-%m-%d)
     echo "start_date=$START_DATE" >> $GITHUB_OUTPUT
     echo "end_date=$END_DATE" >> $GITHUB_OUTPUT
 ```
@@ -138,14 +149,18 @@ The workflow currently uses a rolling 7-day window. To change this, modify the d
 ## Workflow Structure
 
 ```
-1. Checkout code
-2. Setup Python 3.12
-3. Install UV package manager
-4. Install dependencies (uv sync)
-5. Calculate date range (last 7 days)
-6. Generate digests for each subreddit
-7. Commit and push results to repository
+1. Checkout repository
+2. Download pre-built executable from latest GitHub release
+3. Calculate rolling 3-day date range
+4. Generate digests for each subreddit (parallel execution)
+5. Auto-commit and push results to digest/ directory
 ```
+
+**Benefits of Pre-built Executable:**
+- ✅ **Fast startup** (~10 seconds vs 2-5 minutes)
+- ✅ **No dependencies** (standalone binary)
+- ✅ **Auto-updates** (always uses latest release)
+- ✅ **Simple maintenance** (no workflow changes needed)
 
 Each digest generation step uses `continue-on-error: true` to ensure one failure doesn't stop the entire workflow.
 

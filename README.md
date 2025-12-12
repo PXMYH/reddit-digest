@@ -2,15 +2,6 @@
 
 An AI-powered tool that generates reading digests from Reddit subreddits using the **ACE (Agentic Context Engineering)** framework for self-improving summarization.
 
-## 🆕 v2.0 - Major Update!
-
-**What's New:**
-- ✅ **No Reddit API credentials required** - Uses public JSON API
-- ✅ **OpenRouter integration** - Access 100+ LLM models with one API key
-- ✅ **Simpler setup** - Just one API key needed!
-
-**Upgrading from v1.0?** See [Migration Guide](#migration-from-v10) below.
-
 ## Features
 
 - 🚫 **No Authentication Required**: Uses Reddit's public JSON API - no API credentials needed!
@@ -35,11 +26,7 @@ An AI-powered tool that generates reading digests from Reddit subreddits using t
 ### 1. Install Dependencies
 
 ```bash
-# Using uv (recommended - faster and better dependency management)
 uv pip install -r requirements.txt
-
-# Or using traditional pip
-pip install -r requirements.txt
 ```
 
 ### 2. Get OpenRouter API Key
@@ -230,32 +217,6 @@ The tool uses three ACE components:
 
 As you use the tool more, it learns what makes a good summary and improves its output quality.
 
-## Supported LLM Models
-
-The tool supports **100+ models** via OpenRouter with a single API key:
-
-### Via OpenRouter (Recommended)
-
-**Anthropic (Claude):**
-- `openrouter/mistralai/devstral-2512:free` (default, high quality)
-- `openrouter/anthropic/claude-3-opus`
-- `openrouter/anthropic/claude-3-haiku`
-
-**OpenAI:**
-- `openrouter/openai/gpt-4o`
-- `openrouter/openai/gpt-4-turbo`
-- `openrouter/openai/gpt-3.5-turbo`
-
-**Google:**
-- `openrouter/google/gemini-pro`
-- `openrouter/google/gemini-1.5-pro`
-
-**Meta:**
-- `openrouter/meta-llama/llama-3.1-70b-instruct`
-- `openrouter/meta-llama/llama-3.1-405b-instruct`
-
-**And many more at:** https://openrouter.ai/models
-
 ### Direct Provider APIs (Alternative)
 
 If you prefer to use provider APIs directly:
@@ -393,63 +354,3 @@ This tool has been enhanced with learned strategies from the ACE framework's ski
 2. **Rate Limiting**: Automatic delays between requests to respect API limits
 3. **Checkpoint System**: Save progress every N posts, auto-resume on interruption
 4. **Improved Reliability**: Better error handling and recovery mechanisms
-
-## Migration from v1.0
-
-If you were using v1.0 with Reddit API credentials, here's how to upgrade:
-
-### Quick Migration Steps
-
-1. **Update dependencies:**
-   ```bash
-   uv pip install -r requirements.txt
-   ```
-
-2. **Get OpenRouter API key:**
-   - Visit https://openrouter.ai/keys
-   - Create a new API key
-
-3. **Update `.env` file:**
-   ```bash
-   # Remove these lines (no longer needed):
-   # REDDIT_CLIENT_ID=...
-   # REDDIT_CLIENT_SECRET=...
-   # REDDIT_USER_AGENT=...
-
-   # Add this line:
-   OPENROUTER_API_KEY=sk-or-v1-your-key-here
-   ```
-
-4. **Test it:**
-   ```bash
-   uv run python summarize_subreddit.py python \
-     --start 2024-12-01 --end 2024-12-10 --max-posts 5
-   ```
-
-### What Changed
-
-**✅ Improvements:**
-- No Reddit API credentials needed
-- Access to 100+ LLM models
-- Simpler setup process
-- Higher rate limits (public API)
-
-**🔄 Changes:**
-- Default model changed from `gpt-4o-mini` to `openrouter/mistralai/devstral-2512:free`
-- Reddit fetcher now uses `requests` instead of PRAW
-- Rate limiting behavior slightly different (more permissive)
-
-**✅ Unchanged:**
-- All command-line options work the same
-- Output formats (MD, JSON, HTML) unchanged
-- Checkpointing and resume functionality
-- Skillbook persistence
-
-For detailed migration information, see `MIGRATION_GUIDE.md`.
-
-## Credits
-
-- **ACE Framework**: Agentic Context Engineering for self-improving AI
-- **OpenRouter**: Universal LLM API gateway (100+ models)
-- **LiteLLM**: Universal LLM API interface
-- **Reddit Public JSON API**: No authentication required
