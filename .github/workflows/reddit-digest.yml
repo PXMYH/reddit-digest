@@ -8,7 +8,7 @@ on:
 
 jobs:
   generate-digests:
-    runs-on: self-hosted
+    runs-on: [self-hosted, mac-mini]
 
     steps:
       - name: Checkout repository
