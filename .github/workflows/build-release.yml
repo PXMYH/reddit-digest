@@ -1,0 +1,174 @@
+name: Build and Release Reddit Digest
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'  # Trigger on version tags like v1.0.0
+  workflow_dispatch:  # Allow manual triggers for testing
+    inputs:
+      tag_name:
+        description: 'Release tag name (e.g., v1.0.0)'
+        required: true
+        default: 'v0.1.0'
+
+jobs:
+  build:
+    name: Build for ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        include:
+          - os: ubuntu-latest
+            platform: linux
+            executable_name: reddit-digest-linux
+            python_version: '3.12'
+          - os: macos-latest
+            platform: macos
+            executable_name: reddit-digest-macos
+            python_version: '3.12'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python_version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python_version }}
+
+      - name: Install UV
+        run: |
+          curl -LsSf https://astral.sh/uv/install.sh | sh
+          echo "$HOME/.cargo/bin" >> $GITHUB_PATH
+
+      - name: Install dependencies
+        run: |
+          uv sync
+
+      - name: Install PyInstaller
+        run: |
+          uv pip install pyinstaller
+
+      - name: Build executable
+        run: |
+          uv run pyinstaller reddit_digest.spec
+
+      - name: Rename executable
+        run: |
+          mv dist/reddit-digest dist/${{ matrix.executable_name }}
+
+      - name: Verify executable
+        run: |
+          chmod +x dist/${{ matrix.executable_name }}
+          file dist/${{ matrix.executable_name }}
+          ls -lh dist/${{ matrix.executable_name }}
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.executable_name }}
+          path: dist/${{ matrix.executable_name }}
+          retention-days: 7
+
+  release:
+    name: Create GitHub Release
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for creating releases
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: ./artifacts
+
+      - name: Display structure of downloaded files
+        run: ls -R ./artifacts
+
+      - name: Prepare release assets
+        run: |
+          mkdir -p release
+          cp artifacts/reddit-digest-linux/reddit-digest-linux release/
+          cp artifacts/reddit-digest-macos/reddit-digest-macos release/
+          chmod +x release/*
+
+      - name: Get tag name
+        id: get_tag
+        run: |
+          if [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "tag_name=${{ github.event.inputs.tag_name }}" >> $GITHUB_OUTPUT
+          else
+            echo "tag_name=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create checksums
+        run: |
+          cd release
+          sha256sum reddit-digest-linux > reddit-digest-linux.sha256
+          sha256sum reddit-digest-macos > reddit-digest-macos.sha256
+          cat *.sha256
+
+      - name: Create Release
+        id: create_release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.get_tag.outputs.tag_name }}
+          name: Reddit Digest Generator ${{ steps.get_tag.outputs.tag_name }}
+          body: |
+            ## Reddit Digest Generator ${{ steps.get_tag.outputs.tag_name }}
+
+            Automated Reddit digest generator with ACE framework integration.
+
+            ### Downloads
+
+            **Linux (Ubuntu)**:
+            - [reddit-digest-linux](https://github.com/${{ github.repository }}/releases/download/${{ steps.get_tag.outputs.tag_name }}/reddit-digest-linux) (64-bit)
+            - SHA256: See `reddit-digest-linux.sha256`
+
+            **macOS**:
+            - [reddit-digest-macos](https://github.com/${{ github.repository }}/releases/download/${{ steps.get_tag.outputs.tag_name }}/reddit-digest-macos) (ARM64/Intel)
+            - SHA256: See `reddit-digest-macos.sha256`
+
+            ### Installation
+
+            ```bash
+            # Download for your platform
+            # Linux:
+            curl -LO https://github.com/${{ github.repository }}/releases/download/${{ steps.get_tag.outputs.tag_name }}/reddit-digest-linux
+            chmod +x reddit-digest-linux
+
+            # macOS:
+            curl -LO https://github.com/${{ github.repository }}/releases/download/${{ steps.get_tag.outputs.tag_name }}/reddit-digest-macos
+            chmod +x reddit-digest-macos
+            ```
+
+            ### Usage
+
+            ```bash
+            # Set your OpenRouter API key
+            export OPENROUTER_API_KEY="your-key-here"
+
+            # Run
+            ./reddit-digest-linux stocks --start 2025-12-01 --end 2025-12-07 --min-upvotes 10 --min-comments 10
+            ```
+
+            See [DEPLOYMENT.md](https://github.com/${{ github.repository }}/blob/main/DEPLOYMENT.md) for detailed setup instructions.
+
+            ### What's New
+
+            - Standalone executables for Linux and macOS
+            - No Python installation required
+            - All dependencies bundled
+            - 50-60MB file size per platform
+
+          draft: false
+          prerelease: false
+          files: |
+            release/reddit-digest-linux
+            release/reddit-digest-linux.sha256
+            release/reddit-digest-macos
+            release/reddit-digest-macos.sha256

@@ -24,7 +24,33 @@ This deployment method creates a single executable file that:
 
 ## Quick Start
 
-### 1. Build the Executable
+### Option A: Download Pre-built Binary (Easiest)
+
+Download the latest release for your platform from [GitHub Releases](https://github.com/YOUR_ORG/YOUR_REPO/releases):
+
+**Linux (Ubuntu)**:
+```bash
+# Download latest release
+curl -LO https://github.com/YOUR_ORG/YOUR_REPO/releases/latest/download/reddit-digest-linux
+chmod +x reddit-digest-linux
+
+# Verify checksum (optional)
+curl -LO https://github.com/YOUR_ORG/YOUR_REPO/releases/latest/download/reddit-digest-linux.sha256
+sha256sum -c reddit-digest-linux.sha256
+```
+
+**macOS**:
+```bash
+# Download latest release
+curl -LO https://github.com/YOUR_ORG/YOUR_REPO/releases/latest/download/reddit-digest-macos
+chmod +x reddit-digest-macos
+
+# Verify checksum (optional)
+curl -LO https://github.com/YOUR_ORG/YOUR_REPO/releases/latest/download/reddit-digest-macos.sha256
+shasum -a 256 -c reddit-digest-macos.sha256
+```
+
+### Option B: Build From Source
 
 ```bash
 cd examples/claude-code-loop/workspace

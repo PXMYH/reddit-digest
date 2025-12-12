@@ -45,7 +45,7 @@ uv.lock
 # *.checkpoint.json
 
 # PyInstaller
-*.spec
+# Note: reddit_digest.spec is committed for GitHub Actions builds
 build/
 dist/
 *.manifest
