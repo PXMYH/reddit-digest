@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Download pre-built executable
         run: |
-          curl -LO https://github.com/PXMYH/reddit-digest/releases/download/v1.0/reddit-digest-macos
+          curl -L -o reddit-digest-macos https://github.com/PXMYH/reddit-digest/releases/download/v1.0/reddit-digest-macos
           # Move to a standard location
           mv reddit-digest-macos reddit-digest
           # Add executable permission
