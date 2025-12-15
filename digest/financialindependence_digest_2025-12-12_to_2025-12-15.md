@@ -8,17 +8,18 @@
 
 ## 1. [Cost of Having a Child (1.5 Children): Year 2](https://reddit.com/r/financialindependence/comments/1plu8pi/cost_of_having_a_child_15_children_year_2/)
 
-**Author:** u/glass_thermometer | **Upvotes:** 139 | **Comments:** 86 | **Date:** 2025-12-13
+**Author:** u/glass_thermometer | **Upvotes:** 140 | **Comments:** 88 | **Date:** 2025-12-13
 
-**Summary:** The Reddit post details the annual cost of raising a child in Year 2, totaling $6,562.43, with a breakdown of expenses across categories like groceries, health, and clothing. The author is part of a single-income family, so childcare costs are not included, though opportunity costs are acknowledged.
+**Summary:** The Reddit post details the annual cost of raising a child in their second year, totaling $6,562.43, with a breakdown of expenses across various categories. The author is part of a single-income family and highlights the absence of childcare costs due to their arrangement. The discussion focuses on the significant cost of childcare and the benefits of second-hand items.
 
 **Key Points:**
-- Total annual cost for Year 2 is $6,562.43, with significant expenses in health (medical) and household miscellaneous categories.
-- The family is single-income, so childcare costs are not factored in, but opportunity costs are noted.
-- Top comments highlight the high cost of childcare and the financial benefits of second-hand items for children.
-- The discussion emphasizes the importance of financial planning, including funding IRAs for stay-at-home partners.
+- Total annual cost for the second year of raising a child is $6,562.43.
+- The family is single-income, so childcare costs are not included.
+- Medical expenses are a significant portion of the total cost.
+- Second-hand items can significantly reduce costs for children's clothing and equipment.
+- The discussion emphasizes the high cost of childcare and the opportunity cost of a non-working spouse.
 
-**Discussion Highlights:** The discussion consensus underscores the high cost of childcare as a major financial burden for families. Many commenters also highlight the value of second-hand markets for children's items and the importance of financial planning, such as funding IRAs for stay-at-home partners.
+**Discussion Highlights:** The discussion highlights the overwhelming cost of childcare and the opportunity cost of a spouse not working. Many commenters appreciate the breakdown of child-specific costs and share their own experiences with managing expenses, particularly through second-hand markets.
 
 ---
 
