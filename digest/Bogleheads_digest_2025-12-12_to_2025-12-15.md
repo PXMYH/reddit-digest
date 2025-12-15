@@ -8,18 +8,18 @@
 
 ## 1. [Maxing your 401k today in S&amp;P500 is the same as investing $200 - 50 years ago](https://reddit.com/r/Bogleheads/comments/1pmjatm/maxing_your_401k_today_in_sp500_is_the_same_as/)
 
-**Author:** u/Scorface | **Upvotes:** 183 | **Comments:** 56 | **Date:** 2025-12-14
+**Author:** u/Scorface | **Upvotes:** 195 | **Comments:** 56 | **Date:** 2025-12-14
 
-**Summary:** The post highlights the long-term growth potential of investing in the S&P 500, using a historical example of a $200 investment 50 years ago that would now be worth $23,500, the current maximum annual 401k contribution limit. The discussion emphasizes the power of compounding and consistent investing.
+**Summary:** The post highlights the long-term growth potential of investing in the S&P 500, noting that a $200 investment 50 years ago would now be worth $23,500, equivalent to the current maximum annual 401k contribution. The discussion includes humor, historical context, and practical considerations about consistent investing.
 
 **Key Points:**
-- A $200 investment in the S&P 500 50 years ago would now be worth $23,500, equivalent to the current maximum annual 401k contribution.
-- Historical IRA contribution limits were much lower, e.g., $250 from 1977 to 1996.
-- Consistent annual contributions can significantly enhance long-term investment growth.
-- Inflation and market conditions should be considered when evaluating historical returns.
-- Time in the market is a key factor for successful investing.
+- A $200 investment in the S&P 500 50 years ago would now be worth $23,500.
+- This amount matches the current maximum annual 401k contribution limit.
+- Historical IRA limits were much lower (e.g., $250 in 1977-1996).
+- Commenters discuss the importance of consistent investing and inflation adjustments.
+- The post encourages long-term investing for future generations.
 
-**Discussion Highlights:** The discussion underscores the importance of long-term investing and compounding, with some users pointing out the need to adjust for inflation and the benefits of consistent contributions over time.
+**Discussion Highlights:** The discussion includes humorous remarks, historical comparisons, and practical advice about consistent investing. Some commenters highlight the importance of adjusting for inflation and the challenges of relying on historical returns. The consensus emphasizes the value of long-term, disciplined investing.
 
 ---
 
