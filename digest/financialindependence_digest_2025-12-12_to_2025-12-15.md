@@ -8,18 +8,18 @@
 
 ## 1. [Cost of Having a Child (1.5 Children): Year 2](https://reddit.com/r/financialindependence/comments/1plu8pi/cost_of_having_a_child_15_children_year_2/)
 
-**Author:** u/glass_thermometer | **Upvotes:** 147 | **Comments:** 90 | **Date:** 2025-12-13
+**Author:** u/glass_thermometer | **Upvotes:** 144 | **Comments:** 92 | **Date:** 2025-12-13
 
-**Summary:** The Reddit post details the annual cost of raising a child in Year 2, totaling $6,562.43, with a breakdown of expenses across categories like groceries, healthcare, and household items. The author is part of a single-income family, so childcare costs are not included, though opportunity costs are acknowledged.
+**Summary:** The Reddit post details the annual cost of raising a child in a single-income family, totaling $6,562.43 for Year 2, with significant expenses in medical costs and household items. The discussion highlights the financial impact of childcare and the benefits of second-hand purchases.
 
 **Key Points:**
-- Total annual cost for Year 2 is $6,562.43, with healthcare being the largest expense.
-- The family is single-income, so childcare costs are not factored in, but opportunity costs are noted.
-- Community discussion highlights the significant financial impact of childcare and the benefits of second-hand items.
-- The post emphasizes the variability in costs, such as groceries and household expenses, due to factors like inflation.
-- Top comments stress the importance of financial planning, including IRAs for stay-at-home partners.
+- Total annual cost for Year 2 is $6,562.43, with medical expenses being the highest category.
+- The family is single-income, avoiding childcare costs but facing opportunity costs.
+- Second-hand markets are recommended for reducing expenses on children's items.
+- Financial planning, such as funding an IRA for the stay-at-home partner, is emphasized.
+- The discussion underscores the high cost of childcare as a major financial consideration.
 
-**Discussion Highlights:** The discussion consensus underscores the high cost of childcare as a major financial consideration for families. Many commenters advocate for second-hand markets to reduce expenses and emphasize the need for financial planning, such as funding IRAs for non-working partners.
+**Discussion Highlights:** The discussion consensus highlights the significant financial burden of childcare and the importance of financial planning for stay-at-home partners. Many commenters emphasize the cost-saving benefits of second-hand purchases for children's items.
 
 ---
 
