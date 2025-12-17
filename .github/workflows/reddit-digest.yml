@@ -5,10 +5,18 @@ on:
     # Run every 4 hours (at :00 minutes)
     - cron: '0 */4 * * *'
   workflow_dispatch: # Allow manual triggers
+  workflow_run:
+    workflows: ["Build and Release Reddit Digest"]
+    types:
+      - completed
+    branches:
+      - main
 
 jobs:
   generate-digests:
     runs-on: [self-hosted, mac-mini]
+    # Only run if triggered by schedule/manual OR if upstream workflow succeeded
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
 
     steps:
       - name: Checkout repository
