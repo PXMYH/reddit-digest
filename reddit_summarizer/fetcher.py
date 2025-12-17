@@ -231,8 +231,8 @@ class RedditFetcher:
             except requests.RequestException as e:
                 raise requests.RequestException(f"Reddit API error: {e}")
 
-        # Sort by score (upvotes) descending
-        posts.sort(key=lambda p: p.score, reverse=True)
+        # Sort by creation date descending (newest first)
+        posts.sort(key=lambda p: p.created_utc, reverse=True)
         return posts
 
     def fetch_post_comments(self, post: RedditPost, limit: int = 10) -> List[dict]:
