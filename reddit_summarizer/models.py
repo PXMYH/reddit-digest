@@ -63,7 +63,9 @@ class PostSummary:
         md += f"**Comments:** {self.post.num_comments} | "
         md += f"**Date:** {self.post.created_utc.strftime('%Y-%m-%d')}\n\n"
 
-        md += f"**Summary:** {self.summary}\n\n"
+        # Only show AI-generated content if it exists (i.e., not in fast mode)
+        if self.summary:
+            md += f"**Summary:** {self.summary}\n\n"
 
         if self.key_points:
             md += "**Key Points:**\n"
