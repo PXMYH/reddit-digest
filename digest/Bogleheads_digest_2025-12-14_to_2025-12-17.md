@@ -8,52 +8,50 @@
 
 ## 1. [Maxing your 401k today in S&amp;P500 is the same as investing $200 - 50 years ago](https://reddit.com/r/Bogleheads/comments/1pmjatm/maxing_your_401k_today_in_sp500_is_the_same_as/)
 
-**Author:** u/Scorface | **Upvotes:** 265 | **Comments:** 63 | **Date:** 2025-12-14
+**Author:** u/Scorface | **Upvotes:** 268 | **Comments:** 63 | **Date:** 2025-12-14
 
-**Summary:** The post highlights the power of compounding in the S&P500, showing that $200 invested 50 years ago would now be worth $23,500, comparable to the current 401k max contribution. It encourages consistent investing for long-term growth.
+**Summary:** The post highlights the long-term growth potential of investing in the S&P 500, noting that a $200 investment 50 years ago would now be worth $23,500, equivalent to the current maximum annual 401k contribution. It encourages consistent investing for future financial security.
 
 **Key Points:**
-- $200 invested in the S&P500 50 years ago would now be worth $23,500
-- This amount is comparable to the current maximum annual 401k contribution
-- Historical IRA limits were much lower (e.g., $250 in 1977-1996)
-- Consistent contributions over time can lead to significant growth
-- The post encourages long-term investing for future generations
+- A $200 investment in the S&P 500 50 years ago would now be worth $23,500.
+- This amount matches the current maximum annual 401k contribution limit.
+- Historical context: IRA contribution limits were as low as $250 in the past.
+- Users humorously engage with the post, while others question the practicality of one-time investments vs. consistent contributions.
 
-**Discussion Highlights:** The discussion includes humorous comments and highlights the importance of long-term investing. Some users note the historical context of lower contribution limits, while others emphasize the benefits of consistent contributions over time.
+**Discussion Highlights:** The discussion includes a mix of humor, historical context about past contribution limits, and practical questions about the benefits of consistent investing over time. Some users highlight the importance of regular contributions rather than one-time investments.
 
 ---
 
 ## 2. [Inflation adjusted market returns do not look all that rosy. Am I missing something?](https://reddit.com/r/Bogleheads/comments/1po0c1o/inflation_adjusted_market_returns_do_not_look_all/)
 
-**Author:** u/volchonok1 | **Upvotes:** 176 | **Comments:** 230 | **Date:** 2025-12-16
+**Author:** u/volchonok1 | **Upvotes:** 171 | **Comments:** 233 | **Date:** 2025-12-16
 
-**Summary:** The author questions the effectiveness of long-term investing in the S&P 500 due to observed periods of flat or negative inflation-adjusted returns, expressing concern about future market performance and the practicality of compounding interest.
+**Summary:** The author expresses concern about the volatility of inflation-adjusted S&P 500 returns, noting long periods of flat or negative growth and questioning the effectiveness of long-term investing strategies. The discussion highlights the importance of considering dividends and diversification in evaluating market performance.
 
 **Key Points:**
-- Inflation-adjusted S&P 500 returns show extended periods of flat or negative performance (e.g., 1968-1994, 2000-2016, 1930-1950).
-- Market growth appears concentrated in specific periods (e.g., 1950-1970, mid-1980s-2000, 2013-present).
-- The author suggests that significant gains require investing during growth periods or holding investments for very long durations (30+ years).
-- Dividends and diversification are highlighted as critical factors in assessing true returns.
-- The discussion emphasizes comparing stock returns to alternative strategies for beating inflation.
+- Inflation-adjusted S&P 500 returns show long periods of flat or negative growth (e.g., 1968-1994, 2000-2016).
+- The author questions the effectiveness of compounding interest and long-term investing strategies.
+- Top comments emphasize the importance of including dividends in return calculations.
+- Diversification and long-term investment horizons (30+ years) are suggested as key strategies.
+- The discussion highlights the need for a robust plan to beat inflation, with stocks being a viable option.
 
-**Discussion Highlights:** The discussion consensus underscores the importance of considering dividends and diversification in evaluating market returns. Many commenters argue that stocks remain a viable option for beating inflation compared to alternatives, and they stress the need for a long-term, diversified investment approach.
+**Discussion Highlights:** The consensus in the discussion leans towards the importance of including dividends in return calculations and the benefits of a diversified portfolio over long investment horizons. Many commenters argue that stocks remain a strong option for beating inflation, despite periods of stagnation.
 
 ---
 
 ## 3. [VT and Chill?](https://reddit.com/r/Bogleheads/comments/1pmrbbp/vt_and_chill/)
 
-**Author:** u/tryingmybesttolearn2 | **Upvotes:** 134 | **Comments:** 72 | **Date:** 2025-12-14
+**Author:** u/tryingmybesttolearn2 | **Upvotes:** 137 | **Comments:** 72 | **Date:** 2025-12-14
 
-**Summary:** The post discusses the suitability of VT (Vanguard Total World Stock ETF) as a standalone investment for a 33-year-old with an S&P 500-heavy TSP portfolio. The discussion highlights the simplicity of a 'VT and chill' approach but also notes potential US market overweight concerns.
+**Summary:** The post discusses the suitability of VT (Vanguard Total World Stock ETF) as a comprehensive investment option, with the author seeking advice on whether additional ETFs are necessary. The comments largely support VT as a one-stop solution, though some suggest balancing US and international exposure.
 
 **Key Points:**
-- VT is designed as a one-stop shop for global equity exposure
-- Adding more equity ETFs alongside VT may be redundant
-- Potential US market overweight if combining S&P 500 TSP with VT
-- Alternative approach: VTI (US) + VXUS (International) to balance exposure
-- VT and chill is considered a simple, effective strategy
+- VT is designed to be a comprehensive, all-in-one ETF covering both domestic and international markets.
+- The consensus is that VT alone is sufficient for a diversified equity portfolio.
+- Some commenters suggest balancing VT with other ETFs like VTI and VXUS to adjust for US overweight in the author's TSP.
+- The 'VT and chill' strategy is praised for its simplicity and effectiveness.
 
-**Discussion Highlights:** The consensus leans toward VT as a simple, effective solution for global diversification, though some suggest balancing US/international exposure more precisely given the author's existing S&P 500 holdings. The 'VT and chill' approach is widely endorsed for its simplicity.
+**Discussion Highlights:** The discussion highlights strong support for VT as a standalone investment, with some nuanced advice on balancing US and international exposure based on the author's existing TSP holdings. The consensus leans toward simplicity, with VT being the primary recommendation.
 
 ---
 
