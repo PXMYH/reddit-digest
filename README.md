@@ -2,6 +2,12 @@
 
 An AI-powered tool that generates reading digests from Reddit subreddits using the **ACE (Agentic Context Engineering)** framework for self-improving summarization.
 
+## 📚 Documentation
+
+- **[Quick Start Guide](QUICK_START.md)** - Get started in 30 seconds with common commands and use cases
+- **[Migration Guide](MIGRATION.md)** - Migration from top_reddit repository (now complete)
+- **[Developer Guide](CLAUDE.md)** - Architecture, development commands, and technical details
+
 ## Features
 
 - 🚫 **No Authentication Required**: Uses Reddit's public JSON API - no API credentials needed!
@@ -199,6 +205,211 @@ python summarize_subreddit.py MachineLearning \
 | `--checkpoint-interval` | Save checkpoint every N posts | 5 |
 
 **Note:** You must use either `--start/--end` (date range mode) OR `--timeframe` (timeframe mode), not both.
+
+## Real-World Examples
+
+### Example 1: Quick Weekly Overview (No Summaries)
+Get top posts from the past week without AI summaries (fast, ~5 seconds):
+
+```bash
+uv run python summarize_subreddit.py Python --timeframe week
+```
+
+**Output**: `digest/Python_top_week_2025-12-17.md`
+- Lists top posts with titles, scores, comments
+- No AI-generated summaries (fast mode)
+- Perfect for quick scanning
+
+### Example 2: Monthly Digest with AI Summaries
+Generate comprehensive monthly digest with AI analysis:
+
+```bash
+uv run python summarize_subreddit.py Fire --timeframe month --summarize
+```
+
+**Output**: `digest/Fire_top_month_2025-12-17.md`
+- Full AI summaries for each post
+- Key points extraction
+- Discussion highlights
+- Takes 2-5 minutes depending on post count
+
+### Example 3: Date Range Mode (Original Functionality)
+Get posts from specific date range with summaries:
+
+```bash
+uv run python summarize_subreddit.py Bogleheads \
+  --start 2025-12-14 \
+  --end 2025-12-17 \
+  --min-upvotes 50 \
+  --max-posts 20
+```
+
+**Output**: `digest/Bogleheads_digest_2025-12-14_to_2025-12-17.md`
+- Posts filtered by date range
+- AI summaries enabled by default
+- Custom upvote/comment thresholds
+
+### Example 4: Yearly Digest for GitHub Actions
+Perfect for scheduled workflows that generate annual digests:
+
+```bash
+uv run python summarize_subreddit.py MachineLearning \
+  --timeframe year \
+  --summarize \
+  --min-upvotes 200 \
+  --max-posts 50
+```
+
+**Use case**: Run this daily via GitHub Actions to maintain a "Top of the Year" digest that updates automatically.
+
+## GitHub Actions Integration
+
+### Automated Daily Digest Workflow
+
+Create `.github/workflows/daily-digest.yml`:
+
+```yaml
+name: Daily Reddit Digest
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Run at 8 AM UTC daily
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  generate-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install uv
+          uv pip install -r requirements.txt
+
+      - name: Generate daily digests
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          # Date range digests (with AI summaries)
+          uv run python summarize_subreddit.py Fire --start $(date -d '3 days ago' +%Y-%m-%d) --end $(date +%Y-%m-%d)
+          uv run python summarize_subreddit.py Python --start $(date -d '3 days ago' +%Y-%m-%d) --end $(date +%Y-%m-%d)
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git add digest/
+          git commit -m "chore: update daily digests $(date +%Y-%m-%d)" || echo "No changes"
+          git push
+```
+
+### Automated Weekly Top Posts Workflow
+
+Create `.github/workflows/weekly-top.yml`:
+
+```yaml
+name: Weekly Top Posts
+
+on:
+  schedule:
+    - cron: '0 12 * * 0'  # Run at noon UTC every Sunday
+  workflow_dispatch:
+
+jobs:
+  generate-weekly-top:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install uv
+          uv pip install -r requirements.txt
+
+      - name: Generate weekly top posts (fast mode)
+        run: |
+          # Fast mode - no AI summaries
+          uv run python summarize_subreddit.py Fire --timeframe week
+          uv run python summarize_subreddit.py Python --timeframe week
+          uv run python summarize_subreddit.py Bogleheads --timeframe week
+
+      - name: Generate index page
+        run: python generate_index.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git add digest/ docs/
+          git commit -m "chore: update weekly top posts $(date +%Y-%m-%d)" || echo "No changes"
+          git push
+```
+
+### Automated Yearly Digest Workflow
+
+Create `.github/workflows/yearly-digest.yml`:
+
+```yaml
+name: Yearly Top Posts Digest
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate-yearly-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install uv
+          uv pip install -r requirements.txt
+
+      - name: Generate yearly digests with AI summaries
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          # Full AI-powered digests for top posts of the year
+          uv run python summarize_subreddit.py Fire --timeframe year --summarize --max-posts 50
+          uv run python summarize_subreddit.py MachineLearning --timeframe year --summarize --max-posts 30
+
+      - name: Generate index page
+        run: python generate_index.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "<>"
+          git add digest/ docs/
+          git commit -m "chore: update yearly digests $(date +%Y-%m-%d)" || echo "No changes"
+          git push
+```
+
+**Key Points**:
+- Set `OPENROUTER_API_KEY` in repository secrets (Settings → Secrets)
+- Workflows can be triggered manually via "Actions" tab
+- Adjust cron schedules to your preference
+- Use `--timeframe` for efficiency (no date calculations)
+- Use `--summarize` flag when you want AI analysis
 
 ## Example Output
 
