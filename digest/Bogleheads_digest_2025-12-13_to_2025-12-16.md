@@ -8,35 +8,33 @@
 
 ## 1. [Maxing your 401k today in S&amp;P500 is the same as investing $200 - 50 years ago](https://reddit.com/r/Bogleheads/comments/1pmjatm/maxing_your_401k_today_in_sp500_is_the_same_as/)
 
-**Author:** u/Scorface | **Upvotes:** 265 | **Comments:** 63 | **Date:** 2025-12-14
+**Author:** u/Scorface | **Upvotes:** 271 | **Comments:** 63 | **Date:** 2025-12-14
 
-**Summary:** The post highlights the power of compounding by noting that $200 invested in the S&P 500 50 years ago would now be worth $23,500, which is close to the current maximum annual 401k contribution limit. The discussion emphasizes the importance of consistent investing.
+**Summary:** The post highlights the power of compounding in the S&P500, showing that $200 invested 50 years ago would now be worth $23,500, equivalent to the current maximum 401k contribution. The discussion emphasizes the importance of consistent, long-term investing.
 
 **Key Points:**
-- $200 invested in the S&P 500 50 years ago would now be worth $23,500.
-- This amount is close to the current maximum annual 401k contribution limit.
-- The discussion highlights the importance of consistent investing over time.
-- Historical context: IRA limits were much lower in the past (e.g., $250 in 1977-1996).
-- The post encourages continuous investing for long-term benefits.
+- $200 invested in the S&P500 50 years ago would now be worth $23,500.
+- This amount is equivalent to the current maximum annual 401k contribution.
+- Historical IRA limits were much lower, e.g., $250 from 1977-1996.
+- The discussion includes humor and emphasizes the importance of long-term investing.
 
-**Discussion Highlights:** The discussion focuses on the significance of long-term investing and the power of compounding. Some comments provide historical context about past contribution limits, while others humorously note the impracticality of investing 50 years ago for younger users. The consensus emphasizes the value of consistent contributions over time.
+**Discussion Highlights:** The top comment humorously checks for strokes, while other comments discuss historical IRA limits and the importance of consistent contributions over time. The consensus is on the power of compounding and long-term investing.
 
 ---
 
 ## 2. [VT and Chill?](https://reddit.com/r/Bogleheads/comments/1pmrbbp/vt_and_chill/)
 
-**Author:** u/tryingmybesttolearn2 | **Upvotes:** 131 | **Comments:** 70 | **Date:** 2025-12-14
+**Author:** u/tryingmybesttolearn2 | **Upvotes:** 134 | **Comments:** 72 | **Date:** 2025-12-14
 
-**Summary:** The post discusses a 33-year-old's interest in using VT (Vanguard Total World Stock ETF) for their portfolio outside of their TSP, which is fully invested in the S&P 500. The comments generally support VT as a comprehensive solution but also suggest alternatives like VTI and VXUS to balance US overweight.
+**Summary:** The post discusses the user's interest in VT (Vanguard Total World Stock ETF) as a one-stop solution for global diversification, with comments largely supporting the 'VT and chill' strategy.
 
 **Key Points:**
-- VT is recommended as a one-stop shop for total domestic and international index investing.
-- The user's TSP allocation to the S&P 500 may lead to an overweight in US stocks if using VT.
-- Alternatives like VTI and VXUS are suggested to approximate VT while balancing the overall portfolio.
-- The consensus is largely in favor of VT for simplicity and broad market coverage.
-- Some comments highlight the need to consider the overall portfolio allocation, including the TSP.
+- VT is designed to be a comprehensive global equity ETF.
+- Adding more equity-tracking ETFs alongside VT is unnecessary.
+- The user's TSP is heavily weighted towards the S&P 500, which may lead to US overweight if using VT.
+- Alternatives like VTI and VXUS can be used to approximate VT's diversification.
 
-**Discussion Highlights:** The discussion highlights a strong consensus around VT as a simple and effective solution for global diversification. However, some users caution about potential US overweight due to the user's TSP allocation and suggest alternatives like VTI and VXUS to achieve a more balanced portfolio.
+**Discussion Highlights:** The consensus supports the 'VT and chill' approach, emphasizing its simplicity and comprehensiveness for global diversification. Some comments suggest considering alternatives like VTI and VXUS to balance the user's existing US-heavy TSP allocation.
 
 ---
 

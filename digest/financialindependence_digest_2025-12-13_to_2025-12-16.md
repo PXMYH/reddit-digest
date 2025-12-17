@@ -8,18 +8,17 @@
 
 ## 1. [Cost of Having a Child (1.5 Children): Year 2](https://reddit.com/r/financialindependence/comments/1plu8pi/cost_of_having_a_child_15_children_year_2/)
 
-**Author:** u/glass_thermometer | **Upvotes:** 156 | **Comments:** 96 | **Date:** 2025-12-13
+**Author:** u/glass_thermometer | **Upvotes:** 159 | **Comments:** 96 | **Date:** 2025-12-13
 
-**Summary:** The Reddit post details the annual cost of raising a child in Year 2, totaling $6,562.43, with a breakdown of expenses across categories like groceries, health, and clothing. The author is part of a single-income family, so childcare costs are not included, though opportunity costs are acknowledged.
+**Summary:** The post details the annual cost of raising a child in Year 2, totaling $6,562.43, with a breakdown of expenses across categories like groceries, health, and household items. The author is part of a single-income family, so childcare costs are not included, though opportunity costs are acknowledged.
 
 **Key Points:**
 - Total annual cost for Year 2 is $6,562.43, with significant expenses in health (medical) and household miscellaneous categories.
-- The family uses cloth diapers and second-hand items to reduce costs.
-- The discussion highlights the importance of considering opportunity costs and financial planning for stay-at-home partners.
-- Childcare costs are a major concern for many commenters.
-- Second-hand markets are recommended for affordable children's clothing and equipment.
+- The family is single-income, so childcare costs are not factored in, but opportunity costs are noted.
+- Community discussion highlights the high cost of childcare and the benefits of second-hand items for children.
+- Financial planning advice includes ensuring the stay-at-home partner has a funded IRA and considering long-term financial stability.
 
-**Discussion Highlights:** The discussion emphasizes the high cost of childcare and the financial sacrifices made by stay-at-home partners. Many commenters suggest using second-hand markets for children's items and stress the importance of financial planning, such as funding IRAs for stay-at-home partners.
+**Discussion Highlights:** The discussion emphasizes the high cost of childcare as a major expense for families, with many users sharing strategies for reducing costs, such as buying second-hand items. There is also advice on financial planning, including funding IRAs for stay-at-home partners and considering the financial implications of divorce.
 
 ---
 
