@@ -292,3 +292,127 @@ class RedditFetcher:
 
         # Use retry logic for robustness
         return self._retry_with_backoff(_fetch_comments_impl)
+
+    def fetch_posts_by_timeframe(
+        self,
+        subreddit_name: str,
+        timeframe: str = "year",
+        min_upvotes: int = 100,
+        min_comments: int = 30,
+        max_posts: int = 100,
+    ) -> List[RedditPost]:
+        """
+        Fetch top posts from a subreddit for a specific timeframe using public JSON API
+
+        Args:
+            subreddit_name: Name of the subreddit (without 'r/')
+            timeframe: Time period (hour, day, week, month, year, all) (default: year)
+            min_upvotes: Minimum upvotes threshold (default: 100)
+            min_comments: Minimum comments threshold (default: 30)
+            max_posts: Maximum number of posts to fetch (default: 100)
+
+        Returns:
+            List of RedditPost objects that meet the criteria
+
+        Raises:
+            ValueError: If subreddit name or timeframe is invalid
+            requests.HTTPError: If subreddit doesn't exist or is inaccessible
+            requests.RequestException: If there are network or API errors
+        """
+        # Validate inputs
+        if not subreddit_name or not subreddit_name.strip():
+            raise ValueError("Subreddit name cannot be empty")
+
+        valid_timeframes = {"hour", "day", "week", "month", "year", "all"}
+        if timeframe not in valid_timeframes:
+            raise ValueError(
+                f"Invalid timeframe '{timeframe}'. Must be one of: {', '.join(valid_timeframes)}"
+            )
+
+        if min_upvotes < 0 or min_comments < 0:
+            raise ValueError("Thresholds cannot be negative")
+
+        if max_posts <= 0:
+            raise ValueError("max_posts must be positive")
+
+        posts = []
+
+        # Reddit's public JSON API endpoint for top posts by timeframe
+        url = f"https://www.reddit.com/r/{subreddit_name}/top.json"
+        params = {"t": timeframe, "limit": 100}  # t parameter specifies timeframe
+        after = None
+
+        # Fetch posts in batches using pagination
+        while len(posts) < max_posts:
+            if after:
+                params["after"] = after
+
+            try:
+                # Rate limiting: delay between API calls [api_patterns-00004]
+                if after:
+                    time.sleep(self.rate_limit_delay)
+
+                response = self.session.get(url, params=params, timeout=self.timeout)
+                response.raise_for_status()
+                data = response.json()
+
+                if "data" not in data or "children" not in data["data"]:
+                    break
+
+                children = data["data"]["children"]
+                if not children:
+                    break
+
+                for child in children:
+                    post_data = child["data"]
+
+                    # Check if meets thresholds
+                    score = post_data.get("score", 0)
+                    num_comments = post_data.get("num_comments", 0)
+                    if score < min_upvotes or num_comments < min_comments:
+                        continue
+
+                    try:
+                        created_utc = post_data.get("created_utc", 0)
+                        post = RedditPost(
+                            title=post_data.get("title", ""),
+                            author=post_data.get("author", "[deleted]"),
+                            url=post_data.get("url", ""),
+                            selftext=post_data.get("selftext", ""),
+                            score=score,
+                            num_comments=num_comments,
+                            created_utc=datetime.fromtimestamp(created_utc),
+                            permalink=post_data.get("permalink", ""),
+                            post_id=post_data.get("id", ""),
+                            subreddit=subreddit_name,
+                        )
+                        posts.append(post)
+                    except Exception as e:
+                        # Skip individual posts that fail to parse
+                        print(f"Warning: Failed to parse post: {e}")
+                        continue
+
+                    # Stop if we've reached the max [api_patterns-00003]
+                    if len(posts) >= max_posts:
+                        break
+
+                # Get next page token
+                after = data["data"].get("after")
+                if not after or len(posts) >= max_posts:
+                    break
+
+            except requests.HTTPError as e:
+                if e.response.status_code == 404:
+                    raise ValueError(f"Subreddit r/{subreddit_name} does not exist")
+                elif e.response.status_code == 403:
+                    raise ValueError(
+                        f"Subreddit r/{subreddit_name} is private, banned, or quarantined"
+                    )
+                else:
+                    raise requests.RequestException(f"Reddit API error: {e}")
+            except requests.RequestException as e:
+                raise requests.RequestException(f"Reddit API error: {e}")
+
+        # Sort by creation date descending (newest first)
+        posts.sort(key=lambda p: p.created_utc, reverse=True)
+        return posts
