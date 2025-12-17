@@ -24,8 +24,11 @@ a = Analysis(
         ('reddit_summarizer', 'reddit_summarizer'),
         # Include tiktoken data files (required by LiteLLM)
         (f'{workspace_dir}/.venv/lib/python3.12/site-packages/tiktoken_ext', 'tiktoken_ext'),
-        # Include LiteLLM tokenizer files
+        # Include ALL LiteLLM data files (JSON configs, tokenizers, etc.)
+        (f'{workspace_dir}/.venv/lib/python3.12/site-packages/litellm/*.json', 'litellm'),
         (f'{workspace_dir}/.venv/lib/python3.12/site-packages/litellm/litellm_core_utils/tokenizers', 'litellm/litellm_core_utils/tokenizers'),
+        (f'{workspace_dir}/.venv/lib/python3.12/site-packages/litellm/containers', 'litellm/containers'),
+        (f'{workspace_dir}/.venv/lib/python3.12/site-packages/litellm/llms/openai_like/*.json', 'litellm/llms/openai_like'),
     ],
     hiddenimports=[
         # Core dependencies
@@ -47,6 +50,9 @@ a = Analysis(
         'litellm.litellm_core_utils',
         'litellm.litellm_core_utils.token_counter',
         'litellm.litellm_core_utils.default_encoding',
+        'litellm.containers',
+        'litellm.containers.main',
+        'litellm.containers.utils',
         'instructor',
         'instructor.client',
         'instructor.patch',
