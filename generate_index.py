@@ -17,14 +17,14 @@ def scan_digest_files(digest_dir="digest"):
     Scan digest directory and return dict of latest digest per subreddit.
 
     Returns:
-        dict: {subreddit: (filepath, end_date)}
+        dict: {subreddit: (filepath, end_date, timeframe)}
     """
     digests = {}
-    pattern = os.path.join(digest_dir, "*_digest_*_to_*.md")
 
-    for filepath in glob.glob(pattern):
+    # Pattern 1: Date range digests (subreddit_digest_start_to_end.md)
+    pattern1 = os.path.join(digest_dir, "*_digest_*_to_*.md")
+    for filepath in glob.glob(pattern1):
         filename = os.path.basename(filepath)
-        # Parse: subreddit_digest_start_to_end.md
         match = re.match(r'(.+?)_digest_\d{4}-\d{2}-\d{2}_to_(\d{4}-\d{2}-\d{2})\.md$', filename)
 
         if match:
@@ -34,9 +34,25 @@ def scan_digest_files(digest_dir="digest"):
 
             # Keep latest digest per subreddit
             if subreddit not in digests or end_date > digests[subreddit][1]:
-                digests[subreddit] = (filepath, end_date)
+                digests[subreddit] = (filepath, end_date, None)  # None = date range mode
 
-    return {sub: info[0] for sub, info in digests.items()}
+    # Pattern 2: Timeframe digests (subreddit_top_timeframe_date.md)
+    pattern2 = os.path.join(digest_dir, "*_top_*_*.md")
+    for filepath in glob.glob(pattern2):
+        filename = os.path.basename(filepath)
+        match = re.match(r'(.+?)_top_(hour|day|week|month|year|all)_(\d{4}-\d{2}-\d{2})\.md$', filename)
+
+        if match:
+            subreddit = match.group(1)
+            timeframe = match.group(2)
+            date_str = match.group(3)
+            date = datetime.strptime(date_str, '%Y-%m-%d')
+
+            # Keep latest digest per subreddit (comparing with existing)
+            if subreddit not in digests or date > digests[subreddit][1]:
+                digests[subreddit] = (filepath, date, timeframe)
+
+    return {sub: (info[0], info[2]) for sub, info in digests.items()}  # Return (filepath, timeframe)
 
 
 def parse_markdown_content(filepath):
@@ -121,8 +137,8 @@ def parse_post_section(section):
     return post
 
 
-def generate_html(digest_data):
-    """Generate complete HTML page with tabbed interface."""
+def generate_html(digest_data, digest_metadata):
+    """Generate complete HTML page with tabbed interface and timeframe filtering."""
     now = datetime.now().strftime('%Y-%m-%d %H:%M UTC')
     subreddits = sorted(digest_data.keys())
 
@@ -143,13 +159,29 @@ def generate_html(digest_data):
     </header>
 
     <div class="container">
+        <div class="filter-controls">
+            <label for="timeframe-filter">Filter by timeframe:</label>
+            <select id="timeframe-filter" onchange="filterByTimeframe()">
+                <option value="all">All digests</option>
+                <option value="date-range">Date range digests</option>
+                <option value="hour">Top - Hour</option>
+                <option value="day">Top - Day</option>
+                <option value="week">Top - Week</option>
+                <option value="month">Top - Month</option>
+                <option value="year">Top - Year</option>
+                <option value="all-time">Top - All Time</option>
+            </select>
+        </div>
+
         <div class="tabs">
 """
 
-    # Generate tab buttons
+    # Generate tab buttons with data-timeframe attribute
     for i, subreddit in enumerate(subreddits):
         active_class = ' active' if i == 0 else ''
-        html += f'            <button class="tab-button{active_class}" onclick="openTab(\'{subreddit}\')">{subreddit}</button>\n'
+        timeframe = digest_metadata.get(subreddit, None)
+        timeframe_attr = f' data-timeframe="{timeframe}"' if timeframe else ' data-timeframe="date-range"'
+        html += f'            <button class="tab-button{active_class}"{timeframe_attr} onclick="openTab(\'{subreddit}\')">{subreddit}</button>\n'
 
     html += '        </div>\n\n'
 
@@ -161,7 +193,7 @@ def generate_html(digest_data):
         html += generate_digest_html(data)
         html += '        </div>\n\n'
 
-    # Add JavaScript for tabs
+    # Add JavaScript for tabs and filtering
     html += """        <script>
             function openTab(tabName) {
                 // Hide all tab content
@@ -179,6 +211,42 @@ def generate_html(digest_data):
                 // Show selected tab and mark button as active
                 document.getElementById(tabName).classList.add('active');
                 event.currentTarget.classList.add('active');
+            }
+
+            function filterByTimeframe() {
+                var selectedTimeframe = document.getElementById('timeframe-filter').value;
+                var buttons = document.getElementsByClassName('tab-button');
+                var visibleButtons = [];
+
+                // Filter tab buttons based on selected timeframe
+                for (var i = 0; i < buttons.length; i++) {
+                    var button = buttons[i];
+                    var buttonTimeframe = button.getAttribute('data-timeframe');
+
+                    if (selectedTimeframe === 'all') {
+                        button.style.display = '';  // Show all
+                        visibleButtons.push(button);
+                    } else if (selectedTimeframe === 'date-range' && buttonTimeframe === 'date-range') {
+                        button.style.display = '';
+                        visibleButtons.push(button);
+                    } else if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
+                        button.style.display = '';
+                        visibleButtons.push(button);
+                    } else if (buttonTimeframe === selectedTimeframe) {
+                        button.style.display = '';
+                        visibleButtons.push(button);
+                    } else {
+                        button.style.display = 'none';  // Hide
+                    }
+                }
+
+                // Activate the first visible button if current tab is hidden
+                if (visibleButtons.length > 0) {
+                    var activeButton = document.querySelector('.tab-button.active');
+                    if (!activeButton || activeButton.style.display === 'none') {
+                        visibleButtons[0].click();
+                    }
+                }
             }
         </script>
     </div>
@@ -249,6 +317,37 @@ def generate_css():
             line-height: 1.6;
         }
         .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .filter-controls {
+            background: white;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .filter-controls label {
+            font-weight: 600;
+            color: #1a1a1b;
+        }
+        .filter-controls select {
+            padding: 8px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 4px;
+            font-size: 14px;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.2s;
+        }
+        .filter-controls select:hover {
+            border-color: #FF4500;
+        }
+        .filter-controls select:focus {
+            outline: none;
+            border-color: #FF4500;
+            box-shadow: 0 0 0 2px rgba(255, 69, 0, 0.1);
+        }
         header {
             background: linear-gradient(135deg, #FF4500 0%, #FF8B60 100%);
             color: white;
@@ -360,12 +459,14 @@ if __name__ == "__main__":
 
     print("\n📖 Parsing digest content...")
     digest_data = {}
-    for subreddit, filepath in sorted(latest_digests.items()):
+    digest_metadata = {}  # Track timeframe per subreddit
+    for subreddit, (filepath, timeframe) in sorted(latest_digests.items()):
         print(f"  - Parsing {subreddit}...")
         digest_data[subreddit] = parse_markdown_content(filepath)
+        digest_metadata[subreddit] = timeframe
 
     print("\n🎨 Generating HTML...")
-    html_content = generate_html(digest_data)
+    html_content = generate_html(digest_data, digest_metadata)
 
     # Create docs directory if it doesn't exist
     docs_dir = Path("docs")

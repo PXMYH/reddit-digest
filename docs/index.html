@@ -14,6 +14,37 @@
             line-height: 1.6;
         }
         .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        .filter-controls {
+            background: white;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .filter-controls label {
+            font-weight: 600;
+            color: #1a1a1b;
+        }
+        .filter-controls select {
+            padding: 8px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 4px;
+            font-size: 14px;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.2s;
+        }
+        .filter-controls select:hover {
+            border-color: #FF4500;
+        }
+        .filter-controls select:focus {
+            outline: none;
+            border-color: #FF4500;
+            box-shadow: 0 0 0 2px rgba(255, 69, 0, 0.1);
+        }
         header {
             background: linear-gradient(135deg, #FF4500 0%, #FF8B60 100%);
             color: white;
@@ -116,17 +147,32 @@
     <header>
         <div class="container">
             <h1>🔥 Reddit Digest Reader</h1>
-            <div class="last-updated">Last Updated: 2025-12-17 14:37 UTC</div>
+            <div class="last-updated">Last Updated: 2025-12-17 15:39 UTC</div>
         </div>
     </header>
 
     <div class="container">
+        <div class="filter-controls">
+            <label for="timeframe-filter">Filter by timeframe:</label>
+            <select id="timeframe-filter" onchange="filterByTimeframe()">
+                <option value="all">All digests</option>
+                <option value="date-range">Date range digests</option>
+                <option value="hour">Top - Hour</option>
+                <option value="day">Top - Day</option>
+                <option value="week">Top - Week</option>
+                <option value="month">Top - Month</option>
+                <option value="year">Top - Year</option>
+                <option value="all-time">Top - All Time</option>
+            </select>
+        </div>
+
         <div class="tabs">
-            <button class="tab-button active" onclick="openTab('Bogleheads')">Bogleheads</button>
-            <button class="tab-button" onclick="openTab('Fire')">Fire</button>
-            <button class="tab-button" onclick="openTab('LocalLLaMA')">LocalLLaMA</button>
-            <button class="tab-button" onclick="openTab('financialindependence')">financialindependence</button>
-            <button class="tab-button" onclick="openTab('formula1')">formula1</button>
+            <button class="tab-button active" data-timeframe="date-range" onclick="openTab('Bogleheads')">Bogleheads</button>
+            <button class="tab-button" data-timeframe="date-range" onclick="openTab('Fire')">Fire</button>
+            <button class="tab-button" data-timeframe="date-range" onclick="openTab('LocalLLaMA')">LocalLLaMA</button>
+            <button class="tab-button" data-timeframe="month" onclick="openTab('Python')">Python</button>
+            <button class="tab-button" data-timeframe="date-range" onclick="openTab('financialindependence')">financialindependence</button>
+            <button class="tab-button" data-timeframe="date-range" onclick="openTab('formula1')">formula1</button>
         </div>
 
         <div id="Bogleheads" class="tab-content active">
@@ -1212,6 +1258,17 @@
                 <div class="discussion">
                     <h4>Discussion Highlights</h4>
                     <p>The discussion highlights comparisons with existing tools like llama-swap, requests for better VRAM management across multiple GPUs, and questions about concurrent model memory management. Some users expressed preference for existing solutions while others appreciated the new functionality.</p>
+                </div>
+            </div>
+
+        </div>
+
+        <div id="Python" class="tab-content">
+            <div class="digest-header">
+                <h2>r/Python Reading Digest</h2>
+                <div class="digest-meta">
+                    <strong>Period:</strong> 2025-12-17 to 2025-12-17 |
+                    <strong>Posts:</strong> 0
                 </div>
             </div>
 
@@ -2534,6 +2591,42 @@
                 // Show selected tab and mark button as active
                 document.getElementById(tabName).classList.add('active');
                 event.currentTarget.classList.add('active');
+            }
+
+            function filterByTimeframe() {
+                var selectedTimeframe = document.getElementById('timeframe-filter').value;
+                var buttons = document.getElementsByClassName('tab-button');
+                var visibleButtons = [];
+
+                // Filter tab buttons based on selected timeframe
+                for (var i = 0; i < buttons.length; i++) {
+                    var button = buttons[i];
+                    var buttonTimeframe = button.getAttribute('data-timeframe');
+
+                    if (selectedTimeframe === 'all') {
+                        button.style.display = '';  // Show all
+                        visibleButtons.push(button);
+                    } else if (selectedTimeframe === 'date-range' && buttonTimeframe === 'date-range') {
+                        button.style.display = '';
+                        visibleButtons.push(button);
+                    } else if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
+                        button.style.display = '';
+                        visibleButtons.push(button);
+                    } else if (buttonTimeframe === selectedTimeframe) {
+                        button.style.display = '';
+                        visibleButtons.push(button);
+                    } else {
+                        button.style.display = 'none';  // Hide
+                    }
+                }
+
+                // Activate the first visible button if current tab is hidden
+                if (visibleButtons.length > 0) {
+                    var activeButton = document.querySelector('.tab-button.active');
+                    if (!activeButton || activeButton.style.display === 'none') {
+                        visibleButtons[0].click();
+                    }
+                }
             }
         </script>
     </div>
