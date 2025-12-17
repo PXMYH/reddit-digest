@@ -65,6 +65,34 @@ uv run python summarize_subreddit.py MachineLearning --start 2024-01-01 --end 20
 python summarize_subreddit.py MachineLearning --start 2024-01-01 --end 2024-01-31
 ```
 
+### Timeframe-Based Fetching (NEW!)
+
+Fetch top posts from a specific time period without specifying exact dates:
+
+```bash
+# Fast mode: Get top posts from past year (no AI summaries)
+uv run python summarize_subreddit.py Fire --timeframe year
+
+# With AI summaries: Generate comprehensive digest
+uv run python summarize_subreddit.py Fire --timeframe year --summarize
+
+# Other timeframes: hour, day, week, month, all
+uv run python summarize_subreddit.py Python --timeframe month --summarize
+```
+
+**Use cases:**
+- **Quick overview:** Get top content without waiting for AI summaries (`--timeframe` alone)
+- **Annual/monthly digests:** Generate comprehensive digests with AI analysis (`--timeframe --summarize`)
+- **GitHub Actions workflows:** Perfect for scheduled digest generation (see examples below)
+
+**Available timeframes:**
+- `hour` - Top posts from the past hour
+- `day` - Top posts from the past 24 hours
+- `week` - Top posts from the past week
+- `month` - Top posts from the past month
+- `year` - Top posts from the past year
+- `all` - Top posts of all time
+
 ### Advanced Options
 
 ```bash
@@ -155,8 +183,10 @@ python summarize_subreddit.py MachineLearning \
 | Option | Description | Default |
 |--------|-------------|---------|
 | `SUBREDDIT` | Name of subreddit (without r/) | Required |
-| `--start`, `-s` | Start date (YYYY-MM-DD) | Required |
-| `--end`, `-e` | End date (YYYY-MM-DD) | Required |
+| `--start`, `-s` | Start date (YYYY-MM-DD) | Required with `--end` |
+| `--end`, `-e` | End date (YYYY-MM-DD) | Required with `--start` |
+| `--timeframe`, `-t` | Timeframe (hour/day/week/month/year/all) | Alternative to start/end |
+| `--summarize/--no-summarize` | Generate AI summaries | True for date range, False for timeframe |
 | `--min-upvotes` | Minimum upvotes threshold | 100 |
 | `--min-comments` | Minimum comments threshold | 30 |
 | `--max-posts` | Maximum posts to analyze | 50 |
@@ -167,6 +197,8 @@ python summarize_subreddit.py MachineLearning \
 | `--no-comments` | Skip comment analysis | False |
 | `--checkpoint` | Checkpoint file for resume | None |
 | `--checkpoint-interval` | Save checkpoint every N posts | 5 |
+
+**Note:** You must use either `--start/--end` (date range mode) OR `--timeframe` (timeframe mode), not both.
 
 ## Example Output
 

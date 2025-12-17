@@ -11,13 +11,19 @@ This is a Reddit Subreddit Digest Generator that uses the ACE (Agentic Context E
 ### Running the Tool Locally
 
 ```bash
-# Quick test with UV (recommended)
+# Date range mode (original behavior - with AI summaries)
 uv run python summarize_subreddit.py LocalLLaMA --start 2025-12-10 --end 2025-12-17
 
-# Without UV
-python summarize_subreddit.py MachineLearning --start 2024-01-01 --end 2024-01-31
+# Timeframe mode (NEW - fast, no summaries by default)
+uv run python summarize_subreddit.py Fire --timeframe year
 
-# With all options
+# Timeframe mode with summaries (NEW)
+uv run python summarize_subreddit.py Fire --timeframe year --summarize
+
+# All timeframe options: hour, day, week, month, year, all
+uv run python summarize_subreddit.py Python --timeframe month --summarize
+
+# With all options (date range mode)
 uv run python summarize_subreddit.py python \
   --start 2024-12-01 --end 2024-12-10 \
   --min-upvotes 200 --min-comments 50 \
@@ -81,6 +87,30 @@ uv run pylint reddit_summarizer/
 We follow Google Python Style Guide: https://google.github.io/styleguide/pyguide.html
 
 ## Architecture
+
+### Dual-Mode CLI
+
+The tool supports two mutually exclusive modes for fetching posts:
+
+**1. Date Range Mode** (`--start` + `--end`):
+- Fetches posts within a specific date range
+- Uses `/r/{subreddit}/new.json` endpoint
+- Filters posts locally by date
+- **Default behavior:** Generates AI summaries (can disable with `--no-summarize`)
+- **Use case:** Historical analysis, specific date ranges
+
+**2. Timeframe Mode** (`--timeframe`):
+- Fetches top posts from a specific timeframe (hour/day/week/month/year/all)
+- Uses `/r/{subreddit}/top.json?t={timeframe}` endpoint
+- Reddit handles timeframe filtering server-side
+- **Default behavior:** No AI summaries (fast mode, can enable with `--summarize`)
+- **Use case:** Quick overviews, periodic digests, GitHub Actions workflows
+
+**Summarization Control:**
+- `--summarize` / `--no-summarize` flag explicitly controls AI summary generation
+- If not specified, defaults to:
+  - `True` for date range mode (comprehensive analysis)
+  - `False` for timeframe mode (fast data fetching)
 
 ### High-Level Data Flow
 
