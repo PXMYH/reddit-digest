@@ -162,6 +162,7 @@ def generate_html(digest_data, digest_metadata):
         <div class="filter-controls">
             <label for="timeframe-filter">Filter by timeframe:</label>
             <select id="timeframe-filter" onchange="filterByTimeframe()">
+                <option value="all">All</option>
                 <option value="week">Top - Week</option>
                 <option value="month">Top - Month</option>
                 <option value="year">Top - Year</option>
@@ -219,7 +220,11 @@ def generate_html(digest_data, digest_metadata):
                     var button = buttons[i];
                     var buttonTimeframe = button.getAttribute('data-timeframe');
 
-                    if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
+                    if (selectedTimeframe === 'all') {
+                        // Show all tabs
+                        button.style.display = '';
+                        visibleButtons.push(button);
+                    } else if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
                         button.style.display = '';
                         visibleButtons.push(button);
                     } else if (buttonTimeframe === selectedTimeframe) {
