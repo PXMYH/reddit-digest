@@ -1,83 +1,98 @@
 # r/Bogleheads Reading Digest
 
 **Period:** 2025-12-17 to 2025-12-17
-**Posts Summarized:** 5
-**Total Posts Analyzed:** 5
+**Posts Summarized:** 6
+**Total Posts Analyzed:** 6
 
 ---
 
-## 1. [Inflation adjusted market returns do not look all that rosy. Am I missing something?](https://reddit.com/r/Bogleheads/comments/1po0c1o/inflation_adjusted_market_returns_do_not_look_all/)
+## 1. [Vanguard Final Estimated Year-End 2025 Distributions](https://reddit.com/r/Bogleheads/comments/1pod994/vanguard_final_estimated_yearend_2025/)
 
-**Author:** u/volchonok1 | **Upvotes:** 184 | **Comments:** 241 | **Date:** 2025-12-16
+**Author:** u/EevelBob | **Upvotes:** 185 | **Comments:** 20 | **Date:** 2025-12-16
 
-**Summary:** The post questions the effectiveness of long-term investing in the S&P 500 due to periods of flat or negative inflation-adjusted returns, highlighting concerns about future market performance. Key points include the importance of including dividends in return calculations, the suggestion of diversified portfolios with dividend reinvestment as a strong alternative, and the emphasis on very long-term investment horizons (30+ years). The discussion highlights the importance of including dividends in return calculations and suggests that diversified portfolios with dividend reinvestment can provide strong inflation-adjusted returns. The consensus leans towards long-term investing with a focus on diversification and reinvestment.
-
----
-
-## 2. [VT and Chill?](https://reddit.com/r/Bogleheads/comments/1pmrbbp/vt_and_chill/)
-
-**Author:** u/tryingmybesttolearn2 | **Upvotes:** 132 | **Comments:** 71 | **Date:** 2025-12-14
-
-**Summary:** The post discusses the suitability of VT (Vanguard Total World Stock ETF) as a comprehensive investment option, with the author seeking advice on whether to include other ETFs. The comments generally support VT as a one-stop solution but also suggest considering portfolio balance, especially given the author's existing S&P 500 investment.
+**Summary:** The post discusses Vanguard's final estimated year-end 2025 distributions, explaining that mutual fund NAV decreases by the exact amount of the dividend or distribution paid out on the ex-dividend date. This is because the fund returns cash or shares to investors, reducing the fund's total assets.
 
 **Key Points:**
-- VT is praised as a comprehensive, all-in-one ETF for global diversification.
-- The consensus is to avoid adding more equity-tracking ETFs if using VT.
-- The author's existing S&P 500 investment may lead to an overweight in US stocks if VT is added.
-- Alternatives like VTI and VXUS are suggested to balance the portfolio.
-- Target date funds are mentioned as another low-maintenance option.
+- Mutual fund NAV decreases by the exact amount of the dividend or distribution paid out.
+- Dividends are not 'free money' but rather a return of the fund's assets to investors.
+- The ex-dividend date is when the NAV adjustment occurs.
+- Some investors may not understand why the NAV decreases when the market goes up.
 
-**Discussion Highlights:** The discussion highlights strong support for VT as a simple, diversified investment. However, some commenters caution about potential US overweight due to the author's existing S&P 500 holdings and suggest alternatives like VTI and VXUS to achieve a more balanced global allocation. The overall tone favors a 'VT and chill' approach for simplicity.
-
----
-
-## 3. [Maxing your 401k today in S&amp;P500 is the same as investing $200 - 50 years ago](https://reddit.com/r/Bogleheads/comments/1pmjatm/maxing_your_401k_today_in_sp500_is_the_same_as/)
-
-**Author:** u/Scorface | **Upvotes:** 276 | **Comments:** 66 | **Date:** 2025-12-14
-
-**Summary:** The post highlights the power of compounding by comparing maxing out a 401k today to investing $200 in the S&P500 50 years ago, which would now be worth $23,500, the current maximum annual contribution limit. The discussion emphasizes the importance of consistent investing and the benefits of long-term growth.
-
-**Key Points:**
-- $200 invested in the S&P500 50 years ago would now be worth $23,500, equivalent to the current maximum annual 401k contribution.
-- Historical context: IRA contribution limits were as low as $250 in the past.
-- The discussion highlights the importance of consistent, long-term investing.
-- Criticism of not adjusting for inflation and potential overestimation of returns.
-
-**Discussion Highlights:** The discussion consensus underscores the significance of compounding and long-term investing, with some users pointing out historical context and potential flaws in the comparison, such as not adjusting for inflation.
+**Discussion Highlights:** The discussion highlights common misconceptions about dividends, with some investors mistakenly believing dividends are free money. There is also a question about whether dividends lead to compounding and increased gains in index funds.
 
 ---
 
-## 4. [Switched from VTI and VXUS to 100% VT in Roth IRA](https://reddit.com/r/Bogleheads/comments/1pkiltl/switched_from_vti_and_vxus_to_100_vt_in_roth_ira/)
+## 2. [Inflation adjusted market returns do not look all that rosy. Am I missing something?](https://reddit.com/r/Bogleheads/comments/1po0c1o/inflation_adjusted_market_returns_do_not_look_all/)
 
-**Author:** u/jboy9622 | **Upvotes:** 204 | **Comments:** 83 | **Date:** 2025-12-11
+**Author:** u/volchonok1 | **Upvotes:** 180 | **Comments:** 244 | **Date:** 2025-12-16
 
-**Summary:** The author switched from an 80/20 VTI/VXUS allocation to 100% VT in their Roth IRA for simplicity and long-term growth, citing a 30-year investment horizon. The community generally supported this decision, emphasizing the benefits of simplicity and consistent contributions.
-
-**Key Points:**
-- Author switched to 100% VT for simplicity and long-term investment.
-- Community consensus supports the decision for simplicity and ease of management.
-- Minor cost difference noted (0.06% vs. 0.03% & 0.05% expense ratios).
-- Author is 29 years old with a 30-year investment horizon.
-- Encouragement to continue maxing out contributions annually.
-
-**Discussion Highlights:** The discussion highlights strong support for the author's decision to simplify their investment strategy with 100% VT. Key themes include the benefits of a long-term investment horizon, the convenience of a single fund, and the importance of consistent contributions. Some comments noted the slight increase in expense ratios but agreed that the convenience outweighed the minimal cost difference.
+**Summary:** The Reddit post discusses concerns about inflation-adjusted market returns, highlighting periods of flat or negative returns and questioning the effectiveness of long-term investing. The comments provide alternative perspectives and emphasize the importance of considering dividends and diversification. Key points include: Inflation-adjusted returns show periods of stagnation or decline (e.g., 1968-1994, 2000-2016). The author questions the feasibility of long-term investing given these historical trends. Comments suggest considering dividends and diversification for better returns. Alternative strategies to beat inflation are discussed in the comments. The importance of a diversified portfolio is emphasized. The discussion highlights the importance of including dividends in return calculations and considering diversified portfolios. Many commenters argue that despite periods of stagnation, long-term investing in a diversified portfolio can still yield significant inflation-adjusted returns.
 
 ---
 
-## 5. [Bought my very first shares of VTI and VXUS today :)](https://reddit.com/r/Bogleheads/comments/1pjzbe4/bought_my_very_first_shares_of_vti_and_vxus_today/)
+## 3. [VT and Chill?](https://reddit.com/r/Bogleheads/comments/1pmrbbp/vt_and_chill/)
 
-**Author:** u/nerolyk42 | **Upvotes:** 191 | **Comments:** 29 | **Date:** 2025-12-11
+**Author:** u/tryingmybesttolearn2 | **Upvotes:** 136 | **Comments:** 71 | **Date:** 2025-12-14
 
-**Summary:** The user shares their excitement about making their first investment in VTI and VXUS, following an 80/20 domestic/international strategy, and the positive reinforcement from the community.
+**Summary:** The post discusses the suitability of VT (Vanguard Total World Stock ETF) as a comprehensive investment option, with the author seeking advice on whether additional ETFs are necessary. The comments generally support VT as a one-stop solution for global equity exposure.
 
 **Key Points:**
-- User built an emergency fund before starting to invest.
-- First investment of $400 in VTI and $100 in VXUS.
-- Strategy follows an 80/20 domestic/international allocation.
-- Community congratulates the user and validates their strategy.
-- Suggestion to consider VT instead of manually allocating between VTI and VXUS.
+- VT is designed to provide total domestic and international index exposure in one ETF.
+- The consensus is that VT alone is sufficient for equity investment, with no need for additional ETFs.
+- The author's existing S&P 500 investment in TSP may lead to an overweight in US equities if VT is added.
+- Alternatives like VTI and VXUS are suggested to balance the portfolio if needed.
 
-**Discussion Highlights:** The community congratulates the user on their first investment and validates their strategy. There is a suggestion to consider VT for simplicity, but overall, the discussion is supportive and reinforcing of the user's approach.
+**Discussion Highlights:** The discussion highlights strong support for VT as a comprehensive investment, with some comments suggesting alternatives like VTI and VXUS to balance the portfolio, especially given the author's existing S&P 500 investment.
+
+---
+
+## 4. [Maxing your 401k today in S&amp;P500 is the same as investing $200 - 50 years ago](https://reddit.com/r/Bogleheads/comments/1pmjatm/maxing_your_401k_today_in_sp500_is_the_same_as/)
+
+**Author:** u/Scorface | **Upvotes:** 274 | **Comments:** 66 | **Date:** 2025-12-14
+
+**Summary:** The post highlights the long-term growth potential of investing in the S&P 500, noting that a $200 investment 50 years ago would now be worth $23,500, equivalent to the current maximum annual 401k contribution. The discussion includes humor, historical context, and practical questions about consistent investing.
+
+**Key Points:**
+- A $200 investment in the S&P 500 50 years ago would now be worth $23,500.
+- This amount is equivalent to the current maximum annual 401k contribution.
+- Historical context: IRA limits were as low as $250 in the past.
+- Community reactions include humor, skepticism, and questions about consistent investing.
+- Discussion on inflation adjustment and future return expectations.
+
+**Discussion Highlights:** The discussion features a mix of humor, historical context, and practical questions. Top comments highlight the equivalence to current 401k limits, past IRA contribution limits, and questions about consistent investing and inflation adjustments.
+
+---
+
+## 5. [Switched from VTI and VXUS to 100% VT in Roth IRA](https://reddit.com/r/Bogleheads/comments/1pkiltl/switched_from_vti_and_vxus_to_100_vt_in_roth_ira/)
+
+**Author:** u/jboy9622 | **Upvotes:** 202 | **Comments:** 83 | **Date:** 2025-12-11
+
+**Summary:** The author decided to switch from an 80/20 VTI/VXUS allocation to 100% VT in their Roth IRA for simplicity and long-term growth, citing their young age and preference for a hands-off approach.
+
+**Key Points:**
+- Author switched from VTI/VXUS to 100% VT for simplicity
+- Author is 29 years old with a long investment horizon
+- Community generally supports the decision for its simplicity
+- Some comments highlight the slight difference in expense ratios
+- Others share similar experiences of switching to VT
+
+**Discussion Highlights:** The discussion largely supports the author's decision, emphasizing the benefits of simplicity and long-term investing. Some comments mention the minor cost differences between VT and a VTI/VXUS split, but the overall consensus is positive.
+
+---
+
+## 6. [Bought my very first shares of VTI and VXUS today :)](https://reddit.com/r/Bogleheads/comments/1pjzbe4/bought_my_very_first_shares_of_vti_and_vxus_today/)
+
+**Author:** u/nerolyk42 | **Upvotes:** 187 | **Comments:** 29 | **Date:** 2025-12-11
+
+**Summary:** The user shares their excitement about making their first investment in VTI and VXUS, following an 80/20 domestic/international strategy, after building an emergency fund. The community congratulates them and offers supportive feedback.
+
+**Key Points:**
+- User invested $400 in VTI and $100 in VXUS, following an 80/20 domestic/international strategy.
+- The user prioritized building an emergency fund before investing.
+- The community praises the user's strategy and offers suggestions for simplification.
+- The user expresses excitement and satisfaction with their first investment.
+
+**Discussion Highlights:** The community congratulates the user on their first investment and prioritizing an emergency fund. There is consensus that the user's strategy is solid, with some suggestions to consider using VT instead of manually allocating between VTI and VXUS.
 
 ---
 
