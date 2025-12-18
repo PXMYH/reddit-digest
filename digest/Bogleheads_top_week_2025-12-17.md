@@ -10,67 +10,57 @@
 
 **Author:** u/volchonok1 | **Upvotes:** 184 | **Comments:** 241 | **Date:** 2025-12-16
 
-**Summary:** The post questions the effectiveness of long-term stock market investments due to periods of flat or negative inflation-adjusted returns, highlighting specific historical periods. The discussion emphasizes the importance of considering dividends and diversification for better returns.
-
-**Key Points:**
-- Historical periods with flat or negative inflation-adjusted returns (e.g., 1968-1994, 2000-2016)
-- Importance of including dividends in return calculations
-- Need for long-term investment horizons (30+ years) to see significant gains
-- Diversification as a strategy to improve post-inflation returns
-- Recent market rally may not be sustainable long-term
-
-**Discussion Highlights:** The discussion highlights the significance of including dividends and diversification in assessing market returns. Many commenters suggest that a diversified portfolio with dividend reinvestment can yield strong post-inflation returns over several decades.
+**Summary:** The post questions the effectiveness of long-term investing in the S&P 500 due to periods of flat or negative inflation-adjusted returns, highlighting concerns about future market performance. Key points include the importance of including dividends in return calculations, the suggestion of diversified portfolios with dividend reinvestment as a strong alternative, and the emphasis on very long-term investment horizons (30+ years). The discussion highlights the importance of including dividends in return calculations and suggests that diversified portfolios with dividend reinvestment can provide strong inflation-adjusted returns. The consensus leans towards long-term investing with a focus on diversification and reinvestment.
 
 ---
 
 ## 2. [VT and Chill?](https://reddit.com/r/Bogleheads/comments/1pmrbbp/vt_and_chill/)
 
-**Author:** u/tryingmybesttolearn2 | **Upvotes:** 133 | **Comments:** 71 | **Date:** 2025-12-14
+**Author:** u/tryingmybesttolearn2 | **Upvotes:** 132 | **Comments:** 71 | **Date:** 2025-12-14
 
-**Summary:** The post discusses the use of VT (Vanguard Total World Stock ETF) as a primary investment, with the author seeking advice on whether to include other ETFs. The consensus from comments supports VT as a comprehensive, one-stop solution for global equity exposure.
+**Summary:** The post discusses the suitability of VT (Vanguard Total World Stock ETF) as a comprehensive investment option, with the author seeking advice on whether to include other ETFs. The comments generally support VT as a one-stop solution but also suggest considering portfolio balance, especially given the author's existing S&P 500 investment.
 
 **Key Points:**
-- VT is designed to be a comprehensive, one-stop ETF for global equity exposure.
-- Adding more equity-tracking ETFs alongside VT is unnecessary.
-- The author's TSP is heavily invested in the S&P 500, which may lead to US overweight if using VT.
+- VT is praised as a comprehensive, all-in-one ETF for global diversification.
+- The consensus is to avoid adding more equity-tracking ETFs if using VT.
+- The author's existing S&P 500 investment may lead to an overweight in US stocks if VT is added.
 - Alternatives like VTI and VXUS are suggested to balance the portfolio.
-- VT and chill is considered a simple and effective investment strategy.
+- Target date funds are mentioned as another low-maintenance option.
 
-**Discussion Highlights:** The discussion highlights that VT is a well-regarded, all-in-one ETF for global diversification. However, some commenters note that the author's existing S&P 500 investment in their TSP may lead to an overweight in US stocks if VT is used. Alternatives like VTI and VXUS are suggested to achieve a more balanced portfolio. Overall, the consensus supports VT as a simple and effective investment strategy.
+**Discussion Highlights:** The discussion highlights strong support for VT as a simple, diversified investment. However, some commenters caution about potential US overweight due to the author's existing S&P 500 holdings and suggest alternatives like VTI and VXUS to achieve a more balanced global allocation. The overall tone favors a 'VT and chill' approach for simplicity.
 
 ---
 
 ## 3. [Maxing your 401k today in S&amp;P500 is the same as investing $200 - 50 years ago](https://reddit.com/r/Bogleheads/comments/1pmjatm/maxing_your_401k_today_in_sp500_is_the_same_as/)
 
-**Author:** u/Scorface | **Upvotes:** 275 | **Comments:** 66 | **Date:** 2025-12-14
+**Author:** u/Scorface | **Upvotes:** 276 | **Comments:** 66 | **Date:** 2025-12-14
 
-**Summary:** The post highlights the long-term growth potential of investing in the S&P 500, showing how a $200 investment 50 years ago could grow significantly. It encourages consistent investing for future generations.
+**Summary:** The post highlights the power of compounding by comparing maxing out a 401k today to investing $200 in the S&P500 50 years ago, which would now be worth $23,500, the current maximum annual contribution limit. The discussion emphasizes the importance of consistent investing and the benefits of long-term growth.
 
 **Key Points:**
-- A $200 investment in the S&P 500 50 years ago could be worth $23,500 today.
-- The maximum annual 401k contribution is now $23,500, similar to the growth of the $200 investment.
-- Historical context: IRA limits were as low as $250 in the past.
-- Critiques include concerns about inflation adjustment and future return expectations.
-- Humor and personal anecdotes are mixed into the discussion.
+- $200 invested in the S&P500 50 years ago would now be worth $23,500, equivalent to the current maximum annual 401k contribution.
+- Historical context: IRA contribution limits were as low as $250 in the past.
+- The discussion highlights the importance of consistent, long-term investing.
+- Criticism of not adjusting for inflation and potential overestimation of returns.
 
-**Discussion Highlights:** The discussion includes a mix of supportive comments highlighting the power of compounding, humorous remarks, and critiques about inflation adjustments and future return expectations. Some users also share personal anecdotes and historical context about investment limits.
+**Discussion Highlights:** The discussion consensus underscores the significance of compounding and long-term investing, with some users pointing out historical context and potential flaws in the comparison, such as not adjusting for inflation.
 
 ---
 
 ## 4. [Switched from VTI and VXUS to 100% VT in Roth IRA](https://reddit.com/r/Bogleheads/comments/1pkiltl/switched_from_vti_and_vxus_to_100_vt_in_roth_ira/)
 
-**Author:** u/jboy9622 | **Upvotes:** 205 | **Comments:** 83 | **Date:** 2025-12-11
+**Author:** u/jboy9622 | **Upvotes:** 204 | **Comments:** 83 | **Date:** 2025-12-11
 
-**Summary:** The author switched from an 80/20 VTI/VXUS allocation to 100% VT in their Roth IRA for simplicity and long-term growth, citing a 30-year investment horizon. The community generally supported this decision, emphasizing the benefits of simplicity and long-term investing.
+**Summary:** The author switched from an 80/20 VTI/VXUS allocation to 100% VT in their Roth IRA for simplicity and long-term growth, citing a 30-year investment horizon. The community generally supported this decision, emphasizing the benefits of simplicity and consistent contributions.
 
 **Key Points:**
-- Author switched to 100% VT for simplicity and long-term growth
-- Community generally supportive of the decision
-- Emphasis on long-term investing and simplicity
-- Mention of expense ratio differences (0.06% vs 0.03% & 0.05%)
-- Author is 29 years old with a 30-year investment horizon
+- Author switched to 100% VT for simplicity and long-term investment.
+- Community consensus supports the decision for simplicity and ease of management.
+- Minor cost difference noted (0.06% vs. 0.03% & 0.05% expense ratios).
+- Author is 29 years old with a 30-year investment horizon.
+- Encouragement to continue maxing out contributions annually.
 
-**Discussion Highlights:** The discussion highlights the community's support for the author's decision, with many emphasizing the benefits of simplicity and long-term investing. Some comments also mentioned the slight difference in expense ratios and the importance of consistent contributions.
+**Discussion Highlights:** The discussion highlights strong support for the author's decision to simplify their investment strategy with 100% VT. Key themes include the benefits of a long-term investment horizon, the convenience of a single fund, and the importance of consistent contributions. Some comments noted the slight increase in expense ratios but agreed that the convenience outweighed the minimal cost difference.
 
 ---
 
@@ -78,15 +68,16 @@
 
 **Author:** u/nerolyk42 | **Upvotes:** 191 | **Comments:** 29 | **Date:** 2025-12-11
 
-**Summary:** The user shares their excitement about making their first investment in VTI and VXUS, following an 80/20 domestic/international strategy, after building an emergency fund. The community congratulates them and offers constructive feedback.
+**Summary:** The user shares their excitement about making their first investment in VTI and VXUS, following an 80/20 domestic/international strategy, and the positive reinforcement from the community.
 
 **Key Points:**
-- User invested $400 in VTI and $100 in VXUS, following an 80/20 strategy.
-- They prioritized building an emergency fund before investing.
-- The community praises their strategy and offers suggestions for simplification.
-- The emotional satisfaction of making the first investment is highlighted.
+- User built an emergency fund before starting to invest.
+- First investment of $400 in VTI and $100 in VXUS.
+- Strategy follows an 80/20 domestic/international allocation.
+- Community congratulates the user and validates their strategy.
+- Suggestion to consider VT instead of manually allocating between VTI and VXUS.
 
-**Discussion Highlights:** The community congratulates the user on their first investment and prioritizing an emergency fund. There is consensus on the effectiveness of their investment strategy, with some suggesting to consider VT for simplicity.
+**Discussion Highlights:** The community congratulates the user on their first investment and validates their strategy. There is a suggestion to consider VT for simplicity, but overall, the discussion is supportive and reinforcing of the user's approach.
 
 ---
 
