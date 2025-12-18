@@ -162,10 +162,6 @@ def generate_html(digest_data, digest_metadata):
         <div class="filter-controls">
             <label for="timeframe-filter">Filter by timeframe:</label>
             <select id="timeframe-filter" onchange="filterByTimeframe()">
-                <option value="all">All digests</option>
-                <option value="date-range">Date range digests</option>
-                <option value="hour">Top - Hour</option>
-                <option value="day">Top - Day</option>
                 <option value="week">Top - Week</option>
                 <option value="month">Top - Month</option>
                 <option value="year">Top - Year</option>
@@ -223,13 +219,7 @@ def generate_html(digest_data, digest_metadata):
                     var button = buttons[i];
                     var buttonTimeframe = button.getAttribute('data-timeframe');
 
-                    if (selectedTimeframe === 'all') {
-                        button.style.display = '';  // Show all
-                        visibleButtons.push(button);
-                    } else if (selectedTimeframe === 'date-range' && buttonTimeframe === 'date-range') {
-                        button.style.display = '';
-                        visibleButtons.push(button);
-                    } else if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
+                    if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
                         button.style.display = '';
                         visibleButtons.push(button);
                     } else if (buttonTimeframe === selectedTimeframe) {

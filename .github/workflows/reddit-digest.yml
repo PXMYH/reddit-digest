@@ -38,23 +38,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Calculate date range (last 7 days)
-        id: dates
-        run: |
-          END_DATE=$(date +%Y-%m-%d)
-          # macOS uses -v instead of -d for date arithmetic
-          START_DATE=$(date -v-3d +%Y-%m-%d)
-          echo "start_date=$START_DATE" >> $GITHUB_OUTPUT
-          echo "end_date=$END_DATE" >> $GITHUB_OUTPUT
-          echo "Date range: $START_DATE to $END_DATE"
-
       - name: Generate Formula1 digest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           ./reddit-digest formula1 \
-            --start ${{ steps.dates.outputs.start_date }} \
-            --end ${{ steps.dates.outputs.end_date }} \
+            --timeframe week \
+            --summarize \
             --min-upvotes 100 \
             --min-comments 20
         continue-on-error: true
@@ -64,8 +54,8 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           ./reddit-digest LocalLLaMA \
-            --start ${{ steps.dates.outputs.start_date }} \
-            --end ${{ steps.dates.outputs.end_date }} \
+            --timeframe week \
+            --summarize \
             --min-upvotes 100 \
             --min-comments 20
         continue-on-error: true
@@ -75,8 +65,8 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           ./reddit-digest Fire \
-            --start ${{ steps.dates.outputs.start_date }} \
-            --end ${{ steps.dates.outputs.end_date }} \
+            --timeframe week \
+            --summarize \
             --min-upvotes 100 \
             --min-comments 20
         continue-on-error: true
@@ -86,8 +76,8 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           ./reddit-digest financialindependence \
-            --start ${{ steps.dates.outputs.start_date }} \
-            --end ${{ steps.dates.outputs.end_date }} \
+            --timeframe week \
+            --summarize \
             --min-upvotes 100 \
             --min-comments 20
         continue-on-error: true
@@ -97,8 +87,8 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           ./reddit-digest Bogleheads \
-            --start ${{ steps.dates.outputs.start_date }} \
-            --end ${{ steps.dates.outputs.end_date }} \
+            --timeframe week \
+            --summarize \
             --min-upvotes 100 \
             --min-comments 20
         continue-on-error: true
