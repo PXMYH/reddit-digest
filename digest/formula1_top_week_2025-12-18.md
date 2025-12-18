@@ -8,122 +8,137 @@
 
 ## 1. [Max Verstappen reveals frequent Christian Horner messages during stunning F1 title charge](https://reddit.com/r/formula1/comments/1ppbrwf/max_verstappen_reveals_frequent_christian_horner/)
 
-**Author:** u/256473 | **Upvotes:** 3702 | **Comments:** 170 | **Date:** 2025-12-17
+**Author:** u/256473 | **Upvotes:** 4047 | **Comments:** 181 | **Date:** 2025-12-17
 
-**Summary:** Max Verstappen revealed that he frequently communicates with Christian Horner, receiving messages every week and during every race weekend. This communication continued even after Horner's sacking.
+**Summary:** Max Verstappen revealed that he frequently communicates with Christian Horner, receiving messages every week during race weekends. The discussion highlights the ongoing contact between Verstappen and Horner, despite Horner's sacking, and compares communication styles among team principals.
 
 **Key Points:**
-- Max Verstappen receives messages from Christian Horner every week and during every race weekend.
-- The communication continued five months after Horner's sacking.
-- The post highlights the contrast between Horner's messaging style and other team principals like Toto Wolff.
-- There is a discussion about the frequency and nature of Horner's messages.
+- Max Verstappen receives messages from Christian Horner every week during race weekends.
+- The communication continues despite Horner's sacking.
+- Comparison of communication styles among team principals (Horner messages, Toto sends emails).
+- Discussion includes humor about mobile ads in the context of the post.
 
-**Discussion Highlights:** The discussion highlights the ongoing communication between Verstappen and Horner, with some users noting the contrast in communication styles among different team principals. There is also a humorous comment about mobile ads in the post.
+**Discussion Highlights:** The discussion primarily focuses on the ongoing communication between Verstappen and Horner, with some humor and comparisons to other team principals' communication methods.
 
 ---
 
 ## 2. [Max will use number 3 in 2026 season, confirmed to ViaPlay](https://reddit.com/r/formula1/comments/1pp6hw4/max_will_use_number_3_in_2026_season_confirmed_to/)
 
-**Author:** u/littletreble07 | **Upvotes:** 13785 | **Comments:** 470 | **Date:** 2025-12-17
+**Author:** u/littletreble07 | **Upvotes:** 14426 | **Comments:** 479 | **Date:** 2025-12-17
 
-**Summary:** Max Verstappen has confirmed he will switch from racing number 33 to number 3 for the 2026 Formula 1 season, citing his preference for the number 3, except for number 1. The announcement was made via ViaPlay.
+**Summary:** Max Verstappen has confirmed he will switch from racing number 33 to number 3 for the 2026 Formula 1 season, citing his preference for the number 3. The announcement was made via ViaPlay, and fans have expressed mixed reactions to the change.
 
 **Key Points:**
 - Max Verstappen will use number 3 in the 2026 season.
-- His favorite number has always been 3, except for number 1.
-- He has obtained the necessary permission for the number change.
-- Fans have mixed reactions, with some expressing sadness over the loss of the iconic number 33.
-- Jokes about driving at 3 km/h around Zandvoort highlight the community's engagement.
+- He confirmed this change via ViaPlay, stating his favorite number is 3.
+- Fans have mixed reactions, with some appreciating the change and others preferring the iconic number 33.
+- The number change has been approved by the necessary authorities.
 
-**Discussion Highlights:** The discussion reflects a mix of nostalgia for the number 33 and acceptance of the change to number 3. Some fans humorously reference the number change in the context of racing speeds, while others express their preference for the previous number.
+**Discussion Highlights:** The discussion highlights a mix of nostalgia for the number 33 and excitement for the new number 3. Some fans joke about the potential impact on track speeds, while others express sadness over the loss of the iconic number 33.
 
 ---
 
 ## 3. [[Kevin Bozzi on IG] Charles Leclerc gifted a ‘Must be the water’ shirt for Christmas](https://reddit.com/r/formula1/comments/1pp5p6f/kevin_bozzi_on_ig_charles_leclerc_gifted_a_must/)
 
-**Author:** u/krisbryantishot | **Upvotes:** 4916 | **Comments:** 79 | **Date:** 2025-12-17
+**Author:** u/krisbryantishot | **Upvotes:** 5398 | **Comments:** 86 | **Date:** 2025-12-17
 
-**Summary:** Charles Leclerc was gifted a 'Must be the water' shirt for Christmas, as shared by Kevin Bozzi on Instagram. The post and comments highlight a humorous and lighthearted reaction from the Formula 1 community.
+**Summary:** Charles Leclerc was gifted a 'Must be the water' shirt for Christmas, as shared by Kevin Bozzi on Instagram. The post and comments highlight the humorous nature of the gift and reference past events involving Ferrari and Bryan Bozzi.
 
 **Key Points:**
 - Charles Leclerc received a 'Must be the water' shirt as a Christmas gift.
-- The post was shared by Kevin Bozzi on Instagram, featuring Bryan Bozzi and others.
-- The community found the gift humorous and added it to the 'shirts of wisdom' collection.
-- Some comments interpreted the gift as a lighthearted joke about past incidents.
-- The overall tone of the discussion was positive and amused.
+- The gift was shared by Kevin Bozzi on Instagram, featuring Bryan Bozzi and others.
+- The post and comments reference past humorous incidents involving Ferrari and Bryan Bozzi.
+- The community finds the gift and context amusing, adding it to a list of memorable moments.
 
-**Discussion Highlights:** The discussion was marked by a sense of humor and camaraderie, with many users appreciating the lighthearted nature of the gift and its reference to past moments in Formula 1.
-
----
-
-## 4. [Welcome Blinkers to F1](https://reddit.com/r/formula1/comments/1poyfnr/welcome_blinkers_to_f1/)
-
-**Author:** u/Groundbreaking-Gate6 | **Upvotes:** 7378 | **Comments:** 408 | **Date:** 2025-12-17
-
-**Summary:** The Reddit post discusses the introduction of visibility lights for wet-weather races in Formula 1, which are mistakenly thought to be turn signals. The community humorously suggests additional features like horns and inter-driver communications. Key points include the purpose of the lights, humorous suggestions for additional features, jokes about driver interactions, questions about the necessity of the lights, and confusion about their shape. The discussion is light-hearted and humorous, with a focus on the practicality and humor of adding new features to F1 cars. There is a general consensus that while the lights are not turn signals, their purpose is appreciated, and the community enjoys speculating about additional features.
+**Discussion Highlights:** The discussion is light-hearted and humorous, with users appreciating the reference to past events and the playful nature of the gift. There is a consensus that the shirt and the context around it are amusing and memorable.
 
 ---
 
-## 5. [Who Talks the Most: Brief Driver Radio Breakdown [steviethenarwhal]](https://reddit.com/r/formula1/comments/1pows1c/who_talks_the_most_brief_driver_radio_breakdown/)
+## 4. [Like Vettel once did: Arrivabene warns Hamilton about fatal Ferrari mistake](https://reddit.com/r/formula1/comments/1pp52p2/like_vettel_once_did_arrivabene_warns_hamilton/)
 
-**Author:** u/SainzSealedDelivered | **Upvotes:** 6921 | **Comments:** 719 | **Date:** 2025-12-17
+**Author:** u/IamMrEric | **Upvotes:** 2540 | **Comments:** 344 | **Date:** 2025-12-17
 
-**Summary:** The Reddit post discusses a breakdown of driver radio communication in Formula 1, highlighting Carlos Sainz as the most talkative driver. The discussion includes comments about driver abbreviations and the significant difference in communication frequency among drivers.
+**Summary:** Maurizio Arrivabene warns Lewis Hamilton about a potential mistake at Ferrari, drawing parallels to Sebastian Vettel's experience. The discussion highlights Ferrari's organizational philosophy and past decisions involving champion drivers. Key points include criticism of Ferrari's organizational philosophy, past decisions to ignore input from champion drivers, and suggestions that Ferrari should be more open to input from experienced champions. The discussion consensus criticizes Ferrari's organizational philosophy and past decisions, suggesting they should be more open to input from experienced champions like Hamilton.
+
+---
+
+## 5. [Welcome Blinkers to F1](https://reddit.com/r/formula1/comments/1poyfnr/welcome_blinkers_to_f1/)
+
+**Author:** u/Groundbreaking-Gate6 | **Upvotes:** 7574 | **Comments:** 417 | **Date:** 2025-12-17
+
+**Summary:** The Reddit post discusses the introduction of visibility lights for wet-weather races in Formula 1, which are mistakenly perceived as turn signals. The discussion includes humorous and critical comments about the new feature and its implications.
 
 **Key Points:**
-- Carlos Sainz is noted for talking significantly more than other drivers.
-- Discussion about using three-letter abbreviations for drivers.
-- Comments on the difficulty of remembering certain driver abbreviations.
-- A list of driver abbreviations provided in one of the comments.
-- Consensus that Carlos Sainz's communication frequency is notably higher.
+- Visibility lights are for wet-weather races, not turn signals.
+- Top comments suggest adding horns and inter-driver communications.
+- Criticism of the new feature and its necessity.
+- Jokes about the lack of BMW in the current grid.
+- Discussion about the shape of the lights resembling turn signals.
 
-**Discussion Highlights:** The discussion highlights the humor and engagement around driver abbreviations and the notable difference in communication frequency, with Carlos Sainz being a standout.
-
----
-
-## 6. [[The Race] Fresh renders of the new F1 cars that are coming for 2026](https://reddit.com/r/formula1/comments/1pow4sg/the_race_fresh_renders_of_the_new_f1_cars_that/)
-
-**Author:** u/ICumCoffee | **Upvotes:** 6751 | **Comments:** 398 | **Date:** 2025-12-17
-
-**Summary:** The Reddit post discusses fresh renders of the new F1 cars set to debut in 2026, showcasing experimental bodywork and aerodynamic designs. The community is curious about the actual front wing and overall evolution of these cars. Key points include the front nose design reminiscent of the 2006-2008 era, excitement about innovative designs, and humor about team performance. The discussion highlights a mix of nostalgia, curiosity about new aerodynamic features, and excitement for the potential evolution of F1 cars.
+**Discussion Highlights:** The discussion highlights a mix of humor, criticism, and suggestions for additional features like horns and inter-driver communications. There is also a consensus that the lights are not turn signals but visibility aids for wet conditions.
 
 ---
 
-## 7. [Barcelona renews the Formula 1 GP until 2032 in alternate years, alternating with Spa](https://reddit.com/r/formula1/comments/1poswbs/barcelona_renews_the_formula_1_gp_until_2032_in/)
+## 6. [Who Talks the Most: Brief Driver Radio Breakdown [steviethenarwhal]](https://reddit.com/r/formula1/comments/1pows1c/who_talks_the_most_brief_driver_radio_breakdown/)
 
-**Author:** u/NorthKoreanMissile7 | **Upvotes:** 4118 | **Comments:** 511 | **Date:** 2025-12-17
+**Author:** u/SainzSealedDelivered | **Upvotes:** 7045 | **Comments:** 727 | **Date:** 2025-12-17
 
-**Summary:** Barcelona has renewed its Formula 1 GP contract until 2032, alternating with Spa, sparking mixed reactions from fans.
+**Summary:** The Reddit post discusses a breakdown of Formula 1 driver radio communications, highlighting Carlos Sainz's significantly higher frequency of communication compared to other drivers. The discussion includes humorous commentary on driver abbreviations and the notable difference in Sainz's communication volume.
 
 **Key Points:**
-- Alternating Spa is controversial
-- Barcelona's historical significance and testing role
-- Comparison with other races like Miami and Qatar
-- Emotional reactions to losing Spa
+- Carlos Sainz talks significantly more on the radio than other drivers.
+- The post includes a list of driver abbreviations used in the breakdown.
+- The discussion highlights the humor and challenges in remembering driver abbreviations.
+- Sainz's communication frequency is more than twice that of some other drivers.
 
-**Discussion Highlights:** The consensus is largely negative, with fans expressing disappointment over the alternation with Spa and the perceived loss of iconic tracks.
+**Discussion Highlights:** The discussion is light-hearted, with a focus on the humor in driver abbreviations and the consensus that Carlos Sainz is a 'certified yapper' due to his high radio communication frequency.
 
 ---
 
-## 8. [Lotus hinting at a return to F1 with Audi](https://reddit.com/r/formula1/comments/1poc8ak/lotus_hinting_at_a_return_to_f1_with_audi/)
+## 7. [[The Race] Fresh renders of the new F1 cars that are coming for 2026](https://reddit.com/r/formula1/comments/1pow4sg/the_race_fresh_renders_of_the_new_f1_cars_that/)
 
-**Author:** u/HammerT1m3 | **Upvotes:** 3401 | **Comments:** 224 | **Date:** 2025-12-16
+**Author:** u/ICumCoffee | **Upvotes:** 6847 | **Comments:** 402 | **Date:** 2025-12-17
 
-**Summary:** Lotus is hinting at a potential return to Formula 1 in collaboration with Audi, sparking discussions about the feasibility and implications of such a deal.
+**Summary:** The Reddit post discusses fresh renders of the new F1 cars for 2026, showcasing experimental bodywork and aero designs. The community is curious about the actual front wing and notes similarities to 2006-2008 designs. Key points include the experimental bodywork and aero, front nose design resembling 2006-2008 models, curiosity about the actual front wing design, mixed feelings about the new regulations, and jokes about Aston Martin's potential performance. The discussion highlights curiosity about the front wing design and nostalgia for older car designs, with a mix of excitement and skepticism about the new regulations.
+
+---
+
+## 8. [Barcelona renews the Formula 1 GP until 2032 in alternate years, alternating with Spa](https://reddit.com/r/formula1/comments/1poswbs/barcelona_renews_the_formula_1_gp_until_2032_in/)
+
+**Author:** u/NorthKoreanMissile7 | **Upvotes:** 4124 | **Comments:** 514 | **Date:** 2025-12-17
+
+**Summary:** Barcelona has renewed its Formula 1 GP contract until 2032, alternating with Spa, a decision that has sparked controversy among fans.
+
+**Key Points:**
+- Barcelona renews F1 GP until 2032 in alternate years with Spa
+- Fans express disappointment over losing iconic tracks like Spa and Zandvoort
+- Comparison between Barcelona and Bahrain in terms of testing and car setup
+- Distance between Spa-Francorchamps and Zandvoort noted as 299km
+- Frustration over permanence of races like Miami and Qatar while Spa is alternated
+
+**Discussion Highlights:** The consensus among fans is that alternating Spa with Barcelona is a disappointing decision, with many expressing nostalgia for iconic tracks and frustration over the prioritization of newer races.
+
+---
+
+## 9. [Lotus hinting at a return to F1 with Audi](https://reddit.com/r/formula1/comments/1poc8ak/lotus_hinting_at_a_return_to_f1_with_audi/)
+
+**Author:** u/HammerT1m3 | **Upvotes:** 3407 | **Comments:** 224 | **Date:** 2025-12-16
+
+**Summary:** Lotus is hinting at a potential return to Formula 1 in partnership with Audi, sparking discussions about the feasibility and implications of such a deal.
 
 **Key Points:**
 - Lotus hinting at a return to F1 with Audi
 - Concerns about Lotus' financial health and recent layoffs
-- Speculation about Geely's ownership and potential acquisition of Alpine or Toro Rosso
-- Mixed reactions from the community regarding the potential deal
+- Speculation about Geely's ownership and potential team acquisitions
+- Mixed reactions from the community regarding the deal's viability
 
-**Discussion Highlights:** The discussion highlights concerns about Lotus' financial stability and recent layoffs, with some users questioning the feasibility of the deal. There is also speculation about Geely's ownership and potential alternative acquisitions. Overall, the community reaction is mixed, with some expressing approval and others skepticism.
+**Discussion Highlights:** The discussion highlights concerns about Lotus' financial stability and recent layoffs, with some users questioning the feasibility of the deal. There is also speculation about Geely's ownership and potential team acquisitions, as well as mixed reactions from the community regarding the viability of the partnership.
 
 ---
 
-## 9. [[Erik Van Haren] Christian Horner reportedly in Talks with Alpine for F1 comeback](https://reddit.com/r/formula1/comments/1po8ykn/erik_van_haren_christian_horner_reportedly_in/)
+## 10. [[Erik Van Haren] Christian Horner reportedly in Talks with Alpine for F1 comeback](https://reddit.com/r/formula1/comments/1po8ykn/erik_van_haren_christian_horner_reportedly_in/)
 
-**Author:** u/creatorop | **Upvotes:** 4297 | **Comments:** 520 | **Date:** 2025-12-16
+**Author:** u/creatorop | **Upvotes:** 4297 | **Comments:** 521 | **Date:** 2025-12-16
 
 **Summary:** Christian Horner, currently with Red Bull Racing, is reportedly in talks with Alpine for a potential comeback in Formula 1. The news has sparked significant discussion and mixed reactions among fans and commentators.
 
@@ -132,670 +147,623 @@
 - The potential pairing of Horner and Flavio Briatore at Alpine is seen as controversial and potentially volatile.
 - Pierre Gasly's position at Alpine could be affected by Horner's arrival.
 - The move could lead to interesting dynamics, especially with engine-related issues and team management.
-- The addition of Cyril Abiteboul in a technical role could further complicate the team's dynamics.
+- Fans speculate about the impact of Horner's leadership style on Alpine's future.
 
-**Discussion Highlights:** The discussion highlights a mix of skepticism and anticipation. Many commenters express concern about the potential volatility of Horner and Briatore working together, while others find the prospect of such a dynamic duo intriguing. There is also a focus on how this move could impact current drivers like Pierre Gasly and the overall team performance.
-
----
-
-## 10. [[Mercedes] F1's turbo-hybrid era. What a journey it's been](https://reddit.com/r/formula1/comments/1po85kg/mercedes_f1s_turbohybrid_era_what_a_journey_its/)
-
-**Author:** u/The_Skynet | **Upvotes:** 2952 | **Comments:** 83 | **Date:** 2025-12-16
-
-**Summary:** The Reddit post reflects on the turbo-hybrid era in Formula 1, particularly from Mercedes' perspective, with a mix of humor and technical insights from the community.
-
-**Key Points:**
-- Engines humorously compared to shopping trolleys
-- Transition to hybrid turbo engines noted
-- Interesting quotes from Ross Brawn's book shared
-- Nostalgia and technical insights about engine development
-
-**Discussion Highlights:** The discussion includes humorous comments, reflections on the end of the turbo-hybrid era, and technical insights from Ross Brawn's book, highlighting a mix of nostalgia and technical appreciation.
+**Discussion Highlights:** The discussion highlights a mix of skepticism and anticipation. Many commenters express concern about the potential volatility of Horner and Briatore working together, while others joke about the chaotic scenarios that could unfold. There is also sympathy for Pierre Gasly, whose future at Alpine might be uncertain if Horner joins.
 
 ---
 
-## 11. [Max's new number on show in Estoril](https://reddit.com/r/formula1/comments/1po74q3/maxs_new_number_on_show_in_estoril/)
+## 11. [[Mercedes] F1's turbo-hybrid era. What a journey it's been](https://reddit.com/r/formula1/comments/1po85kg/mercedes_f1s_turbohybrid_era_what_a_journey_its/)
 
-**Author:** u/NorthKoreanMissile7 | **Upvotes:** 11904 | **Comments:** 421 | **Date:** 2025-12-16
+**Author:** u/The_Skynet | **Upvotes:** 2968 | **Comments:** 85 | **Date:** 2025-12-16
 
-**Summary:** The Reddit post discusses Max Verstappen's new number (3) and the reasons behind it, with comments highlighting the significance of his previous number (33) and humorous suggestions for other numbers.
+**Summary:** The Reddit post reflects on the turbo-hybrid era in Formula 1, particularly from Mercedes' perspective, with comments highlighting the end of this era and humorous comparisons to shopping trolleys.
 
 **Key Points:**
-- Max Verstappen is using the number 3.
-- The reason for the change is related to Expedition 33 taking his previous number.
-- Number 33 was considered iconic by fans.
-- Some fans humorously suggest the number 69.
-- There is discussion about why Max wouldn't return to number 33.
+- The turbo-hybrid era in F1 is ending, marked by Mercedes' journey.
+- Engines were humorously compared to 'the fastest shopping trolleys ever created'.
+- Each engine can produce over 10 horsepower, a notable technical detail.
+- The post serves as a historical marker for the transition to new engine designs.
 
-**Discussion Highlights:** The discussion highlights a mix of nostalgia for the number 33, humor around alternative numbers like 69, and curiosity about the reasons behind the change to number 3.
+**Discussion Highlights:** The community discussion is nostalgic and humorous, with a focus on the technical achievements and the impending shift to hybrid turbo engines. The top comments reflect a mix of appreciation for the current era and anticipation for future developments.
 
 ---
 
-## 12. [[Mercedes-AMG F1] Engineering excellence. Era-defining.](https://reddit.com/r/formula1/comments/1po60cy/mercedesamg_f1_engineering_excellence_eradefining/)
+## 12. [Max's new number on show in Estoril](https://reddit.com/r/formula1/comments/1po74q3/maxs_new_number_on_show_in_estoril/)
 
-**Author:** u/wokwok__ | **Upvotes:** 6345 | **Comments:** 149 | **Date:** 2025-12-16
+**Author:** u/NorthKoreanMissile7 | **Upvotes:** 11931 | **Comments:** 421 | **Date:** 2025-12-16
 
-**Summary:** The Reddit post highlights Mercedes-AMG F1's engineering excellence and era-defining impact, with discussions focusing on the evolution of car size, the dominance of their power units, and admiration for specific car models like the W05.
+**Summary:** Max Verstappen is using the number 3 in Formula 1, with discussions highlighting the reason for the change and nostalgia for his previous number, 33.
 
 **Key Points:**
-- Significant growth in car size over a decade
-- Mercedes power units were highly reliable and dominant
-- The W05 is considered one of the coolest-looking F1 cars
-- Mercedes achieved more podiums than races entered
+- Max is using the number 3 due to Expedition 33 taking his previous number.
+- The number 33 was considered iconic by fans.
+- Some fans humorously suggest other numbers like 69.
+- There is curiosity about why Max didn't return to 33.
 
-**Discussion Highlights:** The discussion reflects a consensus on Mercedes' technical superiority and lasting influence on Formula 1, with particular admiration for their engineering achievements during their dominant era.
+**Discussion Highlights:** The discussion centers around the reason for Max's number change, with a consensus that the number 33 was iconic. Some fans humorously suggest alternative numbers, while others question why Max didn't revert to 33.
 
 ---
 
-## 13. [[F1] BREAKING: Formula 1 to return to Portugal in 2027 and 2028](https://reddit.com/r/formula1/comments/1pnxbuc/f1_breaking_formula_1_to_return_to_portugal_in/)
+## 13. [[Mercedes-AMG F1] Engineering excellence. Era-defining.](https://reddit.com/r/formula1/comments/1po60cy/mercedesamg_f1_engineering_excellence_eradefining/)
 
-**Author:** u/FerrariStrategisttt | **Upvotes:** 23847 | **Comments:** 792 | **Date:** 2025-12-16
+**Author:** u/wokwok__ | **Upvotes:** 6357 | **Comments:** 149 | **Date:** 2025-12-16
 
-**Summary:** Formula 1 will return to Portugal for the 2027 and 2028 seasons at the Autódromo Internacional do Algarve, as announced in a two-year agreement. Fans have expressed excitement and discussed the potential for more rotational tracks in the future.
+**Summary:** The Reddit post highlights Mercedes-AMG F1's engineering excellence and era-defining achievements. The discussion focuses on the evolution of F1 cars, the dominance of Mercedes power units, and notable cars like the W05.
 
 **Key Points:**
-- Formula 1 will race at the Autódromo Internacional do Algarve in 2027 and 2028.
-- The agreement is for a two-year period.
-- Fans are excited about the return of Portimão and discuss the benefits of rotational tracks.
-- Some fans express a desire for more classic tracks like Hockenheim or Nürburgring.
-- There is a preference for short-term contracts with exciting tracks over predictable, boring circuits.
+- Evolution of F1 cars over the past decade
+- Dominance and reliability of Mercedes power units
+- Notable cars like the W05
+- Mercedes' impressive record of podiums
+- Nostalgia for the 2014 season
 
-**Discussion Highlights:** The discussion highlights a positive reception to the return of Portimão, with fans appreciating the variety and excitement of rotational tracks. There is a consensus that short-term contracts with diverse and challenging circuits are preferred over predictable and potentially boring street circuits.
+**Discussion Highlights:** The discussion highlights the significant growth in F1 car size over the years, the technical prowess of Mercedes power units, and the aesthetic appeal of cars like the W05. There is also a sense of nostalgia for the 2014 season and admiration for Mercedes' consistent performance.
 
 ---
 
-## 14. [The government is expected to officially announce the return of Formula 1 to Portugal this Tuesday](https://reddit.com/r/formula1/comments/1pnk5hv/the_government_is_expected_to_officially_announce/)
+## 14. [[F1] BREAKING: Formula 1 to return to Portugal in 2027 and 2028](https://reddit.com/r/formula1/comments/1pnxbuc/f1_breaking_formula_1_to_return_to_portugal_in/)
 
-**Author:** u/lmsprototype | **Upvotes:** 4474 | **Comments:** 236 | **Date:** 2025-12-15
+**Author:** u/FerrariStrategisttt | **Upvotes:** 23873 | **Comments:** 793 | **Date:** 2025-12-16
 
-**Summary:** The Portuguese government is expected to announce the return of Formula 1 to Portugal, with Portimao being a strong candidate to host the race, potentially replacing Barcelona from 2027. The announcement has generated significant interest and discussion among fans.
+**Summary:** Formula 1 will return to Portugal for the 2027 and 2028 seasons at the Autódromo Internacional do Algarve, as announced in a two-year agreement. Fans have expressed excitement and a preference for rotational tracks over predictable seasons.
 
 **Key Points:**
-- The government is expected to officially announce the return of Formula 1 to Portugal.
-- Portimao is a favored track for hosting the race.
+- Formula 1 to race at Autódromo Internacional do Algarve in 2027 and 2028
+- Two-year agreement for the return to Portugal
+- Fans prefer rotational tracks and diverse circuits
+- Positive reception for Portimão's return
+- Criticism of predictable and boring street circuits
+
+**Discussion Highlights:** The discussion highlights a strong preference among fans for rotational tracks and diverse circuits like Portimão. There is excitement about the return to Portugal and criticism of predictable street circuits. Some fans also expressed a desire for more variety in the F1 calendar.
+
+---
+
+## 15. [The government is expected to officially announce the return of Formula 1 to Portugal this Tuesday](https://reddit.com/r/formula1/comments/1pnk5hv/the_government_is_expected_to_officially_announce/)
+
+**Author:** u/lmsprototype | **Upvotes:** 4470 | **Comments:** 235 | **Date:** 2025-12-15
+
+**Summary:** The Portuguese government is expected to announce the return of Formula 1 to Portugal, with Portimao being a strong candidate to host the race. The discussion highlights the track's popularity and potential replacement of Barcelona from 2027.
+
+**Key Points:**
+- Portimao is a highly regarded track deserving of the F1 calendar.
+- The race may replace Barcelona starting from 2027.
 - Estoril is also in contention to host the race.
-- Portimao is highly regarded for its driving experience.
-- The return of Formula 1 to Portugal may replace the Barcelona race from 2027.
+- Portimao is considered an S-tier track for driving.
 
-**Discussion Highlights:** The discussion highlights the enthusiasm for Portimao as a track, with many users praising its qualities and expressing excitement about the potential return of Formula 1 to Portugal. There is also mention of Estoril as another possible venue, indicating a competitive bid process.
+**Discussion Highlights:** The community consensus is that Portimao is a top-tier track and a worthy addition to the F1 calendar, with some speculation about it replacing Barcelona in the future.
 
 ---
 
-## 15. [Button denounces Planet F1 clickbait](https://reddit.com/r/formula1/comments/1pninkz/button_denounces_planet_f1_clickbait/)
+## 16. [Button denounces Planet F1 clickbait](https://reddit.com/r/formula1/comments/1pninkz/button_denounces_planet_f1_clickbait/)
 
-**Author:** u/AshamedPurchase9033 | **Upvotes:** 12570 | **Comments:** 220 | **Date:** 2025-12-15
+**Author:** u/AshamedPurchase9033 | **Upvotes:** 12585 | **Comments:** 221 | **Date:** 2025-12-15
 
-**Summary:** Jenson Button criticizes Planet F1 for clickbait, sparking a discussion about the quality of F1 journalism. Users express frustration with tabloid-style media and advocate for official F1 sources.
+**Summary:** Jenson Button criticized Planet F1 for clickbait, sparking a discussion about the quality of F1 media and the prevalence of tabloid-grade journalism in the sport.
 
 **Key Points:**
-- Jenson Button denounces Planet F1's clickbait practices
-- Users criticize tabloid-grade F1 journalism
-- Preference for official F1 sources over clickbait outlets
-- Specific media outlets like Planet F1 and SportsSkeeda are singled out for criticism
-- General consensus supports Button's stance and calls for higher journalistic standards
+- Jenson Button denounced Planet F1's clickbait practices.
+- The F1 media landscape is criticized for tabloid-grade content.
+- Comments highlight dissatisfaction with clickbait sites like Planet F1 and SportsSkeeda.
+- There is a consensus that official F1 sources are more reliable.
+- The discussion reflects broader frustration with sensationalist journalism in F1.
 
-**Discussion Highlights:** The discussion highlights widespread dissatisfaction with clickbait F1 media, with users praising Button's criticism and advocating for reliance on official F1 sources. There is a strong consensus against outlets like Planet F1 and SportsSkeeda.
+**Discussion Highlights:** The discussion largely condemns clickbait journalism in F1 media, with many users expressing preference for official sources and criticizing outlets like Planet F1 and SportsSkeeda for sensationalist content.
 
 ---
 
-## 16. [For the first time in F1 history, #3 has never been used in a whole season](https://reddit.com/r/formula1/comments/1pnhdpb/for_the_first_time_in_f1_history_3_has_never_been/)
+## 17. [For the first time in F1 history, #3 has never been used in a whole season](https://reddit.com/r/formula1/comments/1pnhdpb/for_the_first_time_in_f1_history_3_has_never_been/)
 
-**Author:** u/NoRefunds2021 | **Upvotes:** 4637 | **Comments:** 128 | **Date:** 2025-12-15
+**Author:** u/NoRefunds2021 | **Upvotes:** 4643 | **Comments:** 128 | **Date:** 2025-12-15
 
-**Summary:** For the first time in F1 history, car number #3 was not used in any race during the 2025 season, marking the end of a long-standing streak. This change is due to Daniel Ricciardo, who used the number, being dropped in 2024 and the number being locked.
+**Summary:** For the first time in F1 history, car number #3 was not used in any race during the 2025 season, marking the end of a long-standing streak. This is due to Daniel Ricciardo, who used the number, being dropped in 2024 and the number being locked.
 
 **Key Points:**
-- Car #3 has been used in every F1 season until 2025, with close calls in 1952 and 1955.
-- The numbering system in F1 has evolved, with #3 historically assigned to Ricciardo since 2014, and before that to the best-placed team without a WDC.
-- Interesting facts include the second-longest streak being #11, and the highest number ever used being #136 in 1952.
-- The 2025 season marks the first time #3 was not entered in any race.
+- Car #3 has been used in every F1 season until 2025.
+- The numbering system in F1 has evolved over time, with #3 historically assigned to specific teams or drivers.
+- Interesting historical facts include the use of only even numbers in 1955 (excluding Indy500) and the highest car number ever used being #136.
+- The second-longest streak for a car number was #11, which lasted from 1956 to 2024.
+- Community reactions include humor and speculation about future use of the number.
 
-**Discussion Highlights:** The community reacted with humor and interest, noting the significance of the statistic and speculating about future use of the number, particularly by Max Verstappen. Some comments joked about the off-season being long and the post fitting into a 'useless stats' category.
-
----
-
-## 17. [[Sauber] This is Sauber. This is our history. We couldn't have done what we have without all of these drivers. It has been a privilege to be a part of all of their journeys](https://reddit.com/r/formula1/comments/1pndqb8/sauber_this_is_sauber_this_is_our_history_we/)
-
-**Author:** u/ICumCoffee | **Upvotes:** 10906 | **Comments:** 350 | **Date:** 2025-12-15
-
-**Summary:** The Reddit post highlights Sauber's history and contributions to Formula 1, acknowledging the drivers who have been part of their journey. The post includes a link to an Instagram post celebrating Sauber's legacy. Key points include Sauber's history and contributions to Formula 1, acknowledgment of drivers who have been part of Sauber's journey, mixed feelings about Sauber's time in F1, recognition of Peter Sauber as a significant figure in F1 history, and notable mentions of drivers like Robert Kubica and Sebastian Vettel. The discussion highlights a mix of nostalgia and sadness about Sauber's time in F1, with appreciation for the team's history and contributions of key figures like Peter Sauber and notable drivers such as Robert Kubica and Sebastian Vettel.
+**Discussion Highlights:** The community reacted with humor and light-hearted comments, with some speculating about the future use of the number #3, possibly by Max Verstappen. The discussion also highlighted the off-season nature of such posts.
 
 ---
 
-## 18. [Helmut Marko: Christian came to me then and said: ‘He won't make it to the end of the year.’](https://reddit.com/r/formula1/comments/1pnaluf/helmut_marko_christian_came_to_me_then_and_said/)
+## 18. [[Sauber] This is Sauber. This is our history. We couldn't have done what we have without all of these drivers. It has been a privilege to be a part of all of their journeys](https://reddit.com/r/formula1/comments/1pndqb8/sauber_this_is_sauber_this_is_our_history_we/)
 
-**Author:** u/wyxegake | **Upvotes:** 4561 | **Comments:** 406 | **Date:** 2025-12-15
+**Author:** u/ICumCoffee | **Upvotes:** 10919 | **Comments:** 352 | **Date:** 2025-12-15
 
-**Summary:** Helmut Marko reveals that Christian Horner predicted someone wouldn't last the year and then aligned with Chalerm Yoovidhya, leading to a power struggle after Didi's death. Marko claims to have acted on Austria's behalf to prevent Horner's takeover.
+**Summary:** The Reddit post highlights Sauber's history and contributions to Formula 1, emphasizing the team's journey and the drivers who have been part of it. The post includes a link to an Instagram post that likely showcases this history visually. Key points include Sauber's history and contributions, notable drivers, and the team's unique position as a privateer. The discussion highlights a mix of nostalgia and appreciation for Sauber's legacy.
+
+---
+
+## 19. [Helmut Marko: Christian came to me then and said: ‘He won't make it to the end of the year.’](https://reddit.com/r/formula1/comments/1pnaluf/helmut_marko_christian_came_to_me_then_and_said/)
+
+**Author:** u/wyxegake | **Upvotes:** 4566 | **Comments:** 406 | **Date:** 2025-12-15
+
+**Summary:** Helmut Marko reveals that Christian Horner predicted someone wouldn't last the year and then aligned with Chalerm Yoovidhya, leading to a power struggle within Red Bull. Marko claims to have acted on behalf of Austria to prevent Horner's takeover.
 
 **Key Points:**
-- Christian Horner's prediction about someone not lasting the year
-- Horner's alignment with Chalerm Yoovidhya
-- Power struggle following Didi's death
-- Marko's efforts to prevent Horner's takeover
-- Community reactions highlighting drama and comparisons to reality TV
+- Christian Horner allegedly predicted someone's downfall and aligned with Chalerm Yoovidhya.
+- Helmut Marko claims to have opposed Horner's takeover attempts.
+- The post and comments highlight drama and power struggles within Red Bull.
+- Comments compare the situation to reality TV drama and corporate power plays.
+- The discussion reflects on Horner's ambitions and the fallout from internal conflicts.
 
-**Discussion Highlights:** The discussion is filled with dramatic reactions, comparing the situation to reality TV and highlighting the ongoing drama within the Red Bull team. The community seems entertained by the unfolding events and the power dynamics at play.
+**Discussion Highlights:** The discussion is filled with dramatic comparisons, humor, and reflections on the power dynamics within Red Bull. Many users find the situation entertaining and reminiscent of reality TV, while others analyze the strategic moves and motivations of those involved.
 
 ---
 
-## 19. [Audi has revealed its new logo and announced its launch date of January 20th.](https://reddit.com/r/formula1/comments/1pn5tty/audi_has_revealed_its_new_logo_and_announced_its/)
+## 20. [Audi has revealed its new logo and announced its launch date of January 20th.](https://reddit.com/r/formula1/comments/1pn5tty/audi_has_revealed_its_new_logo_and_announced_its/)
 
-**Author:** u/mary_f1 | **Upvotes:** 17684 | **Comments:** 413 | **Date:** 2025-12-15
+**Author:** u/mary_f1 | **Upvotes:** 17697 | **Comments:** 414 | **Date:** 2025-12-15
 
-**Summary:** Audi has revealed its new logo and announced its launch date of January 20th. The team name is Audi Revolut F1 Team, and the logo is similar to Audi's existing logo.
+**Summary:** Audi has revealed its new logo and announced its launch date of January 20th. The team name is Audi Revolut F1 Team, and the logo is similar to Audi's standard logo.
 
 **Key Points:**
 - Audi's new logo and launch date announced
 - Team name is Audi Revolut F1 Team
-- Logo is similar to Audi's existing logo
+- Logo is similar to Audi's standard logo
 - Community reactions include humor and anticipation
 - Mentions of Hulkenberg's performance (Hulkenpodium)
 
-**Discussion Highlights:** The community reacted with a mix of humor and anticipation, noting the similarity of the new logo to Audi's existing logo and expressing excitement for the team's future performance.
+**Discussion Highlights:** The community reacted with a mix of humor and anticipation. Many noted the logo's similarity to Audi's standard logo, and there were mentions of Hulkenberg's performance with the phrase 'Hulkenpodium'.
 
 ---
 
-## 20. [Oscar Piastri IG story on Bondi Beach tragedy](https://reddit.com/r/formula1/comments/1pn40qy/oscar_piastri_ig_story_on_bondi_beach_tragedy/)
+## 21. [Oscar Piastri IG story on Bondi Beach tragedy](https://reddit.com/r/formula1/comments/1pn40qy/oscar_piastri_ig_story_on_bondi_beach_tragedy/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 10660 | **Comments:** 366 | **Date:** 2025-12-15
+**Author:** u/FewCollar227 | **Upvotes:** 10661 | **Comments:** 366 | **Date:** 2025-12-15
 
-**Summary:** Oscar Piastri shared an IG story about the Bondi Beach tragedy, sparking discussions on gun laws, enforcement, and community response.
+**Summary:** Oscar Piastri shared an IG story about the Bondi Beach tragedy, sparking discussions on heroism, fundraising, and gun control laws.
 
 **Key Points:**
-- A 'Bondi hero' is mentioned, with a GoFundMe campaign raising $1.1 million.
-- The tragedy is the first mass shooting since Australia implemented strict gun laws.
-- Discussion focuses on the effectiveness and enforcement of current gun laws.
-- Community reflects on the tragedy and the response to it.
+- The 'Bondi hero' is awake and has raised over $1.1 million via GoFundMe.
+- Discussion on Australia's gun laws and enforcement failures.
+- Comparison of civilized responses to tragedy.
+- Community focus on heroism and broader implications of gun control.
 
-**Discussion Highlights:** The community is divided on whether the issue lies with gun laws or their enforcement, with some highlighting the success of the GoFundMe campaign and others calling for updated restrictions.
+**Discussion Highlights:** The community highlights the heroism and fundraising efforts, while also discussing the need for updated gun control laws and better enforcement.
 
 ---
 
-## 21. [Wins by Driver in the DRS Era (2011–2025)](https://reddit.com/r/formula1/comments/1pmzpug/wins_by_driver_in_the_drs_era_20112025/)
+## 22. [Wins by Driver in the DRS Era (2011–2025)](https://reddit.com/r/formula1/comments/1pmzpug/wins_by_driver_in_the_drs_era_20112025/)
 
 **Author:** u/Div_K | **Upvotes:** 2697 | **Comments:** 220 | **Date:** 2025-12-14
 
-**Summary:** The Reddit post discusses the number of wins by drivers in the DRS Era (2011–2025), highlighting that only 19 drivers have won races in this period, covering 310 races. The discussion includes comments on the surprising statistics and specific drivers' performances.
+**Summary:** The Reddit post discusses wins by drivers in the DRS era (2011–2025), highlighting the limited number of winning drivers and specific observations about drivers like Bottas and Maldonado.
 
 **Key Points:**
-- Only 19 drivers have won races in the DRS Era (2011–2025).
+- The DRS era (2011–2025) covers 310 races with only 19 winning drivers.
 - The average number of wins per driver is approximately 16.
-- Surprise at the number of wins by certain drivers like Bottas and Maldonado.
-- Criticism of Ferrari's management of Charles Leclerc's career.
-- Positive sentiment towards Bottas' continued presence in the sport.
+- Surprise at Bottas' number of wins and Maldonado's presence in the list.
+- Criticism of Ferrari's handling of Charles Leclerc's career.
+- Bottas is still in the top ten and has a seat for the next year.
 
-**Discussion Highlights:** The discussion highlights the dominance of a small number of drivers in the DRS Era, with comments expressing surprise at the statistics and specific drivers' performances. There is also criticism of Ferrari's handling of Charles Leclerc and positive sentiment towards Valtteri Bottas.
+**Discussion Highlights:** The discussion highlights the dominance of a few drivers in the DRS era, with specific comments on Bottas' performance, Maldonado's unexpected presence, and criticism of Ferrari's management of Leclerc's career.
 
 ---
 
-## 22. [Hulkenberg didn't know you bring your helmet to the cool down room... so Lando brought it for him. "Cheers Dude" - Hulk](https://reddit.com/r/formula1/comments/1pmvjhg/hulkenberg_didnt_know_you_bring_your_helmet_to/)
+## 23. [Hulkenberg didn't know you bring your helmet to the cool down room... so Lando brought it for him. "Cheers Dude" - Hulk](https://reddit.com/r/formula1/comments/1pmvjhg/hulkenberg_didnt_know_you_bring_your_helmet_to/)
 
-**Author:** u/BahnMe | **Upvotes:** 15296 | **Comments:** 557 | **Date:** 2025-12-14
+**Author:** u/BahnMe | **Upvotes:** 15309 | **Comments:** 557 | **Date:** 2025-12-14
 
-**Summary:** Hulkenberg forgot his helmet in the cool down room, and Lando Norris brought it for him, leading to a moment of camaraderie. The post highlights this interaction and the positive reception from the F1 community.
+**Summary:** Hulkenberg forgot his helmet in the cool down room, and Lando Norris brought it for him, leading to a heartwarming moment celebrated by the F1 community.
 
 **Key Points:**
 - Hulkenberg forgot his helmet in the cool down room.
 - Lando Norris brought the helmet for Hulkenberg.
-- The interaction was well-received by the F1 community.
-- The post and comments highlight the camaraderie between drivers.
+- The moment was celebrated as a highlight of the season.
+- Community reactions included humor and appreciation for the gesture.
 
-**Discussion Highlights:** The discussion highlights the positive reception of the interaction between Hulkenberg and Norris, with many users appreciating the moment of camaraderie. Some comments also mention the excitement around Hulkenberg's podium appearance.
+**Discussion Highlights:** The discussion highlights the positive sentiment around the gesture, with comments praising the moment as a season highlight and sharing personal anecdotes related to the event.
 
 ---
 
-## 23. [[@vincentjbruins.bsky.social] - After his Am class victory in the Gulf 12 Hours behind the wheel of the Garage 59 McLaren, James Vowles now has the same number of wins in GT3 racing as Max Verstappen](https://reddit.com/r/formula1/comments/1pmms8v/vincentjbruinsbskysocial_after_his_am_class/)
+## 24. [[@vincentjbruins.bsky.social] - After his Am class victory in the Gulf 12 Hours behind the wheel of the Garage 59 McLaren, James Vowles now has the same number of wins in GT3 racing as Max Verstappen](https://reddit.com/r/formula1/comments/1pmms8v/vincentjbruinsbskysocial_after_his_am_class/)
 
-**Author:** u/CautionClock20 | **Upvotes:** 10094 | **Comments:** 96 | **Date:** 2025-12-14
+**Author:** u/CautionClock20 | **Upvotes:** 10093 | **Comments:** 96 | **Date:** 2025-12-14
 
-**Summary:** James Vowles won the Am class in the Gulf 12 Hours driving a Garage 59 McLaren, matching Max Verstappen's number of GT3 racing wins. The Reddit post highlights this achievement and includes a link to a social media post with photos.
+**Summary:** James Vowles won the Am class in the Gulf 12 Hours driving a Garage 59 McLaren, matching Max Verstappen's number of GT3 racing wins. The Reddit post highlights this achievement and includes positive reactions from the community about Vowles' dedication and enthusiasm for racing.
 
 **Key Points:**
 - James Vowles won the Am class in the Gulf 12 Hours
-- He now has the same number of GT3 racing wins as Max Verstappen
-- The post includes photos from Gruppe C and Driving Force Events
-- Top comments praise Vowles' dedication and enthusiasm for racing
-- Some comments suggest Vowles should join Red Bull for a showdown
+- He now has the same number of GT3 wins as Max Verstappen
+- Community praises Vowles' dedication and passion for racing
+- Positive comments about his helmet design and emotional reactions
+- Speculation about Vowles' future in racing
 
-**Discussion Highlights:** The discussion highlights Vowles' dedication and passion for racing, with many users praising his enthusiasm and suggesting future opportunities for him in the sport.
+**Discussion Highlights:** The discussion is overwhelmingly positive, with users praising Vowles' dedication, passion for racing, and his emotional reactions. There is also speculation about his future in racing and admiration for his helmet design.
 
 ---
 
-## 24. [Red Bull advisor Marko: 'Max would have won the title if Horner had been fired earlier'](https://reddit.com/r/formula1/comments/1pm9qpw/red_bull_advisor_marko_max_would_have_won_the/)
+## 25. [Red Bull advisor Marko: 'Max would have won the title if Horner had been fired earlier'](https://reddit.com/r/formula1/comments/1pm9qpw/red_bull_advisor_marko_max_would_have_won_the/)
 
 **Author:** u/Upvote_I_will | **Upvotes:** 7780 | **Comments:** 559 | **Date:** 2025-12-14
 
-**Summary:** Helmut Marko, Red Bull's advisor, suggested that Max Verstappen would have won the title if Christian Horner had been fired earlier. The post and comments highlight tensions within Red Bull Racing and speculation about Marko's departure.
+**Summary:** Helmut Marko, Red Bull advisor, suggested that Max Verstappen would have won the title if Christian Horner had been fired earlier. The post and comments highlight tensions within Red Bull Racing and Marko's controversial statements.
 
 **Key Points:**
 - Helmut Marko's statement about Max Verstappen and Christian Horner
-- Speculation about Marko's departure from Red Bull Racing
-- Tensions and internal dynamics within Red Bull Racing
-- Community reactions and humor regarding NDAs and internal conflicts
+- Tensions within Red Bull Racing
+- Marko's controversial remarks and potential NDA violations
+- Discussion about the source's credibility and availability
+- Community reactions to ongoing drama in the team
 
-**Discussion Highlights:** The discussion is marked by humor and speculation about internal conflicts at Red Bull Racing, with many comments focusing on NDAs and the dynamics between Marko and Horner.
+**Discussion Highlights:** The discussion highlights a mix of skepticism and amusement regarding Marko's statements, with many users focusing on the internal dynamics at Red Bull Racing and the potential implications of Marko's remarks.
 
 ---
 
-## 25. [Kimi Antonelli showed up secretly for SODI D40 as Henry Shovlin.](https://reddit.com/r/formula1/comments/1pm6cnb/kimi_antonelli_showed_up_secretly_for_sodi_d40_as/)
+## 26. [Kimi Antonelli showed up secretly for SODI D40 as Henry Shovlin.](https://reddit.com/r/formula1/comments/1pm6cnb/kimi_antonelli_showed_up_secretly_for_sodi_d40_as/)
 
-**Author:** u/jithu7 | **Upvotes:** 6982 | **Comments:** 251 | **Date:** 2025-12-13
+**Author:** u/jithu7 | **Upvotes:** 6978 | **Comments:** 251 | **Date:** 2025-12-13
 
-**Summary:** The Reddit post humorously mentions Kimi Antonelli showing up secretly for SODI D40 as Henry Shovlin, sparking a lively discussion among users.
+**Summary:** Kimi Antonelli made a secret appearance at SODI D40 under the alias Henry Shovlin, sparking a humorous and engaging discussion among Formula 1 fans.
 
 **Key Points:**
-- Kimi Antonelli's unexpected appearance as Henry Shovlin at SODI D40
-- The anticipated battle between Harry Shovlin and Franz Hermann
-- The complexity and humor surrounding the logic on the board
-- Comparisons between Christian Horner and Perez's performance
-- Discussion on the order of participants or events
+- Kimi Antonelli's secret appearance as Henry Shovlin
+- The humorous battle between Harry Shovlin and Franz Hermann
+- Discussion about the logic and order of the event
+- Christian Horner's performance compared to Perez
+- General confusion and amusement about the event's structure
 
-**Discussion Highlights:** The discussion highlights the humor and excitement around the event, with users focusing on the unexpected appearance, anticipated battles, and humorous comparisons.
+**Discussion Highlights:** The discussion highlights a mix of humor and confusion, with fans enjoying the playful nature of the event and the unexpected appearances. The top comments reflect a lighthearted and engaging conversation about the event's details and participants.
 
 ---
 
-## 26. [[scuderiaferrari] Look who stopped by the factory. @lewishamilton](https://reddit.com/r/formula1/comments/1plrt57/scuderiaferrari_look_who_stopped_by_the_factory/)
+## 27. [[scuderiaferrari] Look who stopped by the factory. @lewishamilton](https://reddit.com/r/formula1/comments/1plrt57/scuderiaferrari_look_who_stopped_by_the_factory/)
 
-**Author:** u/n0b0dycar3s07 | **Upvotes:** 13129 | **Comments:** 528 | **Date:** 2025-12-13
+**Author:** u/n0b0dycar3s07 | **Upvotes:** 13128 | **Comments:** 528 | **Date:** 2025-12-13
 
-**Summary:** Lewis Hamilton visited the Ferrari factory, sparking discussions and reactions from the community. The visit was seen as a significant event, with many commenting on Hamilton's smile and the implications of his visit.
+**Summary:** Lewis Hamilton visited the Ferrari factory, sparking discussions and positive reactions from fans. The visit was seen as a significant event, with many commenting on his smile and the potential implications for his future.
 
 **Key Points:**
-- Lewis Hamilton visited the Ferrari factory
-- The visit was noted for Hamilton's smile, which was seen as rare
-- Speculation about Hamilton's interest in Ferrari's operations
-- Jokes about Hamilton's potential move to Ferrari
-- Positive sentiment about the visit and hopes for Ferrari's future
+- Lewis Hamilton visited the Ferrari factory, as shown in the post.
+- Fans noted his smile, suggesting a positive reaction to the visit.
+- Speculation about Hamilton potentially joining Ferrari in the future.
+- Comments highlighted the struggles of the past season and hopes for improvement.
+- Overall positive sentiment and excitement among fans.
 
-**Discussion Highlights:** The discussion was largely positive, with many users expressing excitement and optimism about Hamilton's visit. There was speculation about his interest in Ferrari and jokes about a potential move. Overall, the sentiment was uplifting, with users looking forward to the future.
+**Discussion Highlights:** The discussion was largely positive, with fans expressing excitement about Hamilton's visit and speculating about his potential move to Ferrari. Many comments focused on his smile and the uplifting effect of his presence, while others joked about his past struggles with his car.
 
 ---
 
-## 27. [The Official F1 Head to Head qualifying results for this season.](https://reddit.com/r/formula1/comments/1pllxe6/the_official_f1_head_to_head_qualifying_results/)
+## 28. [The Official F1 Head to Head qualifying results for this season.](https://reddit.com/r/formula1/comments/1pllxe6/the_official_f1_head_to_head_qualifying_results/)
 
-**Author:** u/doublejohnnie | **Upvotes:** 4266 | **Comments:** 459 | **Date:** 2025-12-13
+**Author:** u/doublejohnnie | **Upvotes:** 4262 | **Comments:** 459 | **Date:** 2025-12-13
 
-**Summary:** The Reddit post discusses the F1 Head to Head qualifying results for the season, with comments highlighting driver performances and comparisons.
+**Summary:** The Reddit post discusses the F1 Head to Head qualifying results for the season, highlighting performances and comparisons between drivers. The comments provide insights into specific driver performances and rookie impressions.
 
 **Key Points:**
-- Ocon has underperformed this season
-- Sainz had a better season than Albon despite early bad luck
-- Alonso-Stroll dynamic is notable
-- Rookies are impressive with high potential
+- Ocon has underperformed this season.
+- Sainz had a better season than Albon despite early bad luck.
+- Alonso and Stroll's performance comparison is notable.
+- Rookies have shown impressive potential and performance.
 
-**Discussion Highlights:** The discussion focuses on driver performances, with notable mentions of Ocon's underperformance, Sainz's resilience, the Alonso-Stroll dynamic, and the promising potential of rookie drivers.
+**Discussion Highlights:** The discussion highlights Ocon's underperformance, Sainz's strong season despite early setbacks, the notable performance gap between Alonso and Stroll, and the impressive showing by rookie drivers.
 
 ---
 
-## 28. [Helmut Marko reported to receive eight-figure payout after Red Bull exit](https://reddit.com/r/formula1/comments/1pllrxi/helmut_marko_reported_to_receive_eightfigure/)
+## 29. [Helmut Marko reported to receive eight-figure payout after Red Bull exit](https://reddit.com/r/formula1/comments/1pllrxi/helmut_marko_reported_to_receive_eightfigure/)
 
-**Author:** u/memloh | **Upvotes:** 4496 | **Comments:** 329 | **Date:** 2025-12-13
+**Author:** u/memloh | **Upvotes:** 4485 | **Comments:** 329 | **Date:** 2025-12-13
 
-**Summary:** Helmut Marko is reported to receive an eight-figure payout following his exit from Red Bull, sparking discussions about the circumstances of his departure and the financial implications for the team.
+**Summary:** Helmut Marko is reported to receive an eight-figure payout following his exit from Red Bull, sparking discussions about the circumstances of his departure and financial implications.
 
 **Key Points:**
-- Helmut Marko received a significant eight-figure payout after leaving Red Bull.
-- The payout suggests Marko may have been pushed out rather than leaving voluntarily.
-- Red Bull has recently made several large payouts, including to Perez, Horner, and Marko.
-- The financial implications of these payouts are a topic of discussion among fans.
-- Comments highlight the substantial nature of the payout and its potential uses.
+- Helmut Marko's eight-figure payout suggests he was pushed out of Red Bull.
+- The payout is significant, leading to comments about his financial future.
+- Red Bull has made multiple eight-figure payouts recently, including to Perez and Horner.
+- The discussion highlights the financial strain on Red Bull due to these payouts.
 
-**Discussion Highlights:** The discussion primarily revolves around the circumstances of Marko's exit, the financial implications for Red Bull, and humorous remarks about how Marko might use his substantial payout.
+**Discussion Highlights:** The discussion primarily revolves around the financial aspects of Marko's exit, with users noting the large payout and comparing it to other recent financial decisions by Red Bull. There is a consensus that Marko's departure was not voluntary, and the financial implications for Red Bull are significant.
 
 ---
 
-## 29. [lando: “and f*ck ups.. i can say that here? i’m ok? *gets whispered that he’s gonna get fined* oh sorry yeah i got fined! i can pay it off now”](https://reddit.com/r/formula1/comments/1pl7i57/lando_and_fck_ups_i_can_say_that_here_im_ok_gets/)
+## 30. [Anyone go to a GP and think maybe watching on TV could’ve been better?](https://reddit.com/r/formula1/comments/1plipi0/anyone_go_to_a_gp_and_think_maybe_watching_on_tv/)
 
-**Author:** u/One_Impressionism | **Upvotes:** 2729 | **Comments:** 85 | **Date:** 2025-12-12
+**Author:** u/paaaaiiin | **Upvotes:** 2669 | **Comments:** 895 | **Date:** 2025-12-13
 
-**Summary:** Lando Norris humorously commented on being fined for swearing during a broadcast, sparking a discussion about broadcasting standards and fines in Formula 1.
+**Summary:** The post discusses the experience of attending a Formula 1 Grand Prix (GP) versus watching it on TV, with the author finding the live event entertaining but questioning its value compared to TV coverage.
 
 **Key Points:**
-- Lando Norris made a lighthearted comment about being fined for swearing.
-- The incident highlights the contrast between broadcasting standards and live commentary.
-- Comments reflect a mix of humor and criticism towards the fines and broadcasting decisions.
-- The discussion includes references to broader issues like fines and the role of MBS (Mohammed bin Salman).
-- The post and comments capture the playful and critical tone of the Formula 1 community.
+- Attending a GP offers a unique experience but may not be worth the cost for some.
+- TV coverage is generally better for following the race.
+- The live experience is valued for its atmosphere and sensory aspects.
+- Many attendees still enjoy the event despite the drawbacks.
 
-**Discussion Highlights:** The discussion is marked by humor and lighthearted criticism, with a focus on the irony of fines for swearing being broadcasted. There is also a playful jab at MBS and the broader implications of fines in the sport.
+**Discussion Highlights:** The consensus is that while TV provides better race coverage, attending a GP is about the overall experience, including the sound, atmosphere, and being part of the event.
 
 ---
 
-## 30. [[Autosport] 10 years later and Lando Norris has got his name etched above Lewis Hamilton's on the most coveted trophy in motorsport](https://reddit.com/r/formula1/comments/1pl5vxb/autosport_10_years_later_and_lando_norris_has_got/)
+## 31. [Lando has added a number 1 into his autograph now.](https://reddit.com/r/formula1/comments/1plfx6a/lando_has_added_a_number_1_into_his_autograph_now/)
 
-**Author:** u/n0b0dycar3s07 | **Upvotes:** 7887 | **Comments:** 156 | **Date:** 2025-12-12
+**Author:** u/SeoulofSoraka | **Upvotes:** 2534 | **Comments:** 178 | **Date:** 2025-12-13
 
-**Summary:** Lando Norris has won a prestigious motorsport trophy, etching his name above Lewis Hamilton's on the coveted trophy, marking a significant achievement in his career and British motorsport history.
+**Summary:** Lando Norris has updated his autograph to include the number 1, reflecting his recent success in Formula 1. Fans discuss the significance of this change and its implications for his career.
+
+**Key Points:**
+- Lando Norris has added a number 1 to his autograph.
+- This change reflects his recent achievements in Formula 1.
+- Fans speculate about the implications of this change for his future career.
+- Some fans express concern or confusion about the change.
+- Others see it as a celebration of his success.
+
+**Discussion Highlights:** The discussion highlights a mix of support and skepticism about Lando Norris's decision to update his autograph. Many fans see it as a positive reflection of his recent success, while others question the timing and significance of the change.
+
+---
+
+## 32. [lando: “and f*ck ups.. i can say that here? i’m ok? *gets whispered that he’s gonna get fined* oh sorry yeah i got fined! i can pay it off now”](https://reddit.com/r/formula1/comments/1pl7i57/lando_and_fck_ups_i_can_say_that_here_im_ok_gets/)
+
+**Author:** u/One_Impressionism | **Upvotes:** 2724 | **Comments:** 85 | **Date:** 2025-12-12
+
+**Summary:** Lando Norris humorously commented on getting fined for swearing during a broadcast, sparking a discussion about broadcasting standards and fines in Formula 1.
+
+**Key Points:**
+- Lando Norris made a lighthearted comment about getting fined for swearing.
+- The incident highlights the contrast between broadcasting standards and real-time reactions.
+- The community reacted with humor and criticism towards the fines and broadcasting decisions.
+- MBS (Mohammed bin Salman) was humorously criticized in the context of the fines.
+- Oscar Piastri's reaction in the background was noted as amusing.
+
+**Discussion Highlights:** The discussion primarily revolved around the humor of the incident, criticism of broadcasting standards, and playful jabs at MBS and the fines system. The community found the situation amusing and used it to comment on broader issues in Formula 1.
+
+---
+
+## 33. [[Autosport] 10 years later and Lando Norris has got his name etched above Lewis Hamilton's on the most coveted trophy in motorsport](https://reddit.com/r/formula1/comments/1pl5vxb/autosport_10_years_later_and_lando_norris_has_got/)
+
+**Author:** u/n0b0dycar3s07 | **Upvotes:** 7888 | **Comments:** 156 | **Date:** 2025-12-12
+
+**Summary:** Lando Norris has won a prestigious motorsport trophy, etching his name above Lewis Hamilton's on the trophy, marking a significant achievement in his career and British motorsport history.
 
 **Key Points:**
 - Lando Norris's victory is a historic moment, surpassing Lewis Hamilton's achievement.
 - The journey from getting an autograph from Hamilton to having his name next to Hamilton's on the trophy is a full circle moment.
-- The vertical of Norris, Hamilton, Alonso, Schumacher, Prost, Lauda, Clark, and Fangio is notable.
-- There is speculation about what will happen when the trophy runs out of space for signatures.
+- The trophy features a vertical line of legendary drivers, including Norris, Hamilton, Alonso, Schumacher, Prost, Lauda, Clark, and Fangio.
+- There is speculation about what will happen when the trophy runs out of space for new names.
 
-**Discussion Highlights:** The discussion highlights the emotional and historical significance of Norris's victory, with many users expressing surprise and admiration for his achievement. The journey from fan to champion is particularly celebrated, and there is curiosity about the future of the trophy's signature space.
-
----
-
-## 31. [Papaya world championship airline: the sequel](https://reddit.com/r/formula1/comments/1pl5m31/papaya_world_championship_airline_the_sequel/)
-
-**Author:** u/afunnywold | **Upvotes:** 9490 | **Comments:** 431 | **Date:** 2025-12-12
-
-**Summary:** The Reddit post from r/formula1 discusses a humorous or satirical scenario involving the 'Papaya world championship airline,' with comments focusing on playful banter and reactions to a linked image. The discussion includes jokes about team dynamics and past incidents. Key points include the post being a link with no text content, sparking humorous comments, jokes about MBS not being in the frame and Piastri's expressions, references to past incidents like Lando Norris's streaming comments, and a lighthearted tone with playful banter among users. The discussion is characterized by playful banter and jokes, with users referencing past incidents and team dynamics in a humorous manner. There is no serious consensus, but the tone is light and engaging.
+**Discussion Highlights:** The discussion highlights the emotional and historical significance of Norris's victory, with many users expressing surprise and admiration for his achievement. The full circle moment from getting an autograph to sharing the trophy with his hero is particularly noted.
 
 ---
 
-## 32. [Each F1 car in 2026 must bear the FIA logo, with a height of at least 75mm - this logo must be positioned on the top of the nose, or on either side of the nose and be visible from the side of the car](https://reddit.com/r/formula1/comments/1pl2lys/each_f1_car_in_2026_must_bear_the_fia_logo_with_a/)
+## 34. [Papaya world championship airline: the sequel](https://reddit.com/r/formula1/comments/1pl5m31/papaya_world_championship_airline_the_sequel/)
+
+**Author:** u/afunnywold | **Upvotes:** 9488 | **Comments:** 431 | **Date:** 2025-12-12
+
+**Summary:** The Reddit post from r/formula1, titled 'Papaya world championship airline: the sequel,' features a link post with no text content. The discussion revolves around a photo and comments about Formula 1 drivers and teams. Key points include the post being a link post with no text content, top comments including humor and observations about Formula 1 drivers and teams, and discussion highlights including comments about MBS, Lando Norris, Oscar Piastri, and McLaren. The community engages in light-hearted banter and observations about the sport.
+
+---
+
+## 35. [All teams except Mercedes already had the FIA logo in their cars in 2025. They're only changing the location and size of these logos for 2026](https://reddit.com/r/formula1/comments/1pl3sa1/all_teams_except_mercedes_already_had_the_fia/)
+
+**Author:** u/F1Fan2004 | **Upvotes:** 2680 | **Comments:** 122 | **Date:** 2025-12-12
+
+**Summary:** The Reddit post discusses the placement and size of the FIA logo on Formula 1 cars, noting that all teams except Mercedes already had the logo in 2025. The main change for 2026 is the standardization of the logo's size and location. Key points include: All teams except Mercedes had the FIA logo in 2025; the 2026 change involves standardizing the size and placement of the logo; some teams tried to hide the logo behind the front wheels; the change is seen as minor and not particularly significant; there is some humor and confusion about the significance of the thread. The discussion highlights a mix of humor and confusion about the significance of the FIA logo placement change. Some users find it amusing that teams tried to hide the logo, while others question the importance of the topic.
+
+---
+
+## 36. [Each F1 car in 2026 must bear the FIA logo, with a height of at least 75mm - this logo must be positioned on the top of the nose, or on either side of the nose and be visible from the side of the car](https://reddit.com/r/formula1/comments/1pl2lys/each_f1_car_in_2026_must_bear_the_fia_logo_with_a/)
 
 **Author:** u/GeeVeeF1 | **Upvotes:** 3159 | **Comments:** 265 | **Date:** 2025-12-12
 
-**Summary:** The post discusses new FIA regulations requiring all F1 cars in 2026 to display the FIA logo prominently on the nose, with specific size and visibility requirements. The discussion includes humorous and critical comments about the placement and potential use of the logo.
+**Summary:** The post discusses new FIA regulations requiring F1 cars in 2026 to display the FIA logo on the nose, with specific size and visibility requirements. The community reacts with humor and skepticism, questioning the necessity and suggesting playful alternatives.
 
 **Key Points:**
-- FIA logo must be at least 75mm tall and positioned on the top or sides of the nose.
+- FIA logo must be at least 75mm tall and positioned on the nose or sides of the car.
 - Logo must be visible from the side of the car.
-- Current FIA logos are inconsistently placed and sized; new rules standardize this.
-- Comments joke about potential use of the logo for promotional purposes.
-- Some users question the necessity of the new regulation.
+- Community reactions include humorous suggestions and skepticism about the regulation.
+- Some commenters note that FIA logos are already present but not standardized.
 
-**Discussion Highlights:** The discussion is largely humorous, with users making jokes about potential promotional uses of the FIA logo. There is also some debate about the necessity of the new regulation, with some users pointing out that FIA logos are already present but inconsistently placed and sized.
+**Discussion Highlights:** The discussion highlights a mix of humor and skepticism, with commenters joking about mandatory holograms and LED screens, while others point out that this regulation standardizes existing practices.
 
 ---
 
-## 33. [[FIA] FIA Rookie of the Year ... over the years!](https://reddit.com/r/formula1/comments/1pl1nm7/fia_fia_rookie_of_the_year_over_the_years/)
+## 37. [[FIA] FIA Rookie of the Year ... over the years!](https://reddit.com/r/formula1/comments/1pl1nm7/fia_fia_rookie_of_the_year_over_the_years/)
 
 **Author:** u/PrimeyXE | **Upvotes:** 5123 | **Comments:** 341 | **Date:** 2025-12-12
 
-**Summary:** The Reddit post discusses the FIA Rookie of the Year winners over the years, highlighting notable winners and trends in the awards.
+**Summary:** The Reddit post discusses the FIA Rookie of the Year awards over the years, highlighting notable winners and trends in the awards.
 
 **Key Points:**
-- Red Bull has backed many FIA Rookie of the Year winners.
+- Red Bull-backed drivers have won the award frequently.
 - Charles Leclerc and Oscar Piastri are the only drivers to win the award twice.
 - Kevin Hansen won the award from outside the traditional F1 ladder.
-- The discussion highlights the diversity of motorsports beyond F1.
-- Charles Leclerc won the award in both 2017 and 2018.
+- The discussion includes mentions of other motorsports beyond F1.
+- Charles Leclerc's wins in 2017 and 2018 were highlighted.
 
-**Discussion Highlights:** The discussion emphasizes the dominance of Red Bull-backed drivers and the achievements of Charles Leclerc and Oscar Piastri. It also notes Kevin Hansen's unique path to winning the award and acknowledges the broader context of motorsports beyond F1.
+**Discussion Highlights:** The discussion emphasizes the dominance of Red Bull-backed drivers in the FIA Rookie of the Year awards, with notable mentions of Charles Leclerc and Oscar Piastri's multiple wins. Kevin Hansen's achievement from outside the F1 ladder was also praised.
 
 ---
 
-## 34. [Max Verstappen did not attend today's FIA event due to medical reasons. But he made a point of sending a video congratulating the McLaren team and especially Lando.](https://reddit.com/r/formula1/comments/1pkxnmi/max_verstappen_did_not_attend_todays_fia_event/)
+## 38. [Max Verstappen did not attend today's FIA event due to medical reasons. But he made a point of sending a video congratulating the McLaren team and especially Lando.](https://reddit.com/r/formula1/comments/1pkxnmi/max_verstappen_did_not_attend_todays_fia_event/)
 
 **Author:** u/One-Consideration404 | **Upvotes:** 10383 | **Comments:** 239 | **Date:** 2025-12-12
 
-**Summary:** Max Verstappen missed an FIA event due to medical reasons but sent a video congratulating McLaren and Lando Norris on their season. The post and comments speculate about his absence and praise his sportsmanship.
+**Summary:** Max Verstappen missed an FIA event due to medical reasons but sent a video congratulating McLaren and Lando Norris on their season. The post sparked humorous speculation about his absence and praise for his sportsmanship.
 
 **Key Points:**
-- Max Verstappen absent from FIA event due to medical reasons
-- Sent a video congratulating McLaren and Lando Norris
-- Speculation in comments about the nature of his absence
-- Positive reception of his congratulatory message
-- Mention of congratulating MBS (likely Mohammed bin Salman)
+- Max Verstappen missed the FIA event due to medical reasons
+- He sent a video congratulating McLaren and Lando Norris
+- The post led to humorous speculation about his absence
+- The community appreciated his sportsmanship
+- There were jokes about his health and sim racing
 
-**Discussion Highlights:** The discussion highlights include speculation about Verstappen's medical reasons, with some humorously suggesting it might be related to a sim racing event. The overall consensus praises Verstappen's sportsmanship in congratulating his rivals.
+**Discussion Highlights:** The discussion was lighthearted, with users joking about Verstappen's absence and praising his gesture towards McLaren and Lando Norris. There was a consensus of appreciation for his sportsmanship and humor about the situation.
 
 ---
 
-## 35. [Lando lifts the World Drivers Championship trophy!](https://reddit.com/r/formula1/comments/1pkwhq7/lando_lifts_the_world_drivers_championship_trophy/)
+## 39. [Lando lifts the World Drivers Championship trophy!](https://reddit.com/r/formula1/comments/1pkwhq7/lando_lifts_the_world_drivers_championship_trophy/)
 
-**Author:** u/littletreble07 | **Upvotes:** 20396 | **Comments:** 366 | **Date:** 2025-12-12
+**Author:** u/littletreble07 | **Upvotes:** 20398 | **Comments:** 366 | **Date:** 2025-12-12
 
-**Summary:** Lando Norris wins the World Drivers Championship, sparking humorous and critical reactions from fans, particularly regarding interactions with MBS and Max Verstappen's absence.
+**Summary:** Lando Norris wins the World Drivers Championship trophy, sparking various reactions and interactions from fans and fellow drivers.
 
 **Key Points:**
-- Lando Norris wins the championship
-- Humorous comments about MBS touching Lando's hair
-- Criticism of MBS's behavior
-- Max Verstappen sends congratulatory video due to illness
-- Mention of a cheeky bum squeeze from MBS
+- Lando Norris wins the World Drivers Championship trophy.
+- Fans react to interactions involving Lando's hair.
+- Max Verstappen sends a congratulatory video but is unable to attend due to health reasons.
+- Notable interactions include a cheeky bum squeeze from MBS.
 
-**Discussion Highlights:** The discussion highlights a mix of humor and criticism, with fans reacting to MBS's interactions with Lando and noting Max Verstappen's absence due to illness.
+**Discussion Highlights:** The discussion highlights include reactions to Lando's hair being touched, Max Verstappen's congratulatory message, and a playful interaction involving MBS.
 
 ---
 
-## 36. [[F1] George Russell and Franco Colapinto were the only two drivers without DNF on the main races of 2025](https://reddit.com/r/formula1/comments/1pkrno9/f1_george_russell_and_franco_colapinto_were_the/)
+## 40. [[F1] George Russell and Franco Colapinto were the only two drivers without DNF on the main races of 2025](https://reddit.com/r/formula1/comments/1pkrno9/f1_george_russell_and_franco_colapinto_were_the/)
 
-**Author:** u/Tano17 | **Upvotes:** 3855 | **Comments:** 254 | **Date:** 2025-12-12
+**Author:** u/Tano17 | **Upvotes:** 3852 | **Comments:** 254 | **Date:** 2025-12-12
 
-**Summary:** George Russell and Franco Colapinto were the only two drivers without DNF in the main races of 2025. Russell had a nearly perfect season, while Colapinto started later and had some absences.
+**Summary:** George Russell and Franco Colapinto were the only two drivers without DNFs in the main races of the 2025 F1 season. Russell had a nearly perfect season, while Colapinto started later and had some non-main race issues.
 
 **Key Points:**
-- George Russell and Franco Colapinto were the only drivers without DNF in main races of 2025.
-- Colapinto started the season later and had some absences.
-- Russell's consistency was highlighted as a key factor for his performance.
-- Discussion included humorous remarks about Colapinto's performance and comparisons with other drivers.
+- George Russell and Franco Colapinto had no DNFs in main races
+- Colapinto started the season later and had a DNS and a sprint race DNF
+- Russell's consistency could position him for a title challenge
+- Discussion highlights Russell's improved racing and Colapinto's performance
 
-**Discussion Highlights:** The discussion highlighted Russell's improved racing and consistency, with some humorous comments about Colapinto's performance. There was also a mention of Stroll's potential inclusion before certain events.
+**Discussion Highlights:** The discussion praised Russell's consistency and improvement, noted Colapinto's performance despite starting later, and included some humorous and comparative comments about other drivers.
 
 ---
 
-## 37. [[Erik Van Haren on X] Max Verstappen will not attend the FIA gala due to being sick with the flu](https://reddit.com/r/formula1/comments/1pkov5g/erik_van_haren_on_x_max_verstappen_will_not/)
+## 41. [[Erik Van Haren on X] Max Verstappen will not attend the FIA gala due to being sick with the flu](https://reddit.com/r/formula1/comments/1pkov5g/erik_van_haren_on_x_max_verstappen_will_not/)
 
-**Author:** u/littletreble07 | **Upvotes:** 10454 | **Comments:** 724 | **Date:** 2025-12-12
+**Author:** u/littletreble07 | **Upvotes:** 10459 | **Comments:** 723 | **Date:** 2025-12-12
 
-**Summary:** Max Verstappen will not attend the FIA gala due to being sick with the flu, sparking humorous and skeptical reactions from the community.
+**Summary:** Max Verstappen will miss the FIA gala due to illness, sparking humorous and skeptical reactions from fans. The event's location in Uzbekistan also drew attention.
 
 **Key Points:**
-- Max Verstappen is absent from the FIA gala due to flu.
-- Community reactions include humor and skepticism about the excuse.
-- Questions raised about the gala's location in Uzbekistan.
-- Comparisons made to typical school sick excuses.
+- Max Verstappen is absent from the FIA gala due to flu
+- Fans joke about his absence, comparing it to a school sick excuse
+- The gala's location in Uzbekistan is questioned
+- Some fans predicted his absence beforehand
 
-**Discussion Highlights:** The community reacted with humor and skepticism, with many comparing the situation to typical school sick excuses and questioning the gala's location.
+**Discussion Highlights:** The discussion is marked by humor and skepticism regarding Verstappen's absence, with many fans joking about his excuse. The choice of Uzbekistan as the gala's location also sparked curiosity and comments.
 
 ---
 
-## 38. [Max in Milton Keynes: "And yes, I know it sucks to lose by 2 points, but at the same time, we can be super proud of you know, going out of very tough times and overcoming these things and start winning again in one season. Maybe other teams can do that the same after 2 or 20..."](https://reddit.com/r/formula1/comments/1pknqe6/max_in_milton_keynes_and_yes_i_know_it_sucks_to/)
+## 42. [Max in Milton Keynes: "And yes, I know it sucks to lose by 2 points, but at the same time, we can be super proud of you know, going out of very tough times and overcoming these things and start winning again in one season. Maybe other teams can do that the same after 2 or 20..."](https://reddit.com/r/formula1/comments/1pknqe6/max_in_milton_keynes_and_yes_i_know_it_sucks_to/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 3431 | **Comments:** 174 | **Date:** 2025-12-12
+**Author:** u/FewCollar227 | **Upvotes:** 3432 | **Comments:** 174 | **Date:** 2025-12-12
 
-**Summary:** Max Verstappen reflects on Red Bull's journey, acknowledging the tough times and their rapid return to winning. The post and comments highlight his leadership and the team's achievements, while also touching on the competitive dynamics within the team.
+**Summary:** Max Verstappen reflects on Red Bull's journey, acknowledging the tough times and their quick return to winning. The post and comments highlight his leadership and the team's achievements, while also noting the competitive context with other teams.
 
 **Key Points:**
-- Max Verstappen's speech at Milton Keynes focuses on overcoming challenges and achieving success.
-- The post and comments highlight his leadership and motivational role within the team.
-- Discussion includes references to other teams like Mercedes and Scuderia, and the dynamics within Red Bull, including Yuki's perspective.
-- The community appreciates Max's leadership and the team's resilience.
-- There is a mix of humor and serious discussion about the team's achievements and internal dynamics.
+- Max Verstappen acknowledges the team's journey from tough times to winning.
+- He subtly references other teams like Mercedes and Ferrari.
+- Comments highlight his leadership and motivational role within the team.
+- Yuki Tsunoda's presence is noted, with comments suggesting his contrasting performance.
+- The discussion reflects on the team's resilience and competitive spirit.
 
-**Discussion Highlights:** The discussion highlights Max Verstappen's leadership and the team's resilience, with a mix of humor and serious reflection on their achievements and competitive dynamics.
+**Discussion Highlights:** The discussion highlights Max Verstappen's leadership and the team's resilience. Comments reflect on the competitive context with other teams and the contrasting performances within the team.
 
 ---
 
-## 39. [All V6 Hybrid era wins since 2014](https://reddit.com/r/formula1/comments/1pkn3mu/all_v6_hybrid_era_wins_since_2014/)
+## 43. [All V6 Hybrid era wins since 2014](https://reddit.com/r/formula1/comments/1pkn3mu/all_v6_hybrid_era_wins_since_2014/)
 
-**Author:** u/EighteenLevel | **Upvotes:** 2960 | **Comments:** 179 | **Date:** 2025-12-12
+**Author:** u/EighteenLevel | **Upvotes:** 2962 | **Comments:** 179 | **Date:** 2025-12-12
 
-**Summary:** The Reddit post highlights the dominance of Mercedes, Red Bull, Ferrari, and McLaren in the V6 Hybrid era of Formula 1 since 2014. The discussion emphasizes the rarity of wins by other teams and the resurgence of McLaren after a long period of underperformance.
+**Summary:** The Reddit post discusses the dominance of a few teams in the V6 Hybrid era of Formula 1 since 2014, highlighting the wins by Gasly, Checo, and Ocon in non-top teams, McLaren's resurgence, and Ferrari's inconsistency.
 
 **Key Points:**
-- Gasly, Checo, and Ocon are the only drivers to win in a non-Mercedes, Red Bull, Ferrari, and McLaren car in this era.
+- Gasly, Checo, and Ocon are the only drivers to win in a non-Mercedes, Red Bull, Ferrari, and McLaren car in this time period.
 - McLaren disappeared for a decade and reappeared, becoming champion before Ferrari.
-- The dominance of a few teams is compared to the German Bundesliga winners.
-- McLaren's long period of underperformance is noted.
-- Ferrari's inconsistency is highlighted, with wins sprinkled sporadically.
+- The era is dominated by 2-3 teams, similar to the German Bundesliga.
+- McLaren were nowhere for a long time.
+- Ferrari is consistently inconsistent, sprinkling wins every now and then.
 
-**Discussion Highlights:** The discussion highlights the dominance of a few top teams in the V6 Hybrid era, with particular emphasis on McLaren's resurgence and Ferrari's inconsistency. The rarity of wins by other teams is also a key point of discussion.
-
----
-
-## 40. [The McLaren team on the way to the FIA awards ceremony in Uzbekistan](https://reddit.com/r/formula1/comments/1pkmxc3/the_mclaren_team_on_the_way_to_the_fia_awards/)
-
-**Author:** u/afunnywold | **Upvotes:** 7377 | **Comments:** 454 | **Date:** 2025-12-12
-
-**Summary:** The Reddit post humorously highlights the McLaren team's attendance at the FIA awards ceremony in Uzbekistan, with comments joking about other F1 personalities and their modes of transportation.
-
-**Key Points:**
-- McLaren team attended the FIA awards ceremony in Uzbekistan
-- Comments joke about Charles Leclerc and Carlos Sainz traveling in a van with Eurobeat music
-- Mention of surprise at MBS (Mohammed bin Salman) not being present
-- Questioning why the ceremony was held in Uzbekistan
-- Lando Norris wore the same outfit at a recent F1 Christmas party
-
-**Discussion Highlights:** The discussion is light-hearted and humorous, with a focus on the unusual location of the ceremony and playful jabs at other F1 teams and personalities. The comments reflect a sense of camaraderie and inside jokes within the F1 community.
+**Discussion Highlights:** The discussion highlights the dominance of a few teams, McLaren's resurgence, and Ferrari's inconsistency, with a focus on the unique wins by Gasly, Checo, and Ocon.
 
 ---
 
-## 41. [Jack Doohan has crashed for the third time in three days at the same corner in Super Formula testing at Suzuka](https://reddit.com/r/formula1/comments/1pkltgm/jack_doohan_has_crashed_for_the_third_time_in/)
+## 44. [The McLaren team on the way to the FIA awards ceremony in Uzbekistan](https://reddit.com/r/formula1/comments/1pkmxc3/the_mclaren_team_on_the_way_to_the_fia_awards/)
 
-**Author:** u/NorthKoreanMissile7 | **Upvotes:** 5390 | **Comments:** 342 | **Date:** 2025-12-12
+**Author:** u/afunnywold | **Upvotes:** 7372 | **Comments:** 454 | **Date:** 2025-12-12
 
-**Summary:** Jack Doohan crashed three times in three days at the same corner during Super Formula testing at Suzuka, sparking reactions from the Formula 1 community.
+**Summary:** The Reddit post highlights the McLaren team's attendance at the FIA awards ceremony in Uzbekistan, with humorous comments about other teams and drivers. The discussion includes jokes about Charles Leclerc and Carlos Sainz, as well as observations about Lando Norris's outfit and Stefano Domenicali's travel arrangements. The discussion is light-hearted and humorous, with a focus on jokes about other teams and drivers. There is no clear consensus, but the comments reflect a playful and engaging tone among the community.
+
+---
+
+## 45. [Jack Doohan has crashed for the third time in three days at the same corner in Super Formula testing at Suzuka](https://reddit.com/r/formula1/comments/1pkltgm/jack_doohan_has_crashed_for_the_third_time_in/)
+
+**Author:** u/NorthKoreanMissile7 | **Upvotes:** 5395 | **Comments:** 342 | **Date:** 2025-12-12
+
+**Summary:** Jack Doohan has crashed three times in three days at the same corner during Super Formula testing at Suzuka, as reported in a Reddit post on r/formula1. The post garnered significant attention with 5,395 upvotes and 342 comments.
 
 **Key Points:**
 - Jack Doohan crashed three times in three days at Suzuka
-- All crashes occurred at the same corner
-- The incident happened during Super Formula testing
-- The post received significant engagement with 5390 upvotes and 342 comments
-- Top comments humorously noted the pattern and frequency of the crashes
+- The crashes occurred at the same corner during Super Formula testing
+- The post received 5,395 upvotes and 342 comments
+- Top comments humorously noted the frequency of crashes and Doohan's apparent struggle with the track
 
-**Discussion Highlights:** The discussion primarily focused on the unusual frequency of crashes at the same location, with users making light-hearted jokes and observations about the pattern. There was no clear consensus beyond acknowledging the notable coincidence.
-
----
-
-## 42. [F1 2026 teams and engines](https://reddit.com/r/formula1/comments/1pkj77b/f1_2026_teams_and_engines/)
-
-**Author:** u/EighteenLevel | **Upvotes:** 7595 | **Comments:** 472 | **Date:** 2025-12-11
-
-**Summary:** The Reddit post discusses the engine partnerships for F1 teams in 2026, highlighting various team-engine combinations and sparking discussions about aesthetics, team identities, and notable changes like Audi's involvement. Key points include teams grouped by engine suppliers, Alpine using a Mercedes engine, and Audi having its own engine. The discussion highlights a mix of opinions on team-engine pairings, with curiosity about Red Bull's status and Audi's engine development.
+**Discussion Highlights:** The discussion primarily revolved around humor and light-hearted commentary regarding Doohan's repeated crashes, with comments like 'No way...' and 'Might be fair to say Suzuka isn’t his fave track...' receiving the most upvotes.
 
 ---
 
-## 43. [Visual on how F1 cars will change, 2026 vs 2025](https://reddit.com/r/formula1/comments/1pkdwhx/visual_on_how_f1_cars_will_change_2026_vs_2025/)
+## 46. [F1 2026 teams and engines](https://reddit.com/r/formula1/comments/1pkj77b/f1_2026_teams_and_engines/)
 
-**Author:** u/madhatterlock | **Upvotes:** 14075 | **Comments:** 552 | **Date:** 2025-12-11
+**Author:** u/EighteenLevel | **Upvotes:** 7603 | **Comments:** 472 | **Date:** 2025-12-11
 
-**Summary:** The Reddit post compares the size of F1 cars in 2026 versus 2025, highlighting significant changes. Users discuss historical context, expressing mixed opinions on the proposed changes.
+**Summary:** The Reddit post discusses the engine partnerships for F1 teams in 2026, highlighting various team-engine combinations and sparking discussions about aesthetics, team identities, and notable changes like Audi's engine and Red Bull's status.
 
 **Key Points:**
-- The post provides a visual comparison of F1 car sizes between 2026 and 2025.
-- Users note the historical size of cars from the 80s and 90s, comparing them to modern F1 cars.
-- There is a discussion on the balance between car size reduction and maintaining safety standards.
-- Some users express a desire for further comparisons, such as 2026 vs. 2008.
+- Teams are grouped by their engine suppliers (e.g., Mercedes, Ferrari, Red Bull).
+- Notable observations include Alpine using a Mercedes engine and Audi having its own engine.
+- Discussions about Red Bull's status as a works team and the aesthetics of team-engine pairings.
+- Comments highlight the diversity and potential implications of these partnerships.
 
-**Discussion Highlights:** The discussion highlights a mix of appreciation for the visual comparison and concerns about the practicality and safety implications of smaller F1 cars. Users also express interest in additional historical comparisons.
+**Discussion Highlights:** The discussion revolves around the aesthetics and implications of team-engine pairings, with notable mentions of Alpine's engine choice, Audi's independent engine, and Red Bull's potential status as a works team.
 
 ---
 
-## 44. [Yuki Tsunoda finishes with the biggest points gap to a teammate in F1 history (and other records)](https://reddit.com/r/formula1/comments/1pkchqs/yuki_tsunoda_finishes_with_the_biggest_points_gap/)
+## 47. [Visual on how F1 cars will change, 2026 vs 2025](https://reddit.com/r/formula1/comments/1pkdwhx/visual_on_how_f1_cars_will_change_2026_vs_2025/)
 
-**Author:** u/jz001 | **Upvotes:** 3681 | **Comments:** 572 | **Date:** 2025-12-11
+**Author:** u/madhatterlock | **Upvotes:** 14083 | **Comments:** 552 | **Date:** 2025-12-11
 
-**Summary:** The Reddit post discusses Yuki Tsunoda's performance in F1, highlighting his significant points gap to his teammate and other records. The discussion includes memorable moments and comparisons to other drivers.
+**Summary:** The Reddit post compares the size of F1 cars in 2026 versus 2025, highlighting significant changes. Users discuss historical comparisons and express concerns about safety with smaller cars.
 
 **Key Points:**
-- Tsunoda's memorable performance holding off Leclerc
-- Tsunoda finished 17th in the standings with 33 points
-- Comparisons to Max Verstappen's performance
-- Humorous comments about Tsunoda's points gap
+- The post shows a visual comparison of F1 car sizes between 2026 and 2025.
+- Users note how much smaller cars were in the 80s-90s compared to modern cars.
+- There is appreciation for the graphic provided in the post.
+- Concerns are raised about how small cars can be made without compromising safety.
 
-**Discussion Highlights:** The discussion highlights Tsunoda's notable moments and his points gap, with a mix of serious analysis and humorous comments about his performance relative to his teammate and other drivers.
+**Discussion Highlights:** The discussion highlights a consensus on the significant size difference between older and modern F1 cars, with some users expressing concerns about the limits of reducing car size for safety reasons.
 
 ---
 
-## 45. [Kimi: “I think Max has been really supportive to all of the rookies” 
+## 48. [Yuki Tsunoda finishes with the biggest points gap to a teammate in F1 history (and other records)](https://reddit.com/r/formula1/comments/1pkchqs/yuki_tsunoda_finishes_with_the_biggest_points_gap/)
+
+**Author:** u/jz001 | **Upvotes:** 3683 | **Comments:** 572 | **Date:** 2025-12-11
+
+**Summary:** The Reddit post discusses Yuki Tsunoda's performance in F1, highlighting his significant points gap to his teammate and other records. The discussion includes notable comments about his driving skills and comparisons to other drivers. Key points include Tsunoda having the largest points gap to a teammate in F1 history, praise for his driving skills, and his low standing with 33 points. The discussion highlights a mix of praise and criticism regarding his performance.
+
+---
+
+## 49. [Kimi: “I think Max has been really supportive to all of the rookies” 
 
 Gabi: “How do they call him?”
 
 Kimi: “The dad of the rookies”](https://reddit.com/r/formula1/comments/1pkc8i2/kimi_i_think_max_has_been_really_supportive_to/)
 
-**Author:** u/One_Impressionism | **Upvotes:** 6729 | **Comments:** 150 | **Date:** 2025-12-11
+**Author:** u/One_Impressionism | **Upvotes:** 6731 | **Comments:** 150 | **Date:** 2025-12-11
 
-**Summary:** The Reddit post highlights Max Verstappen's supportive role towards rookie drivers in Formula 1, with Kimi Räikkönen referring to him as 'the dad of the rookies.' The discussion emphasizes Verstappen's mentorship and positive attitude towards young talent.
-
-**Key Points:**
-- Max Verstappen is seen as a mentor figure to rookie drivers.
-- Verstappen is supportive and helpful to promising young talent.
-- The nickname 'the dad of the rookies' reflects his mentorship role.
-- Verstappen's attitude contrasts with drivers who feel threatened by young talent.
-- Despite his young age, Verstappen is significantly older than some rookies.
-
-**Discussion Highlights:** The discussion consensus praises Verstappen for his mentorship and positive influence on rookie drivers, highlighting his supportive nature and lack of insecurity about young talent. The humorous nickname 'the dad of the rookies' is widely embraced in the comments.
+**Summary:** The Reddit post highlights Max Verstappen's supportive role towards rookie drivers in Formula 1, with Kimi Räikkönen referring to him as 'the dad of the rookies.' The discussion emphasizes Verstappen's mentorship and positive attitude towards young talent. Key points include Verstappen's support for rookies, his mentorship role, and the community's appreciation for his attitude. The discussion highlights a positive consensus around Verstappen's mentorship, with humorous references to him as a father figure to the rookies.
 
 ---
 
-## 46. [Lando: “I knew Yuki was gonna make my day difficult [...] I love Yuki. He's one of the coolest, funniest, most genuine people. It's sad to see him not in F1 next year, because he is a very strong driver. Off-track drivers parade, he's always one of the first people to congratulate me or say hello"](https://reddit.com/r/formula1/comments/1pkah2c/lando_i_knew_yuki_was_gonna_make_my_day_difficult/)
+## 50. [Lando: “I knew Yuki was gonna make my day difficult [...] I love Yuki. He's one of the coolest, funniest, most genuine people. It's sad to see him not in F1 next year, because he is a very strong driver. Off-track drivers parade, he's always one of the first people to congratulate me or say hello"](https://reddit.com/r/formula1/comments/1pkah2c/lando_i_knew_yuki_was_gonna_make_my_day_difficult/)
 
-**Author:** u/randomseocb | **Upvotes:** 5383 | **Comments:** 219 | **Date:** 2025-12-11
+**Author:** u/randomseocb | **Upvotes:** 5380 | **Comments:** 219 | **Date:** 2025-12-11
 
-**Summary:** Lando Norris expresses admiration for Yuki Tsunoda, praising his character and driving skills, while lamenting his departure from F1. The community echoes this sentiment, highlighting Yuki's positive relationships with other drivers and his overall likability.
-
-**Key Points:**
-- Lando Norris praises Yuki Tsunoda's character and driving abilities
-- Yuki is well-liked by fellow drivers and the community
-- Community expresses sadness over Yuki's departure from F1
-- Yuki is known for his genuine personality and strong driving skills
-- Hope for Yuki's success in other racing series like Indy
-
-**Discussion Highlights:** The discussion highlights the community's appreciation for Yuki Tsunoda's personality and driving skills, with many expressing sadness over his departure from F1 and hoping for his success in other racing series.
-
----
-
-## 47. [Both dominated the past decade](https://reddit.com/r/formula1/comments/1pk06tg/both_dominated_the_past_decade/)
-
-**Author:** u/EighteenLevel | **Upvotes:** 17664 | **Comments:** 498 | **Date:** 2025-12-11
-
-**Summary:** The Reddit post discusses the dominance of Lewis Hamilton and Max Verstappen in Formula 1, highlighting their limited direct competition and their status as all-time greats.
+**Summary:** Lando Norris expresses admiration for Yuki Tsunoda, praising his character and driving skills, while lamenting his departure from F1. The discussion highlights Yuki's positive relationships with fellow drivers and the general sentiment of appreciation for his presence in the sport.
 
 **Key Points:**
-- Lewis Hamilton and Max Verstappen have dominated their respective eras in F1
-- They only had one season (2021) of direct competition
-- Their rivalry is considered historic and underappreciated
-- Both are regarded as among the greatest drivers in F1 history
+- Lando Norris admires Yuki Tsunoda's character and driving skills
+- Yuki is known for his positive relationships with other drivers
+- There is a general sentiment of appreciation for Yuki's presence in F1
+- Yuki's departure from F1 is seen as a loss by many
+- Yuki is praised for his off-track behavior and sportsmanship
 
-**Discussion Highlights:** The discussion emphasizes the significance of their rivalry in 2021 and the consensus that both drivers have defined their generations in Formula 1.
-
----
-
-## 48. [Helmut Marko about Lando: "He proved all the prognosis wrong saying he did not have the mentality to overcome this and win. He is a world class driver and is very strong in qualifying. So I believe ‘unfortunately’ if he gets the right car this result could be very much repeated in the future."](https://reddit.com/r/formula1/comments/1pjznae/helmut_marko_about_lando_he_proved_all_the/)
-
-**Author:** u/randomseocb | **Upvotes:** 3882 | **Comments:** 340 | **Date:** 2025-12-11
-
-**Summary:** Helmut Marko praises Lando Norris for proving doubters wrong by showcasing his world-class driving skills and strong qualifying performances, suggesting Norris could win more championships with the right car.
-
-**Key Points:**
-- Lando Norris proved critics wrong about his mentality and ability to win.
-- Norris is recognized as a world-class driver with strong qualifying skills.
-- Marko believes Norris could repeat his success with the right car.
-- Marko's comments are seen as genuine due to his past attempts to sign Norris.
-- The discussion highlights Marko's mixed feelings and Norris's impressive performance.
-
-**Discussion Highlights:** The discussion highlights Marko's genuine admiration for Norris despite past tensions, with users noting Marko's history of trying to sign Norris and his bittersweet praise for the driver's abilities.
-
----
-
-## 49. [2024 / 2025 standings and points](https://reddit.com/r/formula1/comments/1pjyg40/2024_2025_standings_and_points/)
-
-**Author:** u/EighteenLevel | **Upvotes:** 5626 | **Comments:** 344 | **Date:** 2025-12-11
-
-**Summary:** The Reddit post discusses the 2024/2025 Formula 1 standings and points, highlighting key performances and team achievements.
-
-**Key Points:**
-- Hamilton is making a strong comeback to the top.
-- Williams had a significant year.
-- Mercedes scored 468 points in 2024 and 469 points in 2025.
-- Red Bull's No.2 drivers underperformed compared to previous seasons.
-- Three drivers broke the 400-point barrier.
-
-**Discussion Highlights:** The discussion highlights Hamilton's resurgence, Williams' progress, Mercedes' consistent performance, Red Bull's struggles with their No.2 drivers, and the impressive achievement of three drivers breaking the 400-point barrier.
-
----
-
-## 50. [FIA to adjust F1 terminology for 2026 to prevent fan confusion](https://reddit.com/r/formula1/comments/1pjx79h/fia_to_adjust_f1_terminology_for_2026_to_prevent/)
-
-**Author:** u/FerrariStrategisttt | **Upvotes:** 3647 | **Comments:** 328 | **Date:** 2025-12-11
-
-**Summary:** The FIA plans to adjust F1 terminology for 2026 to prevent fan confusion, with a focus on the acronym 'MOM' and its potential replacement. The Reddit community reacted with humor and playful suggestions.
-
-**Key Points:**
-- FIA to adjust F1 terminology for 2026
-- Focus on preventing fan confusion
-- Community reaction includes humor and memes
-- Suggestions for new terminology like 'MILF' and 'KERS'
-- Confirmation that 'MOM' will not last long
-
-**Discussion Highlights:** The discussion is lighthearted and humorous, with the community playfully suggesting new terms and confirming the impending change in terminology.
+**Discussion Highlights:** The discussion highlights a strong sense of appreciation and respect for Yuki Tsunoda, both for his driving skills and his character. Many commenters express sadness at his departure from F1 and hope for his success in other racing series.
 
 ---
 
