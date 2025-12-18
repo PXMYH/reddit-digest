@@ -147,7 +147,7 @@
     <header>
         <div class="container">
             <h1>🔥 Reddit Digest Reader</h1>
-            <div class="last-updated">Last Updated: 2025-12-17 19:30 UTC</div>
+            <div class="last-updated">Last Updated: 2025-12-17 21:10 UTC</div>
         </div>
     </header>
 
@@ -155,6 +155,7 @@
         <div class="filter-controls">
             <label for="timeframe-filter">Filter by timeframe:</label>
             <select id="timeframe-filter" onchange="filterByTimeframe()">
+                <option value="all">All</option>
                 <option value="week">Top - Week</option>
                 <option value="month">Top - Month</option>
                 <option value="year">Top - Year</option>
@@ -2577,32 +2578,10 @@
             }
 
             function filterByTimeframe() {
-                var selectedTimeframe = document.getElementById('timeframe-filter').value;
+                // Show all tabs regardless of filter selection
                 var buttons = document.getElementsByClassName('tab-button');
-                var visibleButtons = [];
-
-                // Filter tab buttons based on selected timeframe
                 for (var i = 0; i < buttons.length; i++) {
-                    var button = buttons[i];
-                    var buttonTimeframe = button.getAttribute('data-timeframe');
-
-                    if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
-                        button.style.display = '';
-                        visibleButtons.push(button);
-                    } else if (buttonTimeframe === selectedTimeframe) {
-                        button.style.display = '';
-                        visibleButtons.push(button);
-                    } else {
-                        button.style.display = 'none';  // Hide
-                    }
-                }
-
-                // Activate the first visible button if current tab is hidden
-                if (visibleButtons.length > 0) {
-                    var activeButton = document.querySelector('.tab-button.active');
-                    if (!activeButton || activeButton.style.display === 'none') {
-                        visibleButtons[0].click();
-                    }
+                    buttons[i].style.display = '';
                 }
             }
         </script>
