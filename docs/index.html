@@ -147,7 +147,7 @@
     <header>
         <div class="container">
             <h1>🔥 Reddit Digest Reader</h1>
-            <div class="last-updated">Last Updated: 2025-12-17 16:33 UTC</div>
+            <div class="last-updated">Last Updated: 2025-12-17 19:06 UTC</div>
         </div>
     </header>
 
@@ -155,10 +155,6 @@
         <div class="filter-controls">
             <label for="timeframe-filter">Filter by timeframe:</label>
             <select id="timeframe-filter" onchange="filterByTimeframe()">
-                <option value="all">All digests</option>
-                <option value="date-range">Date range digests</option>
-                <option value="hour">Top - Hour</option>
-                <option value="day">Top - Day</option>
                 <option value="week">Top - Week</option>
                 <option value="month">Top - Month</option>
                 <option value="year">Top - Year</option>
@@ -170,7 +166,7 @@
             <button class="tab-button active" data-timeframe="date-range" onclick="openTab('Bogleheads')">Bogleheads</button>
             <button class="tab-button" data-timeframe="date-range" onclick="openTab('Fire')">Fire</button>
             <button class="tab-button" data-timeframe="date-range" onclick="openTab('LocalLLaMA')">LocalLLaMA</button>
-            <button class="tab-button" data-timeframe="date-range" onclick="openTab('financialindependence')">financialindependence</button>
+            <button class="tab-button" data-timeframe="week" onclick="openTab('financialindependence')">financialindependence</button>
             <button class="tab-button" data-timeframe="date-range" onclick="openTab('formula1')">formula1</button>
         </div>
 
@@ -1254,7 +1250,7 @@
             <div class="digest-header">
                 <h2>r/financialindependence Reading Digest</h2>
                 <div class="digest-meta">
-                    <strong>Period:</strong> 2025-12-13 to 2025-12-16 |
+                    <strong>Period:</strong> 2025-12-17 to 2025-12-17 |
                     <strong>Posts:</strong> 1
                 </div>
             </div>
@@ -1265,23 +1261,23 @@
                 </div>
                 <div class="post-meta">
                     <strong>Author:</strong> u/glass_thermometer |
-                    <strong>Upvotes:</strong> 159 |
-                    <strong>Comments:</strong> 96 |
+                    <strong>Upvotes:</strong> 162 |
+                    <strong>Comments:</strong> 97 |
                     <strong>Date:</strong> 2025-12-13
                 </div>
-                <div class="post-summary">The post details the annual cost of raising a child in Year 2, totaling $6,562.43, with a breakdown of expenses across categories like groceries, health, and household items. The author is part of a single-income family, so childcare costs are not included, though opportunity costs are acknowledged.</div>
+                <div class="post-summary">The Reddit post details the annual cost of raising a child in Year 2, totaling $6,562.43, with a breakdown of expenses across various categories. The author is part of a single-income family and highlights the absence of childcare costs but acknowledges the opportunity cost. The discussion focuses on the financial implications of childcare, the benefits of second-hand items, and the importance of financial planning for stay-at-home partners.</div>
                 <div class="key-points">
                     <h4>Key Points</h4>
                     <ul>
                         <li>Total annual cost for Year 2 is $6,562.43, with significant expenses in health (medical) and household miscellaneous categories.</li>
-                        <li>The family is single-income, so childcare costs are not factored in, but opportunity costs are noted.</li>
-                        <li>Community discussion highlights the high cost of childcare and the benefits of second-hand items for children.</li>
-                        <li>Financial planning advice includes ensuring the stay-at-home partner has a funded IRA and considering long-term financial stability.</li>
+                        <li>The family is single-income, so childcare costs are not included, but the opportunity cost is acknowledged.</li>
+                        <li>Top comments emphasize the high cost of childcare and the financial benefits of second-hand items.</li>
+                        <li>Discussion highlights the importance of financial planning for stay-at-home partners, including funding IRAs and considering financial stability in case of divorce.</li>
                     </ul>
                 </div>
                 <div class="discussion">
                     <h4>Discussion Highlights</h4>
-                    <p>The discussion emphasizes the high cost of childcare as a major expense for families, with many users sharing strategies for reducing costs, such as buying second-hand items. There is also advice on financial planning, including funding IRAs for stay-at-home partners and considering the financial implications of divorce.</p>
+                    <p>The discussion consensus revolves around the high cost of childcare and the financial benefits of second-hand items. There is also a strong emphasis on the importance of financial planning for stay-at-home partners, including ensuring they have a fully funded IRA and considering the financial implications of being out of the workforce.</p>
                 </div>
             </div>
 
@@ -2590,13 +2586,7 @@
                     var button = buttons[i];
                     var buttonTimeframe = button.getAttribute('data-timeframe');
 
-                    if (selectedTimeframe === 'all') {
-                        button.style.display = '';  // Show all
-                        visibleButtons.push(button);
-                    } else if (selectedTimeframe === 'date-range' && buttonTimeframe === 'date-range') {
-                        button.style.display = '';
-                        visibleButtons.push(button);
-                    } else if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
+                    if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
                         button.style.display = '';
                         visibleButtons.push(button);
                     } else if (buttonTimeframe === selectedTimeframe) {
