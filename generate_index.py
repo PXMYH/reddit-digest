@@ -211,36 +211,10 @@ def generate_html(digest_data, digest_metadata):
             }
 
             function filterByTimeframe() {
-                var selectedTimeframe = document.getElementById('timeframe-filter').value;
+                // Show all tabs regardless of filter selection
                 var buttons = document.getElementsByClassName('tab-button');
-                var visibleButtons = [];
-
-                // Filter tab buttons based on selected timeframe
                 for (var i = 0; i < buttons.length; i++) {
-                    var button = buttons[i];
-                    var buttonTimeframe = button.getAttribute('data-timeframe');
-
-                    if (selectedTimeframe === 'all') {
-                        // Show all tabs
-                        button.style.display = '';
-                        visibleButtons.push(button);
-                    } else if (selectedTimeframe === 'all-time' && buttonTimeframe === 'all') {
-                        button.style.display = '';
-                        visibleButtons.push(button);
-                    } else if (buttonTimeframe === selectedTimeframe) {
-                        button.style.display = '';
-                        visibleButtons.push(button);
-                    } else {
-                        button.style.display = 'none';  // Hide
-                    }
-                }
-
-                // Activate the first visible button if current tab is hidden
-                if (visibleButtons.length > 0) {
-                    var activeButton = document.querySelector('.tab-button.active');
-                    if (!activeButton || activeButton.style.display === 'none') {
-                        visibleButtons[0].click();
-                    }
+                    buttons[i].style.display = '';
                 }
             }
         </script>
