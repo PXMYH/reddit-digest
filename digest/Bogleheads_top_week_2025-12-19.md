@@ -8,84 +8,66 @@
 
 ## 1. [Why Vanguard sees the 60-40 portfolio being flipped for 2026](https://reddit.com/r/Bogleheads/comments/1pq0k1y/why_vanguard_sees_the_6040_portfolio_being/)
 
-**Author:** u/chinaski73 | **Upvotes:** 376 | **Comments:** 123 | **Date:** 2025-12-18
+**Author:** u/chinaski73 | **Upvotes:** 387 | **Comments:** 130 | **Date:** 2025-12-18
 
-**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years. The Bogleheads community reacts with skepticism and humor, questioning the accuracy of economic predictions.
+**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years, sparking a discussion among Bogleheads.
 
 **Key Points:**
 - Vanguard suggests a 60% bonds / 40% stocks allocation for the next decade.
-- Community skepticism about economic predictions.
-- Suggestions to wait for market drops for automatic rebalancing.
-- Historical context of Vanguard's past predictions.
-- Personal preferences for higher stock allocations among commenters.
+- Historical context: Vanguard's past predictions have been questioned.
+- Community reactions range from skepticism to humor.
+- Some users prefer maintaining higher stock allocations.
 
-**Discussion Highlights:** The discussion highlights skepticism about economic forecasts, with comments joking about the reliability of predictions and suggesting alternative strategies like waiting for market drops or maintaining higher stock allocations.
+**Discussion Highlights:** The discussion highlights skepticism about economic predictions, with some users joking about frequent rebalancing and others expressing personal preferences for higher stock allocations.
 
 ---
 
 ## 2. [Financial Advisor Fee](https://reddit.com/r/Bogleheads/comments/1pp8r29/financial_advisor_fee/)
 
-**Author:** u/laxman1916 | **Upvotes:** 332 | **Comments:** 311 | **Date:** 2025-12-17
+**Author:** u/laxman1916 | **Upvotes:** 336 | **Comments:** 319 | **Date:** 2025-12-17
 
-**Summary:** A retired user with substantial assets is considering hiring a financial advisor and asks if the fees from a robo-advisor are reasonable. The community consensus is that the fees are excessive and suggests lower-cost alternatives.
+**Summary:** A retiree with substantial assets seeks advice on financial advisor fees, with the community overwhelmingly agreeing that the proposed fees are excessive.
 
 **Key Points:**
-- User has $3M in 401k, $1.5M in savings, and a paid-off house.
-- User is retired and lives comfortably off pension and social security.
-- Community consensus: robo-advisor fees are too high.
-- Suggestions to consider lower-cost options like Vanguard or VT.
-- Fees could be as high as $50,000+/year vs. $1,800/year with Vanguard.
+- Retiree has $3M in 401k, $1.5M in savings, and a paid-off house.
+- Seeking advice on advisor fees to manage finances while spending time abroad.
+- Community consensus: proposed fees are too high compared to alternatives like Vanguard (0.30%) or VT (0.06%).
+- Recommendations to explore lower-cost options.
 
-**Discussion Highlights:** The discussion highlights that the fees charged by the robo-advisor are considered excessive by the community. Many commenters suggest exploring lower-cost alternatives such as Vanguard or VT, which could save the user significant amounts annually.
+**Discussion Highlights:** Strong consensus against high advisor fees, with suggestions to shop around for lower-cost alternatives.
 
 ---
 
 ## 3. [Vanguard Final Estimated Year-End 2025 Distributions](https://reddit.com/r/Bogleheads/comments/1pod994/vanguard_final_estimated_yearend_2025/)
 
-**Author:** u/EevelBob | **Upvotes:** 193 | **Comments:** 21 | **Date:** 2025-12-16
+**Author:** u/EevelBob | **Upvotes:** 188 | **Comments:** 21 | **Date:** 2025-12-16
 
-**Summary:** The post discusses Vanguard's final estimated year-end 2025 distributions, explaining that a mutual fund's NAV decreases by the exact amount of the dividend or distribution paid out on the ex-dividend date. This is because the fund is returning cash or shares to investors, effectively reducing the fund's total assets.
-
-**Key Points:**
-- Mutual fund's NAV decreases by the exact amount of the dividend or distribution paid out on the ex-dividend date.
-- The decrease in NAV is due to the fund returning cash or shares to investors, reducing the fund's total assets.
-- Common misconceptions about dividends being 'free money' are highlighted in the comments.
-- Questions about the impact of dividends on compounding and gains in index funds are raised.
-
-**Discussion Highlights:** The discussion highlights common misconceptions about dividends and their impact on mutual fund NAV. Some users question the role of dividends in compounding and gains within index funds, while others seek clarification on the relevance of the topic to their specific investment concerns.
+**Summary:** The Reddit post discusses Vanguard's final estimated year-end 2025 distributions, explaining that a mutual fund's NAV decreases by the exact amount of the dividend or distribution paid out on the ex-dividend date. This is because the fund is returning cash or shares to investors, effectively reducing the fund's total assets. Key points include: Mutual fund NAV decreases by the exact amount of the dividend or distribution paid out; Dividends are not 'free money' as they reduce the fund's total assets; Dividends can lead to compounding and help redistribute gains in an index fund; The post serves as a reminder about the impact of distributions on NAV. The discussion highlights common misconceptions about dividends, with top comments pointing out that dividends are not free money and that the NAV adjustment can be confusing for some investors. There is also a question about the role of dividends in compounding and redistributing gains in index funds.
 
 ---
 
 ## 4. [Inflation adjusted market returns do not look all that rosy. Am I missing something?](https://reddit.com/r/Bogleheads/comments/1po0c1o/inflation_adjusted_market_returns_do_not_look_all/)
 
-**Author:** u/volchonok1 | **Upvotes:** 190 | **Comments:** 253 | **Date:** 2025-12-16
+**Author:** u/volchonok1 | **Upvotes:** 186 | **Comments:** 253 | **Date:** 2025-12-16
 
-**Summary:** The post questions the effectiveness of long-term investing in the stock market due to periods of flat or negative inflation-adjusted returns, highlighting concerns about the feasibility of compounding interest over shorter timeframes.
-
-**Key Points:**
-- Inflation-adjusted S&P 500 returns show long periods of stagnation (e.g., 1968-1994, 2000-2016).
-- Growth appears concentrated in specific periods (e.g., 1950-1970, mid-1980s-2000).
-- The post suggests that significant gains require either investing during growth periods or holding for very long periods (30+ years).
-- Top comments emphasize the importance of including dividends in return calculations.
-- A diversified portfolio with dividend reinvestment is highlighted as a strong strategy for beating inflation.
-
-**Discussion Highlights:** The discussion consensus emphasizes the importance of considering dividends and diversification in long-term investing strategies. Many commenters argue that while market returns may appear stagnant in some periods, a well-diversified portfolio with dividend reinvestment can still outperform inflation over time.
+**Summary:** The author expresses concern about the long-term viability of stock market investments based on historical inflation-adjusted returns, noting extended periods of flat or negative growth. The discussion highlights the importance of considering dividends and diversification in evaluating market performance. Key points include the need for long-term investment horizons (30+ years), the role of diversification, and the challenge of predicting future market performance. The discussion emphasizes that while past performance does not predict future results, a diversified portfolio with dividend reinvestment has historically provided strong inflation-adjusted returns over long periods.
 
 ---
 
 ## 5. [VT and Chill?](https://reddit.com/r/Bogleheads/comments/1pmrbbp/vt_and_chill/)
 
-**Author:** u/tryingmybesttolearn2 | **Upvotes:** 133 | **Comments:** 71 | **Date:** 2025-12-14
+**Author:** u/tryingmybesttolearn2 | **Upvotes:** 135 | **Comments:** 73 | **Date:** 2025-12-14
 
-**Summary:** The post discusses the suitability of VT (Vanguard Total World Stock ETF) as a comprehensive investment option, with the author seeking advice on whether additional ETFs are necessary. The comments generally support VT as a one-stop solution for global equity exposure.
+**Summary:** The post discusses the use of VT (Vanguard Total World Stock ETF) as a primary investment, with the author seeking advice on whether to use VT or other ETFs alongside their TSP (Thrift Savings Plan) invested in the S&P 500. The comments generally support the 'VT and chill' strategy, emphasizing its simplicity and comprehensive coverage of global markets.
 
 **Key Points:**
-- VT is designed to provide total domestic and international index exposure in one ETF.
-- The consensus is that VT alone is sufficient for a 'chill' investment strategy.
-- Overweighting in US stocks (due to TSP being in S&P 500) may require balancing with international exposure.
-- Alternatives like VTI and VXUS can be used to approximate VT's allocation.
+- VT is a one-stop shop for total domestic and international index investing.
+- Using VT alongside a TSP invested in the S&P 500 may result in an overweight on US stocks.
+- Some suggest using VTI (Vanguard Total Stock Market ETF) and VXUS (Vanguard Total International Stock ETF) to approximate VT's allocation.
+- The 'VT and chill' strategy is praised for its simplicity and effectiveness.
+- Considerations for balancing US and international exposure are highlighted.
 
-**Discussion Highlights:** The discussion highlights strong support for VT as a comprehensive investment, with some considerations for balancing US and international exposure based on existing holdings.
+**Discussion Highlights:** The discussion highlights a consensus around the 'VT and chill' strategy, with some caveats about potential US overweight due to the author's TSP being fully invested in the S&P 500. Alternative approaches like using VTI and VXUS are suggested to achieve a similar global allocation.
 
 ---
 
@@ -97,11 +79,11 @@
 
 **Key Points:**
 - A $200 investment in the S&P 500 50 years ago would now be worth $23,500.
-- This amount matches the current maximum annual 401k contribution limit.
-- The post encourages persistent investing for long-term benefits.
-- Comments include humor, historical context, and critiques about inflation and return assumptions.
+- This amount is equivalent to the current maximum annual 401k contribution.
+- The post encourages consistent investing for long-term benefits.
+- Comments include historical context, humor, and critiques about inflation and return assumptions.
 
-**Discussion Highlights:** The discussion includes a mix of support for long-term investing, humorous remarks, and critiques about the assumptions used in the post, such as inflation adjustments and expected returns.
+**Discussion Highlights:** The discussion includes a mix of supportive comments emphasizing the power of compounding, humorous responses, and critiques about inflation adjustments and the reliability of historical returns.
 
 ---
 
