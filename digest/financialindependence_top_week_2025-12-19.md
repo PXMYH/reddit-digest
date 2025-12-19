@@ -10,33 +10,24 @@
 
 **Author:** u/dust_e1 | **Upvotes:** 182 | **Comments:** 71 | **Date:** 2025-12-17
 
-**Summary:** The author and their spouse have achieved financial independence but are hesitant to retire due to concerns about loneliness and lack of social structure. They seek advice on building a community post-retirement.
+**Summary:** The author and their spouse have achieved financial independence but are hesitant to retire due to a lack of social connections and community in their current location. They seek advice on building a new social structure outside of work.
 
 **Key Points:**
 - Financial independence achieved but social isolation is a concern
-- Importance of consistent participation in activities to build friendships
-- Volunteering can be a way to build a community
-- Building a tight-knit community post-30 is challenging but possible
-- Prioritizing social connections and shared activities is crucial
+- Work provides the only social structure currently
+- Hobbies feel hollow without a community to share them with
+- Looking for ways to build a tight-knit community post-retirement
+- Consistent participation in activities is key to making friends
 
-**Discussion Highlights:** The discussion highlights the importance of consistent participation in activities, volunteering, and prioritizing social connections to build a community post-retirement. Many commenters share their experiences and strategies for overcoming social isolation.
+**Discussion Highlights:** The discussion emphasizes the importance of consistent participation in activities, volunteering, and prioritizing social interactions to build a community. Many commenters suggest that making friends requires showing up regularly and being open to invitations.
 
 ---
 
 ## 2. [Cost of Having a Child (1.5 Children): Year 2](https://reddit.com/r/financialindependence/comments/1plu8pi/cost_of_having_a_child_15_children_year_2/)
 
-**Author:** u/glass_thermometer | **Upvotes:** 169 | **Comments:** 128 | **Date:** 2025-12-13
+**Author:** u/glass_thermometer | **Upvotes:** 165 | **Comments:** 128 | **Date:** 2025-12-13
 
-**Summary:** The Reddit post details the annual cost of raising a child in their second year, totaling $6,562.43, with a breakdown of expenses across various categories such as groceries, health, and clothing. The author is part of a single-income family and highlights the financial impact of having a child without including childcare costs.
-
-**Key Points:**
-- Total annual cost for Year 2: $6,562.43
-- Major expense categories include health (medical) at $3,824.18 and household miscellaneous at $509.99
-- The family uses cloth diapers and swaps childcare with friends to save costs
-- The post links to previous years' cost breakdowns for comparison
-- Top comments emphasize the high cost of childcare and the financial impact of being a stay-at-home parent
-
-**Discussion Highlights:** The discussion highlights the significant financial burden of childcare and the opportunity cost of a stay-at-home parent. Commenters also suggest ways to save money, such as buying second-hand clothes and ensuring the stay-at-home partner has a funded IRA.
+**Summary:** The Reddit post details the annual cost of raising a child in Year 2, totaling $6,562.43, with a breakdown of expenses across categories like groceries, healthcare, and household items. The author is part of a single-income family, so childcare costs are not included, though the opportunity cost is acknowledged. Key points include the high cost of healthcare, the financial trade-offs of being a single-income family, and the benefits of second-hand items for children. The discussion emphasizes the importance of financial planning, such as funding an IRA for the stay-at-home partner.
 
 ---
 
