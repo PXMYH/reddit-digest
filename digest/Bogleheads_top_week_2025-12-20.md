@@ -8,143 +8,152 @@
 
 ## 1. [What so you think of Fidelity's "net worth targets" by age?](https://reddit.com/r/Bogleheads/comments/1pqni6i/what_so_you_think_of_fidelitys_net_worth_targets/)
 
-**Author:** u/HenFruitEater | **Upvotes:** 213 | **Comments:** 151 | **Date:** 2025-12-19
+**Author:** u/HenFruitEater | **Upvotes:** 231 | **Comments:** 153 | **Date:** 2025-12-19
 
 **Summary:** The post discusses Fidelity's retirement savings targets by age, comparing them to the FIRE community's 25x expenses rule. The community generally finds Fidelity's benchmarks reasonable but notes they lack nuance and are based on standard retirement assumptions.
 
 **Key Points:**
 - Fidelity's retirement savings targets by age: 1x salary by 30, 3x by 40, 6x by 50, 8x by 60, and 10x by 67.
 - The FIRE community's 25x expenses rule is compared to Fidelity's 10x salary target.
-- Fidelity's benchmarks are based on norms like working from 21-65 and a savings target of around 15%.
-- The community finds the benchmarks reasonable but generic, noting they may not apply to everyone's specific circumstances.
-- Current salary is seen as a potentially misleading metric for those with varying expenses.
+- Fidelity's benchmarks are based on norms like working from 21-65 and saving around 15%.
+- The benchmarks are seen as generic and not directly applicable to everyone's specific circumstances.
+- The discussion highlights that Fidelity's targets are for standard retirement at 65 or later, while FIRE aims for early retirement.
 
-**Discussion Highlights:** The discussion highlights that Fidelity's benchmarks are seen as a useful but generic guideline for standard retirement planning. The community acknowledges that these targets may not apply to everyone, especially those with different income trajectories or early retirement goals. The consensus is that while the benchmarks are fine as rules of thumb, they lack the nuance needed for individualized financial planning.
+**Discussion Highlights:** The community consensus is that Fidelity's benchmarks are fine as general guidelines but lack personalization. They are based on standard retirement assumptions and may not apply to those with different goals or circumstances, such as early retirement or varying income levels.
 
 ---
 
 ## 2. [Happy VXUS Dividend Day! Highest recorded dividend ever, at 4.59% or $1.3631 per share.](https://reddit.com/r/Bogleheads/comments/1pqmunr/happy_vxus_dividend_day_highest_recorded_dividend/)
 
-**Author:** u/keralaindia | **Upvotes:** 293 | **Comments:** 118 | **Date:** 2025-12-19
+**Author:** u/keralaindia | **Upvotes:** 306 | **Comments:** 121 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post announces a record-high dividend for VXUS at $1.3631 per share, the highest ever recorded, surpassing the previous peak from December 2011. The discussion includes mixed reactions regarding tax implications and dividend preferences.
+**Summary:** The Reddit post announces a record-high dividend for VXUS, the highest ever at $1.3631 per share, surpassing the previous peak from 2011. The discussion highlights mixed feelings about dividends due to tax implications and celebrates the benefits of diversification.
 
 **Key Points:**
-- Record-breaking dividend of $1.3631 per share
-- Previous peak was $1.291 per share in December 2011
-- Mixed reactions from commenters regarding tax implications and dividend preferences
-- Some commenters appreciate the record payout, while others express concerns about taxable events and the impact on NAV
+- VXUS dividend reaches a record high of $1.3631 per share, the highest in its history.
+- The previous peak dividend was $1.291 per share in December 2011.
+- Dividends create taxable events, though foreign tax credits may offset some costs.
+- Mixed reactions: some appreciate the payout, while others prefer reinvestment to avoid taxes.
+- Confusion about VXUS price movements on different platforms.
 
-**Discussion Highlights:** The discussion highlights both positive and negative views on dividends, with some appreciating the record payout and others expressing concerns about taxable events and the impact on NAV.
+**Discussion Highlights:** The discussion reflects a consensus on the value of diversification and index investing, with debates around the tax implications of dividends. Some users celebrate the record payout, while others express frustration over forced taxable events.
 
 ---
 
 ## 3. [It Doesn’t Matter (Much)](https://reddit.com/r/Bogleheads/comments/1pqm81q/it_doesnt_matter_much/)
 
-**Author:** u/Rmondu | **Upvotes:** 262 | **Comments:** 48 | **Date:** 2025-12-19
+**Author:** u/Rmondu | **Upvotes:** 282 | **Comments:** 49 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post advises new investors to focus on fundamental financial habits like living within their means, regular investing, and avoiding market noise, rather than obsessing over minor portfolio details. The discussion highlights the importance of choosing the right spouse and debates the necessity of developing additional income streams.
+**Summary:** The Reddit post advises new investors to focus on fundamental financial habits rather than minor portfolio details. It highlights that small differences in investments don't matter much, while consistent contributions, avoiding debt, and personal financial habits are crucial.
 
 **Key Points:**
-- Focus on living within your means and regular investing rather than minor portfolio details.
-- Avoid frequent tinkering with asset allocation and ignore daily market fluctuations.
-- Choosing the right spouse is a critical financial decision.
-- Developing additional income streams is debated, with some advocating for work-life balance.
-- Start investing early and increase contributions as income rises.
+- Minor investment details (e.g., VTI vs. VOO, small expense ratio differences) have little impact.
+- Key factors include living within means, regular contributions, and starting early.
+- Avoiding credit card debt and choosing the right spouse are emphasized as critical.
+- Developing side income streams is debated in the comments.
+- Market noise should be ignored, and long-term focus is encouraged.
 
-**Discussion Highlights:** The discussion largely agrees with the post's emphasis on fundamental financial habits but debates the importance of developing additional income streams. Many commenters highlight the significance of choosing the right spouse as a major financial factor.
+**Discussion Highlights:** The discussion emphasizes the importance of marital choice and debates the necessity of side income streams. Some commenters share personal experiences with portfolio management and the risks of over-tinkering.
 
 ---
 
 ## 4. [Why Vanguard sees the 60-40 portfolio being flipped for 2026](https://reddit.com/r/Bogleheads/comments/1pq0k1y/why_vanguard_sees_the_6040_portfolio_being/)
 
-**Author:** u/chinaski73 | **Upvotes:** 415 | **Comments:** 138 | **Date:** 2025-12-18
+**Author:** u/chinaski73 | **Upvotes:** 422 | **Comments:** 138 | **Date:** 2025-12-18
 
-**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years, sparking a discussion among Bogleheads.
+**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years, sparking a discussion among Bogleheads about the validity of this recommendation.
 
 **Key Points:**
-- Vanguard suggests a 60% bonds / 40% stocks allocation for the next decade.
-- The recommendation is met with skepticism and humor in the comments.
-- Some commenters reference past inaccurate predictions by Vanguard.
-- Others suggest waiting for market drops to rebalance automatically.
-- Personal preferences for higher stock allocations are mentioned.
+- Vanguard suggests a 60% bonds / 40% stocks allocation for the next 5-10 years.
+- Skepticism about economists' predictions and market timing.
+- Suggestions to rebalance portfolios during market drops.
+- Past inaccuracies in Vanguard's predictions are noted.
+- Personal preferences for higher stock allocations are expressed.
 
-**Discussion Highlights:** The discussion highlights skepticism towards Vanguard's prediction, with references to past inaccuracies and humorous remarks. Some users express personal preferences for maintaining higher stock allocations.
+**Discussion Highlights:** The discussion highlights skepticism about market predictions, with comments emphasizing the unpredictability of markets and the importance of personal investment strategies over following specific recommendations.
 
 ---
 
 ## 5. [Financial Advisor Fee](https://reddit.com/r/Bogleheads/comments/1pp8r29/financial_advisor_fee/)
 
-**Author:** u/laxman1916 | **Upvotes:** 339 | **Comments:** 337 | **Date:** 2025-12-17
+**Author:** u/laxman1916 | **Upvotes:** 341 | **Comments:** 337 | **Date:** 2025-12-17
 
-**Summary:** A retired individual with significant savings is questioning the reasonableness of fees charged by a robo-advisor. The community consensus is that the fees are excessive and suggests exploring lower-cost alternatives.
+**Summary:** A retired individual with significant assets is considering hiring a financial advisor and seeks feedback on the reasonableness of the advisor's fees. The consensus from the discussion is that the fees are excessive, especially for a robo-advisor.
 
 **Key Points:**
-- User has $3M in 401k, $1.5M in savings, and a paid-off house
-- Fees from the robo-advisor are considered excessive by the community
-- Suggestions include Vanguard (0.30% fees) or VT (0.06% fees)
-- Community advises shopping around for better rates
-- General sentiment is that the fees are unreasonable
+- User has $3M in 401k, $1.5M in savings, and a paid-off house.
+- User is retired and lives comfortably off pension and social security.
+- Fees mentioned are considered excessive by the community.
+- Alternatives like Vanguard (0.30% fees) or low-cost index funds like VT (0.06%) are suggested.
+- Strong recommendation to shop around for better fee structures.
 
-**Discussion Highlights:** The community overwhelmingly agrees that the robo-advisor fees are too high. Alternatives like Vanguard or VT are recommended for their lower fees and better potential returns. The consensus is to avoid the current advisor and explore more cost-effective options.
+**Discussion Highlights:** The discussion highlights a strong consensus that the advisor's fees are too high, with many commenters suggesting lower-cost alternatives like Vanguard or index funds. The community emphasizes the importance of shopping around for better fee structures.
 
 ---
 
 ## 6. [Vanguard Final Estimated Year-End 2025 Distributions](https://reddit.com/r/Bogleheads/comments/1pod994/vanguard_final_estimated_yearend_2025/)
 
-**Author:** u/EevelBob | **Upvotes:** 193 | **Comments:** 21 | **Date:** 2025-12-16
+**Author:** u/EevelBob | **Upvotes:** 190 | **Comments:** 21 | **Date:** 2025-12-16
 
-**Summary:** The post discusses Vanguard's final estimated year-end 2025 distributions, explaining that a mutual fund's NAV decreases by the exact amount of the dividend or distribution paid out on the ex-dividend date. This is because the fund is returning cash or shares to investors, effectively reducing the fund's total assets.
+**Summary:** The post discusses Vanguard's final estimated year-end 2025 distributions, explaining that mutual fund NAV decreases by the exact amount of the dividend or distribution paid out on the ex-dividend date. This is because the fund returns cash or shares to investors, reducing the fund's total assets.
 
 **Key Points:**
-- Mutual fund's NAV decreases by the exact amount of the dividend or distribution paid out on the ex-dividend date.
-- The decrease in NAV is due to the fund returning cash or shares to investors, reducing the fund's total assets.
-- Common misconception that dividends are 'free money' is highlighted in the comments.
-- Discussion includes questions about the impact of dividends on compounding and gains in index funds.
-- Some users seek clarification on the relevance of the topic to their specific financial situations.
+- Mutual fund NAV decreases by the exact amount of the dividend or distribution paid out.
+- Dividends are not 'free money' as they reduce the fund's total assets.
+- Dividends can lead to compounding and help redistribute gains in an index fund.
+- Investors often misunderstand why fund values decrease after distributions.
 
-**Discussion Highlights:** The discussion highlights common misconceptions about dividends, with some users humorously pointing out the confusion around why a fund's value decreases when dividends are paid. There is also a minor discussion about the role of dividends in compounding and gains within index funds, though this is not the primary focus of the post.
+**Discussion Highlights:** The discussion highlights common misconceptions about dividends, with some users pointing out that dividends are not free money and others questioning the impact of dividends on compounding and gains redistribution. The consensus seems to be that dividends reduce the fund's NAV but can contribute to long-term growth through compounding.
 
 ---
 
 ## 7. [Inflation adjusted market returns do not look all that rosy. Am I missing something?](https://reddit.com/r/Bogleheads/comments/1po0c1o/inflation_adjusted_market_returns_do_not_look_all/)
 
-**Author:** u/volchonok1 | **Upvotes:** 185 | **Comments:** 255 | **Date:** 2025-12-16
+**Author:** u/volchonok1 | **Upvotes:** 186 | **Comments:** 255 | **Date:** 2025-12-16
 
-**Summary:** The post questions the effectiveness of long-term investing in the stock market due to periods of flat or negative inflation-adjusted returns, highlighting specific historical periods. The discussion focuses on the importance of considering dividends and diversification for better returns. Key points include historical periods of flat or negative returns, the importance of dividends, the need for diversification, concerns about market rallies, and alternative strategies to beat inflation. The discussion emphasizes the importance of including dividends and diversification in assessing market returns, suggesting that a diversified portfolio with dividend reinvestment can yield strong inflation-adjusted returns over long periods.
+**Summary:** The author expresses concern about the long-term viability of stock market investments based on historical inflation-adjusted returns, noting extended periods of flat or negative growth and questioning the sustainability of recent market rallies.
+
+**Key Points:**
+- Historical inflation-adjusted S&P 500 returns show extended periods of flat or negative growth (e.g., 1968-1994, 2000-2016).
+- Market growth appears concentrated in specific periods (e.g., 1950-1970, mid-1980s-2000, 2013-present).
+- The author questions the effectiveness of compounding interest given these historical trends.
+- Dividends and their reinvestment are highlighted as critical factors in long-term returns.
+- Alternative strategies for beating inflation are suggested as a point of comparison.
+
+**Discussion Highlights:** The discussion emphasizes the importance of considering dividends in return calculations and suggests that a diversified portfolio with dividend reinvestment can yield strong inflation-adjusted returns over long periods. Commenters also challenge the author's data accuracy and propose stocks as a viable alternative for beating inflation.
 
 ---
 
 ## 8. [VT and Chill?](https://reddit.com/r/Bogleheads/comments/1pmrbbp/vt_and_chill/)
 
-**Author:** u/tryingmybesttolearn2 | **Upvotes:** 134 | **Comments:** 73 | **Date:** 2025-12-14
+**Author:** u/tryingmybesttolearn2 | **Upvotes:** 131 | **Comments:** 73 | **Date:** 2025-12-14
 
-**Summary:** A 33-year-old with a TSP invested entirely in the S&P 500 seeks advice on diversifying their portfolio outside of TSP, expressing interest in VT (Vanguard Total World Stock ETF) and asking if other ETFs should be considered. The discussion largely supports VT as a comprehensive, one-stop solution for global diversification, with some suggestions for balancing US and international exposure.
+**Summary:** A 33-year-old with a TSP fully invested in the S&P 500 seeks advice on diversifying their portfolio outside of TSP, expressing interest in VT (Vanguard Total World Stock ETF) and asking if other ETFs should be considered. The discussion largely supports VT as a comprehensive, one-stop solution for global equity exposure, though some suggest alternatives like VTI and VXUS for better control over US and international allocations.
 
 **Key Points:**
-- The user currently has their TSP fully invested in the S&P 500 and wants to diversify outside of TSP.
-- VT is favored for its comprehensive coverage of both domestic and international markets.
-- The consensus is that VT alone is sufficient for global equity exposure, with no need for additional equity-tracking ETFs.
-- Some commenters suggest balancing US and international exposure, especially given the user's existing S&P 500 investment.
-- Alternatives like VTI (US) and VXUS (international) are mentioned for those who prefer to adjust their allocation manually.
+- User's TSP is fully invested in the S&P 500, leading to potential US overweight if VT is added.
+- VT is praised as a one-stop shop for total domestic and international index exposure.
+- Some commenters suggest using VTI and VXUS to approximate VT while adjusting for the user's existing S&P 500 allocation.
+- The consensus leans toward 'VT and chill' as a simple, effective strategy.
+- Alternatives are proposed for those seeking more granular control over their portfolio's geographic exposure.
 
-**Discussion Highlights:** The discussion highlights strong support for VT as a simple, all-in-one solution for global diversification. However, there is also a consideration for balancing US and international exposure, particularly due to the user's existing heavy investment in the S&P 500. Some commenters suggest using VTI and VXUS to fine-tune the allocation, aiming for a balanced portfolio.
+**Discussion Highlights:** The discussion highlights strong support for VT as a simple, all-in-one solution for global equity exposure. However, some commenters caution about potential US overweight due to the user's existing S&P 500 allocation in their TSP, suggesting alternatives like VTI and VXUS to fine-tune the portfolio's geographic balance. The overall consensus favors the simplicity of VT, with acknowledgment of alternatives for more customized approaches.
 
 ---
 
 ## 9. [Maxing your 401k today in S&amp;P500 is the same as investing $200 - 50 years ago](https://reddit.com/r/Bogleheads/comments/1pmjatm/maxing_your_401k_today_in_sp500_is_the_same_as/)
 
-**Author:** u/Scorface | **Upvotes:** 283 | **Comments:** 67 | **Date:** 2025-12-14
+**Author:** u/Scorface | **Upvotes:** 285 | **Comments:** 67 | **Date:** 2025-12-14
 
-**Summary:** The post highlights the long-term growth potential of investing in the S&P 500, showing that a $200 investment 50 years ago would now be worth $23,500, equivalent to the current maximum annual 401k contribution. The discussion includes humor, historical context, and questions about consistent investing.
+**Summary:** The post highlights the long-term growth potential of investing in the S&P 500, noting that a $200 investment 50 years ago would now be worth approximately $23,500, which is close to the current maximum annual 401k contribution limit. The discussion includes a mix of supportive comments, humor, and critiques about the assumptions used.
 
 **Key Points:**
-- $200 invested in the S&P 500 50 years ago would now be worth $23,500.
-- This amount matches the current maximum annual 401k contribution limit.
-- Historical context: IRA limits were as low as $250 in the past.
-- Community reactions include humor and questions about consistent investing strategies.
+- A $200 investment in the S&P 500 50 years ago would now be worth around $23,500.
+- This amount is close to the current maximum annual 401k contribution limit.
+- The post encourages consistent investing for long-term benefits.
+- Comments include humor, historical context, and critiques about inflation and return assumptions.
 
-**Discussion Highlights:** The discussion features a mix of humor, historical insights, and practical questions about the benefits of consistent long-term investing in the S&P 500.
+**Discussion Highlights:** The discussion features a mix of supportive comments emphasizing the power of compounding, humorous remarks, and critiques pointing out potential flaws in the assumptions, such as not adjusting for inflation and the uniqueness of historical returns.
 
 ---
 
