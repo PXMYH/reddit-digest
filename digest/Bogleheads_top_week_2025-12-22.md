@@ -10,113 +10,124 @@
 
 **Author:** u/BiblicalElder | **Upvotes:** 115 | **Comments:** 29 | **Date:** 2025-12-19
 
-**Summary:** The post discusses the financial collapse of Gary Winnick, highlighting the risks of excessive debt and leverage. It emphasizes the importance of steady, liquid asset accumulation over speculative investments.
+**Summary:** The post discusses the financial downfall of Gary Winnick, highlighting the risks of excessive leverage and the importance of steady, liquid asset building. It serves as a cautionary tale against speculative investing.
 
 **Key Points:**
-- Gary Winnick's financial downfall due to excessive leverage
-- Importance of liquid assets over debt
-- Critique of speculative investing practices
-- Mention of better coverage in WSJ
-- Comparison to Boglehead principles
+- Gary Winnick's financial collapse due to excessive leverage
+- Importance of steady, liquid asset building
+- Risks of pledging personal assets as collateral
+- Cautionary tale against speculative investing
+- Mention of Morgan Housel's potential interest in the story
 
-**Discussion Highlights:** The discussion critiques speculative investing and emphasizes the value of steady, low-risk investment strategies. Some commenters note the educational value of the story, while others criticize the sensationalism of the post.
+**Discussion Highlights:** The discussion highlights the post's relevance to investing lessons, particularly from the dot-com bust. Comments note the story's interest as an opposite example of Boglehead principles, with some praising the article's quality and others suggesting it belongs in r/wallstreetbets.
 
 ---
 
 ## 2. [What so you think of Fidelity's "net worth targets" by age?](https://reddit.com/r/Bogleheads/comments/1pqni6i/what_so_you_think_of_fidelitys_net_worth_targets/)
 
-**Author:** u/HenFruitEater | **Upvotes:** 291 | **Comments:** 168 | **Date:** 2025-12-19
+**Author:** u/HenFruitEater | **Upvotes:** 289 | **Comments:** 168 | **Date:** 2025-12-19
 
-**Summary:** The post discusses Fidelity's age-based retirement savings benchmarks, comparing them to the FIRE community's 25x expenses rule. The discussion highlights the nuances and general applicability of these benchmarks.
+**Summary:** The post discusses Fidelity's retirement savings targets by age, comparing them to the FIRE community's 25x expenses rule. The benchmarks are seen as general guidelines for standard retirement, lacking nuance for individual circumstances.
 
 **Key Points:**
-- Fidelity's benchmarks are based on current salary and increase with age.
-- The FIRE community's 25x expenses rule is compared to Fidelity's 10x salary target.
-- The benchmarks are seen as general guidelines lacking personalization.
-- The discussion emphasizes the importance of individual circumstances and goals.
-- Fidelity's targets are aimed at standard retirement at 65 or later, while FIRE targets early retirement.
+- Fidelity's benchmarks: By 30 (1x salary), By 40 (3x salary), By 50 (6x salary), By 60 (8x salary), By 67 (10x salary)
+- Comparison with FIRE community's 25x expenses rule
+- Benchmarks are based on standard retirement at 65 or later
+- Current salary as a metric may not apply to all, especially those with lower expenses
+- General guidelines lacking individual nuance
 
-**Discussion Highlights:** The consensus is that Fidelity's benchmarks are useful as general guidelines but lack personalization. The discussion highlights the differences between standard retirement planning and early retirement goals, emphasizing the need for individualized planning.
+**Discussion Highlights:** The discussion highlights that Fidelity's benchmarks are useful as general guidelines but lack individual nuance. They are based on standard retirement scenarios and may not apply to early retirement or those with specific financial circumstances.
 
 ---
 
 ## 3. [Happy VXUS Dividend Day! Highest recorded dividend ever, at 4.59% or $1.3631 per share.](https://reddit.com/r/Bogleheads/comments/1pqmunr/happy_vxus_dividend_day_highest_recorded_dividend/)
 
-**Author:** u/keralaindia | **Upvotes:** 364 | **Comments:** 134 | **Date:** 2025-12-19
+**Author:** u/keralaindia | **Upvotes:** 361 | **Comments:** 135 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post announces a record-high VXUS dividend of $1.3631 per share, marking the highest dividend ever recorded, surpassing the previous peak from December 2011.
+**Summary:** The Reddit post announces a record-high VXUS dividend of $1.3631 per share, the highest since 2011. The discussion includes mixed reactions about dividends and their tax implications.
 
 **Key Points:**
-- The dividend is the highest on record at $1.3631 per share
-- The previous peak dividend was $1.291 per share in December 2011
-- Mixed reactions in the discussion, with some celebrating the dividend and others concerned about tax implications
+- VXUS dividend reaches a record high of $1.3631 per share
+- Prior peak was $1.291 in December 2011
+- Mixed reactions: some celebrate, others dislike forced taxable events
+- Discussion about foreign tax credits and NAV impact
+- Some users report discrepancies in VXUS price reporting
 
-**Discussion Highlights:** The discussion highlights mixed sentiments, with some investors appreciating the dividend as a sign of a strong portfolio, while others express concerns about the tax implications of holding VXUS in a taxable account.
+**Discussion Highlights:** The discussion highlights a divide between investors who appreciate the record dividend and those who prefer capital appreciation without taxable events. Some users also discuss technical aspects like foreign tax credits and discrepancies in price reporting.
 
 ---
 
 ## 4. [It Doesn’t Matter (Much)](https://reddit.com/r/Bogleheads/comments/1pqm81q/it_doesnt_matter_much/)
 
-**Author:** u/Rmondu | **Upvotes:** 345 | **Comments:** 56 | **Date:** 2025-12-19
+**Author:** u/Rmondu | **Upvotes:** 344 | **Comments:** 56 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post advises new investors to focus on fundamental financial habits like living within their means, regular investing, and avoiding market noise, rather than obsessing over minor portfolio details. It emphasizes the importance of long-term strategies and personal financial discipline. Key points include: Minor portfolio details (e.g., VTI vs. VOO, small expense ratio differences) matter less than consistent investing habits. Critical factors include emergency funds, regular contributions, and avoiding high fees. Personal factors like spouse choice, debt management, and continuous learning significantly impact financial success. Developing side income streams is debated, with some prioritizing work-life balance over additional income. Market fluctuations should be ignored in favor of long-term investment strategies. The discussion largely agrees with the post's emphasis on fundamental financial habits and long-term investing. Notable points include the importance of choosing a supportive spouse and differing opinions on the necessity of side income streams, with some advocating for work-life balance.
+**Summary:** The Reddit post advises new investors to focus on fundamental financial habits like living within their means, regular investing, and avoiding market noise, rather than obsessing over minor portfolio details. The discussion highlights the importance of choosing the right spouse and debates the necessity of developing additional income streams.
+
+**Key Points:**
+- Focus on living within your means and having an emergency fund
+- Regular, periodic contributions to investments are crucial
+- Avoid obsessing over minor portfolio details like expense ratios or rebalancing frequency
+- Choosing the right spouse is a significant financial decision
+- Debate over the necessity of developing additional income streams
+
+**Discussion Highlights:** The discussion emphasizes the importance of marital choice as a financial multiplier and debates the value of side income streams, with some advocating for work-life balance over additional income generation.
 
 ---
 
 ## 5. [Why Vanguard sees the 60-40 portfolio being flipped for 2026](https://reddit.com/r/Bogleheads/comments/1pq0k1y/why_vanguard_sees_the_6040_portfolio_being/)
 
-**Author:** u/chinaski73 | **Upvotes:** 444 | **Comments:** 147 | **Date:** 2025-12-18
+**Author:** u/chinaski73 | **Upvotes:** 446 | **Comments:** 147 | **Date:** 2025-12-18
 
-**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years, sparking a discussion among Bogleheads about the validity of this recommendation.
+**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years, sparking a discussion among Bogleheads.
 
 **Key Points:**
 - Vanguard suggests a 60% bonds / 40% stocks allocation for the next 5-10 years.
-- Skepticism about economists' ability to predict market trends accurately.
-- Suggestions to wait for market drops for automatic portfolio rebalancing.
-- Historical context of Vanguard's past predictions and their accuracy.
-- Personal preferences for maintaining higher stock allocations (e.g., 70/30).
+- The recommendation is met with skepticism and humor in the comments.
+- Some commenters reference past inaccurate predictions by Vanguard.
+- Others suggest waiting for market drops to rebalance automatically.
+- Personal preferences for higher stock allocations are expressed.
 
-**Discussion Highlights:** The discussion highlights skepticism about market predictions, with comments emphasizing the unpredictability of markets and personal preferences for maintaining higher stock allocations. Some users humorously suggest frequent rebalancing, while others reference past inaccuracies in Vanguard's predictions.
+**Discussion Highlights:** The discussion highlights skepticism towards Vanguard's prediction, with references to past inaccuracies and humorous remarks about frequent rebalancing. Some users express personal preferences for maintaining higher stock allocations.
 
 ---
 
 ## 6. [Financial Advisor Fee](https://reddit.com/r/Bogleheads/comments/1pp8r29/financial_advisor_fee/)
 
-**Author:** u/laxman1916 | **Upvotes:** 365 | **Comments:** 350 | **Date:** 2025-12-17
+**Author:** u/laxman1916 | **Upvotes:** 370 | **Comments:** 350 | **Date:** 2025-12-17
 
-**Summary:** A retiree with substantial assets is considering hiring a financial advisor and seeks feedback on the reasonableness of the advisor's fees. The community overwhelmingly agrees that the fees are excessive and suggests lower-cost alternatives.
+**Summary:** A retiree with substantial assets seeks advice on robo-advisor fees, with the community consensus being that the fees are excessive and lower-cost alternatives are recommended.
 
 **Key Points:**
-- Retiree has $3M in 401k and $1.5M in savings, with a paid-off house and comfortable pension/social security income.
-- Seeking advice on whether the advisor's fees are reasonable.
-- Community consensus: fees are too high, with suggestions to explore lower-cost options like Vanguard (0.30% fees) or index funds like VT (0.06% fees).
-- Strong recommendation to shop around for better rates.
+- Retiree has $3M in 401k, $1.5M in savings, and a paid-off house.
+- Seeking advice on robo-advisor fees for financial management.
+- Community consensus: fees are too high, with suggestions for lower-cost options like Vanguard (0.30%) or VT (0.06%).
+- Strong preference for cost-effective solutions over expensive advisory services.
 
-**Discussion Highlights:** The discussion highlights a strong consensus that the advisor's fees are excessive. Commenters recommend lower-cost alternatives such as Vanguard or index funds, emphasizing the potential savings (e.g., $1,800/year vs. $50,000+/year).
+**Discussion Highlights:** The discussion highlights a strong consensus that the robo-advisor fees are excessive, with many commenters recommending lower-cost alternatives like Vanguard or VT, which offer better value and potentially better results.
 
 ---
 
 ## 7. [Vanguard Final Estimated Year-End 2025 Distributions](https://reddit.com/r/Bogleheads/comments/1pod994/vanguard_final_estimated_yearend_2025/)
 
-**Author:** u/EevelBob | **Upvotes:** 194 | **Comments:** 21 | **Date:** 2025-12-16
+**Author:** u/EevelBob | **Upvotes:** 195 | **Comments:** 21 | **Date:** 2025-12-16
 
 **Summary:** The post discusses Vanguard's final estimated year-end 2025 distributions, explaining that mutual fund NAV decreases by the exact amount of dividends or distributions paid out on the ex-dividend date. This is because the fund returns cash or shares to investors, reducing the fund's total assets.
 
 **Key Points:**
 - Mutual fund NAV decreases by the exact amount of dividends or distributions on the ex-dividend date.
 - Dividends are not 'free money' but rather a return of the fund's assets to investors.
-- The post anticipates confusion from investors about why the fund's value decreases despite market gains.
-- A comment questions whether dividends lead to compounding and help redistribute gains in index funds.
+- The post and comments highlight common misconceptions about dividends and their impact on fund performance.
+- There is a discussion about whether dividends lead to compounding and redistribute gains in index funds.
 
-**Discussion Highlights:** The discussion highlights common misconceptions about dividends, with some investors mistakenly viewing them as 'free money.' There is also a question about the role of dividends in compounding and redistributing gains in index funds, though this is not the main focus of the post.
+**Discussion Highlights:** The discussion highlights common misconceptions about dividends, with some users pointing out that dividends are not 'free money' and others questioning the impact of dividends on compounding and gain redistribution in index funds. The consensus seems to be that dividends reduce the fund's NAV but do not necessarily provide additional gains.
 
 ---
 
 ## 8. [Inflation adjusted market returns do not look all that rosy. Am I missing something?](https://reddit.com/r/Bogleheads/comments/1po0c1o/inflation_adjusted_market_returns_do_not_look_all/)
 
-**Author:** u/volchonok1 | **Upvotes:** 187 | **Comments:** 254 | **Date:** 2025-12-16
+**Author:** u/volchonok1 | **Upvotes:** 188 | **Comments:** 254 | **Date:** 2025-12-16
 
-**Summary:** The author questions the effectiveness of long-term stock market investments due to observed periods of stagnant or negative inflation-adjusted returns, expressing concern about future market performance. The discussion highlights the importance of considering dividends and diversification in evaluating market returns. Key points include the observation of long periods of stagnant returns, the emphasis on including dividends in return calculations, and the suggestion that a diversified portfolio with dividend reinvestment can yield strong inflation-adjusted returns. The consensus is that while past performance doesn't predict the future, stocks remain a viable option for beating inflation, and the author's concern is addressed by highlighting the benefits of long-term, diversified investing.
+**Summary:** The author expresses concern about the volatility of inflation-adjusted S&P 500 returns, noting long periods of flat or negative returns and questioning the effectiveness of long-term investing strategies. The discussion highlights the importance of considering dividends and diversification in assessing market performance. Key points include the volatility of inflation-adjusted returns, the importance of dividends, and the need for diversification and long-term investment horizons. The discussion consensus suggests that while inflation-adjusted returns can be volatile, including dividends and maintaining a diversified portfolio over long periods can significantly improve outcomes.
 
 ---
 
