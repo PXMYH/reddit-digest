@@ -1,150 +1,150 @@
 # r/Bogleheads Reading Digest
 
 **Period:** 2025-12-23 to 2025-12-23
-**Posts Summarized:** 9
-**Total Posts Analyzed:** 9
+**Posts Summarized:** 10
+**Total Posts Analyzed:** 10
 
 ---
 
-## 1. [Worst 401K Options You've Seen](https://reddit.com/r/Bogleheads/comments/1pt3rt9/worst_401k_options_youve_seen/)
+## 1. [Is there anything to this as far as projecting or planning for a potential "lost decade", or is it mostly just meaningless noise?](https://reddit.com/r/Bogleheads/comments/1ptyn1n/is_there_anything_to_this_as_far_as_projecting_or/)
 
-**Author:** u/TepidBitters | **Upvotes:** 376 | **Comments:** 131 | **Date:** 2025-12-22
+**Author:** u/TrumpetWilder | **Upvotes:** 153 | **Comments:** 95 | **Date:** 2025-12-23
 
-**Summary:** The Reddit post highlights the author's shock at discovering high 401k fees and poor investment options in an old retirement plan summary, with commenters expressing outrage at such practices and calling for regulatory changes.
+**Summary:** The Reddit post discusses the possibility of a 'lost decade' for US equities and whether it should influence investment planning. The discussion highlights the importance of international diversification and the unpredictability of market performance. Key points include the recommendation for international diversification to mitigate risks associated with high US equity valuations, the correlation between high PE ratios and lower future returns, the inherent uncertainty in market predictions, the potential for technological progress to boost market performance, and the advice to use low-cost indexing as a reliable investment approach. The consensus among commenters is that while US equities may be expensive relative to historical levels, predicting market performance is unreliable, and international diversification and low-cost indexing are favored strategies to manage uncertainty.
+
+---
+
+## 2. [Worst 401K Options You've Seen](https://reddit.com/r/Bogleheads/comments/1pt3rt9/worst_401k_options_youve_seen/)
+
+**Author:** u/TepidBitters | **Upvotes:** 389 | **Comments:** 135 | **Date:** 2025-12-22
+
+**Summary:** The post highlights the author's shock at discovering high expense ratios in their old 401k plan, with target funds exceeding 1%. The discussion emphasizes the unfairness of such plans, the role of employers in selecting low-cost options, and the need for regulatory changes.
 
 **Key Points:**
-- High expense ratios (over 1%) for target funds were criticized
-- Employers were blamed for choosing low-cost options that benefit themselves rather than employees
-- Calls for legal limits on 401k fees above 1%
-- Specific share classes (R2) were singled out as particularly bad
-- Even typically reasonable funds (Blackrock balanced) had high expense ratios
+- High expense ratios in 401k plans, especially for target funds
+- Employers are responsible for selecting low-cost options
+- Need for regulatory changes to cap high fees
+- Lack of awareness among employees about 401k fees
 
-**Discussion Highlights:** The discussion reached a consensus that high 401k fees are exploitative, with many commenters advocating for legal changes to protect employees and holding employers accountable for offering poor retirement plan options.
+**Discussion Highlights:** The discussion consensus is that high 401k fees are exploitative and should be regulated. Employers are criticized for prioritizing their own costs over employee benefits, and there is a call for legal limits on expense ratios.
 
 ---
 
-## 2. [2 years since first “AI Tech Bubble” fear post](https://reddit.com/r/Bogleheads/comments/1psxyua/2_years_since_first_ai_tech_bubble_fear_post/)
+## 3. [2 years since first “AI Tech Bubble” fear post](https://reddit.com/r/Bogleheads/comments/1psxyua/2_years_since_first_ai_tech_bubble_fear_post/)
 
-**Author:** u/Il_vino_buono | **Upvotes:** 657 | **Comments:** 121 | **Date:** 2025-12-22
+**Author:** u/Il_vino_buono | **Upvotes:** 660 | **Comments:** 124 | **Date:** 2025-12-22
 
-**Summary:** The post discusses the fear of an AI tech bubble and highlights that despite concerns, the market (VTI and VOO) has grown significantly over the past two years. The discussion emphasizes the risks of staying out of the market due to fear of corrections.
+**Summary:** The Reddit post discusses the fear of an AI tech bubble and highlights that despite such fears, the market (VTI and VOO) has grown significantly over the past two years. The discussion emphasizes the unpredictability of market corrections and the importance of staying invested to avoid missing out on growth periods. Key points include the significant market growth (VTI: 42%, VOO: 47%), the unpredictability of market corrections, the risk of missing growth periods by staying out of the market, historical examples showing bubbles can continue to grow after warnings, and the uncertainty and varied opinions on whether the current market is a bubble. The discussion highlights varied opinions on the current market situation, with some users pointing out historical precedents and others emphasizing the unpredictability of market movements. The consensus leans towards the importance of staying invested despite potential corrections.
+
+---
+
+## 4. [I've often heard people say "Taxes will be higher in the future" do people still believe this?](https://reddit.com/r/Bogleheads/comments/1psieb6/ive_often_heard_people_say_taxes_will_be_higher/)
+
+**Author:** u/figgypudding02 | **Upvotes:** 181 | **Comments:** 263 | **Date:** 2025-12-21
+
+**Summary:** The Reddit post discusses whether taxes will be higher in the future, with many users noting that current tax rates are historically low and could increase. The discussion highlights uncertainty about future tax rates and the importance of saving regardless of tax expectations. Key points include: Taxes are currently at historical lows and could rise in the future; Future tax rates are uncertain, similar to market predictions; Some users report lower taxes in retirement compared to their earning years; The national deficit and debt may influence future tax policies; Roth conversions and RMD strategies are discussed as ways to manage tax liabilities. The consensus leans towards taxes potentially increasing from current lows, but there is acknowledgment of uncertainty. Many users emphasize the importance of saving and strategic tax planning, such as Roth conversions, to mitigate future tax risks.
+
+---
+
+## 5. [The negative millionaire](https://reddit.com/r/Bogleheads/comments/1pqsgq8/the_negative_millionaire/)
+
+**Author:** u/BiblicalElder | **Upvotes:** 118 | **Comments:** 29 | **Date:** 2025-12-19
+
+**Summary:** The post discusses the financial downfall of Gary Winnick, highlighting the risks of excessive leverage and the importance of steady, liquid asset accumulation. It serves as a cautionary tale for investors, emphasizing the dangers of debt and overcollateralization.
 
 **Key Points:**
-- The market has grown significantly (VTI: 42%, VOO: 47%) over the past two years despite fears of an AI bubble.
-- Staying out of the market due to fear can result in missing out on growth opportunities.
-- Market corrections are unpredictable in timing, depth, and breadth.
-- Historical examples (e.g., Greenspan's 'irrational exuberance') show that bubbles can persist longer than expected.
-- The consensus is that market timing is difficult and staying invested is generally beneficial.
+- Gary Winnick's financial collapse due to excessive leverage and collateralization of assets.
+- The importance of building liquid assets steadily over time.
+- The risks associated with debt and overleveraging, as illustrated by Winnick's story.
+- The post's relevance to investors who experienced the dot-com bust.
+- The consensus that Winnick's story is an example of the opposite of Boglehead investing principles.
 
-**Discussion Highlights:** The discussion highlights the unpredictability of market corrections and the potential risks of trying to time the market. Many commenters agree that staying invested is generally more beneficial than attempting to avoid corrections, as illustrated by historical examples and recent market performance.
-
----
-
-## 3. [I've often heard people say "Taxes will be higher in the future" do people still believe this?](https://reddit.com/r/Bogleheads/comments/1psieb6/ive_often_heard_people_say_taxes_will_be_higher/)
-
-**Author:** u/figgypudding02 | **Upvotes:** 180 | **Comments:** 261 | **Date:** 2025-12-21
-
-**Summary:** The Reddit post discusses whether taxes will be higher in the future, particularly for retirees withdrawing from investment accounts. The discussion highlights varying perspectives on future tax rates and their impact on retirement planning. Key points include: Taxes are currently at historical lows and could increase in the future. Future tax rates are uncertain, similar to market unpredictability. Some retirees have experienced lower taxes in retirement compared to their working years. The national deficit and debt may influence future tax policies. Strategies like Roth conversions are discussed as ways to manage potential tax increases. The discussion reflects a mix of opinions, with some expecting higher taxes due to economic factors like the national deficit, while others emphasize the unpredictability of future tax rates. There is a consensus on the importance of saving and strategic planning, such as Roth conversions, to mitigate potential tax impacts.
+**Discussion Highlights:** The discussion highlights the post's relevance to general investing interest, particularly for those who invested through the dot-com bust. Commenters note the story's value as a cautionary tale and its contrast with Boglehead principles of steady, low-risk investing. Some commenters also mention the quality of the article and its potential interest to readers of financial news.
 
 ---
 
-## 4. [The negative millionaire](https://reddit.com/r/Bogleheads/comments/1pqsgq8/the_negative_millionaire/)
+## 6. [What so you think of Fidelity's "net worth targets" by age?](https://reddit.com/r/Bogleheads/comments/1pqni6i/what_so_you_think_of_fidelitys_net_worth_targets/)
 
-**Author:** u/BiblicalElder | **Upvotes:** 115 | **Comments:** 29 | **Date:** 2025-12-19
+**Author:** u/HenFruitEater | **Upvotes:** 292 | **Comments:** 170 | **Date:** 2025-12-19
 
-**Summary:** The post discusses the financial downfall of Gary Winnick, highlighting the risks of excessive leverage and the importance of steady, liquid asset building. It serves as a cautionary tale against financial mismanagement.
+**Summary:** The post discusses Fidelity's retirement savings benchmarks by age, comparing them to the FIRE community's 25x expenses rule. The benchmarks are seen as general guidelines lacking individual nuance.
 
 **Key Points:**
-- Gary Winnick's financial collapse due to excessive leverage
-- Importance of building liquid assets steadily
-- Risks of pledging personal assets as collateral
-- Contrast between Winnick's approach and Boglehead principles
-- General interest in learning from financial failures
-
-**Discussion Highlights:** The discussion highlights the post's relevance to investing lessons, particularly from the dot-com bust. Commenters note the post's alignment with Morgan Housel's themes and its value as a cautionary tale. There is a consensus on the importance of avoiding excessive debt and speculative investments.
-
----
-
-## 5. [What so you think of Fidelity's "net worth targets" by age?](https://reddit.com/r/Bogleheads/comments/1pqni6i/what_so_you_think_of_fidelitys_net_worth_targets/)
-
-**Author:** u/HenFruitEater | **Upvotes:** 295 | **Comments:** 171 | **Date:** 2025-12-19
-
-**Summary:** The post discusses Fidelity's retirement savings targets by age, comparing them to the FIRE community's 25x expenses rule. The community generally finds Fidelity's benchmarks reasonable but notes they lack nuance and are based on standard retirement assumptions.
-
-**Key Points:**
-- Fidelity's retirement savings targets: 1x salary by 30, 3x by 40, 6x by 50, 8x by 60, and 10x by 67.
+- Fidelity's benchmarks: 1x salary by 30, 3x by 40, 6x by 50, 8x by 60, and 10x by 67.
 - FIRE community's rule: 25x expenses for early retirement.
-- Fidelity's benchmarks are based on standard retirement at 65 or later and assume a 15% savings rate.
-- The benchmarks are seen as generic and not directly applicable to everyone's specific circumstances.
-- The community consensus is that Fidelity's targets are fine as rules of thumb but lack personalization.
+- Benchmarks are based on norms and a 15% savings rate.
+- Current salary as a metric may not suit everyone, especially those with lower expenses.
+- Benchmarks are generic and not tailored to individual circumstances.
 
-**Discussion Highlights:** The discussion highlights that Fidelity's benchmarks are based on norms and are intended for standard retirement scenarios. The community agrees that while these benchmarks are useful as general guidelines, they may not apply directly to individuals with unique financial situations or goals. The FIRE community's 25x expenses rule is seen as more aggressive and tailored for early retirement.
+**Discussion Highlights:** The discussion highlights that Fidelity's benchmarks are fine as general guidelines but lack nuance. They are based on standard retirement at 65 or later, while the FIRE community's 25x expenses rule is for early retirement. The benchmarks are seen as a moving target to help people save for retirement, but individual circumstances vary greatly.
 
 ---
 
-## 6. [Happy VXUS Dividend Day! Highest recorded dividend ever, at 4.59% or $1.3631 per share.](https://reddit.com/r/Bogleheads/comments/1pqmunr/happy_vxus_dividend_day_highest_recorded_dividend/)
+## 7. [Happy VXUS Dividend Day! Highest recorded dividend ever, at 4.59% or $1.3631 per share.](https://reddit.com/r/Bogleheads/comments/1pqmunr/happy_vxus_dividend_day_highest_recorded_dividend/)
 
-**Author:** u/keralaindia | **Upvotes:** 370 | **Comments:** 151 | **Date:** 2025-12-19
+**Author:** u/keralaindia | **Upvotes:** 372 | **Comments:** 153 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post announces a record-high VXUS dividend of $1.3631 per share, marking the highest dividend ever recorded. The discussion includes mixed reactions, with some celebrating the milestone and others expressing concerns about tax implications.
+**Summary:** The Reddit post announces a record-high dividend for VXUS, the highest ever at $1.3631 per share, surpassing the previous peak in 2011. The discussion highlights mixed reactions, with some celebrating the dividend as a win for diversification, while others express concerns about tax implications.
 
 **Key Points:**
 - VXUS dividend reaches a record high of $1.3631 per share.
-- This surpasses the previous peak dividend from December 2011.
-- The post highlights tax implications for those holding VXUS in taxable accounts.
-- Discussion includes mixed reactions, with some celebrating the record and others concerned about taxes and NAV impact.
+- Previous peak dividend was $1.291 per share in December 2011.
+- Dividends create taxable events, though foreign tax credits may apply.
+- Mixed reactions: some celebrate diversification benefits, others prefer dividends reinvested to avoid taxes.
+- Technical discrepancies noted in VXUS price reporting across platforms.
 
-**Discussion Highlights:** The discussion reflects a consensus that while the record dividend is notable, there are concerns about tax implications and the immediate impact on share value. Some users celebrate the milestone, while others prefer dividends to remain in the NAV to avoid taxable events.
+**Discussion Highlights:** The discussion reflects a consensus on the benefits of a diversified, index-heavy portfolio but highlights concerns about forced taxable events from dividends. Some users prefer dividends to remain in the NAV to avoid taxes, while others appreciate the record-breaking payout.
 
 ---
 
-## 7. [It Doesn’t Matter (Much)](https://reddit.com/r/Bogleheads/comments/1pqm81q/it_doesnt_matter_much/)
+## 8. [It Doesn’t Matter (Much)](https://reddit.com/r/Bogleheads/comments/1pqm81q/it_doesnt_matter_much/)
 
-**Author:** u/Rmondu | **Upvotes:** 348 | **Comments:** 57 | **Date:** 2025-12-19
+**Author:** u/Rmondu | **Upvotes:** 355 | **Comments:** 57 | **Date:** 2025-12-19
 
-**Summary:** The post advises new investors to focus on fundamental principles like living within their means, regular contributions, and starting early, rather than obsessing over minor details like expense ratios or rebalancing frequency. It emphasizes the importance of long-term habits and ignoring market noise.
+**Summary:** The Reddit post advises new investors to focus on fundamental financial habits like living within their means, regular investing, and avoiding market noise, rather than obsessing over minor portfolio details. It emphasizes the importance of long-term strategies and personal financial health over short-term market fluctuations.
 
 **Key Points:**
-- Minor details like VTI vs. VOO or small expense ratio differences don't matter much.
-- Key factors include living within your means, regular contributions, and starting early.
-- Avoid frequent changes to asset allocation and ignore daily market fluctuations.
-- Marrying the right person and avoiding credit card debt are crucial for financial success.
-- Developing additional income streams is debated in the comments.
+- Focus on living within your means and having an emergency fund
+- Make regular, periodic contributions to investments and increase them over time
+- Avoid obsessing over minor details like expense ratios or rebalancing frequency
+- Prioritize starting to invest early and ignoring day-to-day market noise
+- Consider personal factors like job security and family obligations in financial planning
 
-**Discussion Highlights:** The discussion highlights the importance of choosing a supportive spouse and debates the necessity of developing additional income streams outside of one's primary job. Some commenters prioritize work-life balance over side hustles.
+**Discussion Highlights:** The discussion highlights the importance of choosing the right spouse as a significant financial factor and debates the necessity of developing additional income streams outside of one's primary job. Some commenters emphasize the value of work-life balance and enjoying life rather than constantly seeking more income.
 
 ---
 
-## 8. [Why Vanguard sees the 60-40 portfolio being flipped for 2026](https://reddit.com/r/Bogleheads/comments/1pq0k1y/why_vanguard_sees_the_6040_portfolio_being/)
+## 9. [Why Vanguard sees the 60-40 portfolio being flipped for 2026](https://reddit.com/r/Bogleheads/comments/1pq0k1y/why_vanguard_sees_the_6040_portfolio_being/)
 
-**Author:** u/chinaski73 | **Upvotes:** 455 | **Comments:** 151 | **Date:** 2025-12-18
+**Author:** u/chinaski73 | **Upvotes:** 458 | **Comments:** 151 | **Date:** 2025-12-18
 
-**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years, sparking a discussion among Bogleheads.
+**Summary:** Vanguard's global chief economist recommends flipping the traditional 60-40 portfolio to 60% bonds and 40% stocks for the next 5-10 years, sparking a discussion among Bogleheads about the validity and practicality of this recommendation.
 
 **Key Points:**
 - Vanguard suggests a 60% bonds / 40% stocks allocation for the next 5-10 years.
-- Skepticism about economic predictions and past inaccuracies.
-- Suggestions to rebalance portfolios during market drops.
-- Personal preferences for higher stock allocations (e.g., 70/30).
-- General skepticism and varied opinions among commenters.
+- Skepticism about economists' ability to predict market trends accurately.
+- Suggestions to wait for market drops for automatic portfolio rebalancing.
+- Historical context of Vanguard's past predictions and their accuracy.
+- Personal preferences for maintaining higher stock allocations (e.g., 70/30).
 
-**Discussion Highlights:** The discussion highlights skepticism about economic predictions, with commenters suggesting alternative strategies like rebalancing during market drops and maintaining higher stock allocations. There is no clear consensus, with varied personal preferences and opinions expressed.
+**Discussion Highlights:** The discussion highlights skepticism about market predictions, with comments emphasizing the unpredictability of markets and personal preferences for different portfolio allocations. Some users joke about frequent rebalancing, while others reference past predictions by Vanguard to question the current recommendation.
 
 ---
 
-## 9. [Financial Advisor Fee](https://reddit.com/r/Bogleheads/comments/1pp8r29/financial_advisor_fee/)
+## 10. [Financial Advisor Fee](https://reddit.com/r/Bogleheads/comments/1pp8r29/financial_advisor_fee/)
 
-**Author:** u/laxman1916 | **Upvotes:** 364 | **Comments:** 349 | **Date:** 2025-12-17
+**Author:** u/laxman1916 | **Upvotes:** 371 | **Comments:** 350 | **Date:** 2025-12-17
 
-**Summary:** A retiree with substantial savings seeks advice on robo-advisor fees, which the community overwhelmingly considers excessive compared to low-cost alternatives like Vanguard.
+**Summary:** A retiree with substantial assets ($3M in 401k, $1.5M in savings) seeks advice on hiring a financial advisor but faces criticism over excessive fees proposed by a robo-advisor. The community strongly recommends lower-cost alternatives.
 
 **Key Points:**
-- Author has $3M in 401k, $1.5M in savings, and no mortgage
-- Community consensus: proposed fees are too high for a robo-advisor
-- Alternatives like Vanguard (0.30%) or VT (0.06%) offer significant savings
-- Potential annual savings: ~$48,200 by switching to Vanguard
+- Retiree has $3M in 401k, $1.5M in savings, and a paid-off home
+- Proposed advisor fees are deemed excessive by the community
+- Lower-cost alternatives like Vanguard (0.30%) and VT (0.06%) are suggested
+- Retiree's financial stability allows for self-management or lower-fee options
+- Strong consensus against high fees in the discussion
 
-**Discussion Highlights:** The Bogleheads community strongly advises against the high fees, recommending low-cost index funds or advisors like Vanguard for better long-term outcomes.
+**Discussion Highlights:** The community overwhelmingly agrees that the proposed advisor fees are too high, with many suggesting lower-cost alternatives like Vanguard or self-management. The retiree's financial situation is stable enough to avoid high-fee advisors.
 
 ---
 
