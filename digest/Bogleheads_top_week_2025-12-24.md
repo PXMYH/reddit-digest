@@ -8,52 +8,43 @@
 
 ## 1. [Is there anything to this as far as projecting or planning for a potential "lost decade", or is it mostly just meaningless noise?](https://reddit.com/r/Bogleheads/comments/1ptyn1n/is_there_anything_to_this_as_far_as_projecting_or/)
 
-**Author:** u/TrumpetWilder | **Upvotes:** 251 | **Comments:** 117 | **Date:** 2025-12-23
+**Author:** u/TrumpetWilder | **Upvotes:** 259 | **Comments:** 122 | **Date:** 2025-12-23
 
-**Summary:** The Reddit post discusses the possibility of a 'lost decade' for US equities and whether it should influence investment planning. The discussion highlights the importance of international diversification and the role of valuation metrics like PE ratios in predicting future returns.
+**Summary:** The post discusses the possibility of a 'lost decade' for investments and strategies to mitigate risks, emphasizing the importance of diversification and the unpredictability of market trends.
 
 **Key Points:**
 - International diversification is recommended to mitigate risks associated with high US equity valuations.
-- PE ratios are considered meaningful for projecting future returns, with high valuations suggesting lower expected performance.
-- Uncertainty is acknowledged, with some commenters emphasizing the unpredictability of market outcomes.
-- The discussion critiques the methodology of using 10-year averages for PE ratios, noting potential data overlap issues.
-- A globally diversified portfolio is suggested as a prudent strategy given the uncertainty.
+- PE ratio is a meaningful indicator of future returns, with high valuations suggesting lower future performance.
+- Market predictions are uncertain, and a globally diversified portfolio is a prudent strategy.
+- Technological progress and other factors can unexpectedly influence market outcomes.
+- Historical data correlations may not imply causation and can be misleading if not analyzed correctly.
 
-**Discussion Highlights:** The consensus leans towards the importance of diversification and acknowledging the limitations of predictive models. While PE ratios are seen as useful, there is recognition of their limitations and the inherent uncertainty in market projections.
+**Discussion Highlights:** The discussion highlights the importance of diversification and the unpredictability of market trends. While some commenters emphasize the significance of PE ratios and historical data, others caution against over-reliance on these metrics, noting the potential for unexpected market shifts.
 
 ---
 
 ## 2. [Worst 401K Options You've Seen](https://reddit.com/r/Bogleheads/comments/1pt3rt9/worst_401k_options_youve_seen/)
 
-**Author:** u/TepidBitters | **Upvotes:** 405 | **Comments:** 138 | **Date:** 2025-12-22
+**Author:** u/TepidBitters | **Upvotes:** 401 | **Comments:** 139 | **Date:** 2025-12-22
 
-**Summary:** The Reddit post discusses the high fees in a 401k plan, with expense ratios over 1% for target funds, highlighting the lack of awareness among employees and the responsibility of employers in selecting such plans.
+**Summary:** The Reddit post highlights the author's shock at discovering high 401k fees from a previous employer, with expense ratios over 1% for target funds. The discussion criticizes these practices as exploitative and calls for regulatory changes.
 
 **Key Points:**
-- High expense ratios (over 1%) in 401k plans
-- Employers are responsible for selecting low-cost plans
-- Community outrage over exploitative fees
-- Calls for legal limits on expense ratios
-- Importance of financial literacy in retirement planning
+- High expense ratios (over 1%) for target funds
+- Employers prioritize low-cost plans for themselves, not employees
+- Calls for legal limits on 401k fees
+- Criticism of specific share classes (e.g., R2) with high fees
+- General outrage at the lack of low-cost investment options
 
-**Discussion Highlights:** The discussion highlights widespread anger at high 401k fees, with many commenters blaming employers for prioritizing low-cost plans for themselves rather than employees. There is a consensus that such fees are exploitative and should be regulated.
+**Discussion Highlights:** The discussion consensus is that high-fee 401k plans are unethical and take advantage of uninformed employees. Many commenters blame employers for selecting these plans and call for regulatory action to cap fees. There is also frustration at the lack of low-cost index fund options in such plans.
 
 ---
 
 ## 3. [2 years since first “AI Tech Bubble” fear post](https://reddit.com/r/Bogleheads/comments/1psxyua/2_years_since_first_ai_tech_bubble_fear_post/)
 
-**Author:** u/Il_vino_buono | **Upvotes:** 679 | **Comments:** 124 | **Date:** 2025-12-22
+**Author:** u/Il_vino_buono | **Upvotes:** 677 | **Comments:** 124 | **Date:** 2025-12-22
 
-**Summary:** The post discusses the fear of an AI tech bubble and highlights that despite concerns, the market has grown significantly over the past two years. It emphasizes the importance of staying invested to avoid missing out on growth periods.
-
-**Key Points:**
-- The market has grown significantly (VTI up 42%, VOO up 47%) over the past two years despite AI bubble fears.
-- Staying out of the market means missing both bad and good times.
-- It's possible there's a bubble, but timing and extent are unpredictable.
-- Historical examples show bubbles can continue growing after initial warnings.
-- Market corrections are often compensated by periods of growth.
-
-**Discussion Highlights:** The discussion highlights the unpredictability of market bubbles and the importance of staying invested. Many commenters agree that while a correction is possible, the timing and impact are uncertain. Historical examples like the dot-com bubble are cited to show that bubbles can persist longer than expected.
+**Summary:** The post discusses the fear of an AI tech bubble and highlights that despite concerns, the market (VTI and VOO) has grown significantly over the past two years. The discussion emphasizes the unpredictability of market corrections and the importance of staying invested to avoid missing out on growth. Key points include the significant market growth (VTI: 42%, VOO: 47%), the unpredictability of market timing, historical context of bubbles persisting after warnings, the possibility of a bubble and corrections, and the consensus that staying invested is crucial to benefit from market growth periods. The discussion highlights the unpredictability of market corrections and the importance of staying invested, with many commenters agreeing that while a bubble is possible, the market can continue to rise despite warnings, and trying to time the market can lead to missed opportunities.
 
 ---
 
@@ -61,74 +52,74 @@
 
 **Author:** u/figgypudding02 | **Upvotes:** 183 | **Comments:** 261 | **Date:** 2025-12-21
 
-**Summary:** The post discusses the common belief that taxes will be higher in the future and questions its validity based on historical trends. The discussion includes varied perspectives on tax rates, retirement planning, and the impact of national debt. Key points include: Taxes are currently at historical lows and could increase in the future; the national deficit and debt may lead to higher taxes; tax rates during retirement may be lower than during prime earning years; it is unknowable how taxes will change, similar to market unpredictability; and Roth conversions and RMD strategies are discussed as ways to manage tax impacts. The discussion highlights a consensus that while taxes could rise due to economic factors like national debt, their future trajectory remains uncertain. Many commenters share personal experiences and strategies for managing taxes in retirement, such as Roth conversions and timing withdrawals.
+**Summary:** The post questions whether taxes will be higher in the future, with many commenters noting that current tax rates are historically low and could rise due to factors like the national deficit. However, others argue that future tax rates are unpredictable, much like the stock market. Key points include: Taxes are currently at historical lows and could increase in the future; The national deficit and debt may drive future tax increases; Future tax rates are unpredictable, similar to market fluctuations; Some retirees report lower taxes now compared to their earning years; Roth conversions and RMD strategies are discussed as ways to manage tax exposure. The discussion highlights a mix of opinions, with some expecting higher taxes due to economic pressures, while others emphasize the unpredictability of future tax policies. Many commenters share personal strategies for managing retirement withdrawals and tax planning.
 
 ---
 
 ## 5. [The negative millionaire](https://reddit.com/r/Bogleheads/comments/1pqsgq8/the_negative_millionaire/)
 
-**Author:** u/BiblicalElder | **Upvotes:** 118 | **Comments:** 29 | **Date:** 2025-12-19
+**Author:** u/BiblicalElder | **Upvotes:** 114 | **Comments:** 29 | **Date:** 2025-12-19
 
-**Summary:** The post discusses the financial downfall of Gary Winnick, highlighting the risks of excessive leverage and the importance of steady, liquid asset building. It serves as a cautionary tale against over-extending financially.
+**Summary:** The post discusses the financial collapse of Gary Winnick, highlighting the risks of excessive debt and leverage, and emphasizes the importance of steady, liquid asset accumulation.
 
 **Key Points:**
-- Gary Winnick's financial collapse due to excessive leverage.
+- Gary Winnick's financial downfall due to excessive leverage and debt.
+- Importance of steady, liquid asset accumulation over risky investments.
 - The risks of pledging personal assets as collateral.
-- The importance of building liquid assets steadily.
-- The post serves as a cautionary tale for investors.
-- The discussion highlights the contrast between Winnick's approach and the Bogleheads philosophy.
+- Discussion on the lessons learned from the dot-com bust.
+- Mention of Morgan Housel's potential commentary on such financial stories.
 
-**Discussion Highlights:** The discussion emphasizes the importance of financial prudence and steady investing, contrasting Winnick's approach with the Bogleheads philosophy of slow and steady wealth building.
+**Discussion Highlights:** The discussion highlights the importance of financial prudence and steady investing, with some users drawing parallels to the dot-com bust and others noting the relevance of financial commentators like Morgan Housel.
 
 ---
 
 ## 6. [What so you think of Fidelity's "net worth targets" by age?](https://reddit.com/r/Bogleheads/comments/1pqni6i/what_so_you_think_of_fidelitys_net_worth_targets/)
 
-**Author:** u/HenFruitEater | **Upvotes:** 300 | **Comments:** 171 | **Date:** 2025-12-19
+**Author:** u/HenFruitEater | **Upvotes:** 294 | **Comments:** 171 | **Date:** 2025-12-19
 
-**Summary:** The post discusses Fidelity's retirement savings targets by age, comparing them to the FIRE community's 25x expenses rule. The discussion highlights the differences and nuances between these benchmarks.
+**Summary:** The post discusses Fidelity's retirement savings targets by age, comparing them to the FIRE community's 25x expenses rule. The discussion highlights the nuances and applicability of these benchmarks.
 
 **Key Points:**
-- Fidelity's age-based retirement benchmarks: By 30 (1x salary), By 40 (3x salary), By 50 (6x salary), By 60 (8x salary), By 67 (10x salary).
-- Comparison between Fidelity's 10x salary target and the FIRE community's 25x expenses target.
-- Rules of thumb lack nuance but are useful for general guidance.
-- Current salary as a metric may not be ideal for everyone, especially those with varying expenses.
-- Fidelity's targets are based on norms and a standard retirement age, while FIRE targets aim for early retirement.
+- Fidelity's benchmarks: By 30 (1x salary), By 40 (3x salary), By 50 (6x salary), By 60 (8x salary), By 67 (10x salary).
+- Comparison to FIRE's 25x expenses rule.
+- Benchmarks are seen as general guidelines lacking personalization.
+- Current salary as a metric may not suit everyone, especially those with varying expenses.
+- Benchmarks are based on standard retirement at 65 or later, considering Social Security.
 
-**Discussion Highlights:** The discussion generally agrees that Fidelity's benchmarks are useful as rules of thumb but lack personalization. The consensus is that Fidelity's targets are for standard retirement, while FIRE targets are for early retirement, requiring a larger portfolio.
+**Discussion Highlights:** The consensus is that Fidelity's benchmarks are useful as general guidelines but lack personalization. They are based on standard retirement scenarios and may not apply to early retirement goals like those in the FIRE community.
 
 ---
 
 ## 7. [Happy VXUS Dividend Day! Highest recorded dividend ever, at 4.59% or $1.3631 per share.](https://reddit.com/r/Bogleheads/comments/1pqmunr/happy_vxus_dividend_day_highest_recorded_dividend/)
 
-**Author:** u/keralaindia | **Upvotes:** 375 | **Comments:** 155 | **Date:** 2025-12-19
+**Author:** u/keralaindia | **Upvotes:** 369 | **Comments:** 157 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post announces a record-high dividend for VXUS, reaching $1.3631 per share, the highest since December 2011. The discussion highlights mixed reactions, with some celebrating the milestone and others expressing concerns about tax implications.
+**Summary:** The Reddit post announces a record-high dividend for VXUS, with the dividend amount reaching $1.3631 per share, the highest in its history. The post also discusses the tax implications of holding VXUS in a taxable account.
 
 **Key Points:**
-- VXUS dividend reaches a record high of $1.3631 per share.
-- This is the highest dividend since December 2011.
-- Mixed reactions: some celebrate the milestone, others worry about tax implications.
-- Discussion includes comments on the impact of dividends on NAV and taxable events.
+- VXUS dividend reaches a record high of $1.3631 per share
+- This is the highest dividend in VXUS history, surpassing the previous peak in 2011
+- Dividends in taxable accounts can lead to forced taxable events
+- Mixed reactions in comments: some celebrate the record, others prefer dividends to stay in NAV
 
-**Discussion Highlights:** The discussion reveals a divide among investors: some appreciate the record dividend as a sign of strong performance, while others prefer reinvested dividends to avoid taxable events. There is also confusion about the stock's performance on different platforms.
+**Discussion Highlights:** The discussion highlights mixed feelings about the record dividend. Some users appreciate the milestone and the benefits of a diversified portfolio, while others express concerns about the tax implications of dividends in taxable accounts. There is also some confusion about the price movement of VXUS on different platforms.
 
 ---
 
 ## 8. [It Doesn’t Matter (Much)](https://reddit.com/r/Bogleheads/comments/1pqm81q/it_doesnt_matter_much/)
 
-**Author:** u/Rmondu | **Upvotes:** 352 | **Comments:** 57 | **Date:** 2025-12-19
+**Author:** u/Rmondu | **Upvotes:** 355 | **Comments:** 57 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post emphasizes that new investors often overcomplicate their portfolios by focusing on minor details like expense ratios and rebalancing frequencies, which have minimal impact. Instead, they should prioritize fundamental aspects such as living within their means, regular contributions, and starting early. The discussion highlights the importance of choosing the right spouse and balancing financial goals with personal well-being.
+**Summary:** The post emphasizes that minor details in investing (e.g., fund choices, expense ratios) matter less than fundamental principles like living within means, regular contributions, and starting early. The discussion highlights the importance of choosing the right spouse and balancing financial goals with life enjoyment.
 
 **Key Points:**
-- Minor details like VTI vs. VOO or slight expense ratio differences don't significantly impact long-term investing success.
-- Key factors include living within your means, regular contributions, and starting to invest early.
-- Avoiding credit card debt and choosing the right spouse are crucial for financial stability.
-- Developing additional income streams is debated, with some advocating for work-life balance.
-- Ignoring daily market noise and focusing on long-term goals is essential.
+- Minor investment details (e.g., VTI vs. VOO, small expense ratio differences) have little impact.
+- Fundamental habits like regular contributions and starting early are crucial.
+- Avoiding lifestyle inflation and high-interest debt is essential.
+- Marrying the right person is a significant financial and life factor.
+- Balancing financial goals with personal well-being is important.
 
-**Discussion Highlights:** The top comments emphasize the importance of marital choice for financial success and debate the necessity of side income streams, with some advocating for work-life balance. There is general agreement on the core message of focusing on fundamental financial habits rather than minor portfolio details.
+**Discussion Highlights:** The top comments agree with the post's core message but emphasize the importance of choosing the right spouse and caution against overemphasizing side income streams. Some users also reference additional resources for further reading.
 
 ---
 
@@ -143,25 +134,26 @@
 - Community skepticism about economic predictions is evident in the comments.
 - Some users prefer maintaining a higher stock allocation (e.g., 70/30).
 - Historical inaccuracies in Vanguard's predictions are highlighted.
+- Automatic rebalancing during market drops is suggested as an alternative strategy.
 
-**Discussion Highlights:** The discussion is marked by skepticism towards economic forecasts, with users joking about the reliability of predictions and expressing personal preferences for different portfolio allocations.
+**Discussion Highlights:** The discussion is marked by skepticism towards economic forecasts, with users joking about the reliability of predictions and sharing personal preferences for higher stock allocations. Some comments reference past inaccuracies in Vanguard's predictions, while others suggest alternative strategies like automatic rebalancing.
 
 ---
 
 ## 10. [Financial Advisor Fee](https://reddit.com/r/Bogleheads/comments/1pp8r29/financial_advisor_fee/)
 
-**Author:** u/laxman1916 | **Upvotes:** 372 | **Comments:** 350 | **Date:** 2025-12-17
+**Author:** u/laxman1916 | **Upvotes:** 369 | **Comments:** 350 | **Date:** 2025-12-17
 
-**Summary:** A retiree with $3M in assets is considering hiring a financial advisor but receives strong pushback from the community about excessive fees, with recommendations for lower-cost alternatives.
+**Summary:** A retiree with substantial assets seeks advice on financial advisor fees, with the community overwhelmingly agreeing that the proposed fees are excessive and recommending lower-cost alternatives.
 
 **Key Points:**
-- Retiree has $3M in 401k and $1.5M in savings, living comfortably off pension and social security
-- Considering hiring an advisor to manage finances while spending time abroad
-- Community consensus: proposed advisor fees are excessive
-- Suggestions for lower-cost alternatives like Vanguard (0.30% fees) or index funds (0.06% fees)
-- Strong preference for cost-effective, passive investment strategies
+- Retiree has $3M in 401k, $1.5M in savings, and a paid-off home
+- Seeking advisor to manage finances while spending time abroad
+- Community consensus: proposed fees are too high
+- Suggestions for lower-cost options like Vanguard (0.30%) or VT (0.06%)
+- Strong preference for self-management given financial stability
 
-**Discussion Highlights:** The community overwhelmingly agrees that the advisor fees mentioned are too high, with many suggesting that the retiree could achieve better results with low-cost index funds or robo-advisors like Vanguard. The discussion emphasizes the importance of minimizing fees to preserve retirement savings.
+**Discussion Highlights:** The discussion highlights a strong consensus against high advisor fees, with many commenters recommending lower-cost robo-advisors or self-management due to the retiree's financial independence and stability.
 
 ---
 
