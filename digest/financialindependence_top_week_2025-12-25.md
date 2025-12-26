@@ -8,69 +8,69 @@
 
 ## 1. [Don't forget to balance your saving with *some* spending on you and yours.](https://reddit.com/r/financialindependence/comments/1punb3u/dont_forget_to_balance_your_saving_with_some/)
 
-**Author:** u/Jean_le_Jedi_Gris | **Upvotes:** 130 | **Comments:** 59 | **Date:** 2025-12-24
+**Author:** u/Jean_le_Jedi_Gris | **Upvotes:** 138 | **Comments:** 59 | **Date:** 2025-12-24
 
-**Summary:** The post emphasizes the importance of balancing saving with spending to enjoy life and improve personal comfort, sharing the author's journey of achieving financial independence while also making meaningful purchases.
+**Summary:** The post emphasizes the importance of balancing saving for financial independence with spending on personal enjoyment and loved ones. The author shares their journey of reaching a $1M net worth and realizing the need to spend on experiences and comforts, such as vacations, home renovations, and a hobby truck, while still maintaining financial growth.
 
 **Key Points:**
-- The author achieved a $1M net worth but realized the importance of spending on personal comfort and experiences.
-- Examples of spending include a truck restoration project, vacations, home renovations, and solar panel installation.
-- The author still projects a $2M to $3M balance by retirement, showing that balanced spending doesn't hinder financial goals.
-- Top comments highlight the value of spending on what you love and the importance of experiences.
-- The consensus is that while saving is crucial, enjoying life and spending on meaningful things is equally important.
+- Balancing saving with spending is crucial for personal well-being.
+- The author reached a $1M net worth but realized the need to enjoy life and spend on loved ones.
+- Spending on experiences and comforts, like vacations and home renovations, can improve quality of life without derailing financial goals.
+- Learning to repair and restore things can be a FIRE behavior in the long term.
+- It's important to spend on what you love and save on what you don't.
 
-**Discussion Highlights:** The discussion highlights the importance of spending on what brings joy and value, with many commenters agreeing that experiences and personal comfort are worth the investment. There is a consensus that while financial independence is a goal, it should not come at the expense of enjoying life.
+**Discussion Highlights:** The discussion highlights the consensus that while saving is important for financial independence, it's equally crucial to spend on personal enjoyment and experiences. Many commenters agree that spending on what you love and saving on what you don't is a balanced approach. There's also a recognition that learning practical skills, like repairing and restoring items, can be beneficial in the long term.
 
 ---
 
 ## 2. [FIRE with $1.7~mil when the majority is in Bitcoin? - 1 YEAR UPDATE](https://reddit.com/r/financialindependence/comments/1psp9j2/fire_with_17mil_when_the_majority_is_in_bitcoin_1/)
 
-**Author:** u/another_FI_throwaway | **Upvotes:** 114 | **Comments:** 151 | **Date:** 2025-12-21
+**Author:** u/another_FI_throwaway | **Upvotes:** 123 | **Comments:** 153 | **Date:** 2025-12-21
 
-**Summary:** The author, laid off in October 2024, shares a one-year update on their FIRE journey with a net worth of $1.7 million, primarily in Bitcoin. They discuss their financial strategy, budget, and the community's mixed reactions to their heavy Bitcoin allocation.
+**Summary:** The author, who was laid off in October 2024, shares a one-year update on their journey towards Financial Independence, Retire Early (FIRE) with a net worth heavily invested in Bitcoin. Despite initial uncertainty, they decided to take a break and learned that FIRE doesn't solve all problems. The post discusses their financial situation, market volatility, and the community's mixed reactions to their Bitcoin-heavy portfolio.
 
 **Key Points:**
-- Author's net worth is $1.7 million, with 70% in Bitcoin.
-- They aim to live on a $30k yearly budget.
-- Community advice emphasizes diversification and risk management.
-- Author acknowledges the volatility of Bitcoin and the need for a long-term strategy.
-- Majority of responses suggest reducing Bitcoin exposure.
+- Author was laid off in October 2024 and initially unsure about their next steps.
+- Majority of their net worth is in Bitcoin, making their portfolio volatile.
+- Community responses were mixed, with many advising diversification or liquidation of Bitcoin.
+- Author decided to take a break and learned that FIRE doesn't magically fix everything.
+- They have taken steps to protect against market downtrends.
 
-**Discussion Highlights:** The discussion highlights a consensus on the importance of diversification and risk management, with many users advising the author to reduce their Bitcoin exposure to mitigate potential market downturns.
+**Discussion Highlights:** The discussion highlights a consensus on the risks of having a majority of net worth in Bitcoin, with many commenters advising diversification or developing a clear exit strategy. Some commenters expressed concerns about market volatility and the potential for significant dips in Bitcoin value.
 
 ---
 
 ## 3. [FIRE Journey as Mechanical Engineer in Midwest: SINK, 31M, 640K NW Update](https://reddit.com/r/financialindependence/comments/1psgh9z/fire_journey_as_mechanical_engineer_in_midwest/)
 
-**Author:** u/yaoz889 | **Upvotes:** 104 | **Comments:** 24 | **Date:** 2025-12-21
+**Author:** u/yaoz889 | **Upvotes:** 106 | **Comments:** 24 | **Date:** 2025-12-21
 
-**Summary:** A 31-year-old mechanical engineer in the Midwest shares his FIRE (Financial Independence, Retire Early) journey, detailing his net worth growth from $34,000 in 2018 to $640,000 in 2025, driven by career progression, high savings rate, and market gains.
+**Summary:** A 31-year-old mechanical engineer in the Midwest shares his FIRE (Financial Independence, Retire Early) journey, detailing his net worth growth from $34,106 in 2018 to $640,289 in 2025, primarily due to high savings and a bull market. He discusses career transitions, expense management, and lessons learned about social life and career changes.
 
 **Key Points:**
-- Net worth increased by over 30% annually for seven out of eight years, with significant growth due to bull market and high savings.
-- Career progression from automotive to aerospace industry, with salary increases and job title advancements.
-- Lessons learned include the importance of socializing and making friends in a new city, and the challenges and rewards of changing industries.
-- High savings rate and strategic financial decisions, such as paying off a loan from parents and purchasing a car in cash.
-- Discussion highlights include admiration for the rapid net worth growth and curiosity about the author's location and lifestyle.
+- Net worth increased from $34,106 in 2018 to $640,289 in 2025.
+- Career transition from automotive to aerospace industry.
+- High savings rate and bull market contributed significantly to net worth growth.
+- Lessons on making friends in adulthood and the benefits of living in a large city.
+- Importance of career changes despite initial difficulties.
 
-**Discussion Highlights:** The discussion highlights the impressive net worth growth and savings rate, with comments expressing admiration and curiosity about the author's location and lifestyle. Some users relate to the author's trajectory and express hope to achieve similar financial success.
+**Discussion Highlights:** The discussion highlights the impressive net worth growth, with comments noting the consistent annual increases and the role of the bull market. Some users expressed aspirations to follow a similar trajectory, while others discussed the advantages of living in lower cost-of-living areas.
 
 ---
 
 ## 4. [FIREd at 45 to pursue my creative goals. Now I have meetings with important people and don't know how to explain my life.](https://reddit.com/r/financialindependence/comments/1ps8lsm/fired_at_45_to_pursue_my_creative_goals_now_i/)
 
-**Author:** u/Missmoneysterling | **Upvotes:** 163 | **Comments:** 138 | **Date:** 2025-12-21
+**Author:** u/Missmoneysterling | **Upvotes:** 165 | **Comments:** 139 | **Date:** 2025-12-21
 
-**Summary:** The author retired early at 45 to pursue creative goals but struggles to explain their career transition to others without sounding irresponsible or privileged. They seek advice on how to frame their situation in meetings with important people.
+**Summary:** The author retired early at 45 to pursue creative goals but struggles to explain their career transition to important people without sounding irresponsible. They seek advice on how to frame their situation professionally.
 
 **Key Points:**
-- The author fears being perceived as a 'flake' or 'spoiled trust fund baby' when explaining their career transition.
-- They emphasize that their creative pursuit is now their 'job,' though not yet financially profitable.
-- Their past profession influences their creative work, which they mention in discussions.
-- Top comments suggest framing the transition as a 'sabbatical' or describing themselves as an 'independent consultant' or 'founder.'
-- Some commenters question why pursuing creative work would be seen as irresponsible.
+- Author retired early to focus on creative pursuits
+- Concerns about being perceived as a 'flake' or 'spoiled trust fund baby'
+- Creative work is influenced by past profession
+- Top comments suggest framing it as a 'sabbatical' or 'new venture'
+- Consensus leans towards honesty with a professional framing
 
-**Discussion Highlights:** The discussion highlights various strategies for framing the career transition, such as using terms like 'sabbatical,' 'independent consultant,' or 'founder.' There is also a consensus that pursuing creative work is a reasonable and normal choice, challenging the author's fear of being perceived negatively.
+**Discussion Highlights:** The discussion highlights various ways to frame the career transition, with top comments suggesting terms like 'sabbatical,' 'independent consultant,' or 'founder of a new venture.' The consensus is to be honest but frame it in a way that emphasizes professionalism and intent.
 
 ---
 
