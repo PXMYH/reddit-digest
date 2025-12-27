@@ -8,185 +8,204 @@
 
 ## 1. [Minimax M2.1 released](https://reddit.com/r/LocalLLaMA/comments/1pvz7v2/minimax_m21_released/)
 
-**Author:** u/__Maximum__ | **Upvotes:** 142 | **Comments:** 59 | **Date:** 2025-12-26
+**Author:** u/__Maximum__ | **Upvotes:** 163 | **Comments:** 71 | **Date:** 2025-12-26
 
-**Summary:** MiniMax M2.1, an open-source model, has been released on ModelScope, offering state-of-the-art performance in multiple programming languages and full-stack development capabilities. It features improved efficiency and compatibility with various development environments.
+**Summary:** MiniMax M2.1, an open-source model, has been released with state-of-the-art capabilities in multiple programming languages and full-stack development. It offers improved efficiency and performance, including a lightning mode for high-throughput workflows.
 
 **Key Points:**
-- SOTA in 8+ languages (Rust, Go, Java, C++, TS, Kotlin, Obj-C, JS)
-- Full-stack Web & mobile dev capabilities
-- 30% fewer tokens with lightning mode for high-TPS workflows
-- Top-tier performance on SWE-bench, VIBE, and custom coding/review benchmarks
-- Available on Hugging Face and GitHub
+- MiniMax M2.1 is open-source and available on ModelScope, Hugging Face, and GitHub.
+- It supports 8+ programming languages and full-stack web/mobile development.
+- Features include smarter, faster performance with 30% fewer tokens and a lightning mode.
+- Top-tier performance on benchmarks like SWE-bench and VIBE.
+- Community reactions include excitement and clarification on open-source vs. open-weights.
 
-**Discussion Highlights:** The community is excited about the release, with comments highlighting its availability on multiple platforms and its potential for AI-native development. Some users expressed interest in trying quantized versions of the model.
+**Discussion Highlights:** The community is excited about the release, with some clarifying that it is open-weights rather than fully open-source. Additional resources and links to the model on Hugging Face and GitHub were shared.
 
 ---
 
 ## 2. [Hard lesson learned after a year of running large models locally](https://reddit.com/r/LocalLLaMA/comments/1pvxq2t/hard_lesson_learned_after_a_year_of_running_large/)
 
-**Author:** u/inboundmage | **Upvotes:** 200 | **Comments:** 92 | **Date:** 2025-12-26
+**Author:** u/inboundmage | **Upvotes:** 254 | **Comments:** 110 | **Date:** 2025-12-26
 
-**Summary:** The author shares their experience running large language models locally, highlighting challenges with VRAM limitations, model scaling, and performance trade-offs. They conclude that local inference is viable for smaller models but faces significant constraints without high-end hardware.
+**Summary:** The author shares their experience running large language models locally, highlighting challenges with VRAM limitations, model scaling, and performance trade-offs. They conclude that local inference is viable for smaller models but requires significant hardware investment for larger ones.
 
 **Key Points:**
-- Running large models locally is feasible but faces VRAM and performance limitations.
-- Quantization helps but introduces quality trade-offs and potential bugs.
-- VRAM fragmentation is a significant issue when swapping between models.
-- Cloud-based solutions offer better performance for fast iteration compared to local setups.
-- Community suggestions include using llama.cpp for CPU offloading and considering additional GPUs.
+- Running large models locally is feasible but has hard limits with consumer-grade hardware.
+- VRAM fragmentation and memory management are significant challenges.
+- Quantization helps but introduces quality trade-offs and new issues.
+- Cloud-based solutions offer better performance for fast iteration.
+- Community suggestions include using llama.cpp for CPU offloading and adding more GPUs.
 
-**Discussion Highlights:** The discussion highlights practical solutions like using llama.cpp for CPU offloading and suggests that adding more GPUs can mitigate VRAM limitations. There is a consensus that while local inference is viable for privacy-sensitive tasks, it requires significant hardware investment for larger models.
+**Discussion Highlights:** The discussion highlights practical solutions like using llama.cpp for models that exceed VRAM and managing VRAM fragmentation. There is a consensus that local inference is viable for smaller models but requires significant hardware upgrades for larger models. Some users suggest adding more GPUs or hoping for future hardware improvements.
 
 ---
 
 ## 3. [systemctl disable ollama](https://reddit.com/r/LocalLLaMA/comments/1pvwlfh/systemctl_disable_ollama/)
 
-**Author:** u/copenhagen_bram | **Upvotes:** 179 | **Comments:** 56 | **Date:** 2025-12-25
+**Author:** u/copenhagen_bram | **Upvotes:** 192 | **Comments:** 66 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post discusses issues with Ollama's system-level storage of models, leading to large backup snapshots. The author decides to store models in their home directory instead. The comments reflect community frustration with Ollama's practices and offer technical advice.
+**Summary:** The Reddit post discusses a user's frustration with Ollama storing models in system directories, which resulted in a large 151GB backup snapshot. The user has decided to store models in their home directory instead.
 
 **Key Points:**
-- Ollama stores models at the system level, causing large backup snapshots
-- Author switches to storing models in home directory
-- Community expresses frustration with Ollama's storage practices
-- Technical advice includes excluding object store directories from snapshots
-- Discussion about Ollama's use of Q4 weights and its impact on new users
+- Ollama's default storage location in system directories causes issues with large backups
+- Community strongly criticizes Ollama's storage practices and system service design
+- Users prefer storing models in home directories for better control
+- Alternative solutions like Koboldcpp are mentioned as better options
+- General advice to exclude large data directories from system snapshots
 
-**Discussion Highlights:** The discussion highlights strong community dissatisfaction with Ollama's system-level storage and its impact on backups. Users recommend excluding certain directories from snapshots and question the necessity of Ollama as a system service. There is also criticism of Ollama's default use of Q4 weights.
+**Discussion Highlights:** The discussion shows strong community consensus against Ollama's system-level storage approach, with many users expressing frustration and suggesting alternatives. The top comments highlight technical issues with Ollama's design choices and recommend better practices for managing LLM model storage.
 
 ---
 
 ## 4. [ASUS Rumored To Enter DRAM Market Next Year](https://reddit.com/r/LocalLLaMA/comments/1pvs8l3/asus_rumored_to_enter_dram_market_next_year/)
 
-**Author:** u/Highwaytothebeach | **Upvotes:** 129 | **Comments:** 33 | **Date:** 2025-12-25
+**Author:** u/Highwaytothebeach | **Upvotes:** 139 | **Comments:** 33 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post discusses a rumor that ASUS may enter the DRAM market next year to address memory shortages. The discussion highlights skepticism about ASUS's role as a manufacturer, suggesting they would likely act as an integrator instead. Key points include: ASUS is rumored to enter the DRAM market next year, ASUS is unlikely to manufacture DRAM chips but may package and sell them, the move is seen as a way to capitalize on memory shortages rather than tackle them, ASUS's strength in distribution and brand awareness could be advantageous, and the discussion includes concerns about the use of AMP links for privacy reasons. The consensus among commenters is that ASUS would not manufacture DRAM chips but would instead act as an integrator, packaging and selling memory modules. This move is viewed as an opportunity to capitalize on market shortages rather than address them. ASUS's strong distribution network and brand recognition in the DIY market are seen as potential advantages.
+**Summary:** The Reddit post discusses a rumor that ASUS may enter the DRAM market next year to address memory shortages, with mixed reactions from commenters about the potential impact and feasibility.
+
+**Key Points:**
+- ASUS is rumored to enter the DRAM market next year to tackle memory shortages.
+- Commenters suggest ASUS would act as an integrator rather than a manufacturer, packaging and selling DRAM chips.
+- There is skepticism about ASUS's ability to influence prices or make a significant impact in the market.
+- ASUS's potential advantage lies in its distribution network and brand recognition in the DIY market.
+- Some commenters view this move as an attempt to capitalize on market conditions rather than solve shortages.
+
+**Discussion Highlights:** The discussion highlights skepticism about ASUS's potential entry into the DRAM market, with commenters pointing out that ASUS would likely act as an integrator rather than a manufacturer. There is a consensus that this move would not significantly impact prices or availability, but could leverage ASUS's distribution and brand recognition.
 
 ---
 
 ## 5. [A Christmas Miracle: Managed to grab 3x RTX 5090 FE at MSRP for my home inference cluster.](https://reddit.com/r/LocalLLaMA/comments/1pvr64e/a_christmas_miracle_managed_to_grab_3x_rtx_5090/)
 
-**Author:** u/Sudden_Rip7717 | **Upvotes:** 130 | **Comments:** 44 | **Date:** 2025-12-25
+**Author:** u/Sudden_Rip7717 | **Upvotes:** 135 | **Comments:** 50 | **Date:** 2025-12-25
 
 **Summary:** The author expresses gratitude for acquiring three RTX 5090 GPUs at MSRP for their home AI research lab and shares holiday wishes with the community.
 
 **Key Points:**
-- Author acquired three RTX 5090 GPUs at MSRP for their home inference cluster.
-- The post includes a heartfelt message of gratitude and holiday wishes.
-- Top comments include questions about hardware choices, availability, and usage.
-- Some users mention difficulties finding GPUs at MSRP.
+- Author secured three RTX 5090 FE GPUs at MSRP
+- Hardware is for a home AI research lab
+- Post includes holiday greetings and encouragement
+- Comments discuss hardware choices and availability
+- Some users share their own experiences finding GPUs
 
-**Discussion Highlights:** The discussion highlights include questions about hardware choices, availability issues, and curiosity about the author's use case for the GPUs. Some users share their own experiences and plans for acquiring similar hardware.
+**Discussion Highlights:** The discussion includes questions about hardware choices, personal stories of securing GPUs, and light-hearted comments about availability. The overall tone is positive and supportive.
 
 ---
 
 ## 6. [I wish this GPU VRAM upgrade modification became mainstream and ubiquitous to shred monopoly abuse of NVIDIA](https://reddit.com/r/LocalLLaMA/comments/1pvpkqo/i_wish_this_gpu_vram_upgrade_modification_became/)
 
-**Author:** u/CeFurkan | **Upvotes:** 775 | **Comments:** 154 | **Date:** 2025-12-25
+**Author:** u/CeFurkan | **Upvotes:** 814 | **Comments:** 165 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post discusses the desire for GPU VRAM upgrade modifications to become mainstream, challenging NVIDIA's monopoly. The discussion highlights that such modifications are already popular in China, with Alibaba offering upgraded GPUs at various price points.
+**Summary:** The post discusses the potential for GPU VRAM upgrade modifications to become mainstream, challenging NVIDIA's monopoly. It highlights that such modifications are already popular in China, with various models available at different price points.
 
 **Key Points:**
-- GPU VRAM upgrade modifications are desired to challenge NVIDIA's monopoly.
+- GPU VRAM upgrade modifications could disrupt NVIDIA's monopoly.
 - These modifications are already mainstream in China.
 - Alibaba offers upgraded GPUs like 2080Ti, 3080, 4080, 4090, and 5090 with increased VRAM.
 - Prices range from $300 for a 2080Ti 22GB to $4000 for a 5090 96GB.
-- Users report successful usage of modded GPUs like the 4090 with 48GB VRAM.
+- Users report successful use of modded GPUs for faster processing.
 
-**Discussion Highlights:** The discussion highlights that GPU VRAM upgrade modifications are already popular in China, with Alibaba offering a range of upgraded GPUs. Users share positive experiences with modded GPUs, and there is interest in the cost-effectiveness and performance benefits of these modifications.
+**Discussion Highlights:** The discussion highlights the availability and success of GPU VRAM upgrades in China, with users expressing interest in the cost-effectiveness and performance benefits of these modifications.
 
 ---
 
 ## 7. [Why I quit using Ollama](https://reddit.com/r/LocalLLaMA/comments/1pvjpmb/why_i_quit_using_ollama/)
 
-**Author:** u/SoLoFaRaDi | **Upvotes:** 428 | **Comments:** 174 | **Date:** 2025-12-25
+**Author:** u/SoLoFaRaDi | **Upvotes:** 448 | **Comments:** 176 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post discusses the author's decision to stop using Ollama due to a perceived shift away from its original purpose of providing a secure platform for local AI models, citing concerns about recent updates and the introduction of cloud-based models. The discussion highlights a consensus among users favoring alternatives like llama.cpp and LM Studio. Key points include the author's dissatisfaction with Ollama's recent updates, concerns about privacy implications and bloatware, user preference for alternatives like llama.cpp and LM Studio, discussion consensus favoring llama.cpp for its efficiency and recent improvements, and mention of LM Studio as a viable alternative to Ollama. The discussion reflects a general consensus among users that alternatives like llama.cpp and LM Studio are preferable to Ollama due to their focus on local model inference and recent improvements in functionality.
+**Summary:** The author expresses dissatisfaction with Ollama due to a perceived shift from its original purpose of providing a secure inference platform for local AI models. They cite concerns about the addition of proprietary cloud models, bloatware, and a decline in updates.
+
+**Key Points:**
+- Author used Ollama extensively but quit due to recent changes
+- Concerns about the addition of proprietary cloud models and bloatware
+- Perceived decline in updates and shift from the original purpose
+- Community sentiment favors alternatives like llama.cpp and LM Studio
+- Discussion highlights a preference for open-source and local model solutions
+
+**Discussion Highlights:** The discussion highlights a consensus among users favoring alternatives like llama.cpp and LM Studio, with a preference for open-source and local model solutions. Many users express dissatisfaction with Ollama's recent changes and perceive a shift away from its original purpose.
 
 ---
 
 ## 8. [Train a 4B model to beat Claude Sonnet 4.5 and Gemini Pro 2.5 at tool calling - for free (Colab included)](https://reddit.com/r/LocalLLaMA/comments/1pvgell/train_a_4b_model_to_beat_claude_sonnet_45_and/)
 
-**Author:** u/DecodeBytes | **Upvotes:** 189 | **Comments:** 43 | **Date:** 2025-12-25
+**Author:** u/DecodeBytes | **Upvotes:** 190 | **Comments:** 48 | **Date:** 2025-12-25
 
 **Summary:** The post discusses using Open Source DeepFabric to fine-tune a 4B model (Qwen3-4B) to outperform larger models like Claude Sonnet 4.5 and Gemini Pro 2.5 in tool calling tasks. The process involves generating domain-specific datasets and fine-tuning using Unsloth's framework, with a Colab notebook provided for replication.
 
 **Key Points:**
-- Open Source DeepFabric enables auto-generation of tool calling datasets and fine-tuning of SLMs.
-- Qwen3-4B fine-tuned model achieved 93.50% score, outperforming Claude Sonnet 4.5 (80.50%) and Gemini Pro 2.5 (47.00%).
-- The approach leverages domain-specific fine-tuning to create specialist models that excel in specific tasks.
+- Open Source DeepFabric enables auto-generation of tool calling datasets and fine-tuning of small language models.
+- A fine-tuned Qwen3-4B model outperformed Claude Sonnet 4.5 and Gemini Pro 2.5 in a specific tool calling task.
+- The approach leverages domain-specific training to create specialist models that excel in niche tasks.
+- A Google Colab notebook is provided for users to replicate the process for free.
 - Community feedback highlights interest in applying similar techniques to other domains like programming languages.
-- The project emphasizes the potential of small, highly trained models over large generalist models.
 
-**Discussion Highlights:** The community showed strong interest in the project, with requests for model weights and discussions on applying the technique to other domains. There was consensus on the effectiveness of small, specialized models for specific tasks.
+**Discussion Highlights:** The community shows strong interest in the potential of small, fine-tuned models to outperform larger generalist models in specific tasks. Key discussions include requests for model weights, applications to other domains, and the future of small parameter models for tool calling.
 
 ---
 
 ## 9. [GLM 4.7 has now taken #2 on Website Arena](https://reddit.com/r/LocalLLaMA/comments/1pv8dbb/glm_47_has_now_taken_2_on_website_arena/)
 
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 269 | **Comments:** 76 | **Date:** 2025-12-25
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 271 | **Comments:** 76 | **Date:** 2025-12-25
 
 **Summary:** GLM 4.7 has risen to #2 on Website Arena, ranking just behind Gemini 3 Pro Preview and surpassing other models like Claude 4.5 Opus. It is noted for its strong performance in text generation, particularly in role-play scenarios.
 
 **Key Points:**
-- GLM 4.7 is #1 among all open weight models
-- It ranks just behind Gemini 3 Pro Preview, a significant jump from GLM 4.6
-- Users report it performs well in real-world usage, especially in role-play scenarios
-- Some users express skepticism about its ranking compared to models like Claude 4.5 Opus
-- The model is praised for its text generation capabilities
+- GLM 4.7 is #1 among open weight models and ranks #2 overall on Website Arena.
+- It has made a significant jump from its previous version, GLM 4.6.
+- Users discuss its performance relative to other models like Claude 4.5 Opus and GPT 5.2.
+- Some users express skepticism about the rankings, while others confirm its effectiveness in real-world use cases.
+- The model is praised for its role-play capabilities.
 
-**Discussion Highlights:** The discussion highlights a mix of skepticism and praise for GLM 4.7. Some users question its ranking compared to established models like Claude 4.5 Opus, while others confirm its strong performance in specific use cases like role-play and text generation. Overall, there is a consensus that GLM 4.7 is a highly capable model, though opinions vary on its exact standing relative to other top models.
+**Discussion Highlights:** The discussion highlights a mix of skepticism and praise for GLM 4.7. Some users question its ranking above models like Claude 4.5 Opus, while others confirm its strong performance in practical applications, especially in text generation and role-play scenarios.
 
 ---
 
 ## 10. [FYI GLM 4.7 is way more censored than 4.6.](https://reddit.com/r/LocalLLaMA/comments/1pv2wwm/fyi_glm_47_is_way_more_censored_than_46/)
 
-**Author:** u/bigman11 | **Upvotes:** 149 | **Comments:** 52 | **Date:** 2025-12-24
+**Author:** u/bigman11 | **Upvotes:** 146 | **Comments:** 52 | **Date:** 2025-12-24
 
-**Summary:** The Reddit post discusses the increased censorship in GLM 4.7 compared to 4.6, noting that 4.6 was better for adult writing. Users share mixed experiences, with some reporting significant censorship and others noting minimal issues. The discussion highlights a consensus that GLM 4.7 has increased censorship and reduced creative writing quality compared to earlier versions. Users suggest that local versions may offer less censorship, and some recommend using fine-tuned versions of previous iterations for better performance.
+**Summary:** The Reddit post discusses how GLM 4.7 is more censored compared to 4.6, with users noting differences in behavior and performance, particularly in creative writing tasks. Key points include: GLM 4.7 is perceived as more censored than 4.6; users report that 4.6 was better for adult writing and creative tasks; some users experienced gaslighting behavior from GLM 4.7; the local version of GLM 4.7 may not be censored, but provider versions might be; and GLM 4.7 is considered a misfire for creative writing and personality prompting. The discussion highlights a consensus that GLM 4.7 is more censored and less effective for creative writing compared to previous versions. Users suggest that the local version may not have the same censorship issues as provider versions.
 
 ---
 
 ## 11. [All of the major open weight labs have shifted to large params general models instead of smaller, more focused models. By this time next year, there won’t be much “local” about this sub unless the paradigm shifts to smaller models good at specific domains.](https://reddit.com/r/LocalLLaMA/comments/1pv2cnz/all_of_the_major_open_weight_labs_have_shifted_to/)
 
-**Author:** u/LocoMod | **Upvotes:** 218 | **Comments:** 241 | **Date:** 2025-12-24
+**Author:** u/LocoMod | **Upvotes:** 218 | **Comments:** 242 | **Date:** 2025-12-24
 
-**Summary:** The post discusses the shift in open weight models towards larger sizes, making local execution difficult for most users. It highlights the need for smaller, domain-specific models to keep local tinkering viable.
+**Summary:** The post discusses a shift in open weight labs towards larger, general models, making it difficult for local users to run them without significant hardware. It calls for a return to smaller, domain-specific models to keep the 'local' aspect alive.
 
 **Key Points:**
-- Open weight labs are shifting to larger models, reducing local accessibility.
+- Open weight labs are shifting to larger models, making local execution difficult.
 - Users are resorting to lower quantization levels, impacting performance.
-- Smaller, domain-specific models are needed for local tinkering.
-- Recent releases like Mistral's 14B models and Qwen3 offer smaller alternatives.
-- Community sentiment is mixed, with some feeling entitled and others appreciative of free models.
+- There is a call for smaller, domain-specific models to maintain local usability.
+- Recent releases like Mistral's 14B models and Qwen3's smaller models are noted.
+- The community is divided on the feasibility of returning to smaller models.
 
-**Discussion Highlights:** The discussion highlights a divide in the community, with some users appreciating recent smaller model releases like Mistral's 14B family and Qwen3, while others express frustration at the trend towards larger models. There's a consensus that smaller, domain-specific models are necessary for local execution.
+**Discussion Highlights:** The discussion highlights a divide in the community, with some pointing to recent smaller model releases as counterexamples to the post's claims. Others agree with the sentiment, emphasizing the need for domain-specific models to keep local execution viable.
 
 ---
 
 ## 12. [Exclusive: Nvidia buying AI chip startup Groq's assets for about $20 billion in largest deal on record](https://reddit.com/r/LocalLLaMA/comments/1puyq9r/exclusive_nvidia_buying_ai_chip_startup_groqs/)
 
-**Author:** u/fallingdowndizzyvr | **Upvotes:** 649 | **Comments:** 146 | **Date:** 2025-12-24
+**Author:** u/fallingdowndizzyvr | **Upvotes:** 652 | **Comments:** 146 | **Date:** 2025-12-24
 
-**Summary:** Nvidia is acquiring AI chip startup Groq's assets for approximately $20 billion, marking the largest deal on record. The discussion highlights mixed reactions, with some seeing it as beneficial for market competition while others express concerns about industry consolidation and regulatory implications.
+**Summary:** Nvidia is acquiring AI chip startup Groq's assets for approximately $20 billion, marking the largest deal on record. The acquisition has sparked discussions about market competition and consolidation in the AI industry.
 
 **Key Points:**
-- Nvidia's acquisition of Groq's assets for $20 billion
-- Mixed reactions: positive for market competition vs. concerns about consolidation
-- Skepticism about Groq's valuation at $20 billion
-- Regulatory concerns and potential acquihire strategy
-- Speculation about future acquisitions (e.g., Cerebras)
+- Nvidia is buying Groq's assets for about $20 billion
+- The deal is the largest on record
+- Discussions highlight concerns about market consolidation
+- Some users question Groq's valuation at $20 billion
+- The acquisition is seen as a strategic move by Nvidia
 
-**Discussion Highlights:** The discussion reflects a divide between those who see the deal as fostering healthy competition and those who fear further industry consolidation. Regulatory challenges and the potential for an acquihire strategy are also key points of debate.
+**Discussion Highlights:** The discussion highlights a mix of opinions, with some users viewing the acquisition as beneficial for market competition, while others express concerns about further consolidation in the AI industry. There is also skepticism about Groq's valuation and the nature of the deal being an 'acquihire.'
 
 ---
 
 ## 13. [We asked OSS-120B and GLM 4.6 to play 1,408 Civilization V games from the Stone Age into the future. Here's what we found.](https://reddit.com/r/LocalLLaMA/comments/1pux0yc/we_asked_oss120b_and_glm_46_to_play_1408/)
 
-**Author:** u/vox-deorum | **Upvotes:** 611 | **Comments:** 138 | **Date:** 2025-12-24
+**Author:** u/vox-deorum | **Upvotes:** 612 | **Comments:** 138 | **Date:** 2025-12-24
 
-**Summary:** The post discusses an experiment where open-source LLMs (OSS-120B and GLM-4.6) were used to play 1,408 games of Civilization V. The LLMs showed slightly better performance in best scores but slightly worse win rates compared to the baseline AI. Notably, the LLMs developed distinct playstyles and could survive full games, a feat not achieved by pure-LLM or pure-RL approaches. Key points include: LLMs played 1,408 full Civilization V games with distinct strategies; OSS-120B favored a warmonger playstyle, while GLM-4.6 was more balanced; Both models preferred the Order ideology over Freedom; The cost per game was approximately $0.86 for OSS-120B; LLMs could survive full games, unlike previous pure-LLM or pure-RL approaches. The discussion highlights enthusiasm for integrating LLMs into multiplayer games and curiosity about the potential of smaller models. Users expressed interest in playing against local models and experimenting with AI in their games.
+**Summary:** The post discusses an experiment where open-source LLMs (OSS-120B and GLM-4.6) were used to play 1,408 games of Civilization V. The LLMs showed slightly better performance in best scores but slightly worse in win rates compared to the baseline AI. Notably, the LLMs developed distinct playstyles and could survive full games, a feat not achieved by pure-LLM or pure-RL approaches. Key points include: LLMs played 1,408 full Civilization V games with distinct strategies; OSS-120B favored a warmonger playstyle, while GLM-4.6 was more balanced; Both models preferred the Order ideology over Freedom; The cost per game was approximately $0.86 for OSS-120B; LLMs could survive full games, unlike previous pure-LLM or pure-RL approaches. The discussion highlights enthusiasm for integrating LLMs into multiplayer games and curiosity about the potential of smaller models. Users expressed interest in playing against local models and exploring more complex AI behaviors.
 
 ---
 
@@ -194,132 +213,132 @@
 
 **Author:** u/Responsible_Fig_1271 | **Upvotes:** 236 | **Comments:** 92 | **Date:** 2025-12-24
 
-**Summary:** The Reddit post discusses the removal of open-sourcing references for Minimax M2.1, with the author speculating about the company's motives and the community reacting with mixed opinions. The discussion includes mentions of financial troubles and a Twitter statement about open-sourcing.
+**Summary:** The Reddit post discusses the removal of open-sourcing references for Minimax M2.1, suggesting a possible shift to an API-only model, which has disappointed the community. The discussion includes speculation about financial troubles and mixed reactions from users.
 
 **Key Points:**
 - Open-sourcing references for Minimax M2.1 have been removed from the official page.
-- The author speculates that MiniMax may have decided to go API-only for monetary reasons.
-- Community members mention potential financial troubles and a Twitter statement confirming open-sourcing.
-- The community reaction is mixed, with some expressing disappointment and others advocating for trust in the company.
+- The community speculates that MiniMax may be shifting to an API-only model.
+- Some users express disappointment, while others remain hopeful based on past goodwill.
+- There is mention of financial troubles involving z.ai and MiniMax.
+- A comment suggests that the head of research indicated open-sourcing is still planned for Christmas.
 
-**Discussion Highlights:** The discussion highlights a mix of disappointment and trust in MiniMax, with some community members pointing to past goodwill and others speculating about financial motives. There is no clear consensus, but the community remains engaged in the topic.
+**Discussion Highlights:** The discussion highlights a mix of disappointment and hope. Some users believe MiniMax will follow through on open-sourcing based on past actions, while others speculate about financial issues. The overall consensus is uncertain but leans towards cautious optimism.
 
 ---
 
 ## 15. [The current state of sparse-MoE's for agentic coding work (Opinion)](https://reddit.com/r/LocalLLaMA/comments/1puglt8/the_current_state_of_sparsemoes_for_agentic/)
 
-**Author:** u/ForsookComparison | **Upvotes:** 258 | **Comments:** 78 | **Date:** 2025-12-24
+**Author:** u/ForsookComparison | **Upvotes:** 260 | **Comments:** 78 | **Date:** 2025-12-24
 
-**Summary:** The Reddit post discusses the current state of sparse-MoE models for agentic coding tasks, with mixed opinions on their effectiveness and comparisons to other models like GPT-OSS-120B and Qwen3-Next 80B.
+**Summary:** The Reddit post discusses the current state of sparse-MoE's for agentic coding work, with mixed opinions on their effectiveness and comparisons to other models like GPT-OSS-120B and Qwen3-Next 80B.
 
 **Key Points:**
-- Evaluation methods for sparse-MoE models are questioned.
-- GPT-OSS-120B is noted for its limitations in long-context agentic tasks beyond 64K tokens.
-- GPT-OSS-120B is considered superior to many models, with Qwen3-Next 80B as a potential exception.
-- K2 Thinking is mentioned as a possible alternative with better performance.
+- Evaluation methods for sparse-MoE's are questioned.
+- GPT-OSS-120B is noted for its limitations in long context agentic tasks.
+- Comparisons are made between GPT-OSS-120B and other models like Qwen3-Next 80B.
+- K2 Thinking is mentioned as a potential alternative.
 
-**Discussion Highlights:** The discussion highlights concerns about evaluation methods and performance limitations of current models, with some users advocating for specific models like GPT-OSS-120B and others pointing to alternatives like K2 Thinking.
+**Discussion Highlights:** The discussion highlights differing opinions on the effectiveness of sparse-MoE's, with some users favoring GPT-OSS-120B despite its limitations, and others suggesting alternatives like K2 Thinking.
 
 ---
 
 ## 16. [New 1B parameter open-source coding model getting 76% on HumanEval [shameless but proud self-plug]](https://reddit.com/r/LocalLLaMA/comments/1puf614/new_1b_parameter_opensource_coding_model_getting/)
 
-**Author:** u/More_Article9837 | **Upvotes:** 271 | **Comments:** 40 | **Date:** 2025-12-23
+**Author:** u/More_Article9837 | **Upvotes:** 276 | **Comments:** 40 | **Date:** 2025-12-23
 
-**Summary:** The post introduces Maincoder-1B, a 1B-parameter open-source coding model achieving 76% on HumanEval, designed for low-latency and low-cost inference, suitable for local/offline coding and interactive tools. The model is released under Apache 2.0 and is best for small, self-contained tasks.
+**Summary:** The post announces the release of Maincoder-1B, a 1B-parameter open-source coding model achieving 76% on HumanEval, designed for low-latency and low-cost inference. The model is released under Apache 2.0 and is suitable for interactive tools, local coding, and batch refactors. The discussion highlights its potential use in custom-built IDEs and NeoVim extensions, with positive feedback on its performance and usefulness.
 
 **Key Points:**
 - Maincoder-1B achieves 76% on HumanEval, unusually high for its size.
-- Designed for low-latency, low-cost inference, and local/offline use.
-- Released under Apache 2.0 with a 2k context window.
-- Useful for interactive tools, batch refactors, and search-based program synthesis.
-- Community feedback highlights potential use in custom IDEs or NeoVim extensions.
+- Designed for low-latency and low-cost inference, suitable for constrained hardware.
+- Useful for interactive tools, local/offline coding, and batch refactors.
+- Released under Apache 2.0 license.
+- Discussion highlights potential use in custom-built IDEs and NeoVim extensions.
 
-**Discussion Highlights:** The discussion highlights the model's suitability for simple tasks and its potential integration into custom-built IDEs or NeoVim extensions. Users appreciate the initiative and see value in small-but-strong coding models for specific use cases.
+**Discussion Highlights:** The discussion emphasizes the model's potential in custom-built IDEs and NeoVim extensions, with positive feedback on its performance and usefulness. Some users also mention its limitations, such as a 2048 token context window, making it best suited for simple tasks.
 
 ---
 
 ## 17. [I built Plano(A3B): most efficient LLMs for agent orchestration that exceed frontier model perf](https://reddit.com/r/LocalLLaMA/comments/1pudm4m/i_built_planoa3b_most_efficient_llms_for_agent/)
 
-**Author:** u/AdditionalWeb107 | **Upvotes:** 125 | **Comments:** 35 | **Date:** 2025-12-23
+**Author:** u/AdditionalWeb107 | **Upvotes:** 124 | **Comments:** 35 | **Date:** 2025-12-23
 
-**Summary:** The post introduces Plano-Orchestrator, a new family of LLMs designed for efficient multi-agent orchestration, capable of routing user requests to appropriate agents in sequence. It is integrated into Plano, a models-native proxy for agents, and is optimized for low-latency production deployments.
+**Summary:** The post introduces Plano-Orchestrator, a new family of LLMs designed for efficient multi-agent orchestration, capable of routing user requests to appropriate agents in sequence. It is integrated into Plano, a models-native proxy for agents, and is optimized for low-latency production deployments across various domains.
 
 **Key Points:**
-- Plano-Orchestrator acts as a supervisor agent in multi-agent systems, routing requests efficiently.
-- It is designed for multi-domain scenarios, including chat, coding, and long conversations.
-- The model is integrated into Plano, a proxy and dataplane for agents.
+- Plano-Orchestrator acts as a supervisor agent in multi-agent systems, deciding which agents handle requests and in what sequence.
+- Designed for multi-domain scenarios, including general chat, coding tasks, and multi-turn conversations.
+- Focused on improving real-world performance, latency, and efficiency in agent systems.
 - Users expressed interest in handling routing hallucinations and availability of gguf format.
-- Comparisons were made to other orchestration models like Nvidia's tool orchestrator.
+- Comparisons made to other systems like Nvidia's tool orchestrator and AgentZero.
 
-**Discussion Highlights:** The discussion highlights concerns about routing hallucinations, requests for gguf format availability, and comparisons to existing orchestration tools like Nvidia's model.
+**Discussion Highlights:** The discussion highlights concerns about routing hallucinations, requests for gguf format availability, and comparisons to existing agent systems like Nvidia's tool orchestrator. Users also sought clarification on compatible agent systems.
 
 ---
 
 ## 18. [Thoughts on DGX Spark as a macOS Companion: Two Months Later](https://reddit.com/r/LocalLLaMA/comments/1pu7pfi/thoughts_on_dgx_spark_as_a_macos_companion_two/)
 
-**Author:** u/PropellerheadViJ | **Upvotes:** 142 | **Comments:** 52 | **Date:** 2025-12-23
+**Author:** u/PropellerheadViJ | **Upvotes:** 147 | **Comments:** 52 | **Date:** 2025-12-23
 
-**Summary:** The post discusses the author's experience using the NVIDIA DGX Spark alongside a Mac for two months, highlighting its role as a CUDA-compatible companion for macOS users who face limitations with ML tools on Apple Silicon. The device is praised for its compact form factor and ability to run CUDA-dependent libraries, though its memory bandwidth is noted as a limitation compared to other high-end GPUs.
+**Summary:** The author shares their experience using the NVIDIA DGX Spark alongside their Mac for two months, highlighting its role as a CUDA companion for ML and SOTA research, given the lack of CUDA support on macOS. They discuss the device's limitations, such as lower memory bandwidth compared to other GPUs, but emphasize its practicality for R&D and experiments.
 
 **Key Points:**
-- The DGX Spark serves as a solution for macOS users needing CUDA support, which is lacking on Apple Silicon.
-- The device has a compact form factor and 128 GB of unified memory, making it a practical companion for Mac users.
-- Memory bandwidth (273 GB/s) is a noted limitation compared to other GPUs like the RTX 4090 or M4 Ultra.
-- The post highlights the challenges of dependency management outside x86 environments, resonating with other users' experiences.
-- Some commenters suggest renting cloud-based CUDA systems as a cost-effective alternative.
+- DGX Spark serves as a CUDA companion for Mac users, enabling access to CUDA-dependent libraries and tools.
+- The device has lower memory bandwidth (273 GB/s) compared to alternatives like RTX 4090 and M4 Ultra, making it less ideal for maximum inference speed.
+- The author values the Spark for its ability to supplement their Mac setup without requiring a platform switch.
+- Discussion highlights include the challenges of dependency management outside x86 environments and the cost-effectiveness of renting CUDA access.
+- Some users prefer a similar setup with a larger companion GPU for their Mac-based workflows.
 
-**Discussion Highlights:** The discussion highlights a consensus on the challenges of working with non-x86 environments for ML tasks. Users appreciate the DGX Spark as a viable solution for local CUDA support but acknowledge its limitations in memory bandwidth. Alternatives like cloud-based CUDA access are also discussed as cost-effective options.
+**Discussion Highlights:** The discussion highlights the challenges of working outside the x86 ecosystem, with users sharing their experiences with dependency management and alternative setups. There is a consensus that while the DGX Spark is useful for specific use cases, renting CUDA access or using larger companion GPUs may be more cost-effective or practical for some users.
 
 ---
 
 ## 19. [Uncensored Qwen3-Next-80B-Thinking (Chinese political censorship removed)](https://reddit.com/r/LocalLLaMA/comments/1pu5bob/uncensored_qwen3next80bthinking_chinese_political/)
 
-**Author:** u/ikergarcia1996 | **Upvotes:** 138 | **Comments:** 48 | **Date:** 2025-12-23
+**Author:** u/ikergarcia1996 | **Upvotes:** 142 | **Comments:** 48 | **Date:** 2025-12-23
 
-**Summary:** Multiverse Computing released an uncensored version of Qwen3-Next-80B-Thinking, removing Chinese political censorship while maintaining robustness against jailbreaks. The model uses steering vectors to disable refusals only for Chinese sensitive topics, ensuring balanced and objective answers.
+**Summary:** Multiverse Computing released an uncensored version of Qwen3-Next-80B-Thinking, removing Chinese political censorship while maintaining balanced, objective answers. The model uses steering vectors to disable refusals only for Chinese sensitive topics, ensuring robustness against jailbreaks.
 
 **Key Points:**
-- Uncensored version of Qwen3-Next-80B-Thinking released, removing Chinese political censorship.
-- Uses steering vectors to disable refusals only for Chinese sensitive topics.
-- Model remains robust against jailbreaks and maintains performance on non-sensitive topics.
-- Mixed reactions in the discussion, with some users appreciating the removal of censorship and others preferring fully uncensored models.
-- Debate on the practical use of political questions versus other functionalities like coding.
+- Uncensored version of Qwen3-Next-80B-Thinking released with Chinese political censorship removed.
+- Model provides balanced, objective answers for Chinese politically sensitive topics.
+- Uses steering vectors to disable refusals only for Chinese sensitive topics, maintaining safety elsewhere.
+- Designed to be robust against jailbreaks and maintains original model performance.
+- Community reactions vary, with some appreciating the removal of censorship and others desiring full uncensoring.
 
-**Discussion Highlights:** The discussion highlights mixed reactions, with some users supporting the removal of censorship and others expressing a preference for fully uncensored models. There is also a debate on the practical use of political questions versus other functionalities like coding.
+**Discussion Highlights:** The community generally supports the removal of censorship, though some express a preference for fully uncensored models. Discussions also touch on the practical use of models for tasks like coding, and questions about the extent of uncensoring.
 
 ---
 
 ## 20. [Saw this on local marketplace, must be from a fellow r/LocalLLaMA here](https://reddit.com/r/LocalLLaMA/comments/1pu1uq6/saw_this_on_local_marketplace_must_be_from_a/)
 
-**Author:** u/bobaburger | **Upvotes:** 177 | **Comments:** 59 | **Date:** 2025-12-23
+**Author:** u/bobaburger | **Upvotes:** 178 | **Comments:** 59 | **Date:** 2025-12-23
 
-**Summary:** A Reddit post in r/LocalLLaMA discusses a marketplace listing likely related to local AI hardware, with users speculating about the device's specifications and humorously comparing it to other tech.
+**Summary:** A Reddit post in r/LocalLLaMA discusses a marketplace listing, with users speculating about the hardware inside and its potential value.
 
 **Key Points:**
-- Users speculate the device could be a 1B model running on a Raspberry Pi.
-- The device is suggested to resemble a debranded Beelink SER5.
-- Cost-effectiveness is questioned, with comparisons to PC upgrades.
-- Humorous comments include 'lawyer in a box' and references to Silicon Valley's 'the box'.
+- Speculation about the hardware being a 1B model on a Pi or a Beelink SER5
+- Debate on whether the device is cost-effective compared to upgrading a PC
+- Humorous comparisons to 'lawyer in a box' and references to Silicon Valley's 'the box'
+- Community engagement with 178 upvotes and 59 comments
 
-**Discussion Highlights:** The discussion is speculative and humorous, with users debating the hardware's potential and joking about its purpose.
+**Discussion Highlights:** The discussion revolves around identifying the hardware in the marketplace listing, with users suggesting it could be a low-power device like a Raspberry Pi or a Beelink SER5. There's a consensus that it might not be worth the investment if the user already owns a PC, but the post has sparked humorous and engaging commentary within the community.
 
 ---
 
 ## 21. [AudioGhost AI: Run Meta's SAM-Audio on 4GB-6GB VRAM with a Windows One-Click Installer 👻🎵](https://reddit.com/r/LocalLLaMA/comments/1ptz6xy/audioghost_ai_run_metas_samaudio_on_4gb6gb_vram/)
 
-**Author:** u/GGwithRabbit | **Upvotes:** 120 | **Comments:** 36 | **Date:** 2025-12-23
+**Author:** u/GGwithRabbit | **Upvotes:** 119 | **Comments:** 36 | **Date:** 2025-12-23
 
-**Summary:** AudioGhost AI is an open-source tool that enables running Meta's SAM-Audio on lower VRAM GPUs (4GB-6GB) with a user-friendly Windows installer and modern interface, making advanced audio separation accessible to more users.
+**Summary:** AudioGhost AI is an open-source tool that enables running Meta's SAM-Audio on lower VRAM GPUs (4GB-6GB) with a user-friendly Windows installer, making advanced audio separation accessible to more users.
 
 **Key Points:**
 - AudioGhost AI reduces VRAM usage for SAM-Audio, making it accessible on consumer GPUs.
-- Features a one-click Windows installer and a modern Next.js + Tailwind UI.
-- Performance metrics show the Small model uses ~6GB VRAM and processes audio in ~25 seconds.
-- The tool is privacy-focused, running entirely on local hardware.
-- Discussion includes mentions of CPU-only execution and user feedback.
+- Features a one-click Windows installer and a modern UI with real-time waveform visualization.
+- Performance metrics show efficient processing times for both Small and Large models.
+- Community feedback includes CPU-only implementations and general enthusiasm for the tool.
 
-**Discussion Highlights:** Users discussed running the Large model on CPU, with one user noting a 30-60 second processing time. Other comments expressed enthusiasm and curiosity about additional features like speech-to-text.
+**Discussion Highlights:** Users shared experiences with CPU-only implementations and expressed interest in trying the tool, with some questions about additional features like STT.
 
 ---
 
@@ -327,141 +346,159 @@
 
 **Author:** u/Difficult-Cap-7527 | **Upvotes:** 231 | **Comments:** 31 | **Date:** 2025-12-23
 
-**Summary:** Qwen has released Qwen-Image-Edit-2511, a significant upgrade over the previous version, featuring improved multi-person consistency, built-in LoRAs, enhanced industrial design generation, reduced image drift, and better geometric reasoning.
+**Summary:** Qwen has released Qwen-Image-Edit-2511, a significant upgrade over the previous version, featuring improvements in multi-person consistency, built-in LoRAs, enhanced industrial design generation, reduced image drift, and improved geometric reasoning.
 
 **Key Points:**
 - Stronger multi-person consistency for group photos and complex scenes
 - Built-in popular community LoRAs requiring no extra tuning
-- Enhanced industrial and product design generation capabilities
+- Enhanced industrial and product design generation
 - Reduced image drift with improved character and identity consistency
-- Improved geometric reasoning for construction lines and structural edits
+- Improved geometric reasoning, including construction lines and structural edits
 
-**Discussion Highlights:** The community is excited about the release, with comments highlighting the early Christmas gift feeling, the availability of a lighting LoRA for faster inference, and questions about hardware requirements for running the model.
+**Discussion Highlights:** The community is excited about the release, with comments highlighting the availability of a lighting LoRA for faster inference and discussions about hardware requirements for running the model.
 
 ---
 
 ## 23. [AMA With Z.AI, The Lab Behind GLM-4.7](https://reddit.com/r/LocalLLaMA/comments/1ptxm3x/ama_with_zai_the_lab_behind_glm47/)
 
-**Author:** u/zixuanlimit | **Upvotes:** 564 | **Comments:** 403 | **Date:** 2025-12-23
+**Author:** u/zixuanlimit | **Upvotes:** 561 | **Comments:** 403 | **Date:** 2025-12-23
 
-**Summary:** The post announces an AMA session with Z.AI, the research lab behind GLM-4.7, featuring several team members. The session is scheduled for 8 AM – 11 AM PST, with follow-ups over 48 hours.
+**Summary:** The post announces an AMA session with Z.AI, the research lab behind GLM-4.7, featuring team members answering questions from the community. The session is scheduled for 8 AM – 11 AM PST, with follow-ups over the next 48 hours.
 
 **Key Points:**
 - AMA session with Z.AI team members
-- Scheduled for 8 AM – 11 AM PST with 48-hour follow-up
-- Community questions focus on future releases, censorship, training challenges, and creative writing applications
+- Scheduled for 8 AM – 11 AM PST with 48-hour follow-ups
+- Community questions about future releases, censorship, training challenges, and creative writing applications
+- High engagement with 561 upvotes and 403 comments
 
-**Discussion Highlights:** The community shows strong interest in future developments, ethical considerations, technical challenges, and potential applications of the GLM-4.7 model.
+**Discussion Highlights:** The community is highly engaged, with top comments focusing on future developments, ethical concerns, technical challenges, and potential applications of the GLM-4.7 model.
 
 ---
 
 ## 24. [How to run the GLM-4.7 model locally on your own device (guide)](https://reddit.com/r/LocalLLaMA/comments/1ptttcm/how_to_run_the_glm47_model_locally_on_your_own/)
 
-**Author:** u/Dear-Success-1441 | **Upvotes:** 167 | **Comments:** 45 | **Date:** 2025-12-23
+**Author:** u/Dear-Success-1441 | **Upvotes:** 172 | **Comments:** 47 | **Date:** 2025-12-23
 
-**Summary:** The post discusses the GLM-4.7 model, highlighting its improved performance and storage requirements, with a focus on its capabilities and the trade-offs of using quantized versions.
+**Summary:** The Reddit post discusses how to run the GLM-4.7 model locally, highlighting its performance improvements over GLM-4.6 and the significant reduction in disk space usage with quantization techniques.
 
 **Key Points:**
-- GLM-4.7 delivers stronger coding, agent, and chat performance compared to GLM-4.6
-- It achieves SOTA performance on benchmarks like SWE-bench and Terminal Bench 2.0
-- The full model requires 400GB of disk space, while the quantized version reduces this to 134GB
-- Concerns about the impact of quantization on model performance
-- Performance trade-offs, with some users noting slower token generation rates
+- GLM-4.7 is Z.ai’s latest model with improved coding, agent, and chat performance.
+- It achieves state-of-the-art performance on benchmarks like SWE-bench and Terminal Bench 2.0.
+- The full model requires 400GB of disk space, but quantization reduces it to 134GB.
+- Users question the trade-offs of quantization and performance.
+- Running the model locally may be slow for most users.
 
-**Discussion Highlights:** The discussion highlights concerns about the trade-offs of using quantized models, with some users questioning the impact on performance and others noting potential slowdowns in token generation.
+**Discussion Highlights:** The discussion highlights concerns about the impact of quantization on model performance and the practicality of running such a large model locally, with users noting potential slow processing speeds.
 
 ---
 
-## 25. [Unsloth GLM-4.7 GGUF](https://reddit.com/r/LocalLLaMA/comments/1ptk5fs/unsloth_glm47_gguf/)
+## 25. [r/LocalLLaMA - a year in review](https://reddit.com/r/LocalLLaMA/comments/1ptr3lv/rlocalllama_a_year_in_review/)
 
-**Author:** u/Wooden-Deer-1276 | **Upvotes:** 213 | **Comments:** 39 | **Date:** 2025-12-22
+**Author:** u/Everlier | **Upvotes:** 118 | **Comments:** 34 | **Date:** 2025-12-23
 
-**Summary:** The Reddit post announces the release of the Unsloth GLM-4.7 GGUF model on Hugging Face, with ongoing uploads of various quantizations and community discussions about their usability.
+**Summary:** The Reddit post reviews the year 2025 in the r/LocalLLaMA community, highlighting key events such as the release of DeepSeek V3 and its impact on the AI market, as well as community reactions and discussions.
+
+**Key Points:**
+- Release of DeepSeek V3 marked the 'Year of the Open Source Strike Back'.
+- Sam Altman's veiled shots at DeepSeek indicated market changes.
+- Community discussions included hardware upgrades and model comparisons.
+- Meta's reported panic and scrambling in response to DeepSeek.
+- Community engagement and sentiment reflected in top comments.
+
+**Discussion Highlights:** The community showed gratitude for DeepSeek's impact on hardware upgrades, praised the community's engagement, and discussed various models like Qwen 3 30B A3B and GPT-OSS 20B. Some members noted the relatively low upvotes for top posts given the community size.
+
+---
+
+## 26. [Unsloth GLM-4.7 GGUF](https://reddit.com/r/LocalLLaMA/comments/1ptk5fs/unsloth_glm47_gguf/)
+
+**Author:** u/Wooden-Deer-1276 | **Upvotes:** 211 | **Comments:** 39 | **Date:** 2025-12-22
+
+**Summary:** The Reddit post announces the release of Unsloth GLM-4.7 GGUF model on Hugging Face, with ongoing uploads of various quantizations and a guide provided for users.
 
 **Key Points:**
 - Unsloth GLM-4.7 GGUF model released on Hugging Face
-- Multiple quantizations (e.g., Q8, Q4) are being uploaded, with some still pending
-- Community is actively discussing the model's capabilities and hardware requirements
-- A guide is available for users to follow
-- Technical queries include suitability of Q4 quantization for serious coding tasks
+- Multiple quantizations (e.g., Q8, Q4) being uploaded, with some still pending
+- Guide available for users
+- Community discussion includes queries about model sizes and suitability for tasks like coding
+- Positive community response to the rapid release pace
 
-**Discussion Highlights:** The community shows strong interest in the model's release, with discussions focusing on the availability of different quantizations, their sizes (e.g., Q2 at 131GB), and practical usability for tasks like coding. There is also appreciation for the developer's rapid work.
+**Discussion Highlights:** The community is actively engaged, with discussions focusing on model sizes (e.g., Q2 at 131GB), suitability for tasks like coding, and appreciation for the quick release. Some users are awaiting specific quantizations to complete uploading.
 
 ---
 
-## 26. [DGX Spark: an unpopular opinion](https://reddit.com/r/LocalLLaMA/comments/1ptdtmz/dgx_spark_an_unpopular_opinion/)
+## 27. [DGX Spark: an unpopular opinion](https://reddit.com/r/LocalLLaMA/comments/1ptdtmz/dgx_spark_an_unpopular_opinion/)
 
-**Author:** u/emdblc | **Upvotes:** 713 | **Comments:** 214 | **Date:** 2025-12-22
+**Author:** u/emdblc | **Upvotes:** 720 | **Comments:** 214 | **Date:** 2025-12-22
 
 **Summary:** The author, a doctoral student, shares their positive experience with the DGX Spark, highlighting its benefits for small research groups with limited resources. They emphasize its all-in-one design and massive memory, which enable them to compete with groups having access to high-performance GPUs.
 
 **Key Points:**
 - DGX Spark is beneficial for small research groups with limited computing resources.
 - It enables prototyping and training of foundation models, competing with high-performance GPU groups.
-- The Spark's all-in-one design and massive memory are advantageous despite not being faster than H100 or 5090.
-- The device is designed for users like the author, who have limited funding and access to high-performance GPUs.
-- Comparisons with other GPUs like the 3090 are made, noting that multiple 3090s can outperform a single DGX Spark.
+- The Spark's all-in-one design and massive memory are advantageous for research.
+- It is not faster than high-end GPUs like H100s but provides significant VRAM and power efficiency.
+- The Spark is designed for users like the author, despite some community criticism.
 
-**Discussion Highlights:** The discussion generally supports the author's opinion, with many comments agreeing that the DGX Spark is well-suited for its intended use case. Some comments highlight its advantages in terms of VRAM and power usage, while others note its limitations compared to other GPUs.
+**Discussion Highlights:** The discussion highlights a consensus that the DGX Spark is well-suited for its intended use case, particularly for small research groups with limited resources. Many commenters agree that it provides a significant amount of VRAM and is power-efficient, though it may not match the performance of high-end GPUs.
 
 ---
 
-## 27. [GLM-4.7 GGUF is here!](https://reddit.com/r/LocalLLaMA/comments/1ptb4jj/glm47_gguf_is_here/)
+## 28. [GLM-4.7 GGUF is here!](https://reddit.com/r/LocalLLaMA/comments/1ptb4jj/glm47_gguf_is_here/)
 
 **Author:** u/KvAk_AKPlaysYT | **Upvotes:** 181 | **Comments:** 23 | **Date:** 2025-12-22
 
-**Summary:** The post announces the release of GLM-4.7 GGUF, a large model currently being quantized, with a link to its Hugging Face repository. The discussion includes comments about duplicate threads, requests for optimized versions, and humorous remarks about hardware limitations.
+**Summary:** The post announces the release of GLM-4.7 GGUF, a large model currently being quantized, with a link to its Hugging Face repository. The community discusses the model's size and expresses interest in optimized versions.
 
 **Key Points:**
-- GLM-4.7 GGUF has been released and is available on Hugging Face.
-- The model is still being quantized due to its large size.
-- Users express interest in optimized versions like 'Air' or pruned variants.
-- Some comments highlight hardware limitations and VRAM constraints.
-- There is a mention of a duplicate thread about the same release.
+- GLM-4.7 GGUF model is now available on Hugging Face
+- The model is still undergoing quantization
+- Community shows interest in optimized versions (e.g., Air version, pruned versions)
+- Some users joke about hardware limitations (VRAM/RAM constraints)
+- Duplicate thread noted by one commenter
 
-**Discussion Highlights:** The discussion is light-hearted with users joking about hardware limitations and expressing interest in more efficient versions of the model. There is also a note about a duplicate thread, indicating the release has been announced elsewhere.
+**Discussion Highlights:** The discussion highlights community excitement about the model release, with requests for optimized versions to accommodate hardware limitations. Some users humorously reference VRAM and RAM constraints, while others note the existence of a duplicate thread.
 
 ---
 
-## 28. [GLM 4.7 released!](https://reddit.com/r/LocalLLaMA/comments/1pt5jfn/glm_47_released/)
+## 29. [GLM 4.7 released!](https://reddit.com/r/LocalLLaMA/comments/1pt5jfn/glm_47_released/)
 
-**Author:** u/ResearchCrafty1804 | **Upvotes:** 334 | **Comments:** 94 | **Date:** 2025-12-22
+**Author:** u/ResearchCrafty1804 | **Upvotes:** 327 | **Comments:** 94 | **Date:** 2025-12-22
 
-**Summary:** GLM-4.7 has been released with significant improvements in coding, complex reasoning, and tool usage, setting new open-source SOTA standards. It also enhances performance in chat, creative writing, and role-play scenarios.
+**Summary:** GLM-4.7 has been released with significant improvements in coding, reasoning, and tool usage, setting new open-source standards. It also enhances performance in chat, creative writing, and role-play scenarios.
 
 **Key Points:**
-- GLM-4.7 surpasses GLM-4.6 with substantial improvements in coding, complex reasoning, and tool usage
-- It sets new open-source SOTA standards and boosts performance in chat, creative writing, and role-play scenarios
-- The model introduces features like Interleaved Thinking, Preserved Thinking, and Turn-level Thinking
-- Users are eagerly awaiting the Unsloth UD_Q2_K_XL quant for testing
-- The model is praised for its performance, though some users note it doesn't surpass proprietary models like GPT 5.0
+- GLM-4.7 surpasses previous versions with improvements in coding, complex reasoning, and tool usage.
+- It sets new open-source SOTA standards and boosts performance in various scenarios.
+- Users are eagerly awaiting the Unsloth UD_Q2_K_XL quant for testing.
+- The model introduces features like Interleaved Thinking, Preserved Thinking, and Turn-level Thinking.
+- Comparisons with other models like Gemini 3.0 and GPT 5.0 are discussed.
 
-**Discussion Highlights:** The community is excited about the release, with many users highlighting the model's advanced features and performance. Some are waiting for specific quantizations to test the model, while others compare it favorably to other models like Gemini 3.0. Overall, the consensus is that GLM-4.7 is a significant advancement in open-source models.
+**Discussion Highlights:** Users are excited about the release and its capabilities, with some noting its performance in specific tasks like the rotating house demo. There is also discussion about its comparison with other advanced models like GPT 5.0.
 
 ---
 
-## 29. [GLM 4.7 is out on HF!](https://reddit.com/r/LocalLLaMA/comments/1pt5heq/glm_47_is_out_on_hf/)
+## 30. [GLM 4.7 is out on HF!](https://reddit.com/r/LocalLLaMA/comments/1pt5heq/glm_47_is_out_on_hf/)
 
-**Author:** u/KvAk_AKPlaysYT | **Upvotes:** 585 | **Comments:** 125 | **Date:** 2025-12-22
+**Author:** u/KvAk_AKPlaysYT | **Upvotes:** 593 | **Comments:** 125 | **Date:** 2025-12-22
 
-**Summary:** The Reddit post announces the release of GLM 4.7 on Hugging Face, garnering significant attention with 585 upvotes and 125 comments. The community is engaged and enthusiastic about the new model.
+**Summary:** The Reddit post announces the release of GLM 4.7 on Hugging Face, garnering significant attention with 593 upvotes and 125 comments. The community is engaged, with discussions highlighting the model's improvements and comparisons to other models.
 
 **Key Points:**
 - GLM 4.7 is now available on Hugging Face
-- The post received 585 upvotes and 125 comments
-- Community members appreciate the incremental improvements and faster performance
-- Diagrams in the reasoning/planning stage are noted as a new feature
-- There is anticipation for future releases like Gemma 4
+- The post received 593 upvotes and 125 comments
+- Community discussions include comparisons with other models like Minimax and Gemma 4
+- Notable comments mention the model's speed and incremental improvements
+- The post was featured on Discord and the author received a special flair
 
-**Discussion Highlights:** The discussion highlights enthusiasm for the new model, with users noting its faster performance and incremental improvements. There is also a sense of anticipation for future releases, and the community appreciates the inclusion of diagrams in the reasoning/planning stage.
+**Discussion Highlights:** The community is excited about the release, with discussions focusing on the model's performance improvements and comparisons to other models. Some users express skepticism about benchmarks but acknowledge the model's potential. The post's popularity is highlighted by its feature on Discord and the author's special flair.
 
 ---
 
-## 30. [I made Soprano-80M: Stream ultra-realistic TTS in &lt;15ms, up to 2000x realtime, and &lt;1 GB VRAM, released under Apache 2.0!](https://reddit.com/r/LocalLLaMA/comments/1pt3sco/i_made_soprano80m_stream_ultrarealistic_tts_in/)
+## 31. [I made Soprano-80M: Stream ultra-realistic TTS in &lt;15ms, up to 2000x realtime, and &lt;1 GB VRAM, released under Apache 2.0!](https://reddit.com/r/LocalLLaMA/comments/1pt3sco/i_made_soprano80m_stream_ultrarealistic_tts_in/)
 
-**Author:** u/eugenekwek | **Upvotes:** 626 | **Comments:** 100 | **Date:** 2025-12-22
+**Author:** u/eugenekwek | **Upvotes:** 627 | **Comments:** 100 | **Date:** 2025-12-22
 
-**Summary:** Eugene Kwek introduced Soprano-80M, a state-of-the-art TTS model designed for ultra-low latency and high-speed audio generation, achieving <15ms latency and up to 2000x realtime speed. The model uses a 32 kHz sample rate and a vocoder-based decoder for superior audio quality and speed.
+**Summary:** Eugene Kwek introduced Soprano-80M, a state-of-the-art TTS model designed for ultra-low latency and high-speed audio generation, achieving <15ms latency and up to 2000x realtime speed. The model uses a 32 kHz sample rate and a vocoder-based decoder for superior audio quality and performance.
 
 **Key Points:**
 - Soprano-80M achieves <15ms latency and up to 2000x realtime speed.
@@ -470,306 +507,291 @@
 - Can generate a 10-hour audiobook in under 20 seconds.
 - Released under Apache 2.0 license.
 
-**Discussion Highlights:** Users praised the model's speed and performance, with one comment noting it spends minimal time on GPU before generating long audio outputs quickly. Another user inquired about the finetuning code, and there was a question about the hardware used for achieving the high realtime factor.
+**Discussion Highlights:** The community praised the model's speed and performance, with one user noting its efficiency in long-form audio generation. Another user inquired about the finetuning code, indicating interest in further development.
 
 ---
 
-## 31. [GLM-4.7 Scores 42% on Humanities Last Exam?!](https://reddit.com/r/LocalLLaMA/comments/1pt27mo/glm47_scores_42_on_humanities_last_exam/)
+## 32. [GLM-4.7 Scores 42% on Humanities Last Exam?!](https://reddit.com/r/LocalLLaMA/comments/1pt27mo/glm47_scores_42_on_humanities_last_exam/)
 
 **Author:** u/domlincog | **Upvotes:** 170 | **Comments:** 86 | **Date:** 2025-12-22
 
-**Summary:** The Reddit post discusses GLM-4.7's performance, scoring 42% on the Humanities Last Exam (HLE), which is considered significant. The discussion includes comments on pricing, performance comparisons, and availability. Key points include GLM-4.7's score on the HLE, the pricing plan of $28.8 for a year, performance comparisons with other models like Sonnet 4.5, availability on platforms like Open Router, and a typo in the post title. The discussion highlights the significance of GLM-4.7's performance on the HLE, with users expressing surprise and interest in its pricing and availability, and a focus on correcting a typo in the post title.
+**Summary:** The Reddit post discusses GLM-4.7's performance on the Humanities Last Exam (HLE), where it scored 42%, and highlights its competitive pricing at $28.8 for a year. The community is impressed with its performance and affordability. Key points include: GLM-4.7 scored 42% on the Humanities Last Exam (HLE), the pricing plan is $28.8 for a year, GLM-4.7 has surpassed Sonnet 4.5 in the SWE bench, there is a typo in the post title, and the community is excited about the performance and pricing of GLM-4.7. The discussion highlights the impressive performance of GLM-4.7 on the HLE and its competitive pricing, with users excited about its capabilities and affordability.
 
 ---
 
-## 32. [NVIDIA made a beginner's guide to fine-tuning LLMs with Unsloth!](https://reddit.com/r/LocalLLaMA/comments/1pt18x4/nvidia_made_a_beginners_guide_to_finetuning_llms/)
+## 33. [NVIDIA made a beginner's guide to fine-tuning LLMs with Unsloth!](https://reddit.com/r/LocalLLaMA/comments/1pt18x4/nvidia_made_a_beginners_guide_to_finetuning_llms/)
 
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 507 | **Comments:** 36 | **Date:** 2025-12-22
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 500 | **Comments:** 36 | **Date:** 2025-12-22
 
 **Summary:** NVIDIA released a beginner's guide to fine-tuning LLMs using Unsloth, covering training methods, use-cases, data requirements, and local training options on DGX Spark and RTX GPUs.
 
 **Key Points:**
-- Training methods covered: LoRA, FFT, RL
-- Guidance on when to fine-tune and use-cases
-- Details on data and VRAM requirements
-- Instructions for local training on DGX Spark and RTX GPUs
-- Mixed community reactions, with appreciation for open-source efforts but concerns about corporate responsibility
+- Training methods include LoRA, FFT, and RL
+- Guide covers when to fine-tune, use-cases, and data/VRAM requirements
+- Local training options on DGX Spark and RTX GPUs are discussed
+- Community appreciates open-source contributions but expresses concerns about corporate responsibility
+- Some users inquire about compatibility with AMD GPUs
 
-**Discussion Highlights:** The community generally appreciates NVIDIA's open-source contributions and the guide's usefulness, though some express concerns about corporate responsibility and compatibility with non-NVIDIA hardware like AMD GPUs.
+**Discussion Highlights:** The community shows appreciation for open-source tools and NVIDIA's contributions but also expresses concerns about corporate responsibility. There is curiosity about AMD GPU compatibility and some technical issues reported.
 
 ---
 
-## 33. [Jan-v2-VL-Max: A 30B multimodal model outperforming Gemini 2.5 Pro and DeepSeek R1 on execution-focused benchmarks](https://reddit.com/r/LocalLLaMA/comments/1psw818/janv2vlmax_a_30b_multimodal_model_outperforming/)
+## 34. [Jan-v2-VL-Max: A 30B multimodal model outperforming Gemini 2.5 Pro and DeepSeek R1 on execution-focused benchmarks](https://reddit.com/r/LocalLLaMA/comments/1psw818/janv2vlmax_a_30b_multimodal_model_outperforming/)
 
 **Author:** u/Delicious_Focus3465 | **Upvotes:** 133 | **Comments:** 25 | **Date:** 2025-12-22
 
-**Summary:** The Jan team has released Jan-v2-VL-max, a 30B multimodal model designed for long-horizon execution. It outperforms DeepSeek R1 and Gemini 2.5 Pro on execution-focused benchmarks and is available for public testing on their platform.
+**Summary:** The Jan team released Jan-v2-VL-max, a 30B multimodal model optimized for long-horizon execution, outperforming DeepSeek R1 and Gemini 2.5 Pro on execution-focused benchmarks. The model is available for testing on their public interface and can be run locally via provided links.
 
 **Key Points:**
 - Jan-v2-VL-max is a 30B multimodal model built for long-horizon execution.
 - It outperforms DeepSeek R1 and Gemini 2.5 Pro on the Illusion of Diminishing Returns benchmark.
-- The model is available on chat.jan.ai and can be run locally via Hugging Face.
-- It uses LoRA-based RLVR to improve stability and reduce error accumulation.
-- The model is released under the Apache-2.0 license.
+- The model is available on a public interface and can be run locally using provided configurations.
+- It is released under the Apache-2.0 license and supports FP8 inference.
+- The community response is generally positive, with users expressing excitement and interest in testing the model.
 
-**Discussion Highlights:** The community is generally positive about the release, with users expressing excitement to try the model. Some users are skeptical about the performance claims, while others are curious about the implementation details of the model's features.
+**Discussion Highlights:** The discussion highlights include benchmark results shared by users, general enthusiasm for the release, and some skepticism about the effectiveness of MoE models of this size. Users also inquired about the implementation details of the deep research feature on the platform.
 
 ---
 
-## 34. [GLM 4.7 IS COMING!!!](https://reddit.com/r/LocalLLaMA/comments/1psuy8g/glm_47_is_coming/)
+## 35. [GLM 4.7 IS COMING!!!](https://reddit.com/r/LocalLLaMA/comments/1psuy8g/glm_47_is_coming/)
 
-**Author:** u/External_Mood4719 | **Upvotes:** 186 | **Comments:** 49 | **Date:** 2025-12-22
+**Author:** u/External_Mood4719 | **Upvotes:** 184 | **Comments:** 49 | **Date:** 2025-12-22
 
-**Summary:** Zhipu is releasing GLM-4.7, their latest model with enhanced coding capabilities and tool orchestration. Early access beta is open for feedback, focusing on real-world development scenarios.
+**Summary:** Zhipu is releasing GLM-4.7, their latest model with enhanced coding capabilities and tool orchestration, now in Early Access Beta for long-term supporters. The beta aims to gather feedback on real-world development scenarios to improve the model's performance.
 
 **Key Points:**
 - GLM-4.7 features enhanced coding capabilities and tool orchestration.
-- Early access beta is open for long-term supporters to provide feedback.
-- Beta period runs from December 22, 2025, to the official release.
+- Early Access Beta is open for long-term supporters to provide feedback.
+- Beta period runs from December 22, 2025, until the official release.
 - Feedback channels include direct group feedback and topic posts for issues.
 - Current early access form is only available for Chinese users.
 
-**Discussion Highlights:** Users expressed excitement about the release, with some questioning the availability and specifics of the early access program. There was also a focus on coding capabilities and future plans like 'GLM Air'.
+**Discussion Highlights:** The discussion includes a mix of excitement about the release, questions about availability and features, and some confusion about the feedback process and group mentioned in the post.
 
 ---
 
-## 35. [MiniMax M2.1 is a straight up beast at UI/UX design. Just saw this demo...](https://reddit.com/r/LocalLLaMA/comments/1pstuyv/minimax_m21_is_a_straight_up_beast_at_uiux_design/)
+## 36. [MiniMax M2.1 is a straight up beast at UI/UX design. Just saw this demo...](https://reddit.com/r/LocalLLaMA/comments/1pstuyv/minimax_m21_is_a_straight_up_beast_at_uiux_design/)
 
-**Author:** u/BlackRice_hmz | **Upvotes:** 135 | **Comments:** 37 | **Date:** 2025-12-22
+**Author:** u/BlackRice_hmz | **Upvotes:** 139 | **Comments:** 37 | **Date:** 2025-12-22
 
-**Summary:** The Reddit post highlights MiniMax M2.1's impressive UI/UX design capabilities, as demonstrated in a recent demo. Users express excitement about its potential, though some remain skeptical about the authenticity of the hype.
+**Summary:** The Reddit post highlights MiniMax M2.1's impressive UI/UX design capabilities, as demonstrated in a recent demo. Users are excited about its potential, especially with the recent vLLM PR merge, indicating its official release. Some users express skepticism about the authenticity of the hype.
 
 **Key Points:**
 - MiniMax M2.1 demonstrates strong UI/UX design skills in a recent demo.
-- The vLLM PR for MiniMax M2.1 has been merged, indicating its official release.
-- Users are excited but some express skepticism about the authenticity of the hype.
+- The vLLM PR for MiniMax M2.1 has been merged, signaling its official release.
+- Users are considering switching to MiniMax M2.1 if it consistently performs well in coding and design.
+- Some users express skepticism about the authenticity of the hype surrounding MiniMax M2.1.
 - Comparisons are made with Gemini 3, particularly in frontend design and quick information retrieval.
-- Some users are eager to access the model's weights for personal use.
 
-**Discussion Highlights:** The discussion reflects a mix of excitement and skepticism. While many users are impressed by MiniMax M2.1's design capabilities and eager to use it, others question the authenticity of the hype and express fatigue with marketing materials. There is also a desire for access to the model's weights for personal use.
+**Discussion Highlights:** The discussion highlights a mix of excitement and skepticism. Users are impressed by the demo but question the authenticity of the hype. There is anticipation for the official release and comparisons with other models like Gemini 3.
 
 ---
 
-## 36. [major open-source releases this year](https://reddit.com/r/LocalLLaMA/comments/1pstlas/major_opensource_releases_this_year/)
+## 37. [major open-source releases this year](https://reddit.com/r/LocalLLaMA/comments/1pstlas/major_opensource_releases_this_year/)
 
-**Author:** u/sahilypatel | **Upvotes:** 658 | **Comments:** 103 | **Date:** 2025-12-22
+**Author:** u/sahilypatel | **Upvotes:** 666 | **Comments:** 103 | **Date:** 2025-12-22
 
-**Summary:** The Reddit post discusses major open-source releases this year, highlighting the dominance of China in the open-source space and expectations for future models like DeepSeek. The post gained significant attention with 658 upvotes and 103 comments.
+**Summary:** The Reddit post discusses major open-source releases this year, highlighting the dominance of China in the open-source space and expectations for future models like DeepSeek. The post gained significant attention with 666 upvotes and 103 comments.
 
 **Key Points:**
-- The post is a link post with no text content, focusing on major open-source releases.
-- China is noted for dominating the open-source space, with only 3 US companies mentioned.
+- China is dominating the open-source space with only 3 US companies in the list.
 - High expectations for DeepSeek to potentially outperform closed-source models in reasoning.
-- Discussion includes opinions on Mistral's performance at smaller sizes.
+- Discussion on Mistral being considered the best at the small size.
+- Post was featured on Discord and the author received a special flair.
 
-**Discussion Highlights:** The discussion highlights the popularity of the post, the dominance of China in open-source contributions, and high expectations for future models like DeepSeek. There is also a mention of Mistral's performance at smaller sizes.
-
----
-
-## 37. [Got me a 32GB RTX 4080 Super](https://reddit.com/r/LocalLLaMA/comments/1pstaoo/got_me_a_32gb_rtx_4080_super/)
-
-**Author:** u/Spooknik | **Upvotes:** 189 | **Comments:** 59 | **Date:** 2025-12-22
-
-**Summary:** The user purchased a modified RTX 4080 Super with 32GB VRAM from the Chinese market for $1200, finding it a cost-effective alternative to the RTX 5090. The card works well for AI tasks like Diffusion models and has shown no issues after a month of use. Key points include the cost-effectiveness, suitability for AI tasks, and user satisfaction. The discussion highlights frustration with GPU manufacturers' segmentation policies and general agreement on the card's performance.
+**Discussion Highlights:** The discussion highlights a consensus on China's dominance in open-source contributions and high expectations for future models like DeepSeek. There is also a notable opinion on Mistral's performance at smaller sizes.
 
 ---
 
-## 38. [1 year later and people are still speedrunning NanoGPT. Last time this was posted the WR was 8.2 min. Its now 127.7 sec.](https://reddit.com/r/LocalLLaMA/comments/1psh1w2/1_year_later_and_people_are_still_speedrunning/)
+## 38. [Got me a 32GB RTX 4080 Super](https://reddit.com/r/LocalLLaMA/comments/1pstaoo/got_me_a_32gb_rtx_4080_super/)
+
+**Author:** u/Spooknik | **Upvotes:** 188 | **Comments:** 59 | **Date:** 2025-12-22
+
+**Summary:** User purchased a modified RTX 4080 Super with 32GB VRAM for $1200, finding it cost-effective for AI tasks like Diffusion models. The card performed well with no issues after a month of use.
+
+**Key Points:**
+- Modified RTX 4080 Super with 32GB VRAM purchased for $1200
+- Cost-effective alternative to RTX 5090 for AI workloads
+- Plug-and-play compatibility with stock Nvidia drivers
+- Positive user experience with no issues reported
+- Discussion highlights market segmentation and pricing concerns
+
+**Discussion Highlights:** Users expressed frustration over GPU market segmentation and pricing. Some commented on the lucky price point and technical curiosity about the modified hardware.
+
+---
+
+## 39. [1 year later and people are still speedrunning NanoGPT. Last time this was posted the WR was 8.2 min. Its now 127.7 sec.](https://reddit.com/r/LocalLLaMA/comments/1psh1w2/1_year_later_and_people_are_still_speedrunning/)
 
 **Author:** u/jd_3d | **Upvotes:** 221 | **Comments:** 24 | **Date:** 2025-12-21
 
-**Summary:** The Reddit post discusses the significant progress in speedrunning NanoGPT training times, highlighting a reduction from the original 45 minutes to a new world record of 127.7 seconds. The community is impressed by these improvements and seeks to understand the underlying techniques.
+**Summary:** The Reddit post discusses the significant progress in speedrunning NanoGPT training times, from the original 45 minutes to a new record of 127.7 seconds, highlighting advancements in algorithmic speed improvements.
 
 **Key Points:**
-- NanoGPT training time reduced from 45 minutes to 127.7 seconds
-- Community members achieve fast training times on consumer hardware (e.g., 60 minutes on a single 4090)
-- Interest in learning about the specific improvements and techniques used
-- Discussion on the broader implications for algorithmic speed improvements in AI training
+- Original NanoGPT training time was 45 minutes.
+- Current record for speedrunning NanoGPT is 127.7 seconds.
+- Users report achieving fast training times on consumer hardware (e.g., 60 minutes on a single 4090 GPU).
+- Interest in understanding the specific improvements and techniques used.
+- Discussion on the broader implications for algorithmic speed improvements in AI.
 
-**Discussion Highlights:** The discussion highlights the rapid advancements in training efficiency, with users sharing their achievements and expressing curiosity about the methods behind these speedups. There is a consensus that these improvements reflect broader progress in AI training optimization.
+**Discussion Highlights:** The discussion highlights the rapid progress in training efficiency, with users sharing their experiences and expressing interest in learning about the specific techniques used to achieve these speed improvements. There is a consensus on the significance of these advancements for the broader field of AI.
 
 ---
 
-## 39. [It ain’t much, but proud of my 2x3090 + a spare 3060 for support](https://reddit.com/r/LocalLLaMA/comments/1pse7w6/it_aint_much_but_proud_of_my_2x3090_a_spare_3060/)
+## 40. [It ain’t much, but proud of my 2x3090 + a spare 3060 for support](https://reddit.com/r/LocalLLaMA/comments/1pse7w6/it_aint_much_but_proud_of_my_2x3090_a_spare_3060/)
 
-**Author:** u/liviuberechet | **Upvotes:** 124 | **Comments:** 54 | **Date:** 2025-12-21
+**Author:** u/liviuberechet | **Upvotes:** 123 | **Comments:** 54 | **Date:** 2025-12-21
 
-**Summary:** The user shares their powerful GPU setup (2x3090 + 3060) and mentions their experience with Qwen3-Next-80b and struggles with Clint in VS Code. The community praises the setup as top-tier.
+**Summary:** The user shares their hardware setup featuring 2x3090 GPUs and a spare 3060, expressing pride in their build despite its tight fit. They mention their positive experience with Qwen3-Next-80b and ongoing struggles with Clint in VS Code.
 
 **Key Points:**
-- User has a high-end GPU setup (2x3090 + 3060)
+- User has a powerful setup with 2x3090 GPUs and a spare 3060
 - Positive experience with Qwen3-Next-80b
-- Struggles with Clint in VS Code
-- Community consensus: setup is impressive and top-tier
-- Discussion highlights humility vs. actual power of the rig
+- Struggles with Clint integration in VS Code
+- Comments highlight the rarity and power of the setup
+- Discussion on heat management and comparison with other builds
 
-**Discussion Highlights:** The community overwhelmingly praises the user's setup, calling it top 1% and impressive, while also noting the user's humility in downplaying their powerful rig.
+**Discussion Highlights:** The discussion highlights the impressive nature of the user's setup, with comments emphasizing its rarity and power. There is also a brief mention of potential heat issues and comparisons with other builds, including a MacBook Pro M1 Pro.
 
 ---
 
-## 40. [llama.cpp appreciation post](https://reddit.com/r/LocalLLaMA/comments/1psbx2q/llamacpp_appreciation_post/)
+## 41. [llama.cpp appreciation post](https://reddit.com/r/LocalLLaMA/comments/1psbx2q/llamacpp_appreciation_post/)
 
-**Author:** u/hackiv | **Upvotes:** 1626 | **Comments:** 154 | **Date:** 2025-12-21
+**Author:** u/hackiv | **Upvotes:** 1628 | **Comments:** 154 | **Date:** 2025-12-21
 
 **Summary:** The Reddit post appreciates llama.cpp for its performance and frequent updates, with users sharing positive experiences and performance metrics.
 
 **Key Points:**
 - llama.cpp is praised for its frequent updates and features
-- Users report significant performance improvements (e.g., 23t/s on specific hardware)
-- Comparisons with other tools like Ollama highlight llama.cpp's advantages
-- Community engagement and recognition are evident through flairs and Discord features
+- Users report significant performance improvements with llama.cpp
+- Comparison with other tools like Ollama highlights llama.cpp's advantages
+- Specific performance metrics shared (e.g., 23t/s on certain hardware)
 
-**Discussion Highlights:** The discussion highlights a strong consensus on llama.cpp's superior performance and community support, with users sharing specific metrics and positive experiences.
+**Discussion Highlights:** The discussion highlights a strong consensus on the superiority of llama.cpp in terms of performance and features, with users sharing their positive experiences and performance metrics.
 
 ---
 
-## 41. [Dataset quality is not improving much](https://reddit.com/r/LocalLLaMA/comments/1ps6w96/dataset_quality_is_not_improving_much/)
+## 42. [Dataset quality is not improving much](https://reddit.com/r/LocalLLaMA/comments/1ps6w96/dataset_quality_is_not_improving_much/)
 
-**Author:** u/rekriux | **Upvotes:** 181 | **Comments:** 32 | **Date:** 2025-12-21
+**Author:** u/rekriux | **Upvotes:** 185 | **Comments:** 32 | **Date:** 2025-12-21
 
-**Summary:** The Reddit post discusses the lack of significant improvements in dataset quality for AI models, highlighting a few notable datasets like Tulu, smoltakl, and Hermes 3. The author expresses concern over the stagnation in dataset innovation and mentions challenges in accessing some datasets, such as those from NVIDIA. The discussion in the comments touches on the value of human-written content, the reluctance of big companies to invest in manual data curation, and the importance of data synthesis in AI development.
+**Summary:** The Reddit post discusses the lack of significant improvements in dataset quality for AI, highlighting a few notable datasets and expressing concern over the stagnation in innovation. The author and commenters emphasize the importance of high-quality datasets and the challenges in creating and sharing them. Key points include the identification of Tulu, smoltalk, and Hermes 3 as comprehensive datasets, concerns about the lack of breakthroughs since WizzardLM and Magpie, restricted access to high-quality datasets, the reluctance of companies to invest in manual data cleanup, and a shift towards math and code datasets. The discussion highlights the importance of high-quality datasets and the challenges in their creation and sharing, with commenters agreeing on the value of data synthesis and the noted shift towards math and code datasets.
+
+---
+
+## 43. [How big do we think Gemini 3 flash is](https://reddit.com/r/LocalLLaMA/comments/1pruoy7/how_big_do_we_think_gemini_3_flash_is/)
+
+**Author:** u/davikrehalt | **Upvotes:** 129 | **Comments:** 111 | **Date:** 2025-12-20
+
+**Summary:** The Reddit post discusses speculations about the size of Gemini 3 Flash, with users sharing guesses based on performance and infrastructure costs. The discussion highlights potential sizes ranging from 100B to 1.2T parameters and their implications for local device compatibility.
 
 **Key Points:**
-- Lack of breakthroughs in dataset quality and creation pipelines
-- Notable datasets include Tulu, smoltakl, and Hermes 3
-- Challenges in accessing some datasets, such as NVIDIA's SFT datasets
-- Importance of human-written content and manual data curation
-- Data synthesis is a costly and secretive process in AI development
+- Gemini 3 Flash is speculated to be a 1.2T parameter model licensed to Apple.
+- Discussion includes guesses about model sizes, with estimates ranging from 100B to 600B+ parameters.
+- Users express interest in whether updated local models like Gemma will match Gemini Flash's capabilities.
+- There is a call for Google to provide official information about the model size.
+- The post explores implications for running large models on devices with varying memory capacities (e.g., 128GB MacBook).
 
-**Discussion Highlights:** The discussion highlights the value of human-written content and the reluctance of big companies to invest in manual data curation. There is a consensus on the importance of data synthesis in AI development, which is often kept secretive due to its high cost and strategic value.
-
----
-
-## 42. [How big do we think Gemini 3 flash is](https://reddit.com/r/LocalLLaMA/comments/1pruoy7/how_big_do_we_think_gemini_3_flash_is/)
-
-**Author:** u/davikrehalt | **Upvotes:** 127 | **Comments:** 111 | **Date:** 2025-12-20
-
-**Summary:** The Reddit post discusses speculations about the size of Google's Gemini 3 Flash model, focusing on its potential to run on devices with varying memory capacities like MacBooks. Key points include: Gemini 3 Flash is speculated to be a 1.2T parameter model; Discussion includes comparisons with previous models like Gemini 2.5 Flash (100B MoE); Users express interest in whether updated local LLMs like Gemma will match Flash's capabilities; There is a call for Google to provide official information about the model size; The model's size is relevant for understanding its feasibility on consumer hardware. The discussion highlights a range of speculations about the model size, from 100B to 1.2T parameters, with a focus on its implications for local deployment on consumer devices. There is no clear consensus, but the conversation reflects strong interest in the model's capabilities and potential for local use.
+**Discussion Highlights:** The discussion is centered around speculation about the size of Gemini 3 Flash, with users sharing educated guesses based on performance metrics and infrastructure costs. There is a consensus that the model is likely very large, possibly in the range of hundreds of billions of parameters, but no definitive answer is provided. Users also express interest in the feasibility of running such models on local devices with limited memory.
 
 ---
 
-## 43. [Xiaomi’s MiMo-V2-Flash (309B model) jumping straight to the big leagues](https://reddit.com/r/LocalLLaMA/comments/1prjzoh/xiaomis_mimov2flash_309b_model_jumping_straight/)
+## 44. [Xiaomi’s MiMo-V2-Flash (309B model) jumping straight to the big leagues](https://reddit.com/r/LocalLLaMA/comments/1prjzoh/xiaomis_mimov2flash_309b_model_jumping_straight/)
 
-**Author:** u/98Saman | **Upvotes:** 430 | **Comments:** 98 | **Date:** 2025-12-20
+**Author:** u/98Saman | **Upvotes:** 424 | **Comments:** 98 | **Date:** 2025-12-20
 
-**Summary:** The Reddit post discusses Xiaomi's MiMo-V2-Flash (309B model), highlighting its impressive performance and efficiency compared to other models. The community shows strong interest in its capabilities and potential applications.
+**Summary:** The Reddit post discusses Xiaomi's MiMo-V2-Flash (309B model), highlighting its impressive performance and efficiency compared to other models. The community shows significant interest in its capabilities and potential applications. Key points include: MiMo-V2-Flash performs comparably to DS 3.2 with half the parameters and higher speed; the Artificial Analysis Index is criticized for not accurately reflecting model performance; there is community interest in the model's availability (open weight) and potential GGUF format; visual benchmarks and performance metrics are shared and discussed; and the model is praised for its efficiency and output quality. The discussion highlights the model's efficiency and performance, with community members expressing interest in its availability and potential use cases. There is a consensus on the model's impressive capabilities and its potential impact in the field.
+
+---
+
+## 45. [A Raspberry Pi + eGPU isn't as dumb as I thought](https://reddit.com/r/LocalLLaMA/comments/1prh5jp/a_raspberry_pi_egpu_isnt_as_dumb_as_i_thought/)
+
+**Author:** u/geerlingguy | **Upvotes:** 140 | **Comments:** 22 | **Date:** 2025-12-20
+
+**Summary:** The post discusses benchmarks comparing a Raspberry Pi CM5 with an eGPU to a high-end PC, showing minimal performance differences for larger models and potential driver issues with AMD cards. The discussion highlights cost considerations and the feasibility of using a Raspberry Pi for AI tasks.
 
 **Key Points:**
-- MiMo-V2-Flash (309B model) performs comparably to DS 3.2 with half the parameters and higher speed
-- Community interest in model availability (open weight) and GGUF format
-- Performance metrics and benchmarks are a topic of discussion
-- The model is noted for its efficiency and output quality
+- Performance delta between Raspberry Pi with eGPU and high-end PC is less than 5% for larger models
+- Potential driver issues with AMD cards on Raspberry Pi
+- Cost-effectiveness of using Raspberry Pi for AI tasks is a major discussion point
+- Feasibility of running AI workloads on Raspberry Pi with eGPU is questioned and explored
+- Benchmark data is publicly available on GitHub
 
-**Discussion Highlights:** The discussion highlights the model's efficiency and performance, with users expressing interest in its availability and format. There is also a focus on comparing its performance to other models like DS 3.2 and GLM 4.6.
+**Discussion Highlights:** The discussion revolves around the cost-effectiveness and feasibility of using a Raspberry Pi with an eGPU for AI tasks. Users express interest in the potential of this setup for running AI workloads and inquire about hardware compatibility and performance.
 
 ---
 
-## 44. [A Raspberry Pi + eGPU isn't as dumb as I thought](https://reddit.com/r/LocalLLaMA/comments/1prh5jp/a_raspberry_pi_egpu_isnt_as_dumb_as_i_thought/)
+## 46. [Of course it works, in case you are wondering... and it's quite faster.](https://reddit.com/r/LocalLLaMA/comments/1prcu0t/of_course_it_works_in_case_you_are_wondering_and/)
 
-**Author:** u/geerlingguy | **Upvotes:** 134 | **Comments:** 22 | **Date:** 2025-12-20
+**Author:** u/JLeonsarmiento | **Upvotes:** 239 | **Comments:** 59 | **Date:** 2025-12-20
 
-**Summary:** The post discusses the performance of a Raspberry Pi CM5 with an eGPU dock, showing that it can achieve comparable performance to a high-end PC for certain AI tasks, with some driver issues noted for AMD cards. The discussion highlights the cost-effectiveness and feasibility of using a Raspberry Pi for AI tasks.
+**Summary:** The Reddit post highlights the performance of a 3B MoE model, which is noted to be faster than a dense 24B model. The discussion includes comparisons and community reactions to this finding.
 
 **Key Points:**
-- Performance delta between Raspberry Pi and high-end PC is less than 5% for larger models
-- Raspberry Pi was faster for some Nvidia cards with llama 2 13B
-- AMD cards had significant performance issues, possibly due to driver problems
-- Cost considerations and feasibility of using Raspberry Pi for AI tasks were major discussion points
-- Inquiries about hardware compatibility and multi-GPU setups were raised
+- A 3B MoE model is faster than a dense 24B model
+- Community questions the context of the speed comparison
+- Discussion includes mentions of Qwen's agent and open-source competition
+- Reactions vary from skepticism to acknowledgment of the performance difference
 
-**Discussion Highlights:** The discussion consensus suggests that a Raspberry Pi with an eGPU can be a cost-effective solution for running AI models, though there are concerns about driver support and hardware compatibility. Users expressed interest in the potential of using Raspberry Pi for standalone AI tasks and multi-GPU setups.
+**Discussion Highlights:** The discussion revolves around the speed comparison between the 3B MoE and 24B dense models, with some users questioning the context and others acknowledging the performance difference. There is also mention of Qwen's agent and the competitive nature of open-source models.
 
 ---
 
-## 45. [Of course it works, in case you are wondering... and it's quite faster.](https://reddit.com/r/LocalLLaMA/comments/1prcu0t/of_course_it_works_in_case_you_are_wondering_and/)
+## 47. [Open source LLM tooling is getting eaten by big tech](https://reddit.com/r/LocalLLaMA/comments/1pragtf/open_source_llm_tooling_is_getting_eaten_by_big/)
 
-**Author:** u/JLeonsarmiento | **Upvotes:** 236 | **Comments:** 59 | **Date:** 2025-12-20
+**Author:** u/Inevitable_Wear_9107 | **Upvotes:** 343 | **Comments:** 131 | **Date:** 2025-12-20
 
-**Summary:** The post highlights the effectiveness and speed of a model or tool, with comments discussing its comparison to other models like Qwen and its efficiency.
+**Summary:** The Reddit post discusses the rapid evolution and consolidation of open-source LLM tooling by big tech companies, highlighting the shift from independent projects to ecosystem-driven tools. Key points include the rapid replacement of open-source projects, the short median project age of 30 months, and the release of tools optimized for big tech ecosystems. The discussion highlights a consensus on the rapid changes in the LLM tooling landscape, with some users emphasizing the need for community contributions to sustain open-source projects.
+
+---
+
+## 48. [Just pushed M2.1 through a 3D particle system. Insane！](https://reddit.com/r/LocalLLaMA/comments/1pr54as/just_pushed_m21_through_a_3d_particle_system/)
+
+**Author:** u/srtng | **Upvotes:** 156 | **Comments:** 41 | **Date:** 2025-12-19
+
+**Summary:** The Reddit post discusses testing an interactive 3D particle system with MiniMax M2.1, highlighting its impressive performance and upcoming release. Users share their experiences and opinions on the model's capabilities.
 
 **Key Points:**
-- The post suggests a model or tool works well and is faster.
-- Comments mention Qwen and its agent as alternatives.
-- Discussion includes comparisons to other models and their efficiency.
-- The post implies competition in the field of open-source models.
+- Testing an interactive 3D particle system with MiniMax M2.1
+- M2.1 is coming soon
+- Users report fast response times and high performance
+- M2 is praised as a favorite local model of 2025
+- M2 runs efficiently on various hardware configurations
 
-**Discussion Highlights:** The discussion focuses on the performance and efficiency of the model or tool mentioned in the post, with comparisons to other models like Qwen and mentions of competition in the open-source community.
-
----
-
-## 46. [Open source LLM tooling is getting eaten by big tech](https://reddit.com/r/LocalLLaMA/comments/1pragtf/open_source_llm_tooling_is_getting_eaten_by_big/)
-
-**Author:** u/Inevitable_Wear_9107 | **Upvotes:** 346 | **Comments:** 130 | **Date:** 2025-12-20
-
-**Summary:** The Reddit post discusses the rapid evolution and consolidation of open-source LLM tooling by big tech companies, highlighting the shift from independent tools to ecosystem-driven solutions. Key points include the rapid replacement of open-source projects by big tech solutions, the shift towards ecosystem-driven tools, and the struggle of open-source projects to maintain resources. The discussion highlights concerns about sustainability and the influence of big tech companies.
+**Discussion Highlights:** The discussion highlights the excitement around M2.1's upcoming release and its performance in a 3D particle system. Users share positive experiences with M2, noting its efficiency and effectiveness on different hardware setups.
 
 ---
 
-## 47. [Just pushed M2.1 through a 3D particle system. Insane！](https://reddit.com/r/LocalLLaMA/comments/1pr54as/just_pushed_m21_through_a_3d_particle_system/)
+## 49. [Key Highlights of NVIDIA’s New Open-Source Vision-to-Action Model: NitroGen](https://reddit.com/r/LocalLLaMA/comments/1pr48qm/key_highlights_of_nvidias_new_opensource/)
 
-**Author:** u/srtng | **Upvotes:** 153 | **Comments:** 41 | **Date:** 2025-12-19
+**Author:** u/Dear-Success-1441 | **Upvotes:** 348 | **Comments:** 76 | **Date:** 2025-12-19
 
-**Summary:** The post discusses testing an interactive 3D particle system with MiniMax M2.1, highlighting its impressive performance and imminent release. Users share positive feedback and comparisons to other models.
-
-**Key Points:**
-- M2.1 shows impressive performance in a 3D particle system
-- Users compare M2.1 favorably to other models like Sonnet4.5
-- M2.1 is expected to be released soon
-- M2.1 runs efficiently on local hardware with appropriate quantization
-- Positive community sentiment around M2.1's capabilities
-
-**Discussion Highlights:** The discussion highlights enthusiasm for M2.1's performance and efficiency, with users sharing their positive experiences and comparisons to other models. There is a consensus that M2.1 is a strong contender in local AI models for 2025.
-
----
-
-## 48. [Key Highlights of NVIDIA’s New Open-Source Vision-to-Action Model: NitroGen](https://reddit.com/r/LocalLLaMA/comments/1pr48qm/key_highlights_of_nvidias_new_opensource/)
-
-**Author:** u/Dear-Success-1441 | **Upvotes:** 346 | **Comments:** 75 | **Date:** 2025-12-19
-
-**Summary:** NVIDIA's NitroGen is an open-source vision-to-action model designed to play video games directly from raw frames using imitation learning. It works best with gamepad-controlled games and uses a combination of vision transformer and diffusion matching transformer to generate actions.
+**Summary:** NVIDIA's NitroGen is an open-source vision-to-action model designed to play video games directly from raw frames using imitation learning. It works best with gamepad-controlled games and uses a vision transformer and diffusion matching transformer to generate actions.
 
 **Key Points:**
 - NitroGen is a unified vision-to-action model for playing video games from raw frames.
 - It is trained through large-scale imitation learning on human gameplay videos.
-- Effective for gamepad-controlled games but less so for mouse/keyboard games.
-- Uses SigLip2 for vision processing and a diffusion transformer for action generation.
-- Potential applications include enabling solo play for couch-coop games.
+- The model is most effective on games designed for gamepad controls and less effective on mouse and keyboard games.
+- NitroGen uses a pre-trained vision transformer (SigLip2) and a diffusion matching transformer (DiT) to generate actions.
+- The model could enable solo play for couch-coop games but may also lead to increased bots in online games.
 
-**Discussion Highlights:** The discussion highlights both potential benefits, such as enabling solo play for couch-coop games, and concerns about increased bots in online games. There is also curiosity about the use of a diffusion transformer and its necessity for the model's functionality.
-
----
-
-## 49. [Japan's Rakuten is going to release a 700B open weight model in Spring 2026](https://reddit.com/r/LocalLLaMA/comments/1pr20el/japans_rakuten_is_going_to_release_a_700b_open/)
-
-**Author:** u/Ok_Warning2146 | **Upvotes:** 268 | **Comments:** 45 | **Date:** 2025-12-19
-
-**Summary:** Rakuten plans to release a 700B open weight model in Spring 2026, which could serve as an alternative to Chinese models and prompt US companies to release larger models. The community is eagerly awaiting a quantized version and discussing the model's potential impact and originality.
-
-**Key Points:**
-- Rakuten's 700B model release planned for Spring 2026
-- Potential to be an alternative to Chinese models and prompt US companies
-- Community anticipation for a 0.4 quantized model to fit 24GB VRAM
-- Skepticism about the model's originality, with suggestions it might be a fine-tune of Deepseek V3
-- Discussion about the rapid pace of development in the AI space
-
-**Discussion Highlights:** The community is excited about the potential of Rakuten's model but also skeptical about its originality. There is a strong desire for a quantized version to make the model more accessible, and discussions highlight the fast-moving nature of AI development.
+**Discussion Highlights:** The discussion highlights both positive and negative potential uses of NitroGen, with some users appreciating its ability to make couch-coop games playable alone, while others express concerns about increased bots in online games. There is also curiosity about the use of a diffusion transformer and its necessity for the model.
 
 ---
 
-## 50. [Devstral 2 (with Mistral's Vibe) vs Sonnet 4.5 (Claude Code) on SWE-bench: 37.6% vs 39.8% (within statistical error)](https://reddit.com/r/LocalLLaMA/comments/1pqy2bq/devstral_2_with_mistrals_vibe_vs_sonnet_45_claude/)
+## 50. [Japan's Rakuten is going to release a 700B open weight model in Spring 2026](https://reddit.com/r/LocalLLaMA/comments/1pr20el/japans_rakuten_is_going_to_release_a_700b_open/)
 
-**Author:** u/Constant_Branch282 | **Upvotes:** 135 | **Comments:** 86 | **Date:** 2025-12-19
+**Author:** u/Ok_Warning2146 | **Upvotes:** 265 | **Comments:** 45 | **Date:** 2025-12-19
 
-**Summary:** The Reddit post compares Devstral 2 (Mistral's Vibe) and Sonnet 4.5 (Claude Code) on SWE-bench, showing that Devstral 2 achieved 37.6% while Sonnet 4.5 achieved 39.8%, with the gap within statistical error. The author notes that Devstral 2 matched Anthropic's best model and was faster. The discussion highlights positive feedback on Mistral's models and comparisons with other models.
+**Summary:** Rakuten plans to release a 700B open weight model in Spring 2026, aiming to compete with Chinese models and prompt US companies to release larger models.
 
 **Key Points:**
-- Devstral 2 achieved 37.6% on SWE-bench, close to Sonnet 4.5's 39.8%
-- The performance gap is within statistical error, indicating parity
-- Devstral 2 was faster (296s mean vs Claude's 357s)
-- About 40% of test cases showed inconsistency across runs
-- Community feedback highlights Mistral's models as strong alternatives to other models like Qwen
+- Rakuten's 700B model release scheduled for Spring 2026
+- Aim to provide an alternative to Chinese models
+- Potential to prompt US companies to release larger models
+- Community interest in a 0.4 quantized version for 24GB VRAM
+- Discussion about the model's origin and whether it's a fine-tune of Deepseek V3
 
-**Discussion Highlights:** The discussion highlights positive feedback on Mistral's models, with users noting their effectiveness in agentic coding and considering them as strong alternatives to other models like Qwen. Some users also shared their experiences using Devstral 2 in training sessions and noted its performance parity with larger models.
+**Discussion Highlights:** The community is eagerly awaiting the model, with particular interest in a quantized version for lower VRAM. There is also speculation about the model's origin and its potential impact on the AI landscape.
 
 ---
 
