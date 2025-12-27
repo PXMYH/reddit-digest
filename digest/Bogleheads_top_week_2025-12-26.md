@@ -8,101 +8,136 @@
 
 ## 1. [What if you need cash during a market crash?](https://reddit.com/r/Bogleheads/comments/1pw1vyy/what_if_you_need_cash_during_a_market_crash/)
 
-**Author:** u/Own_Active_2147 | **Upvotes:** 124 | **Comments:** 128 | **Date:** 2025-12-26
+**Author:** u/Own_Active_2147 | **Upvotes:** 132 | **Comments:** 138 | **Date:** 2025-12-26
 
-**Summary:** The post discusses concerns about financial stability during a market crash, particularly if one loses their job and faces health issues. The discussion emphasizes the importance of emergency funds and not investing money needed in the short term. Key points include the necessity of having an emergency fund (6-12 months of expenses) in a savings account, only investing money that can be left untouched for 5-10 years, and keeping emergency funds in easily liquidated, low-risk accounts like HYSA or CDs. The consensus highlights the necessity of maintaining an emergency fund separate from investments to cover unexpected expenses during market crashes.
+**Summary:** The post discusses concerns about financial stability during a market crash, particularly if one loses their job and faces health issues. The discussion emphasizes the importance of emergency funds and proper insurance coverage.
+
+**Key Points:**
+- Importance of having an emergency fund (6-12 months of expenses)
+- Only invest money that can be left untouched for 5-10 years
+- Emergency funds should be kept in easily accessible, low-risk accounts like HYSA or CDs
+- Health and life insurance are crucial for financial protection
+- Historically, markets recover over time, making long-term investment strategies viable
+
+**Discussion Highlights:** The consensus highlights the necessity of maintaining an emergency fund separate from investments to cover unexpected expenses. The discussion also underscores the importance of insurance and long-term investment strategies to weather market downturns.
 
 ---
 
 ## 2. [Selling Everything Based on Fear](https://reddit.com/r/Bogleheads/comments/1pvmu78/selling_everything_based_on_fear/)
 
-**Author:** u/Alphanaught | **Upvotes:** 329 | **Comments:** 93 | **Date:** 2025-12-25
+**Author:** u/Alphanaught | **Upvotes:** 333 | **Comments:** 94 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post compares a Buy-&-Hold strategy with a Fear-Based strategy for investing in SPY, showing that while the Fear-Based strategy can reduce drawdowns, the difference in returns is minimal, especially after accounting for taxes. The author concludes that staying invested is generally better.
+**Summary:** The Reddit post compares a Buy-&-Hold strategy with a Fear-Based strategy that sells SPY holdings when economic anxiety peaks (measured by Google Trends for 'recession'). The analysis shows that while the Fear-Based strategy slightly outperforms in a tax-free scenario, the difference is minimal, and taxes significantly reduce its advantage. The author concludes that staying invested is best for long-term investors.
 
 **Key Points:**
-- The Fear-Based strategy reduces max drawdown significantly but only slightly increases returns before taxes.
-- After accounting for taxes, the Fear-Based strategy underperforms the Buy-&-Hold strategy.
-- The author concludes that staying invested is better for long-term investors.
-- The Fear-Based strategy relies on back-tested data and may not perform as well in real-time conditions.
-- Timing the market is difficult and can lead to suboptimal outcomes.
+- The Fear-Based strategy slightly outperforms Buy-&-Hold in a tax-free scenario but underperforms after taxes.
+- The Fear-Based strategy reduces max drawdown but has lower returns after accounting for taxes.
+- The strategy is back-tested using data from the same period it was developed, which may not reflect future performance.
+- Timing the market is difficult, and the strategy assumes perfect execution, which may not be realistic.
+- The consensus is that staying invested and avoiding market timing is generally better for long-term investors.
 
-**Discussion Highlights:** The discussion highlights concerns about the reliability of back-tested strategies, the difficulty of timing the market in real-time, and the impact of taxes on the Fear-Based strategy. Many commenters agree that staying invested is generally the better approach.
+**Discussion Highlights:** The discussion highlights concerns about back-testing bias, the difficulty of timing the market in real-time, and the impact of taxes on the Fear-Based strategy. The consensus leans towards the Buy-&-Hold strategy being more reliable for long-term investing.
 
 ---
 
 ## 3. [Lost half of all my savings. How to move on after huge loss.](https://reddit.com/r/Bogleheads/comments/1pvktw1/lost_half_of_all_my_savings_how_to_move_on_after/)
 
-**Author:** u/BringTheFood | **Upvotes:** 515 | **Comments:** 331 | **Date:** 2025-12-25
+**Author:** u/BringTheFood | **Upvotes:** 525 | **Comments:** 334 | **Date:** 2025-12-25
 
-**Summary:** A 36-year-old Reddit user shares their distress after losing half of their savings (from $75k to $37k) due to rash options trading. The post seeks advice on rebuilding finances and coping mentally with the loss.
+**Summary:** A 36-year-old Reddit user lost half of their savings (from $75k to $37k) due to poor options trading decisions and is seeking advice on financial recovery and mental coping strategies.
 
 **Key Points:**
-- The user lost half of their savings due to poor options trading decisions.
-- The user is seeking advice on rebuilding finances and coping mentally.
-- Top comments emphasize learning from the mistake, budgeting, and long-term investing strategies.
-- The consensus is to avoid day trading and focus on disciplined saving and investing.
-- The recovery process is expected to take several years.
+- Treat the loss as an expensive lesson and avoid future speculative trading.
+- Focus on budgeting, living below your means, and investing in index funds or a 3-fund portfolio.
+- Financial recovery will take time; there is no quick fix.
+- Prioritize mental health and accept that rebuilding will take years.
+- Follow the Bogleheads investment philosophy for long-term, low-risk growth.
 
-**Discussion Highlights:** The discussion highlights the importance of learning from financial mistakes, living within one's means, and adopting long-term investment strategies like index funds and a 3-fund portfolio. The consensus is that rebuilding will take time and discipline, with an emphasis on avoiding speculative trading.
+**Discussion Highlights:** The community consensus emphasizes learning from the mistake, avoiding speculative trading, and adopting a disciplined, long-term investment approach. Many commenters stress the importance of budgeting, saving, and mental resilience.
 
 ---
 
 ## 4. [To everyone who spent 2025 trying to time the crash](https://reddit.com/r/Bogleheads/comments/1pup1q6/to_everyone_who_spent_2025_trying_to_time_the/)
 
-**Author:** u/barris59 | **Upvotes:** 1240 | **Comments:** 338 | **Date:** 2025-12-24
+**Author:** u/barris59 | **Upvotes:** 1242 | **Comments:** 339 | **Date:** 2025-12-24
 
-**Summary:** The post highlights the S&P 500's strong performance in 2025, with 38 record highs, emphasizing the difficulty of timing the market and the benefits of staying invested.
+**Summary:** The post highlights the S&P 500's strong performance in 2025, reaching 38 record highs despite predictions of a market crash. It emphasizes the difficulty of timing the market and the benefits of staying invested.
 
 **Key Points:**
-- The S&P 500 hit 38 record highs in 2025, defying predictions of a market crash.
-- Market timing is difficult and often counterproductive.
-- Staying invested through market fluctuations can lead to significant gains.
-- Retirement planning and asset allocation are important considerations.
-- The U.S. dollar's weakening may have contributed to the market's upward trend.
+- The S&P 500 hit its 38th record high in 2025, defying predictions of a crash.
+- Market timing is challenging and often counterproductive.
+- Staying invested allows participation in market gains despite temporary downturns.
+- Individual experiences highlight the futility of trying to predict market movements.
+- The weakening U.S. dollar may have contributed to the market's upward trend.
 
-**Discussion Highlights:** The discussion consensus emphasizes the importance of staying the course and not attempting to time the market. Many commenters share personal experiences of missing out on gains due to market timing attempts.
+**Discussion Highlights:** The discussion consensus emphasizes the importance of staying the course and not attempting to time the market. Many commenters share personal experiences of missing out on gains due to failed predictions of market crashes. There is also a note on the potential impact of a weakening U.S. dollar on market performance.
 
 ---
 
 ## 5. [Is there anything to this as far as projecting or planning for a potential "lost decade", or is it mostly just meaningless noise?](https://reddit.com/r/Bogleheads/comments/1ptyn1n/is_there_anything_to_this_as_far_as_projecting_or/)
 
-**Author:** u/TrumpetWilder | **Upvotes:** 287 | **Comments:** 140 | **Date:** 2025-12-23
+**Author:** u/TrumpetWilder | **Upvotes:** 284 | **Comments:** 141 | **Date:** 2025-12-23
 
-**Summary:** The Reddit post discusses the concept of a 'lost decade' in investing, focusing on whether it's possible to project or plan for such a scenario. The discussion highlights the importance of international diversification and the role of valuation metrics like the PE ratio in predicting future returns. Key points include the recommendation for international diversification to mitigate risk, the correlation between high PE ratios and lower future performance, and the uncertainty in predicting market conditions. The consensus leans towards the importance of diversification and acknowledging the uncertainty in predicting market performance.
+**Summary:** The post discusses concerns about a potential 'lost decade' for US equities and strategies to mitigate risks, emphasizing the importance of international diversification and long-term investment perspectives.
+
+**Key Points:**
+- International diversification is recommended to mitigate risks associated with high US equity valuations.
+- PE ratio is considered meaningful for predicting future returns, with high valuations correlating with lower future performance.
+- Uncertainty in market predictions is acknowledged, with a consensus on sticking to a globally diversified portfolio.
+- A 'lost decade' may not be detrimental for long-term investors, as it can provide buying opportunities.
+
+**Discussion Highlights:** The discussion highlights the importance of diversification and the uncertainty surrounding market predictions. There is a general consensus on maintaining a globally diversified portfolio and recognizing that a 'lost decade' may not negatively impact long-term investors.
 
 ---
 
 ## 6. [Worst 401K Options You've Seen](https://reddit.com/r/Bogleheads/comments/1pt3rt9/worst_401k_options_youve_seen/)
 
-**Author:** u/TepidBitters | **Upvotes:** 427 | **Comments:** 143 | **Date:** 2025-12-22
+**Author:** u/TepidBitters | **Upvotes:** 419 | **Comments:** 143 | **Date:** 2025-12-22
 
-**Summary:** The Reddit post discusses the high fees in a 401k plan, highlighting expense ratios over 1% for target funds. The author expresses shock at the fees they previously paid and disappointment in the limited options provided by their employer. Key points include criticism of high expense ratios, blame on employers for choosing high-fee plans, and community suggestions that such fees should be illegal. The discussion highlights widespread frustration with high 401k fees, with many commenters blaming employers for prioritizing their own costs over employee benefits. There is a consensus that such high fees are exploitative and should be regulated.
+**Summary:** The Reddit post highlights the author's shock at discovering high 401k fees and poor investment options in an old retirement plan, with commenters expressing outrage at exploitative practices and calling for regulatory changes.
+
+**Key Points:**
+- High expense ratios (over 1%) for target funds
+- Employers prioritize low-cost plans for themselves, not employees
+- Calls for legal limits on 401k fees
+- Criticism of specific share classes (R2) with high fees
+- Frustration with lack of low-cost options
+
+**Discussion Highlights:** The discussion consensus centers on the unfairness of high 401k fees, with many commenters blaming employers for selecting plans that benefit administrators rather than employees. There are strong calls for regulatory action to cap fees and improve transparency.
 
 ---
 
 ## 7. [2 years since first “AI Tech Bubble” fear post](https://reddit.com/r/Bogleheads/comments/1psxyua/2_years_since_first_ai_tech_bubble_fear_post/)
 
-**Author:** u/Il_vino_buono | **Upvotes:** 719 | **Comments:** 134 | **Date:** 2025-12-22
+**Author:** u/Il_vino_buono | **Upvotes:** 713 | **Comments:** 135 | **Date:** 2025-12-22
 
-**Summary:** The post discusses the fear of an AI tech bubble and highlights that despite such concerns, the market (VTI and VOO) has grown significantly over the past two years. It emphasizes the importance of staying invested to avoid missing out on growth periods.
+**Summary:** The post discusses the fear of an AI tech bubble and highlights that despite concerns, the market has seen significant growth over the past two years. It emphasizes the importance of staying invested to avoid missing out on potential gains.
 
 **Key Points:**
-- Market growth despite AI bubble fears: VTI up 42%, VOO up 47% over two years.
-- Staying invested is crucial to benefit from market growth periods.
-- Uncertainty about future market corrections remains, but timing them is difficult.
-- Historical context: Past warnings (e.g., Greenspan's 'irrational exuberance') did not immediately halt market growth.
-- Consensus: Missing out on good times by staying out of the market is a significant risk.
+- The market has grown significantly (VTI: 42%, VOO: 47%) over the past two years despite AI bubble fears.
+- Staying out of the market to avoid potential downturns may result in missing out on growth opportunities.
+- Historical examples show that market bubbles can continue to grow even after warnings of overvaluation.
+- The discussion highlights the uncertainty of market timing and the potential for continued growth despite bubble concerns.
+- Some commenters suggest that even if a correction occurs, the market may still rise overall.
 
-**Discussion Highlights:** The discussion highlights the uncertainty of market timing and the potential for continued growth despite bubble fears. Key points include the difficulty of predicting market corrections, historical examples of prolonged growth after bubble warnings, and the consensus that staying invested is generally beneficial.
+**Discussion Highlights:** The discussion consensus leans towards the importance of staying invested despite market uncertainties. Commenters reference historical examples of market bubbles continuing to grow after initial warnings and emphasize the difficulty of timing the market. There is a general agreement that while corrections are possible, staying out of the market can lead to missed opportunities.
 
 ---
 
 ## 8. [I've often heard people say "Taxes will be higher in the future" do people still believe this?](https://reddit.com/r/Bogleheads/comments/1psieb6/ive_often_heard_people_say_taxes_will_be_higher/)
 
-**Author:** u/figgypudding02 | **Upvotes:** 182 | **Comments:** 265 | **Date:** 2025-12-21
+**Author:** u/figgypudding02 | **Upvotes:** 186 | **Comments:** 263 | **Date:** 2025-12-21
 
-**Summary:** The post questions the common belief that taxes will be higher in the future, noting that this hasn't necessarily been true over the past 20-30 years. The discussion highlights varying perspectives on future tax rates, with some arguing that taxes are historically low and could rise, while others emphasize the uncertainty of future tax policies. Key points include the historical lows of current taxes, the unpredictability of future tax rates, the experiences of retirees with lower taxes, the influence of national deficit and debt on future tax policies, and the discussion of Roth conversions and RMD strategies for managing tax liabilities. The discussion reveals a mix of opinions, with some users expecting higher taxes due to historical trends and fiscal pressures, while others stress the unpredictability of future tax policies. A consensus emerges around the importance of saving and strategic tax planning, such as Roth conversions, to mitigate potential tax increases.
+**Summary:** The post discusses the common belief that taxes will be higher in the future and its impact on retirement planning. The author questions whether this belief holds true for individuals withdrawing moderate amounts annually from retirement accounts.
+
+**Key Points:**
+- Taxes are currently at historical lows and could increase in the future.
+- The exploding deficit and national debt may lead to higher taxes.
+- Tax rates in retirement may be lower than during prime earning years for some individuals.
+- The future of tax rates is uncertain, similar to the unpredictability of the stock market.
+- Roth conversions and strategic withdrawal planning can help manage tax liabilities.
+
+**Discussion Highlights:** The discussion highlights a consensus that while taxes are currently low, future increases are possible due to economic factors like the national debt. However, the unpredictability of future tax rates is acknowledged, with some users sharing personal experiences of lower taxes in retirement. Strategies like Roth conversions are recommended to manage potential tax increases.
 
 ---
 
