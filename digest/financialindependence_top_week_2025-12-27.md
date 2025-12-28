@@ -8,18 +8,18 @@
 
 ## 1. [In Praise of Idleness by Bertrand Russell](https://reddit.com/r/financialindependence/comments/1pvw3a2/in_praise_of_idleness_by_bertrand_russell/)
 
-**Author:** u/passthesugar05 | **Upvotes:** 105 | **Comments:** 38 | **Date:** 2025-12-25
+**Author:** u/passthesugar05 | **Upvotes:** 104 | **Comments:** 38 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post discusses Bertrand Russell's 1930s article 'In Praise of Idleness,' which advocates for reducing work hours to 4 hours a day to decrease unemployment and increase leisure time. The author sees alignment with the FIRE (Financial Independence, Retire Early) movement, which focuses on living below one's means to achieve financial independence. The discussion highlights the ongoing relevance of Russell's ideas in modern workaholic cultures.
+**Summary:** The post discusses Bertrand Russell's 1930s article advocating for reduced work hours to combat unemployment and promote leisure, aligning with FIRE principles. The discussion highlights the persistent workaholic culture and explores historical and philosophical perspectives on work and leisure.
 
 **Key Points:**
-- Bertrand Russell's article advocates for a 4-hour workday to reduce unemployment and increase leisure time.
-- The author sees alignment between Russell's ideas and the FIRE movement.
-- Modern workaholic cultures are criticized for being unnecessary and detrimental to well-being.
-- Historical predictions, like Keynes' 15-hour workweek, are contrasted with current work hours.
-- Discussion includes references to related books and historical hunter-gatherer lifestyles.
+- Bertrand Russell's idea of working 4 hours a day to reduce unemployment and increase leisure time.
+- Alignment of Russell's ideas with the FIRE (Financial Independence, Retire Early) movement.
+- Critique of modern workaholic culture and its impact on happiness and health.
+- Historical context and predictions about reduced work hours by economists like John Maynard Keynes.
+- Discussion on active vs. passive leisure and the potential benefits of reduced work hours.
 
-**Discussion Highlights:** The discussion highlights a consensus that modern work hours are excessive and unnecessary for sustaining society. Commenters reference related books and historical lifestyles to support the idea of reducing work hours for better health and happiness. There is a general agreement that Russell's ideas align with the principles of the FIRE movement.
+**Discussion Highlights:** The discussion highlights a consensus on the benefits of reduced work hours and the alignment with FIRE principles. Comments reference related books and historical contexts, such as hunter-gatherer lifestyles and philosophical works on leisure. There is a general agreement on the potential benefits of reduced work hours for overall well-being.
 
 ---
 
@@ -27,41 +27,50 @@
 
 **Author:** u/Jean_le_Jedi_Gris | **Upvotes:** 164 | **Comments:** 62 | **Date:** 2025-12-24
 
-**Summary:** The post emphasizes the importance of balancing saving for financial independence with spending on personal enjoyment and loved ones. The author shares their journey of reaching a $1M net worth and how they've started spending on experiences and improvements that enhance their quality of life. Key points include the author's realization of the need to balance saving with spending, their expenditures on a truck, vacations, home renovations, and solar panels, and their projection of a $2M to $3M balance by retirement. The discussion highlights a consensus on the importance of spending on personal enjoyment and experiences while still saving for financial independence.
+**Summary:** The post emphasizes the importance of balancing saving for financial independence with spending on personal enjoyment and loved ones. The author shares their journey of reaching a $1M net worth and how they've started to spend more on experiences and comforts without compromising their long-term financial goals.
+
+**Key Points:**
+- The author reached a $1M net worth at age 45 and is planning to spend some of it on a new car and other personal comforts.
+- The author realized the importance of balancing saving with spending after the loss of their brother.
+- The author spent around $140k on non-essential but personally fulfilling expenses, including vacations, home renovations, and a pickup truck restoration project.
+- The author still projects a $2M to $3M net worth by retirement and emphasizes the importance of spending time with loved ones.
+- Top comments support the idea of spending on what you love while saving on what you don't, and highlight the value of experiences and personal growth.
+
+**Discussion Highlights:** The discussion highlights a consensus on the importance of balancing financial independence goals with personal enjoyment and experiences. Many commenters agree that spending on what brings joy and value is crucial, while still maintaining a strong financial foundation.
 
 ---
 
 ## 3. [FIRE with $1.7~mil when the majority is in Bitcoin? - 1 YEAR UPDATE](https://reddit.com/r/financialindependence/comments/1psp9j2/fire_with_17mil_when_the_majority_is_in_bitcoin_1/)
 
-**Author:** u/another_FI_throwaway | **Upvotes:** 139 | **Comments:** 160 | **Date:** 2025-12-21
+**Author:** u/another_FI_throwaway | **Upvotes:** 138 | **Comments:** 161 | **Date:** 2025-12-21
 
-**Summary:** The author, laid off in October 2024, initially had a net worth of $1.1 million (excluding house), which grew to $1.7 million by December 2024, largely due to Bitcoin holdings. They decided to take a break and learned that FIRE doesn't solve all problems, while also putting measures in place to protect against market downturns.
+**Summary:** The author, laid off in October 2024, initially struggled with the decision to retire early given their $1.7 million net worth, mostly in Bitcoin. After a year, they reflect on their journey, acknowledging that FIRE doesn't solve all problems and have taken steps to mitigate market risks.
 
 **Key Points:**
-- Author was laid off at 40 with a net worth of $1.1 million, which grew to $1.7 million by December 2024.
-- Majority of net worth was in Bitcoin, making up about 70%.
-- Author decided to take a break and learned that FIRE doesn't magically fix everything.
-- Put steps in place to protect against market downtrends.
-- Original post received mixed responses, with most advising against relying heavily on Bitcoin.
+- Author was laid off at 40 with a net worth of $1.7 million, mostly in Bitcoin.
+- Initially planned to find another job but faced challenges in the job market.
+- Learned that FIRE doesn't magically fix everything and took steps to protect against market downtrends.
+- Majority of Reddit responses advised against relying heavily on Bitcoin for FIRE.
+- Author now has a more cautious approach, considering diversification and risk management.
 
-**Discussion Highlights:** The discussion highlights a consensus on the risks of having a majority of net worth in Bitcoin, with many advising diversification. Some commenters suggested liquidating a significant portion of Bitcoin to mitigate risk, while others acknowledged the potential for Bitcoin's value to fluctuate significantly.
+**Discussion Highlights:** The discussion highlights a consensus on the risks of relying heavily on Bitcoin for financial independence. Many commenters advised diversification and having a clear exit strategy for Bitcoin. Some supportive comments acknowledged the potential of Bitcoin but emphasized the need for caution and risk management.
 
 ---
 
 ## 4. [FIRE Journey as Mechanical Engineer in Midwest: SINK, 31M, 640K NW Update](https://reddit.com/r/financialindependence/comments/1psgh9z/fire_journey_as_mechanical_engineer_in_midwest/)
 
-**Author:** u/yaoz889 | **Upvotes:** 107 | **Comments:** 24 | **Date:** 2025-12-21
+**Author:** u/yaoz889 | **Upvotes:** 113 | **Comments:** 24 | **Date:** 2025-12-21
 
-**Summary:** The Reddit post details a 31-year-old mechanical engineer's FIRE (Financial Independence, Retire Early) journey in the Midwest, showcasing significant net worth growth from $34,106 in 2018 to $640,289 in 2025, driven by career progression, high savings rate, and market gains. The author shares lessons on social life and career transitions.
+**Summary:** A 31-year-old mechanical engineer in the Midwest shares his FIRE (Financial Independence, Retire Early) journey, detailing his net worth growth from $34,106 in 2018 to $640,289 in 2025, primarily due to high savings and a bull market. He discusses career transitions, expense management, and lessons learned about social life and career changes.
 
 **Key Points:**
-- Net worth grew from $34,106 in 2018 to $640,289 in 2025, with a notable $200k increase in the past year due to a bull market.
-- Career progression from a graduate research assistant to a lead performance engineer, with income rising from $19,000 to $127,000.
-- Key lessons include the ease of making friends in a large city and the challenges and rewards of changing industries.
-- High savings rate and strategic financial decisions, such as paying off a parental loan and purchasing a car in cash.
-- Discussion highlights include admiration for the rapid net worth growth and curiosity about the author's location and lifestyle.
+- Net worth increased from $34,106 in 2018 to $640,289 in 2025.
+- Career transition from automotive to aerospace industry.
+- High savings rate and bull market contributed significantly to net worth growth.
+- Lessons on making friends in a new city and the challenges of changing industries.
+- Discussion highlights include admiration for savings rate and curiosity about location.
 
-**Discussion Highlights:** The discussion highlights include admiration for the author's financial progress, with comments noting the rapid net worth growth and expressing aspirations to achieve similar success. There is also curiosity about the author's location and lifestyle choices, with some comments focusing on the benefits of living in lower cost-of-living areas.
+**Discussion Highlights:** The discussion highlights include admiration for the author's savings rate and net worth growth, with one comment pointing out a potential privacy issue with an Excel file. There is also curiosity about the author's location in Ohio and general encouragement from others on similar FIRE journeys.
 
 ---
 
@@ -69,16 +78,16 @@
 
 **Author:** u/Missmoneysterling | **Upvotes:** 174 | **Comments:** 139 | **Date:** 2025-12-21
 
-**Summary:** The author retired early at 45 to pursue creative goals but struggles with how to describe their career transition to important people without sounding irresponsible or privileged. They seek advice on phrasing their situation to avoid misconceptions.
+**Summary:** The author retired early at 45 to pursue creative goals but struggles to explain their career transition without sounding irresponsible or privileged. They seek advice on how to frame their situation in professional settings.
 
 **Key Points:**
-- Author fears being perceived as a 'flake' or 'spoiled trust fund baby' when explaining their career shift.
-- Their creative pursuit is now their full-time focus, though not yet financially sustainable.
-- Past profession influences their creative work, providing a bridge between careers.
-- Top comments suggest phrasing like 'sabbatical' or 'independent consultant' to normalize the transition.
-- Consensus highlights that pursuing creative work is reasonable and normal.
+- Author retired early to focus on creative work but faces challenges in explaining their career transition.
+- Concerns about being perceived as a 'flake' or 'spoiled trust fund baby'.
+- Creative pursuit is now their full-time focus, though not yet financially sustainable.
+- Past profession influences their creative work, providing some continuity.
+- Commenters suggest framing it as a sabbatical, consulting, or founding a new venture.
 
-**Discussion Highlights:** The discussion emphasizes normalizing career transitions for creative work, with suggestions like using terms such as 'sabbatical' or 'independent consultant' to frame the shift. Comments also encourage the author to confidently describe their creative pursuit as a legitimate career move.
+**Discussion Highlights:** The discussion highlights practical suggestions for framing the career transition, such as using terms like 'sabbatical' or 'independent consultant.' Commenters also challenge societal perceptions of creative careers, emphasizing the reasonableness of pursuing passion projects.
 
 ---
 
