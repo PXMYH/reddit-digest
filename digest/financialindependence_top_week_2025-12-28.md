@@ -6,88 +6,87 @@
 
 ---
 
-## 1. [Kitces Concludes UTMA Accounts Are Better than Trump Accounts](https://reddit.com/r/financialindependence/comments/1pwh9yi/kitces_concludes_utma_accounts_are_better_than/)
+## 1. [Involuntarily FIRED - 1 year update](https://reddit.com/r/financialindependence/comments/1pxeahn/involuntarily_fired_1_year_update/)
 
-**Author:** u/financeking90 | **Upvotes:** 103 | **Comments:** 52 | **Date:** 2025-12-26
+**Author:** u/anonymous_1983 | **Upvotes:** 243 | **Comments:** 85 | **Date:** 2025-12-27
 
-**Summary:** Michael Kitces argues that UTMA accounts are better than Trump accounts due to tax treatment and other features. The discussion highlights the benefits of UTMA accounts and the limitations of Trump accounts.
+**Summary:** The author, who was involuntarily retired from a Big Tech job in 2024, shares a one-year update on their experiences. They traveled extensively, taught a college course, and saw significant financial growth. Their net worth increased by $1.3M, and they enjoyed new social and hobby activities.
 
 **Key Points:**
-- UTMA accounts have better tax treatment compared to Trump accounts.
-- Trump accounts are funded with after-tax dollars and earnings are taxed as income.
-- The main benefit of Trump accounts is the matching dollars, but this is not enough to outweigh the tax disadvantages.
-- UTMA accounts allow for more flexible tax planning, especially with capital gains.
-- The discussion consensus aligns with Kitces' conclusion that UTMA accounts are generally superior.
+- Taught a college course and enjoyed the experience despite administrative challenges.
+- Traveled overseas for 3 months and took domestic trips, including a group tour to Chicago.
+- Net worth grew by $1.3M with higher-than-expected income and lower expenses.
+- Sold RSUs, realizing $100k in capital gains, and took up a new hobby of buying items for free.
+- Attended their first FIRE meetup and had to pay back ACA premium subsidies due to higher income.
 
-**Discussion Highlights:** The top comments highlight the misleading title of the post, the baffling logic behind the matching dollars in Trump accounts, and the potential for Trump accounts to be added to employer cafeteria plans for tax deferral.
+**Discussion Highlights:** The discussion focused on clarifying the author's hobby of buying items for free, expressing interest in their life enjoyment, suggesting more investment in VTSAX, and noting their high dining expenses.
 
 ---
 
-## 2. [In Praise of Idleness by Bertrand Russell](https://reddit.com/r/financialindependence/comments/1pvw3a2/in_praise_of_idleness_by_bertrand_russell/)
+## 2. [Kitces Concludes UTMA Accounts Are Better than Trump Accounts](https://reddit.com/r/financialindependence/comments/1pwh9yi/kitces_concludes_utma_accounts_are_better_than/)
 
-**Author:** u/passthesugar05 | **Upvotes:** 108 | **Comments:** 38 | **Date:** 2025-12-25
+**Author:** u/financeking90 | **Upvotes:** 105 | **Comments:** 53 | **Date:** 2025-12-26
 
-**Summary:** The post discusses Bertrand Russell's 1930s article advocating for reduced work hours to combat unemployment and promote leisure, aligning with FIRE principles. The discussion highlights the persistent workaholic culture despite technological advancements and explores the potential benefits of working less for overall well-being.
+**Summary:** Michael Kitces argues that UTMA accounts are more advantageous than Trump accounts due to better tax treatment and flexibility, despite the latter's initial appeal of matching contributions. The discussion highlights the tax inefficiencies of Trump accounts and the benefits of alternative savings methods like UTMAs, 529 plans, and insurance products.
 
 **Key Points:**
-- Bertrand Russell's article suggests working 4 hours a day to reduce unemployment and increase leisure time.
-- The idea aligns with FIRE (Financial Independence, Retire Early) principles of living below one's means.
-- Modern workaholic culture persists despite predictions of reduced work hours by economists like Keynes.
-- Discussion includes references to books like 'Four Thousand Weeks' and 'Leisure as the Basis of Culture'.
-- Historical context of hunter-gatherer societies working around 4 hours a day is mentioned.
+- UTMA accounts offer better tax treatment compared to Trump accounts, which tax earnings as income.
+- Trump accounts' primary benefit is the matching contribution, but their tax structure is less favorable for stock assets.
+- Alternative savings methods like 529 plans, IRAs, and insurance products are often more advantageous.
+- The discussion consensus aligns with Kitces' conclusion, emphasizing the tax inefficiencies of Trump accounts.
 
-**Discussion Highlights:** The discussion generally supports the idea of reduced work hours for improved well-being, with references to related literature and historical context. There is a consensus that modern productivity levels are excessive and that leisure time could be better utilized.
+**Discussion Highlights:** The top comments emphasize the misleading nature of the title, noting that Trump accounts' matching contributions provide an initial benefit. However, the consensus is that UTMA accounts and other alternatives are generally better due to their tax advantages and flexibility.
 
 ---
 
-## 3. [Don't forget to balance your saving with *some* spending on you and yours.](https://reddit.com/r/financialindependence/comments/1punb3u/dont_forget_to_balance_your_saving_with_some/)
+## 3. [In Praise of Idleness by Bertrand Russell](https://reddit.com/r/financialindependence/comments/1pvw3a2/in_praise_of_idleness_by_bertrand_russell/)
+
+**Author:** u/passthesugar05 | **Upvotes:** 107 | **Comments:** 38 | **Date:** 2025-12-25
+
+**Summary:** The Reddit post discusses Bertrand Russell's 1930s article 'In Praise of Idleness,' which advocates for reducing work hours to 4 hours a day to decrease unemployment and increase leisure time. The author connects this idea to the FIRE (Financial Independence, Retire Early) movement, suggesting that both aim to reduce unnecessary work and improve quality of life. The discussion includes comments that support the idea of reduced work hours and reference related books and historical perspectives.
+
+**Key Points:**
+- Bertrand Russell's article advocates for working 4 hours a day to reduce unemployment and increase leisure time.
+- The author sees alignment between Russell's ideas and the FIRE movement.
+- Comments mention related books like 'Four Thousand Weeks' and historical perspectives on work hours.
+- Discussion highlights the potential benefits of reduced work hours for health and happiness.
+- Some comments reference hunter-gatherer cultures and their work-leisure balance.
+
+**Discussion Highlights:** The discussion generally supports the idea of reducing work hours and aligns with the FIRE movement's goals. Comments reference additional reading materials and historical examples of work-leisure balance, emphasizing the potential benefits for overall well-being.
+
+---
+
+## 4. [Don't forget to balance your saving with *some* spending on you and yours.](https://reddit.com/r/financialindependence/comments/1punb3u/dont_forget_to_balance_your_saving_with_some/)
 
 **Author:** u/Jean_le_Jedi_Gris | **Upvotes:** 168 | **Comments:** 62 | **Date:** 2025-12-24
 
-**Summary:** The author, a 45-year-old military member, reflects on achieving a $1M net worth and the importance of balancing saving with spending on personal and family enjoyment. They share experiences of spending on a truck, vacations, and home improvements, emphasizing the value of these expenditures despite not being traditional FIRE behaviors.
+**Summary:** The author, a 45-year-old military personnel, shares their journey to achieving a $1M net worth and the importance of balancing saving with spending on personal and family enjoyment. They reflect on the need to enjoy life and spend money on meaningful experiences and improvements, while still maintaining financial growth towards a $2M to $3M retirement goal.
 
 **Key Points:**
-- Achieving financial milestones should be balanced with personal enjoyment and spending on loved ones.
-- Non-traditional spending, like hobbies and home improvements, can be valuable despite not aligning with strict FIRE principles.
-- The importance of enjoying life and experiences alongside financial goals is highlighted.
-- Community comments support the idea of spending on what brings joy while maintaining financial responsibility.
-- Learning practical skills, like restoring a truck, can also align with long-term financial independence.
+- Achieving a $1M net worth at 45 while serving in the military.
+- Realizing the importance of balancing saving with spending on personal and family enjoyment.
+- Investing in experiences and home improvements, such as vacations, renovations, and a pickup truck restoration project.
+- Maintaining financial growth despite increased spending, projecting a $2M to $3M balance by retirement.
+- Encouraging others to spend time with loved ones and enjoy some of their financial achievements.
 
-**Discussion Highlights:** The discussion emphasizes the importance of balancing financial goals with personal enjoyment and spending on meaningful experiences. Many commenters agree with the author's perspective, sharing their own experiences of finding a balance between saving and spending. There is a consensus that while financial independence is important, it should not come at the expense of enjoying life and spending time with loved ones.
+**Discussion Highlights:** The discussion highlights the importance of balancing financial independence with personal enjoyment. Top comments emphasize that spending on meaningful experiences and learning new skills (like restoring a truck) can align with FIRE goals. There is a consensus on the value of spending on what you love while saving on what you don't, and the importance of not delaying life experiences for future financial goals.
 
 ---
 
-## 4. [FIRE with $1.7~mil when the majority is in Bitcoin? - 1 YEAR UPDATE](https://reddit.com/r/financialindependence/comments/1psp9j2/fire_with_17mil_when_the_majority_is_in_bitcoin_1/)
+## 5. [FIRE with $1.7~mil when the majority is in Bitcoin? - 1 YEAR UPDATE](https://reddit.com/r/financialindependence/comments/1psp9j2/fire_with_17mil_when_the_majority_is_in_bitcoin_1/)
 
-**Author:** u/another_FI_throwaway | **Upvotes:** 141 | **Comments:** 162 | **Date:** 2025-12-21
+**Author:** u/another_FI_throwaway | **Upvotes:** 145 | **Comments:** 162 | **Date:** 2025-12-21
 
-**Summary:** The author, laid off in October 2024, initially had a net worth of $1.1 million, which grew to $1.7 million by December 2024, largely due to Bitcoin. They decided to take a break and learned that FIRE doesn't solve everything. The post discusses their journey and the challenges of having a significant portion of their net worth in a volatile asset like Bitcoin.
-
-**Key Points:**
-- Author was laid off in October 2024 with a net worth of $1.1 million, which grew to $1.7 million by December 2024.
-- Majority of the net worth was in Bitcoin, making it a volatile asset.
-- Author decided to take a break and learned that FIRE doesn't magically fix everything.
-- Author had a buffer of $51k in cash to figure things out.
-- Discussion highlights the risks and benefits of having a significant portion of net worth in Bitcoin.
-
-**Discussion Highlights:** The discussion highlights the risks of having a significant portion of net worth in Bitcoin, with many commenters advising diversification. Some commenters suggest liquidating a portion of Bitcoin to mitigate risk, while others emphasize the importance of having a clear exit strategy. There is a consensus that while Bitcoin can be profitable, it is highly volatile and should not be the sole investment.
-
----
-
-## 5. [FIRE Journey as Mechanical Engineer in Midwest: SINK, 31M, 640K NW Update](https://reddit.com/r/financialindependence/comments/1psgh9z/fire_journey_as_mechanical_engineer_in_midwest/)
-
-**Author:** u/yaoz889 | **Upvotes:** 111 | **Comments:** 24 | **Date:** 2025-12-21
-
-**Summary:** A 31-year-old mechanical engineer in the Midwest shares his FIRE (Financial Independence, Retire Early) journey, detailing his net worth growth from $34,106 in 2018 to $640,289 in 2025, primarily due to high savings and a bull market. He transitioned from the automotive to aerospace industry and highlights lessons learned, including the ease of making friends in a large city and the challenges of changing industries.
+**Summary:** The author, laid off in October 2024, initially struggled with deciding whether to retire early given their $1.7 million net worth, mostly in Bitcoin. After a year, they reflect on their journey, noting the challenges of relying heavily on volatile assets like Bitcoin and the importance of having a financial buffer.
 
 **Key Points:**
-- Net worth increased from $34,106 in 2018 to $640,289 in 2025.
-- Transitioned from automotive to aerospace industry.
-- High savings rate and bull market contributed significantly to net worth growth.
-- Making friends in a large city is easier than in suburbs.
-- Changing industries can be challenging but worthwhile.
+- Author was laid off at 40 with a net worth of $1.7 million, mostly in Bitcoin.
+- Initial plan was to find another job but faced challenges in the job market.
+- Learned that Financial Independence, Retire Early (FIRE) doesn't solve all problems.
+- Implemented steps to protect against market downtrends.
+- Majority of Reddit comments advised against relying heavily on Bitcoin and suggested diversifying.
 
-**Discussion Highlights:** The discussion highlights the impressive net worth growth, with comments noting the consistent annual increases and the role of the bull market. Some users expressed aspirations to achieve similar financial success, while others inquired about the author's location and lifestyle choices.
+**Discussion Highlights:** The discussion highlights a consensus on the risks of having a majority of net worth in volatile assets like Bitcoin. Many commenters advised diversifying investments to mitigate risks and ensure long-term financial stability.
 
 ---
 
