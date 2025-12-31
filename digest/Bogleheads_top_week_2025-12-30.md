@@ -1,168 +1,200 @@
 # r/Bogleheads Reading Digest
 
 **Period:** 2025-12-30 to 2025-12-30
-**Posts Summarized:** 10
-**Total Posts Analyzed:** 10
+**Posts Summarized:** 13
+**Total Posts Analyzed:** 13
 
 ---
 
-## 1. [Can I fund my Roth IRA account with $7500 on January 1st?](https://reddit.com/r/Bogleheads/comments/1py7tk6/can_i_fund_my_roth_ira_account_with_7500_on/)
+## 1. [Why does nobody believe us?](https://reddit.com/r/Bogleheads/comments/1pzrpg4/why_does_nobody_believe_us/)
 
-**Author:** u/go4rabbit | **Upvotes:** 330 | **Comments:** 144 | **Date:** 2025-12-28
+**Author:** u/JPCool1 | **Upvotes:** 460 | **Comments:** 363 | **Date:** 2025-12-30
 
-**Summary:** The post asks whether a Roth IRA can be funded with $7500 on January 1st without waiting for accumulated take-home pay. The consensus is that it is possible as long as the contributor earns at least $7500 by the end of the year.
+**Summary:** The post discusses the author's frustration with family members who prefer stock picking over ETF investing, highlighting the challenges of convincing others about the benefits of a conservative investment approach.
 
 **Key Points:**
-- You can fund your Roth IRA with $7500 on January 1st without waiting for accumulated take-home pay.
-- Ensure you earn at least $7500 by the end of the year to avoid issues.
-- The contribution limit for 2026 is $7500 for individuals under 50.
-- It's advisable to max out the previous year's contribution before the April 15th deadline if not already done.
-- Catch-up contributions for the previous year are also possible if not maxed out.
+- The author prefers ETFs for their long-term growth potential and lower risk compared to individual stocks.
+- Family members cite past successes in stock picking, often omitting failures.
+- The author believes in the 'whole haystack' approach of ETFs over trying to find individual 'needles'.
+- The discussion reveals a consensus that convincing others about investment strategies is often futile.
+- Many commenters agree that people prefer the excitement of stock picking, akin to gambling.
 
-**Discussion Highlights:** The discussion highlights that funding a Roth IRA early in the year is permissible as long as the contributor is confident they will meet the income requirement by year-end. The consensus emphasizes the importance of ensuring sufficient earnings to cover the contribution.
+**Discussion Highlights:** The discussion highlights a general consensus that trying to convince others about investment strategies is often unproductive. Many commenters agree that people are drawn to the excitement and perceived skill of stock picking, even though it is statistically less likely to succeed than a simple, conservative ETF strategy. The counterintuitive nature of simple investing strategies being the most effective is also noted.
 
 ---
 
-## 2. [Why do Bogleheads discourage use of AI search for investing information? Because it is too often wrong or misleading.](https://reddit.com/r/Bogleheads/comments/1py0ajm/why_do_bogleheads_discourage_use_of_ai_search_for/)
+## 2. [Are we all overexposed to NVDA?](https://reddit.com/r/Bogleheads/comments/1pz68yu/are_we_all_overexposed_to_nvda/)
 
-**Author:** u/Kashmir79 | **Upvotes:** 219 | **Comments:** 133 | **Date:** 2025-12-28
+**Author:** u/FoggyFoggyFoggy | **Upvotes:** 120 | **Comments:** 146 | **Date:** 2025-12-29
 
-**Summary:** The post discusses why Bogleheads discourage the use of AI search for investing information due to inaccuracies, hallucinations, and the potential for misleading advice. The community prefers firsthand knowledge and authoritative sources over AI-generated content.
+**Summary:** The Reddit post discusses the significant weight of NVDA, AAPL, and MSFT in VTI, raising questions about diversification. The discussion highlights differing views on market concentration and the mechanics of index funds.
 
 **Key Points:**
-- LLMs are not firsthand sources and are prone to composition and sourcing mistakes.
-- LLMs can confidently provide incorrect information, leading to misleading advice.
-- The quality of LLM responses depends heavily on the user's prompt-crafting skills.
-- AI-generated content is discouraged to ensure substantive and reliable discussions.
-- Personal experiences and authoritative sources are preferred over algorithmic responses.
+- NVDA, AAPL, and MSFT make up nearly 1/5 of VTI, with NVDA alone accounting for over 7% of the fund.
+- Index funds naturally concentrate in top-performing stocks, and market dynamics typically resolve over-allocation issues over time.
+- Historical context is provided, such as AT&T's 13% weight in the S&P 500, to illustrate past market concentrations.
+- There is a debate between trusting the market's efficiency and concerns about passive investing leading to over-concentration.
+- Some commenters argue that modern indexing resembles a momentum play, potentially undermining diversification.
 
-**Discussion Highlights:** The discussion highlights instances where AI provided incorrect information, such as wrong expense ratios for index funds. There is a consensus that while AI has potential, it is not yet reliable for novice investors seeking accurate financial advice.
+**Discussion Highlights:** The discussion reflects a general consensus on trusting market mechanisms, with some users expressing concerns about the risks of over-concentration in passive investing. Historical examples and differing opinions on market efficiency are key themes.
 
 ---
 
-## 3. [In a Wild Year for Markets, Investors Who Did Nothing Did Just Fine](https://reddit.com/r/Bogleheads/comments/1pxz1wt/in_a_wild_year_for_markets_investors_who_did/)
+## 3. [401k- haven’t touched in years, should I change anything?](https://reddit.com/r/Bogleheads/comments/1pz116u/401k_havent_touched_in_years_should_i_change/)
+
+**Author:** u/Icy-Neighborhood6207 | **Upvotes:** 495 | **Comments:** 143 | **Date:** 2025-12-29
+
+**Summary:** The user, aged 35, has a 401k invested in a target date fund that has grown significantly over 10 years. They seek advice on whether to make changes to their investment strategy.
+
+**Key Points:**
+- The user has consistently invested in a target date fund through multiple employers.
+- The investment has performed well over the past decade.
+- Top comments advise against making changes, suggesting to leave the investment as is.
+- Target date funds are generally considered a good option unless they have high expense ratios.
+- The consensus is to avoid unnecessary adjustments if the current strategy is working well.
+
+**Discussion Highlights:** The discussion highlights a strong consensus that target date funds are a suitable investment choice, especially if they have performed well historically. Commenters advise the user to avoid making changes unless there are high expense ratios or other significant drawbacks. The overall sentiment is to leave the investment untouched and review it again in the future.
+
+---
+
+## 4. [Can I fund my Roth IRA account with $7500 on January 1st?](https://reddit.com/r/Bogleheads/comments/1py7tk6/can_i_fund_my_roth_ira_account_with_7500_on/)
+
+**Author:** u/go4rabbit | **Upvotes:** 335 | **Comments:** 146 | **Date:** 2025-12-28
+
+**Summary:** The post discusses whether it's possible to fund a Roth IRA with $7500 on January 1st, without waiting for accumulated take-home pay. The consensus is that it is allowed, provided the contributor earns at least $7500 by the end of the year.
+
+**Key Points:**
+- You can fund your Roth IRA with $7500 on January 1st, even before earning the income, as long as you earn at least $7500 by the end of the year.
+- The contribution limit for 2026 is $7500 for individuals under 50 years old.
+- It's advisable to ensure you will meet the income requirement before making the contribution.
+- If you haven't maxed out your 2025 contributions, you have until April 15th to do so.
+
+**Discussion Highlights:** The discussion highlights that early funding of the Roth IRA is permissible, but caution is advised to ensure the income requirement is met by year-end. There is also a reminder to prioritize maxing out the previous year's contributions if not already done.
+
+---
+
+## 5. [Why do Bogleheads discourage use of AI search for investing information? Because it is too often wrong or misleading.](https://reddit.com/r/Bogleheads/comments/1py0ajm/why_do_bogleheads_discourage_use_of_ai_search_for/)
+
+**Author:** u/Kashmir79 | **Upvotes:** 220 | **Comments:** 133 | **Date:** 2025-12-28
+
+**Summary:** The post discusses why Bogleheads discourage the use of AI search for investing information due to its tendency to provide incorrect or misleading data. It highlights issues like hallucinations, reliance on prompt quality, and the lack of firsthand knowledge in AI-generated content. The discussion consensus emphasizes the unreliability of AI for accurate investing information, with users sharing personal experiences of AI providing incorrect data. There is a general agreement that human expertise and firsthand knowledge are preferred for substantive financial advice.
+
+---
+
+## 6. [In a Wild Year for Markets, Investors Who Did Nothing Did Just Fine](https://reddit.com/r/Bogleheads/comments/1pxz1wt/in_a_wild_year_for_markets_investors_who_did/)
 
 **Author:** u/Hefty-Report6360 | **Upvotes:** 775 | **Comments:** 75 | **Date:** 2025-12-28
 
-**Summary:** The Reddit post highlights that investors who maintained a passive, long-term investment strategy fared well despite market volatility. The discussion emphasizes the benefits of consistent investing and avoiding frequent trading.
+**Summary:** The Reddit post highlights that investors who adopted a passive approach during market volatility fared well, emphasizing the benefits of long-term, hands-off investing strategies.
 
 **Key Points:**
-- Passive investing strategies outperformed active trading in volatile markets.
-- Consistent, long-term investing (e.g., DCA) is recommended over frequent trading.
-- Financial media often promotes anxiety-driven trading, which may not benefit individual investors.
-- Investors who 'did nothing' (e.g., held long-term positions) saw positive outcomes.
+- Passive investing strategies often outperform active trading during market volatility.
+- Financial media may promote anxiety to encourage unnecessary trading.
+- Dollar-cost averaging (DCA) and consistent contributions lead to positive outcomes.
+- Long-term investors benefit from ignoring short-term market fluctuations.
 
-**Discussion Highlights:** The consensus in the discussion is that passive investing, such as dollar-cost averaging (DCA) and long-term holding, is a reliable strategy. Many commenters noted that avoiding emotional reactions to market fluctuations and sticking to a consistent plan leads to better outcomes. There is also skepticism about financial media's role in promoting unnecessary trading.
+**Discussion Highlights:** The discussion consensus supports passive investing, with many users advocating for consistent contributions and avoiding reactionary trading. The top comments emphasize the effectiveness of 'doing nothing' and the pitfalls of active trading for inexperienced investors.
 
 ---
 
-## 4. [Wife has large sum of cash in HYSA, Suggested it may be better to put in a taxable brokerage in a three fund portfolio. looking for conformation I'm correct or other suggestions.](https://reddit.com/r/Bogleheads/comments/1pxbhjm/wife_has_large_sum_of_cash_in_hysa_suggested_it/)
+## 7. [Wife has large sum of cash in HYSA, Suggested it may be better to put in a taxable brokerage in a three fund portfolio. looking for conformation I'm correct or other suggestions.](https://reddit.com/r/Bogleheads/comments/1pxbhjm/wife_has_large_sum_of_cash_in_hysa_suggested_it/)
 
-**Author:** u/DrewHefner | **Upvotes:** 175 | **Comments:** 93 | **Date:** 2025-12-27
+**Author:** u/DrewHefner | **Upvotes:** 182 | **Comments:** 93 | **Date:** 2025-12-27
 
-**Summary:** A couple is considering moving a large sum from a High-Yield Savings Account (HYSA) to a taxable brokerage account with a three-fund portfolio. The wife has $275k in a HYSA, which the husband believes is excessive for an emergency fund. They seek advice on whether this is a wise financial move given their current tax-advantaged retirement contributions.
+**Summary:** A couple is considering moving a large sum from a High-Yield Savings Account (HYSA) to a taxable brokerage account with a three-fund portfolio. The wife has $275k in HYSA, plans to buy a car for $75k, and keep $50k in HYSA, potentially investing $150k. They seek confirmation on this strategy.
 
 **Key Points:**
 - The couple is financially stable, maxing out their 401k and backdoor Roth IRA contributions.
-- The wife has $275k in a HYSA, which the husband considers excessive for an emergency fund.
-- They plan to keep $50k in the HYSA and invest $150k in a three-fund portfolio.
-- The discussion highlights the importance of considering both financial and personal factors.
-- Consensus suggests that investing in a taxable brokerage with tax-efficient instruments is a good idea if all tax-advantaged options are maxed out.
+- The wife has $275k in HYSA, which is considered excessive for an emergency fund.
+- They plan to buy a car for $75k and keep $50k in HYSA, potentially investing $150k in a taxable brokerage.
+- The discussion highlights the importance of tax efficiency and investment education.
+- Consensus suggests that investing in a taxable brokerage with tax-efficient instruments is a good strategy if they are maxing out tax-advantaged accounts.
 
-**Discussion Highlights:** The discussion emphasizes the importance of considering both financial and personal factors, such as the wife's comfort with market fluctuations. The consensus is that investing in a taxable brokerage with tax-efficient instruments is a good idea if all tax-advantaged options are maxed out. However, it is crucial to ensure both partners are comfortable with the investment strategy and understand the risks involved.
+**Discussion Highlights:** The discussion emphasizes the importance of tax efficiency and investment education. Many commenters agree that moving a portion of the HYSA funds to a taxable brokerage with a three-fund portfolio is a sound strategy, given that the couple is already maxing out their tax-advantaged retirement accounts. Some commenters also highlight the need for the wife to understand investment basics and market fluctuations.
 
 ---
 
-## 5. [FT: So Long, American Exceptionalism. Does this change US allocation going forward for anyone else?](https://reddit.com/r/Bogleheads/comments/1pwy2rq/ft_so_long_american_exceptionalism_does_this/)
+## 8. [FT: So Long, American Exceptionalism. Does this change US allocation going forward for anyone else?](https://reddit.com/r/Bogleheads/comments/1pwy2rq/ft_so_long_american_exceptionalism_does_this/)
 
 **Author:** u/Ripley_Riley | **Upvotes:** 160 | **Comments:** 218 | **Date:** 2025-12-27
 
-**Summary:** The post discusses whether changing sentiment about American exceptionalism should affect US investment allocations. The author, currently at 60% VTI, 20% VXUS, and 20% BND, considers adjusting their portfolio to reduce US exposure.
-
-**Key Points:**
-- Author's current allocation: 60% VTI, 20% VXUS, 20% BND
-- Consideration to adjust allocation due to perceived US instability
-- Community responses vary from maintaining market cap weights to increasing international contributions
-- Some suggest using VT for automatic rebalancing to cap weights
-- General consensus: no one knows the future, so stick to a balanced strategy
-
-**Discussion Highlights:** The discussion highlights a range of opinions, from maintaining current allocations to adjusting contributions. Many emphasize sticking to market cap weights or using global funds like VT for automatic rebalancing. The overall sentiment leans towards cautious optimism and long-term strategy over reactive changes.
+**Summary:** The Reddit post discusses whether changing global sentiment about US investments should alter portfolio allocations. The author, currently at 60% VTI, 20% VXUS, and 20% BND, considers adjusting to 50/30/20 or 40/40/20. The community generally advises sticking to market-cap weights or using global funds like VT. Key points include the author's current allocation, consideration to adjust due to shifting sentiment, community advice on market-cap weights, suggestions for incremental adjustments, and emphasis on long-term strategy. The discussion highlights a consensus on maintaining a long-term, market-cap-weighted approach, with many advocating for global funds and incremental adjustments.
 
 ---
 
-## 6. [Selling Everything Based on Fear Part 2: Retirement](https://reddit.com/r/Bogleheads/comments/1pwkewq/selling_everything_based_on_fear_part_2_retirement/)
+## 9. [Selling Everything Based on Fear Part 2: Retirement](https://reddit.com/r/Bogleheads/comments/1pwkewq/selling_everything_based_on_fear_part_2_retirement/)
 
-**Author:** u/Alphanaught | **Upvotes:** 142 | **Comments:** 67 | **Date:** 2025-12-26
+**Author:** u/Alphanaught | **Upvotes:** 144 | **Comments:** 67 | **Date:** 2025-12-26
 
-**Summary:** The Reddit post discusses a simulation comparing a fear-based market timing strategy using Google Trends data for 'recession' against a buy-and-hold strategy during retirement. The analysis includes scenarios with IRA and non-IRA accounts, considering taxes and required minimum distributions (RMDs).
-
-**Key Points:**
-- The simulation compares a fear-based strategy (liquidating to T-bills when Google Trends for 'recession' hits 20) with a buy-and-hold strategy during retirement.
-- Assumptions include a starting balance of $2,000,000, a 4% annual withdrawal, and a 3% inflation adjustment.
-- Results show the performance of both strategies in IRA and non-IRA accounts, including tax implications and RMDs.
-- The fear-based strategy sometimes outperforms buy-and-hold, but results vary significantly based on market conditions.
-- Discussion highlights include the complexity of the data and the potential limitations of using lagging indicators like Google Trends.
-
-**Discussion Highlights:** The discussion includes requests for clarification on the math, appreciation for the data analysis, and skepticism about the effectiveness of using lagging indicators like Google Trends for market timing. Some commenters note that sophisticated quants often fail with similar strategies, emphasizing the challenges of timing the market.
+**Summary:** The Reddit post discusses a simulation comparing a fear-based market timing strategy (using Google Trends data for 'recession') against a buy-and-hold strategy during retirement. The analysis includes scenarios for IRA and non-IRA accounts with tax implications and required minimum distributions (RMDs). Key points include the simulation setup, assumptions, results showing mixed performance, and discussion highlights emphasizing the complexity of market timing and skepticism about lagging indicators.
 
 ---
 
-## 7. [What if you need cash during a market crash?](https://reddit.com/r/Bogleheads/comments/1pw1vyy/what_if_you_need_cash_during_a_market_crash/)
+## 10. [What if you need cash during a market crash?](https://reddit.com/r/Bogleheads/comments/1pw1vyy/what_if_you_need_cash_during_a_market_crash/)
 
-**Author:** u/Own_Active_2147 | **Upvotes:** 163 | **Comments:** 150 | **Date:** 2025-12-26
+**Author:** u/Own_Active_2147 | **Upvotes:** 165 | **Comments:** 150 | **Date:** 2025-12-26
 
-**Summary:** The post discusses concerns about financial stability during a market crash, particularly if one loses their job or faces health issues. The discussion emphasizes the importance of an emergency fund and long-term investment strategies.
+**Summary:** The post discusses concerns about financial stability during a market crash, particularly in the event of job loss or medical emergencies, and questions the role of bonds and emergency funds. The discussion emphasizes the importance of having an emergency fund and not investing money that may be needed in the short term.
 
 **Key Points:**
-- An emergency fund (6-12 months of expenses) is crucial for financial stability during a market crash.
-- Bonds and other stable assets can provide liquidity without selling stocks at a loss.
-- Investments should be made with a long-term perspective (5-10 years) to weather market fluctuations.
-- Health and life insurance are important components of financial planning.
-- Historically, markets recover over time, so maintaining a long-term strategy is advised.
+- Importance of an emergency fund (6-12 months of expenses)
+- Only invest money that can be left untouched for 5-10 years
+- Emergency funds should be kept in easily accessible, low-risk accounts like HYSA or CDs
+- Bonds can serve as a buffer during market downturns
+- Historically, markets recover over time, making long-term investing less risky
 
-**Discussion Highlights:** The consensus highlights the importance of having an emergency fund in a savings account or easily liquidated assets to cover unexpected expenses. The discussion also underscores the value of long-term investment strategies and the role of insurance in mitigating financial risks.
+**Discussion Highlights:** The consensus in the discussion highlights the critical role of an emergency fund in providing financial security during market crashes. Commenters agree that emergency funds should be kept in low-risk, easily accessible accounts and should cover 6-12 months of expenses. Additionally, the discussion emphasizes the importance of long-term investing and not relying on short-term market movements for financial stability.
 
 ---
 
-## 8. [Selling Everything Based on Fear](https://reddit.com/r/Bogleheads/comments/1pvmu78/selling_everything_based_on_fear/)
+## 11. [Selling Everything Based on Fear](https://reddit.com/r/Bogleheads/comments/1pvmu78/selling_everything_based_on_fear/)
 
-**Author:** u/Alphanaught | **Upvotes:** 360 | **Comments:** 104 | **Date:** 2025-12-25
+**Author:** u/Alphanaught | **Upvotes:** 363 | **Comments:** 104 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post compares a Buy-&-Hold strategy with a Fear-Based strategy for investing in SPY, showing that while the Fear-Based strategy performs slightly better in a tax-free scenario, the difference is minimal. The author concludes that staying invested is the best approach. Key points include the Fear-Based strategy's reliance on Google trend results for 'recession', its performance in tax-free and taxed scenarios, and the psychological challenges of executing such a strategy. The discussion highlights concerns about back-testing bias and the importance of timing in fear-based investing, with a general consensus favoring staying invested.
+**Summary:** The post compares a Buy-&-Hold strategy with a Fear-Based strategy that sells SPY holdings during high economic anxiety, showing that while the Fear-Based strategy can reduce drawdowns, it underperforms after taxes and is harder to execute in practice.
+
+**Key Points:**
+- Fear-Based strategy reduces max drawdown but underperforms after taxes
+- Buy-&-Hold strategy is more reliable and less stressful for long-term investors
+- Back-testing bias and psychological challenges are significant drawbacks of the Fear-Based strategy
+- Taxes significantly impact the performance of the Fear-Based strategy
+- The consensus favors staying invested and continuing regular contributions
+
+**Discussion Highlights:** The discussion highlights critiques of back-testing bias, the psychological difficulty of executing the Fear-Based strategy in real-time, and the impact of taxes. The consensus leans towards the Buy-&-Hold strategy being more reliable and less stressful for long-term investors.
 
 ---
 
-## 9. [Lost half of all my savings. How to move on after huge loss.](https://reddit.com/r/Bogleheads/comments/1pvktw1/lost_half_of_all_my_savings_how_to_move_on_after/)
+## 12. [Lost half of all my savings. How to move on after huge loss.](https://reddit.com/r/Bogleheads/comments/1pvktw1/lost_half_of_all_my_savings_how_to_move_on_after/)
 
-**Author:** u/BringTheFood | **Upvotes:** 578 | **Comments:** 365 | **Date:** 2025-12-25
+**Author:** u/BringTheFood | **Upvotes:** 577 | **Comments:** 365 | **Date:** 2025-12-25
 
-**Summary:** A 36-year-old Reddit user lost half of their savings due to risky options trading and seeks advice on rebuilding finances and coping mentally. The community emphasizes learning from the mistake, adopting disciplined saving, and investing in index funds.
+**Summary:** A 36-year-old Reddit user shares their distress after losing half their savings (from $75k to $37k) due to rash options trading and seeks advice on rebuilding finances and coping mentally. The community emphasizes treating the loss as a learning experience and focusing on disciplined, long-term investing.
 
 **Key Points:**
-- Treat the loss as an expensive lesson and avoid future speculative trading.
+- Treat the financial loss as an expensive lesson and avoid speculative trading.
 - Focus on budgeting, living below your means, and saving consistently.
 - Invest in index funds or a 3-fund portfolio for long-term growth.
-- Rebuilding finances takes time; expect 5-6 years in a bull market.
-- Prioritize mental resilience and avoid feeling like you're starting from scratch.
+- Rebuilding finances takes time; expect it to take 5-6 years even in a bull market.
+- Prioritize mental health and avoid feeling like you're starting from scratch.
 
-**Discussion Highlights:** The community consensus stresses disciplined saving, avoiding risky investments, and adopting a long-term investment strategy. Many commenters highlight the importance of treating the loss as a learning experience and focusing on steady financial habits.
+**Discussion Highlights:** The consensus in the discussion is to avoid speculative trading, focus on disciplined saving and investing in low-cost index funds, and treat the loss as a learning experience. The community emphasizes that rebuilding finances is a long-term process requiring patience and consistency.
 
 ---
 
-## 10. [To everyone who spent 2025 trying to time the crash](https://reddit.com/r/Bogleheads/comments/1pup1q6/to_everyone_who_spent_2025_trying_to_time_the/)
+## 13. [To everyone who spent 2025 trying to time the crash](https://reddit.com/r/Bogleheads/comments/1pup1q6/to_everyone_who_spent_2025_trying_to_time_the/)
 
 **Author:** u/barris59 | **Upvotes:** 1306 | **Comments:** 353 | **Date:** 2025-12-24
 
-**Summary:** The S&P 500 hit its 38th record high in 2025, defying predictions of a market crash. The post and comments emphasize the futility of market timing and the benefits of staying invested for long-term gains.
+**Summary:** The post highlights the futility of market timing, as the S&P 500 hit 38 record highs in 2025 despite predictions of a crash. It emphasizes the importance of staying invested to capture market gains.
 
 **Key Points:**
-- The S&P 500 hit 38 record highs in 2025, despite predictions of a crash.
-- Market timing is often unsuccessful, as the market tends to rebound and reach new highs.
-- Long-term investing and staying the course are highlighted as effective strategies.
-- Concerns about market corrections are acknowledged, but the overall trend is upward.
-- The weakening U.S. dollar is mentioned as a possible factor in the market's performance.
+- The S&P 500 hit 38 record highs in 2025, defying crash predictions.
+- Market timing often leads to missed gains and underperformance.
+- Long-term investing and staying the course are more reliable strategies.
+- Retirement planning should focus on gradual asset allocation adjustments.
+- Market corrections are normal but the overall trend is upward.
 
-**Discussion Highlights:** The discussion consensus is that while market corrections are inevitable, the overall trend is upward. Investors are encouraged to stay invested rather than attempting to time the market. Personal anecdotes and experiences are shared to support the idea of long-term investing.
+**Discussion Highlights:** The discussion consensus supports long-term investing over market timing. Many commenters share personal experiences of unsuccessfully predicting market crashes and emphasize the benefits of staying invested. Concerns about retirement planning and asset allocation are also discussed.
 
 ---
 

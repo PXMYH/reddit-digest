@@ -8,69 +8,69 @@
 
 ## 1. [Involuntarily FIRED - 1 year update](https://reddit.com/r/financialindependence/comments/1pxeahn/involuntarily_fired_1_year_update/)
 
-**Author:** u/anonymous_1983 | **Upvotes:** 320 | **Comments:** 123 | **Date:** 2025-12-27
+**Author:** u/anonymous_1983 | **Upvotes:** 323 | **Comments:** 124 | **Date:** 2025-12-27
 
-**Summary:** The author, who was involuntarily retired from a Big Tech job in 2024, shares a one-year update on their experiences. They traveled extensively, taught a college course, and saw significant financial growth. Their net worth increased by $1.3M, and they enjoyed new hobbies and social activities.
+**Summary:** The author, who was involuntarily retired from a Big Tech job in 2024, shares a one-year update on their experiences. They traveled extensively, taught a college course, and saw significant financial growth, with their net worth increasing by $1.3M.
 
 **Key Points:**
-- Taught a college course and enjoyed bringing industry experience to students.
-- Traveled overseas for 3 months and took domestic trips, including a group tour to Chicago.
-- Net worth grew by $1.3M with higher-than-planned income and lower expenses.
-- Sold old RSUs, realizing almost $100k in capital gains.
-- Took up a new hobby of buying stuff for free, particularly food.
+- Author taught a college course and enjoyed the experience despite administrative challenges.
+- Traveled extensively, including overseas trips and domestic trips with friends and family.
+- Net worth grew by $1.3M, with income higher and expenses lower than planned.
+- Sold old RSUs, realizing significant capital gains.
+- Engaged in a new hobby of buying stuff for free, particularly food.
 
-**Discussion Highlights:** The discussion focused on clarifying the author's new hobby of buying stuff for free, inquiring about their overall enjoyment of life, and commenting on their spending habits and investment choices.
+**Discussion Highlights:** The discussion highlights include curiosity about the author's hobby of buying stuff for free, inquiries about their overall enjoyment of life, suggestions to invest more in VTSAX, and admiration for their dining expenses.
 
 ---
 
 ## 2. [Kitces Concludes UTMA Accounts Are Better than Trump Accounts](https://reddit.com/r/financialindependence/comments/1pwh9yi/kitces_concludes_utma_accounts_are_better_than/)
 
-**Author:** u/financeking90 | **Upvotes:** 107 | **Comments:** 56 | **Date:** 2025-12-26
+**Author:** u/financeking90 | **Upvotes:** 104 | **Comments:** 56 | **Date:** 2025-12-26
 
-**Summary:** Michael Kitces' analysis concludes that UTMA accounts are generally better than Trump accounts due to tax treatment and other features. The post discusses the tax implications and advantages of various savings options for children, including UTMA accounts, 529 plans, and IRAs.
+**Summary:** Michael Kitces argues that UTMA/UGMA custodial accounts are generally better than Trump accounts due to tax treatment and flexibility, despite the latter's matching contributions. The discussion highlights mixed views on the benefits of Trump accounts, with some emphasizing the value of matching dollars.
 
 **Key Points:**
-- UTMA accounts are considered better than Trump accounts due to tax treatment and flexibility.
-- Trump accounts have tax deferral but are funded with after-tax dollars and earnings are taxed as income.
-- The main benefit of Trump accounts is the matching dollars, which some find baffling.
-- IRS guidance allows Trump accounts to be added to employer cafeteria plans, enabling tax deferral.
-- The discussion highlights the complexity and varying opinions on the best savings options for children.
+- UTMA/UGMA accounts are preferred over Trump accounts due to better tax treatment and flexibility.
+- Trump accounts offer tax deferral but are funded with after-tax dollars, making them less advantageous for stock assets.
+- The primary benefit of Trump accounts is the matching contributions, which some users find valuable.
+- IRS guidance allows Trump accounts to be included in employer cafeteria plans, enabling tax deferral.
+- The discussion reflects a consensus that UTMA accounts are generally superior, but Trump accounts have niche benefits.
 
-**Discussion Highlights:** The discussion highlights the complexity of choosing the best savings options for children, with varying opinions on the benefits of UTMA accounts versus Trump accounts. Some users point out the advantages of matching dollars in Trump accounts, while others emphasize the tax benefits of UTMA accounts.
+**Discussion Highlights:** The discussion highlights a consensus that UTMA accounts are generally better, but some users point out the value of matching contributions in Trump accounts. There is also mention of IRS guidance allowing Trump accounts in employer cafeteria plans, which could enhance their utility.
 
 ---
 
 ## 3. [In Praise of Idleness by Bertrand Russell](https://reddit.com/r/financialindependence/comments/1pvw3a2/in_praise_of_idleness_by_bertrand_russell/)
 
-**Author:** u/passthesugar05 | **Upvotes:** 112 | **Comments:** 36 | **Date:** 2025-12-25
+**Author:** u/passthesugar05 | **Upvotes:** 110 | **Comments:** 36 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post discusses Bertrand Russell's 1930s article 'In Praise of Idleness,' which advocates for reducing work hours to 4 hours a day to decrease unemployment and increase leisure time. The author sees alignment with the FIRE (Financial Independence, Retire Early) movement, which focuses on living below one's means to achieve financial independence. The discussion highlights the ongoing relevance of Russell's ideas in modern workaholic cultures.
+**Summary:** The post discusses Bertrand Russell's 1930s article advocating for reduced work hours to combat unemployment and promote leisure, aligning with FIRE principles. The discussion highlights the relevance of Russell's ideas in modern workaholic cultures and explores related books and historical perspectives on leisure and work.
 
 **Key Points:**
-- Bertrand Russell's article advocates for a 4-hour workday to reduce unemployment and increase leisure time.
-- The author sees parallels between Russell's ideas and the FIRE movement.
-- The discussion notes that modern workaholic cultures persist despite predictions of reduced work hours.
-- Comments mention related books and the historical context of hunter-gatherer societies.
-- There is a consensus that excessive work may not be necessary for societal well-being.
+- Bertrand Russell's article suggests working 4 hours a day to reduce unemployment and increase leisure time.
+- The post aligns Russell's ideas with the FIRE movement, emphasizing financial independence and early retirement.
+- Discussion includes references to books like 'Four Thousand Weeks' and 'Leisure as the Basis of Culture'.
+- Historical perspectives on work hours and leisure are discussed, including hunter-gatherer lifestyles.
+- The conversation reflects on modern workaholic cultures and the potential benefits of reduced work hours.
 
-**Discussion Highlights:** The discussion highlights a general agreement that modern work cultures are overly demanding and that reducing work hours could improve overall well-being. Comments reference related literature and historical contexts, such as hunter-gatherer societies, to support the idea that less work can be beneficial.
+**Discussion Highlights:** The discussion highlights a consensus on the relevance of Russell's ideas in modern times, with participants sharing related books and historical perspectives. There is a general agreement on the potential benefits of reduced work hours for overall well-being and happiness.
 
 ---
 
 ## 4. [Don't forget to balance your saving with *some* spending on you and yours.](https://reddit.com/r/financialindependence/comments/1punb3u/dont_forget_to_balance_your_saving_with_some/)
 
-**Author:** u/Jean_le_Jedi_Gris | **Upvotes:** 176 | **Comments:** 69 | **Date:** 2025-12-24
+**Author:** u/Jean_le_Jedi_Gris | **Upvotes:** 177 | **Comments:** 69 | **Date:** 2025-12-24
 
-**Summary:** The author, a 45-year-old military member, reflects on achieving a $1M net worth and the importance of balancing saving with spending on personal and family enjoyment. They share experiences of spending on a truck, vacations, and home improvements, emphasizing the value of these expenditures despite not being traditional FIRE behaviors.
+**Summary:** The post discusses the importance of balancing saving for financial independence with spending on personal enjoyment and loved ones. The author shares their journey of reaching a $1M net worth and realizing the need to enjoy life while still saving for the future.
 
 **Key Points:**
-- Achieving financial milestones should be balanced with personal enjoyment and spending on loved ones.
-- Non-traditional spending, like restoring a truck or home improvements, can still align with long-term financial goals.
-- The importance of enjoying life and experiences alongside financial independence is highlighted.
-- Community consensus supports the idea of spending on what brings personal value and happiness.
-- FIRE (Financial Independence, Retire Early) goals can coexist with meaningful spending.
+- The author reached a $1M net worth but plans to spend on a new car and other personal improvements.
+- The author realized the importance of balancing saving with spending on personal enjoyment after a family loss.
+- The author spent on a truck, vacations, home renovations, and solar panels, totaling around $140k, but still projects a $2M to $3M balance by retirement.
+- Top comments emphasize the value of spending on what you love and the importance of experiences.
+- The consensus is that while saving is crucial, enjoying life and spending on meaningful experiences is equally important.
 
-**Discussion Highlights:** The discussion highlights a consensus on the importance of balancing financial discipline with personal enjoyment. Many commenters agree that spending on meaningful experiences and items can enhance life quality without derailing financial goals. The community supports the idea of spending on what one values, as echoed by financial experts like Ramit Sethi.
+**Discussion Highlights:** The discussion highlights the importance of finding a balance between saving for financial independence and spending on personal enjoyment and experiences. Many commenters agree that while saving is important, it's also crucial to enjoy life and spend on things that bring happiness and improve quality of life.
 
 ---
 
