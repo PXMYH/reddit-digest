@@ -8,119 +8,127 @@
 
 ## 1. [$3.5 million net worth](https://reddit.com/r/Fire/comments/1q15lyl/35_million_net_worth/)
 
-**Author:** u/NoShelter5922 | **Upvotes:** 246 | **Comments:** 91 | **Date:** 2026-01-01
+**Author:** u/NoShelter5922 | **Upvotes:** 254 | **Comments:** 92 | **Date:** 2026-01-01
 
-**Summary:** The author shares their journey from a difficult divorce at 39 to achieving financial independence and a $3.5 million net worth by age 46, emphasizing the positive impact of the FIRE (Financial Independence, Retire Early) movement on their life. They highlight the importance of discipline, a supportive partner, and reaching Coast FIRE, which allowed them to enjoy life more while still working.
+**Summary:** The author shares their journey from a difficult divorce at 39 to achieving financial independence and a $3.5 million net worth by 46, emphasizing the positive impact of the FIRE (Financial Independence, Retire Early) movement and the importance of a supportive partner.
 
 **Key Points:**
-- The author's divorce at 39 was a turning point that motivated them to focus on their career and finances.
-- They achieved a $3.5 million net worth by age 46, with their partner contributing $1.16 million.
-- Reaching Coast FIRE allowed them to enjoy life more, including taking vacations and spending time with family.
-- The author's career improved as they taught others how to handle client meetings, leading to a potential promotion.
-- The discussion includes both supportive comments and requests for more specific details about their financial journey.
+- Author achieved Coast FIRE, allowing them to work without the need to save more.
+- Divorce at 39 was a turning point that motivated financial discipline and career focus.
+- Met a supportive partner who contributed significantly to their combined net worth.
+- Lifestyle improved with more vacations and better work-life balance.
+- Discussion includes skepticism about the post's authenticity and requests for more details.
 
-**Discussion Highlights:** The discussion includes a mix of supportive comments and skepticism, with some users requesting more details about the author's financial strategies and portfolio. There is also a consensus on the importance of having a supportive partner in achieving financial goals.
+**Discussion Highlights:** The discussion highlights a mix of skepticism about the post's authenticity, requests for more specific details about the author's financial journey, and shared experiences from others who have gone through similar situations. Some commenters emphasize the importance of having a supportive partner in achieving financial goals.
 
 ---
 
 ## 2. [[FIRE Update] 12 Months After Leaving My Job at ~90% of My FIRE Number](https://reddit.com/r/Fire/comments/1q0yms4/fire_update_12_months_after_leaving_my_job_at_90/)
 
-**Author:** u/instant_king | **Upvotes:** 207 | **Comments:** 34 | **Date:** 2026-01-01
+**Author:** u/instant_king | **Upvotes:** 215 | **Comments:** 36 | **Date:** 2026-01-01
 
-**Summary:** The author shares their experience one year after leaving their corporate job to pursue a semi-retired lifestyle, focusing on creative projects and flexible work hours. They discuss their financial status, lifestyle changes, and the autonomy they now enjoy.
+**Summary:** The author shares their experience one year after leaving their corporate job to pursue a semi-retired lifestyle, focusing on creative projects and flexible living. They discuss their financial status, lifestyle changes, and the autonomy they now enjoy.
 
 **Key Points:**
-- The author works about 25-30 hours a week on activities they enjoy, such as filming and creative projects.
+- The author works about 25–30 hours a week on activities they enjoy, such as filming and creative projects.
 - Their net worth fluctuated between 79% and 95% of their FIRE target, currently at 92%.
 - They introduced a new metric called CORE FIRE, which excludes work-related expenses.
 - The author values the autonomy and flexibility in their schedule, which has significantly boosted their happiness.
-- The discussion highlights appreciation for the post and curiosity about the author's creative projects and financial strategies.
+- The discussion highlights appreciation for the author's transparency and flexibility in their FIRE journey.
 
-**Discussion Highlights:** The top comments express appreciation for the post, with users asking about the author's creative projects and financial strategies. There is a general consensus on the benefits of financial independence and flexible work arrangements.
+**Discussion Highlights:** The comments express appreciation for the author's detailed update and flexibility in their FIRE journey. Some users inquire about the creative projects and financial strategies, while others share their own experiences and encouragement.
 
 ---
 
 ## 3. [Question about "net worth explodes after 100k"](https://reddit.com/r/Fire/comments/1q0xdl0/question_about_net_worth_explodes_after_100k/)
 
-**Author:** u/gtj12 | **Upvotes:** 105 | **Comments:** 135 | **Date:** 2026-01-01
+**Author:** u/gtj12 | **Upvotes:** 106 | **Comments:** 135 | **Date:** 2026-01-01
 
-**Summary:** The post discusses the concept of net worth growth accelerating after reaching $100k, questioning how market fluctuations impact this idea and what target numbers truly mean for financial independence. Key points include the compounding effect of larger balances, the influence of market conditions on net worth, the psychological impact of reaching $100k, the arbitrary nature of the $100k threshold, and the questioning of the 4% rule for retirement due to market volatility. The discussion highlights that while $100k is a psychological milestone, its significance lies in the compounding effect becoming more visible. However, market fluctuations mean that static net worth targets are unreliable for retirement planning. The consensus leans toward focusing on consistent contributions and long-term growth rather than fixating on specific numbers.
+**Summary:** The post questions the common belief that net worth growth accelerates significantly after reaching $100k, considering market fluctuations and the impact of timing on investment returns. The discussion explores whether this milestone is meaningful or arbitrary, and how market conditions affect long-term financial goals.
+
+**Key Points:**
+- The concept of 'net worth exploding after 100k' is debated, with some arguing it's more about the psychological impact of seeing larger gains.
+- Market timing significantly affects net worth, as seen in the example of investing during COVID-19 market lows.
+- The 100k milestone is arbitrary; the key insight is that proportional gains become more impactful as the investment balance grows.
+- The 4% rule and retirement planning are complicated by market volatility, making it hard to rely on a fixed net worth target.
+- The time to double an investment (e.g., 100k to 200k) may be similar to doubling larger amounts (e.g., 1M to 2M) under consistent returns.
+
+**Discussion Highlights:** The discussion highlights that while the 100k milestone is often cited as a turning point, its significance is more psychological than mathematical. Market conditions play a crucial role in net worth growth, and the focus should be on consistent contributions and long-term strategies rather than arbitrary milestones.
 
 ---
 
 ## 4. [I have crawled across that finish line and can be free..](https://reddit.com/r/Fire/comments/1q0wem5/i_have_crawled_across_that_finish_line_and_can_be/)
 
-**Author:** u/Dry_Statistician_688 | **Upvotes:** 1029 | **Comments:** 182 | **Date:** 2025-12-31
+**Author:** u/Dry_Statistician_688 | **Upvotes:** 1046 | **Comments:** 185 | **Date:** 2025-12-31
 
-**Summary:** The author celebrates achieving financial independence through the Rule of 55 after 40+ years of work, with no debt and multiple pensions, marking a significant personal and generational milestone.
+**Summary:** The author celebrates achieving financial independence through the Rule of 55 after 40+ years of work, with no debt and multiple pensions. The post highlights personal achievement and encourages others who have worked hard to reach similar milestones.
 
 **Key Points:**
-- Achieved financial independence via Rule of 55 after 40+ years of work
+- Author achieved financial independence via Rule of 55 after 40+ years of work
 - No debt except for insurance, taxes, and maintenance
-- First in family to break financial mistakes cycle
-- Shared experiences of financial struggle and success in comments
-- Questions about specifics of achieving financial independence
+- First in family to break the cycle of financial mistakes
+- Shared experiences of financial struggles in comments
+- Congratulations and questions about specifics in the discussion
 
-**Discussion Highlights:** The discussion highlights shared experiences of financial struggle and success, with peers congratulating the author and asking questions about the specifics of achieving financial independence.
+**Discussion Highlights:** The discussion includes shared experiences of financial struggles, congratulations for achieving financial independence, and questions about the specifics of the author's situation. There is a sense of camaraderie among those who have worked hard to reach similar milestones.
 
 ---
 
 ## 5. [2025 In Review -- Journey from $0 to $5.8 Million](https://reddit.com/r/Fire/comments/1q0q6ea/2025_in_review_journey_from_0_to_58_million/)
 
-**Author:** u/Key-Ad-8944 | **Upvotes:** 109 | **Comments:** 52 | **Date:** 2025-12-31
+**Author:** u/Key-Ad-8944 | **Upvotes:** 110 | **Comments:** 53 | **Date:** 2025-12-31
 
-**Summary:** The Reddit post details the author's journey to a $5.8 million net worth by 2025, with significant gains in stock equity and home equity. The post includes a predictive equation for net worth growth and discusses market fluctuations throughout the year.
+**Summary:** The Reddit post details the author's journey to a $5.8 million net worth by 2025, with significant gains in stock equity and home equity. The author's net worth growth follows a predictable equation, with 2025 being one of the few years deviating from the trend.
 
 **Key Points:**
 - Net worth increased by $480k in 2025, reaching $5.8 million.
-- Stock equity and home equity were major contributors to the net worth growth.
-- The author's net worth follows a predictive equation with high accuracy.
-- Market fluctuations in 2025 included a stock market decline followed by a rally.
-- Discussion highlights include questions about early career growth and the role of dual incomes.
+- Stock equity and home equity were major contributors to net worth growth.
+- The author's net worth growth follows a predictable equation, with 2025 being an outlier year.
+- The author's portfolio is diversified across US and international equities, with a significant portion in home equity.
+- Discussion highlights include questions about early career growth, the role of dual incomes, and plans for financial independence.
 
-**Discussion Highlights:** The discussion focuses on the author's early career growth, the role of dual incomes, and the feasibility of achieving financial independence. Commenters express admiration and seek advice on replicating the author's success.
+**Discussion Highlights:** The discussion focuses on the author's early career growth, the role of dual incomes, and plans for financial independence. Commenters express admiration for the author's disciplined approach to financial management and find the post inspiring for their own financial journeys.
 
 ---
 
 ## 6. [2M Milestone update!!](https://reddit.com/r/Fire/comments/1q0q1ni/2m_milestone_update/)
 
-**Author:** u/-PandanWaffle | **Upvotes:** 141 | **Comments:** 54 | **Date:** 2025-12-31
+**Author:** u/-PandanWaffle | **Upvotes:** 142 | **Comments:** 54 | **Date:** 2025-12-31
 
-**Summary:** The Reddit post details the author's financial journey from opening their first 401k at 16 to reaching a combined net worth of over $2 million with their spouse by 2025. The post highlights significant growth in their investments, especially after reaching $500k, and outlines their investment breakdown and lifestyle choices. Key points include reaching a combined net worth of over $2 million by 2025, significant growth in investments after reaching $500k, an investment breakdown of 40% Roth, 20% Traditional, and 40% Brokerage, living below their means in a VHCOL area with no kids, and a FIRE goal to retire by age 45. The discussion highlights the rapid growth of investments after reaching $500k, with many users expressing hope for similar trajectories. Key questions from commenters include inquiries about the author's FI number, retirement spending plans, healthcare plans, and investment strategies.
+**Summary:** The Reddit post details the author's journey to reaching a $2M net worth, highlighting rapid growth after $500k and their FIRE goals. The discussion focuses on wealth growth patterns, retirement planning, and investment strategies.
+
+**Key Points:**
+- Author reached $2M net worth through consistent saving and investing, with rapid growth after $500k
+- Asset allocation: 40% Roth, 20% Traditional, 40% Brokerage
+- Combined income of $400k in a VHCOL area, living below means
+- FIRE goal: Retire at 45
+- Discussion highlights the exponential growth of wealth and the importance of planning for healthcare and spending in retirement
+
+**Discussion Highlights:** The discussion emphasizes the rapid growth of wealth after reaching $500k, with many users expressing hope for similar trajectories. Key topics include retirement planning, healthcare considerations, and investment strategies to protect against market downturns.
 
 ---
 
 ## 7. [Retiring Before 65? This Is How People Actually Afford Health Insurance (Erin Talks Money)](https://reddit.com/r/Fire/comments/1q02dj5/retiring_before_65_this_is_how_people_actually/)
 
-**Author:** u/pharmlifegirl | **Upvotes:** 125 | **Comments:** 92 | **Date:** 2025-12-30
+**Author:** u/pharmlifegirl | **Upvotes:** 122 | **Comments:** 92 | **Date:** 2025-12-30
 
-**Summary:** The Reddit post discusses various options for affording health insurance during early retirement, highlighting the ACA Marketplace Plans with subsidies as a primary option. The discussion includes additional insights from comments, such as student health plans and international travel plans.
-
-**Key Points:**
-- ACA Marketplace Plans with subsidies are a key option for early retirees.
-- Other options include spouse/partner employer health insurance, COBRA, part-time work with benefits, military/federal health coverage, and Medicaid.
-- Comments suggest additional options like student health plans and international travel plans.
-- Part-time work with benefits is seen as less viable due to its rarity.
-- Self-employment or contracting gigs can allow for deducting health insurance costs.
-
-**Discussion Highlights:** The discussion highlights the practicality of ACA plans and the challenges of other options. Comments provide additional suggestions like student health plans and international travel plans, but also express skepticism about the feasibility of some options.
+**Summary:** The Reddit post discusses various health insurance options for early retirees, highlighting the ACA Marketplace Plans with subsidies as a primary option. It also mentions other alternatives like spouse/partner employer health insurance, COBRA, part-time work with benefits, military/federal health coverage, and Medicaid. The discussion highlights the challenges and limitations of various health insurance options for early retirees. Many commenters express skepticism about the feasibility of some options, such as part-time work with benefits, and suggest alternative strategies like student health plans or international travel plans.
 
 ---
 
 ## 8. [Retiring in 18-24 months, what did you start/stop doing to prepare for that?](https://reddit.com/r/Fire/comments/1q01v21/retiring_in_1824_months_what_did_you_startstop/)
 
-**Author:** u/10ninetynine | **Upvotes:** 135 | **Comments:** 102 | **Date:** 2025-12-30
+**Author:** u/10ninetynine | **Upvotes:** 136 | **Comments:** 102 | **Date:** 2025-12-30
 
-**Summary:** The Reddit post discusses preparations for retiring in 18-24 months, with advice focusing on health check-ups, financial planning, lifestyle adjustments, and practical steps like securing credit lines.
+**Summary:** The Reddit post discusses preparations for retiring in 18-24 months, focusing on health, financial planning, lifestyle adjustments, and investment strategies.
 
 **Key Points:**
-- Get a comprehensive health check-up and address any medical needs while still covered by company insurance.
-- Start living like a retiree by testing the budget, finding activities, and not tying identity solely to work.
-- Seek financial advice, plan routine medical visits, live on a practice budget, and secure necessary credit lines.
-- Plan the timing of retirement to maximize bonuses, PTO, and other benefits.
-- Consider adjusting investment strategies to align with the 4% rule for long-term financial stability.
+- Get a comprehensive health check-up and address any medical needs before retirement.
+- Start living like a retiree now to test budget and lifestyle adjustments.
+- Seek financial advice and plan for healthcare and budgeting.
+- Consider investment strategies and the 4% rule for long-term financial stability.
 
-**Discussion Highlights:** The discussion highlights the importance of health and financial preparedness, with a consensus on the need for early planning, lifestyle adjustments, and securing financial and medical resources before retirement.
+**Discussion Highlights:** The discussion emphasizes the importance of health check-ups, financial planning, lifestyle adjustments, and understanding investment strategies for a smooth transition into retirement.
 
 ---
 
@@ -128,302 +136,285 @@
 
 **Author:** u/Bismo789 | **Upvotes:** 125 | **Comments:** 78 | **Date:** 2025-12-30
 
-**Summary:** The post discusses using a taxable brokerage account as a bridge between early retirement and traditional retirement age by leveraging the 0% long-term capital gains tax rate. The strategy involves liquidating assets to cover living expenses until retirement accounts can be accessed without penalty.
+**Summary:** The post discusses using a taxable brokerage account as a bridge between early retirement and age 59.5 by leveraging the 0% long-term capital gains tax rate. The strategy involves liquidating a portion of the taxable account annually to cover living expenses until retirement accounts can be accessed penalty-free.
 
 **Key Points:**
-- The 0% LTCG tax rate can be leveraged to liquidate assets tax-free up to a certain income threshold.
+- The 0% LTCG tax rate can be leveraged to withdraw funds tax-free up to a certain income threshold.
 - The standard deduction and HSA contributions can extend the 0% LTCG bracket.
-- Liquidating assets can raise MAGI, potentially increasing ACA premiums.
-- A substantial cost basis is needed to effectively use this strategy.
-- Alternative strategies like IRS rule 72T/SEPP can also be used to avoid early withdrawal penalties.
+- This strategy is known as 'tax gain harvesting' and is commonly used in early retirement.
+- Potential drawbacks include increased MAGI, which can affect ACA premiums.
+- A substantial cost basis is required to effectively use this strategy.
 
-**Discussion Highlights:** The discussion highlights that while this is a legitimate strategy known as 'tax gain harvesting,' it requires careful consideration of factors like MAGI, cost basis, and alternative strategies. The consensus is that it can be effective but has potential drawbacks and complexities.
-
----
-
-## 10. [Are some people just destined to Financially Struggle their whole life?](https://reddit.com/r/Fire/comments/1pzhi9n/are_some_people_just_destined_to_financially/)
-
-**Author:** u/MrLB____ | **Upvotes:** 120 | **Comments:** 368 | **Date:** 2025-12-30
-
-**Summary:** The post discusses how some individuals struggle financially despite earning more, highlighting a lack of investment and savings habits. The discussion emphasizes personal responsibility and the idea that financial success is a choice.
-
-**Key Points:**
-- Some people earn more but fail to invest or save.
-- Lack of financial literacy and planning can lead to long-term struggles.
-- Personal responsibility is key to financial success.
-- Financial habits matter more than income level.
-- It's not one's responsibility to change others' financial behaviors.
-
-**Discussion Highlights:** The consensus in the discussion is that financial success is largely a matter of personal choice and habits. Many commenters agree that it's not their responsibility to change others' financial behaviors and that everyone should live their life as they see fit.
+**Discussion Highlights:** The discussion generally supports the strategy, noting its legitimacy and common use in early retirement. However, it also highlights potential drawbacks such as increased healthcare costs due to higher MAGI and the need for a substantial cost basis to maximize the benefits.
 
 ---
 
-## 11. [Your colleagues are not your family and your job is not your identity.](https://reddit.com/r/Fire/comments/1pyym68/your_colleagues_are_not_your_family_and_your_job/)
+## 10. [If your spouse does not work, and you file taxes married filing jointly, you can open a Roth IRA in their name](https://reddit.com/r/Fire/comments/1pzkbt8/if_your_spouse_does_not_work_and_you_file_taxes/)
 
-**Author:** u/jayybonelie | **Upvotes:** 550 | **Comments:** 37 | **Date:** 2025-12-29
+**Author:** u/New_Contribution_226 | **Upvotes:** 100 | **Comments:** 46 | **Date:** 2025-12-30
 
-**Summary:** The author reflects on their 25+ year career, noting that despite meeting thousands of people and achieving significant projects, few work relationships endured post-FIRE. They emphasize the joy and tranquility found in focusing on a small group of family and close friends, highlighting the simplicity and fulfillment of life after financial independence.
+**Summary:** The post highlights that a non-working spouse can have a Roth IRA opened in their name if the couple files taxes jointly and meets income limits. This allows for significant retirement savings contributions.
 
 **Key Points:**
-- Work relationships often do not endure post-FIRE.
-- The author found greater joy and tranquility in a smaller, close-knit circle post-FIRE.
-- The simplicity and rhythm of life post-FIRE are highly valued.
-- The discussion highlights that friendships often depend on the context and may not extend beyond specific environments.
-- Some commenters share similar experiences, while others note long-lasting friendships from work.
+- Non-working spouses can contribute to a Roth IRA if filing jointly and within income limits.
+- Contributions can be made for both the current and upcoming year, allowing for a substantial initial investment.
+- The strategy can significantly boost retirement savings for couples.
+- Traditional IRA has higher income limits for non-working spouses if the working spouse has a retirement plan.
+- Part-time workers without employer retirement plans have limited options beyond IRAs.
 
-**Discussion Highlights:** The discussion highlights a consensus that work relationships often do not extend beyond the workplace, with many commenters sharing similar experiences of their social circles diminishing post-retirement. However, some commenters note exceptions where long-lasting friendships from work have endured.
+**Discussion Highlights:** The discussion confirms the validity of the strategy, with personal anecdotes supporting its use. There is also mention of Traditional IRA options and limitations for part-time workers.
 
 ---
 
-## 12. [Got put on paid admin leave for 3 weeks and it completely messed with my head about FIRE](https://reddit.com/r/Fire/comments/1pyyd10/got_put_on_paid_admin_leave_for_3_weeks_and_it/)
+## 11. [Are some people just destined to Financially Struggle their whole life?](https://reddit.com/r/Fire/comments/1pzhi9n/are_some_people_just_destined_to_financially/)
 
-**Author:** u/DifferenceOk4275 | **Upvotes:** 1072 | **Comments:** 207 | **Date:** 2025-12-29
+**Author:** u/MrLB____ | **Upvotes:** 117 | **Comments:** 368 | **Date:** 2025-12-30
 
-**Summary:** The author, on paid administrative leave, found the experience of not working unexpectedly miserable, realizing they might lack a purpose or identity outside of work. The discussion highlights the challenges of sudden free time and the importance of having a purpose in retirement.
+**Summary:** The post discusses the financial struggles of individuals who earn more but fail to invest, highlighting a lack of financial literacy and savings habits. The comments reflect a mix of personal responsibility, acceptance of different lifestyles, and the challenges of financial education.
 
 **Key Points:**
-- The author felt miserable despite having free time, realizing they might lack a purpose outside of work.
-- The limbo nature of the leave made it hard to fully engage in hobbies.
-- The importance of having a purpose or identity beyond work was emphasized.
-- Friends and social connections play a significant role in how one spends their free time.
-- FIRE (Financial Independence, Retire Early) is seen as having the freedom to choose what to do, not necessarily stopping work entirely.
+- Some individuals earn more but struggle to invest or save.
+- Lack of financial literacy and awareness about investment options like Roth IRAs and brokerage accounts.
+- Personal responsibility and lifestyle choices play a significant role in financial outcomes.
+- Financial struggles can occur at any income level due to living beyond one's means.
+- Efforts to educate or advise others on financial matters may not always be successful.
 
-**Discussion Highlights:** The discussion emphasized the importance of having a purpose or identity beyond work, the challenges of sudden free time, and the role of social connections. Many commenters suggested exploring new activities or places, and some shared their own experiences with FIRE and finding fulfillment.
+**Discussion Highlights:** The discussion highlights a consensus on personal responsibility and the acceptance of diverse financial lifestyles. Many commenters emphasize that it is not their responsibility to advise others on financial matters and that individuals should live their lives as they see fit. There is also a recognition that financial struggles can occur at any income level due to poor financial habits.
 
 ---
 
-## 13. [Leaving corporate tech at 35 with $1.25M saved. Walking away from $461K unvested. Am I making a mistake?](https://reddit.com/r/Fire/comments/1pyy102/leaving_corporate_tech_at_35_with_125m_saved/)
+## 12. [Your colleagues are not your family and your job is not your identity.](https://reddit.com/r/Fire/comments/1pyym68/your_colleagues_are_not_your_family_and_your_job/)
 
-**Author:** u/East_Move6449 | **Upvotes:** 373 | **Comments:** 383 | **Date:** 2025-12-29
+**Author:** u/jayybonelie | **Upvotes:** 548 | **Comments:** 37 | **Date:** 2025-12-29
 
-**Summary:** A 35-year-old with $1.25M saved is considering leaving a corporate tech job, walking away from $461K in unvested RSUs, to move to Cape Town and pursue business ventures. The post explores the trade-offs between financial security and personal fulfillment.
+**Summary:** The author reflects on their 25+ year career, noting that despite meeting thousands of people and achieving significant projects, few work relationships endured post-FIRE. They emphasize the joy and tranquility found in focusing on a small circle of family and close friends, highlighting the profound friendships and simplicity of life after retiring.
 
 **Key Points:**
-- Author is 35 with $1.25M saved, planning to move to Cape Town with lower cost of living.
-- Walking away from $461K in unvested RSUs to pursue business ventures and personal fulfillment.
-- Questions focus on regrets from leaving unvested compensation, sufficiency of savings, and valuing time/energy over money.
-- Top comments advise testing the move to Cape Town first and questioning the feasibility of business plans.
-- Discussion highlights the trade-offs between financial security and pursuing a dream lifestyle.
+- Work relationships often do not endure post-retirement.
+- FIRE (Financial Independence, Retire Early) leads to a shift in focus towards family and close friends.
+- The author finds greater joy and tranquility in a smaller, more meaningful social circle.
+- Post-FIRE life offers profound friendships without hidden expectations.
+- The simplicity of life post-retirement is highly valued.
 
-**Discussion Highlights:** The discussion highlights mixed opinions, with some advising caution (e.g., testing the move to Cape Town first) and others supporting the career change given the author's age and savings. There is skepticism about the feasibility of the business plans and the decision to leave unvested compensation.
+**Discussion Highlights:** The discussion highlights a consensus that work relationships often do not extend beyond the workplace. Many commenters share similar experiences of their social circles diminishing post-retirement, while others note exceptions where work friendships endured. There is an emphasis on investing in personal relationships and experiences outside of work.
 
 ---
 
-## 14. [It is hard to comprehend that $1.4 million @ 45 is enough to retire](https://reddit.com/r/Fire/comments/1pyuzu6/it_is_hard_to_comprehend_that_14_million_45_is/)
+## 13. [Got put on paid admin leave for 3 weeks and it completely messed with my head about FIRE](https://reddit.com/r/Fire/comments/1pyyd10/got_put_on_paid_admin_leave_for_3_weeks_and_it/)
 
-**Author:** u/mirenjobra88 | **Upvotes:** 487 | **Comments:** 370 | **Date:** 2025-12-29
+**Author:** u/DifferenceOk4275 | **Upvotes:** 1074 | **Comments:** 210 | **Date:** 2025-12-29
 
-**Summary:** The author discusses their financial projections for early retirement at 45 with $1.4 million, detailing potential expenses and savings over time. They reflect on the possibility of retiring early and the rapid passage of life.
+**Summary:** The author, a 34-year-old working towards FIRE, was put on paid administrative leave for 3 weeks and found the experience unexpectedly miserable, realizing they might lack a purpose or identity outside of work. The post explores their struggle with free time and the community's responses offering advice and perspectives.
 
 **Key Points:**
-- Author projects $1.4 million net worth by 45 with potential for higher savings if married.
-- Detailed financial projections show potential savings of $878,000 by 65 and $465,000 by 85.
-- Comments highlight the need to account for healthcare costs and the unpredictability of market returns.
-- Discussion includes perspectives on early retirement, financial safety, and lifestyle choices.
+- The author felt lost and bored during their unexpected time off, despite initially being excited about the break.
+- They realized they might lack hobbies or a sense of purpose outside of work.
+- The community suggested that the limbo nature of the leave contributed to the author's discomfort.
+- Comments highlighted the importance of having a purpose and being able to enjoy solitude.
+- Some respondents shared their own experiences and perspectives on FIRE and identity.
+
+**Discussion Highlights:** The discussion emphasized the importance of having a purpose and being able to enjoy solitude. Many commenters suggested that the author's discomfort stemmed from the temporary and uncertain nature of the leave, rather than a lack of purpose. Some shared their own experiences with FIRE and identity, offering advice and perspectives.
+
+---
+
+## 14. [Leaving corporate tech at 35 with $1.25M saved. Walking away from $461K unvested. Am I making a mistake?](https://reddit.com/r/Fire/comments/1pyy102/leaving_corporate_tech_at_35_with_125m_saved/)
+
+**Author:** u/East_Move6449 | **Upvotes:** 371 | **Comments:** 385 | **Date:** 2025-12-29
+
+**Summary:** A 35-year-old with $1.25M saved is considering leaving a corporate tech job, walking away from $461K in unvested RSUs, to move to Cape Town and pursue business ventures. The post explores the trade-offs between financial security and personal fulfillment. Key points include the author's plan to move to Cape Town, walking away from unvested RSUs, and the goal to build businesses without touching the principal for 5-10 years. The discussion highlights advice on testing the move to Cape Town first and skepticism about the business plans, with a consensus that the move is more of a career change than traditional FIRE.
+
+---
+
+## 15. [It is hard to comprehend that $1.4 million @ 45 is enough to retire](https://reddit.com/r/Fire/comments/1pyuzu6/it_is_hard_to_comprehend_that_14_million_45_is/)
+
+**Author:** u/mirenjobra88 | **Upvotes:** 491 | **Comments:** 370 | **Date:** 2025-12-29
+
+**Summary:** The author discusses their financial projections for early retirement at 45 with $1.4 million, detailing potential expenses and savings over time. The post highlights the feasibility of retiring early with careful financial planning and considers various factors like health costs and market fluctuations.
+
+**Key Points:**
+- The author projects a net worth of $1.4 million by age 45, enabling potential early retirement.
+- Financial projections include expenses of $6k/month from 45-65 and $4k/month from 65-85, with a 4% annual return.
+- Comments emphasize the importance of accounting for health costs and market fluctuations.
 - Some commenters share personal experiences of retiring with less savings.
+- The discussion highlights the balance between financial security and lifestyle choices.
 
-**Discussion Highlights:** The discussion emphasizes the importance of considering healthcare costs and market unpredictability in retirement planning. There is a consensus that early retirement is feasible with careful financial planning and lifestyle adjustments.
+**Discussion Highlights:** The discussion consensus suggests that while early retirement is feasible with careful planning, it is crucial to account for unexpected expenses like healthcare and market volatility. Commenters also share varied perspectives on the amount of savings needed for retirement.
 
 ---
 
-## 15. [Early retirement is now the American Dream, not homeownership](https://reddit.com/r/Fire/comments/1pyctdl/early_retirement_is_now_the_american_dream_not/)
+## 16. [Early retirement is now the American Dream, not homeownership](https://reddit.com/r/Fire/comments/1pyctdl/early_retirement_is_now_the_american_dream_not/)
 
-**Author:** u/ItchyApplication4175 | **Upvotes:** 1753 | **Comments:** 378 | **Date:** 2025-12-28
+**Author:** u/ItchyApplication4175 | **Upvotes:** 1764 | **Comments:** 377 | **Date:** 2025-12-28
 
-**Summary:** The post discusses a shift in the American Dream among younger generations, particularly Gen Z, from traditional homeownership to early retirement. This change is driven by a desire for financial freedom and a rejection of unnecessary material possessions.
+**Summary:** The Reddit post discusses how the American Dream has shifted from homeownership to early retirement, particularly among Gen Z. Many people across different professions express a desire to retire in their 40s, prioritizing financial freedom over material possessions.
 
 **Key Points:**
-- Younger generations, including Gen Z, prioritize early retirement over homeownership.
-- The shift is motivated by a desire for financial freedom and avoiding debt.
-- Different perspectives exist, with some still valuing homeownership as part of financial independence.
-- Economic factors and changing work culture contribute to this shift.
-- The high cost of homeownership is a significant factor in this change.
+- Early retirement is now seen as the new American Dream by many Gen Z individuals.
+- People from various backgrounds, including a barber, firefighter, and tech professional, share this goal.
+- The focus is on achieving financial independence and freedom rather than accumulating unnecessary material goods.
+- Economic factors and changing work culture are cited as reasons for this shift.
+- Homeownership is still considered important but is seen as a means to achieve early retirement rather than an end in itself.
 
-**Discussion Highlights:** The discussion highlights a consensus that early retirement is increasingly valued, though some still see homeownership as a crucial component of financial independence. Economic challenges and changing priorities are key themes in the conversation.
-
----
-
-## 16. [Is $100k NW worth celebrating anymore when it's only 38th percentile in the US?](https://reddit.com/r/Fire/comments/1py9k2f/is_100k_nw_worth_celebrating_anymore_when_its/)
-
-**Author:** u/ItchyApplication4175 | **Upvotes:** 231 | **Comments:** 268 | **Date:** 2025-12-28
-
-**Summary:** The Reddit post discusses whether a $100k net worth is still a significant milestone, given it represents the 38th percentile in the US. The discussion highlights varying perspectives based on age, financial goals, and personal context. Key points include celebrating personal milestones regardless of percentiles, the importance of age in evaluating net worth, and the consensus that $100k is worth celebrating but its significance depends on individual circumstances.
+**Discussion Highlights:** The discussion highlights a consensus that early retirement is a significant goal, with many commenters agreeing that homeownership is a step towards achieving financial independence. Some commenters also mention the challenges of the current housing market and the desire to avoid paying rent in retirement.
 
 ---
 
-## 17. [One Less Year Syndrome](https://reddit.com/r/Fire/comments/1pxxmxn/one_less_year_syndrome/)
+## 17. [Is $100k NW worth celebrating anymore when it's only 38th percentile in the US?](https://reddit.com/r/Fire/comments/1py9k2f/is_100k_nw_worth_celebrating_anymore_when_its/)
 
-**Author:** u/FromageFrero | **Upvotes:** 120 | **Comments:** 145 | **Date:** 2025-12-28
+**Author:** u/ItchyApplication4175 | **Upvotes:** 230 | **Comments:** 268 | **Date:** 2025-12-28
 
-**Summary:** The post discusses 'One Less Year Syndrome,' where the author feels they retired too early and are struggling with higher-than-expected living costs in Europe. They question whether their savings are sufficient for a comfortable retirement lifestyle.
+**Summary:** The post discusses whether a $100k net worth is worth celebrating, given it represents the 38th percentile in the US. The discussion highlights varying perspectives based on age, personal context, and the importance of celebrating individual financial milestones.
 
 **Key Points:**
-- The author and their wife retired earlier than planned due to market gains but now face budget constraints.
-- They are living as expats in Europe without local work rights, making it difficult to supplement income.
-- Inflation and rising costs have made their original budget of $60k insufficient.
-- Commenters suggest relocating to a lower-cost country or acknowledge that the budget may have been unrealistic even pre-pandemic.
-- There is a consensus that the cost of living has increased significantly, especially in high-cost areas like San Francisco.
+- $100k net worth is the 38th percentile in the US, making it a common milestone.
+- Celebrating financial achievements depends on personal context and age.
+- Comparison can detract from personal financial progress.
+- Age plays a significant role in determining the significance of $100k net worth.
+- Early financial milestones, like $100k, are often the hardest to achieve.
 
-**Discussion Highlights:** The discussion highlights the challenges of retirement planning in a high-inflation environment. Many commenters agree that the author's budget was likely insufficient even before recent price increases. Suggestions include relocating to a more affordable country or reconsidering retirement plans.
-
----
-
-## 18. [Do you believe the modern FIRE movement overestimates how much is needed for retirement?](https://reddit.com/r/Fire/comments/1pxsnhb/do_you_believe_the_modern_fire_movement/)
-
-**Author:** u/Equivalent_Use_5024 | **Upvotes:** 737 | **Comments:** 893 | **Date:** 2025-12-28
-
-**Summary:** The post questions whether the FIRE movement overestimates retirement savings needs, noting that many Americans retire with less and manage with social security or paid-off housing. The discussion highlights varying perspectives on what constitutes a comfortable retirement. Key points include: the average American retires with around $300k and manages with social security or paid-off housing; FIRE goals often aim for higher savings to ensure a comfortable, not just safe, retirement; some argue that a sub-4% withdrawal rate is overly conservative; early retirement requires more savings than retiring later; and retirement needs vary based on cost of living and lifestyle expectations. The discussion reveals a divide between those who prioritize financial security with modest savings and those who aim for a more luxurious retirement, with many agreeing that FIRE goals are often higher due to the desire for early retirement and a comfortable lifestyle.
+**Discussion Highlights:** The consensus is that while $100k net worth may not be rare, it is still a significant milestone worth celebrating, especially when considering individual circumstances like age and financial trajectory. Many commenters emphasize the importance of personal context over absolute numbers.
 
 ---
 
-## 19. [Do people regret spending money on travelling when they are young?](https://reddit.com/r/Fire/comments/1pxkh4p/do_people_regret_spending_money_on_travelling/)
+## 18. [One Less Year Syndrome](https://reddit.com/r/Fire/comments/1pxxmxn/one_less_year_syndrome/)
 
-**Author:** u/letsfukingoo | **Upvotes:** 357 | **Comments:** 629 | **Date:** 2025-12-28
+**Author:** u/FromageFrero | **Upvotes:** 116 | **Comments:** 145 | **Date:** 2025-12-28
 
-**Summary:** The Reddit post explores whether people regret spending money on travel in their youth instead of saving for the future. The discussion reveals varied perspectives, with many emphasizing the value of travel experiences and the importance of balancing financial responsibility with personal fulfillment. Key points include: Many people do not regret traveling when young, valuing the experiences gained; some individuals emphasize the importance of balancing travel with financial planning; personal preferences and financial situations play a significant role in determining regret or satisfaction; the consensus leans towards travel being a worthwhile investment in personal growth and happiness. The discussion highlights a general consensus that traveling in one's youth is often seen as a valuable and enriching experience, with many participants advocating for a balance between travel and financial planning. Personal circumstances and individual priorities are key factors in determining whether travel is regretted or cherished.
+**Summary:** The post discusses 'One Less Year Syndrome,' where the author feels they retired too early and are struggling with financial constraints in Europe. They question whether their savings are sufficient for a middle-class lifestyle. Key points include the author feeling they should have worked longer, inflation making their budget insufficient, and comments suggesting under-budgeting and recommending cost-effective living options. The discussion highlights the disparity between pre-retirement expectations and current financial realities.
 
 ---
 
-## 20. [Behind everyone here, but still happy](https://reddit.com/r/Fire/comments/1pxg95y/behind_everyone_here_but_still_happy/)
+## 19. [Do you believe the modern FIRE movement overestimates how much is needed for retirement?](https://reddit.com/r/Fire/comments/1pxsnhb/do_you_believe_the_modern_fire_movement/)
+
+**Author:** u/Equivalent_Use_5024 | **Upvotes:** 738 | **Comments:** 891 | **Date:** 2025-12-28
+
+**Summary:** The Reddit post questions whether the FIRE movement overestimates retirement savings needs, noting that many Americans retire with less and still manage. The discussion highlights differing perspectives on what constitutes a comfortable retirement and the role of early retirement in FIRE calculations. Key points include the author's argument that FIRE overestimates savings needs, comments suggesting FIRE goals are based on living well rather than just safely, and the emphasis on early retirement requiring different financial planning. The discussion reveals a divide between those who believe FIRE overestimates retirement needs and those who argue that FIRE goals are tailored for early retirement and a higher standard of living.
+
+---
+
+## 20. [Do people regret spending money on travelling when they are young?](https://reddit.com/r/Fire/comments/1pxkh4p/do_people_regret_spending_money_on_travelling/)
+
+**Author:** u/letsfukingoo | **Upvotes:** 361 | **Comments:** 629 | **Date:** 2025-12-28
+
+**Summary:** The Reddit post discusses whether people regret spending money on traveling when they are young, with the author seeking insights to balance travel and financial planning. The discussion highlights varied perspectives, with many emphasizing the value of travel experiences and the importance of balancing financial responsibility. Key points include the author's mid-20s perspective, positive travel experiences shared by commenters, the importance of balancing travel with financial responsibility, and the role of personal preferences and financial situations. The consensus leans towards valuing travel experiences while being mindful of financial goals.
+
+---
+
+## 21. [Behind everyone here, but still happy](https://reddit.com/r/Fire/comments/1pxg95y/behind_everyone_here_but_still_happy/)
 
 **Author:** u/PerformanceOne8147 | **Upvotes:** 800 | **Comments:** 103 | **Date:** 2025-12-27
 
-**Summary:** A 49-year-old woman with three children and a stable job shares her joy at reaching a $1.5M net worth through frugality and consistent savings. She aims to retire at 55 and expresses gratitude for her financial progress.
+**Summary:** A 49-year-old woman with three children and a stable job shares her financial success, having saved $1.5M through frugality and consistent contributions to her HSA, IRA, and 401k. She aims to retire at 55 and feels proud of her achievements despite not having a high salary.
 
 **Key Points:**
-- Author is 49 years old, unmarried, with three children and a stable job.
-- Achieved $1.5M net worth through frugality and consistent savings.
-- Plans to retire at 55 with annual expenses of $45k, including a mortgage that will be paid off in 5 years.
-- Contributes to HSA, IRA, and 401k annually.
-- Feels proud, happy, and grateful for her financial progress.
+- Author is 49 years old with three children and not married
+- Saved $1.5M through frugality and consistent contributions
+- Aims to retire at 55
+- Annual expenses are $45k, including mortgage which will be paid off in 5 years
+- Feels proud and grateful for her financial achievements
 
-**Discussion Highlights:** The discussion is overwhelmingly supportive and encouraging. Commenters highlight the author's impressive financial achievements, especially given her personal circumstances. There is a consensus that she is ahead of most people her age and serves as an inspiration for others pursuing financial independence.
+**Discussion Highlights:** The discussion is overwhelmingly positive, with commenters praising the author's financial discipline and success. Many highlight that she is ahead of most people her age and commend her for setting a good example, especially as a single parent. Some commenters share their own financial struggles, emphasizing the author's achievements.
 
 ---
 
-## 21. [Can I fire at 41 to be SAHM?](https://reddit.com/r/Fire/comments/1pxf1ac/can_i_fire_at_41_to_be_sahm/)
+## 22. [Can I fire at 41 to be SAHM?](https://reddit.com/r/Fire/comments/1pxf1ac/can_i_fire_at_41_to_be_sahm/)
 
-**Author:** u/BlueAces2002 | **Upvotes:** 106 | **Comments:** 90 | **Date:** 2025-12-27
+**Author:** u/BlueAces2002 | **Upvotes:** 112 | **Comments:** 89 | **Date:** 2025-12-27
 
-**Summary:** A federal employee earning $166k considers retiring at 41 to become a SAHM, citing job dissatisfaction and mental health concerns. With $2.65M in assets and a combined income of $341k, she seeks advice on financial feasibility and work-life balance.
+**Summary:** A federal employee earning $166k/year considers retiring at 41 to become a SAHM, citing job dissatisfaction and mental health concerns. The post discusses financial readiness, with assets of $2.65M and a mortgage of $500k, while comments emphasize waiting for pension eligibility.
 
 **Key Points:**
-- Author and husband are both federal employees with high incomes and significant assets.
+- Author earns $166k/year and has $2.65M in assets, with $400k liquid.
+- Expenses are $8.5k/month, dropping to $7.2k in 2027.
 - Author dislikes her job and prioritizes mental health and family time.
-- Expenses will drop when her son starts school in 2027.
-- Commenters advise waiting for pension eligibility or testing single-income living first.
-- Health insurance and mortgage are key financial considerations.
+- Comments suggest waiting for pension eligibility (20 years of service).
+- Testing living on one salary is recommended before making a decision.
 
-**Discussion Highlights:** The consensus leans toward waiting until pension eligibility (20 years of service) or transitioning to single-income living gradually. Commenters emphasize the value of the pension and suggest testing financial sustainability before making a permanent decision.
+**Discussion Highlights:** The consensus in the comments is to wait until the author qualifies for a pension (20 years of service) and to test living on one salary in the meantime. Many emphasize the value of the pension and the difficulty of giving up a high salary.
 
 ---
 
-## 22. [Just fired at 51 due to layoff](https://reddit.com/r/Fire/comments/1px9u2g/just_fired_at_51_due_to_layoff/)
+## 23. [Just fired at 51 due to layoff](https://reddit.com/r/Fire/comments/1px9u2g/just_fired_at_51_due_to_layoff/)
 
-**Author:** u/Difficult-Cricket541 | **Upvotes:** 230 | **Comments:** 82 | **Date:** 2025-12-27
+**Author:** u/Difficult-Cricket541 | **Upvotes:** 232 | **Comments:** 82 | **Date:** 2025-12-27
 
-**Summary:** A 51-year-old individual was laid off and decided to retire with $3.65 million in savings, highlighting their frugal lifestyle, low expenses, and concerns about rising costs and market volatility. The discussion largely reassures the individual of their strong financial position and encourages them to enjoy retirement.
+**Summary:** A 51-year-old user was laid off and decided to retire with $3.65 million in savings. They have a conservative spending plan and concerns about rising costs, particularly electricity and healthcare. The community generally reassures them of their strong financial position.
 
 **Key Points:**
-- Retired at 51 with $3.65 million after multiple layoffs and a history of saving over half their income.
-- Low expenses ($55-60k pre-retirement, estimated $85k post-retirement) and a paid-off townhouse with a low mortgage rate.
-- Concerns about rising electric costs, healthcare expenses, and potential market downturns.
-- Plans to research Roth conversions and use specific ID for selling securities.
-- Discussion consensus: The individual is financially secure with a low withdrawal rate and should enjoy retirement.
+- User has $3.65 million saved and plans to retire after being laid off.
+- They have a low withdrawal rate of 2.3% and a paid-off townhouse.
+- Concerns include rising electricity costs and healthcare expenses.
+- User is conservative with spending and wary of market volatility.
+- Community consensus is that the user is financially secure and should enjoy retirement.
 
-**Discussion Highlights:** The top comments reassure the individual of their financial security, noting a low 2.3% withdrawal rate and encouraging them to ignore market doomsayers. The consensus is that the individual is well-positioned for a successful retirement due to their spending restraint and substantial assets.
+**Discussion Highlights:** The top comments reassure the user that their financial situation is secure, with a withdrawal rate of 2.3% being very conservative. The community encourages the user to relax and enjoy retirement, dismissing concerns about market volatility and rising costs.
 
 ---
 
-## 23. [The burden of Christmas](https://reddit.com/r/Fire/comments/1px92t9/the_burden_of_christmas/)
+## 24. [The burden of Christmas](https://reddit.com/r/Fire/comments/1px92t9/the_burden_of_christmas/)
 
-**Author:** u/therealhappypanda | **Upvotes:** 821 | **Comments:** 152 | **Date:** 2025-12-27
+**Author:** u/therealhappypanda | **Upvotes:** 817 | **Comments:** 152 | **Date:** 2025-12-27
 
-**Summary:** The author expresses frustration with the burden of unnecessary Christmas gifts, highlighting the personal cost of accumulating unwanted items. The discussion emphasizes the value of meaningful experiences and practical gifts over material possessions.
+**Summary:** The Reddit post expresses frustration with unnecessary and unwanted gifts received during Christmas, highlighting a preference for practical and meaningful alternatives like financial contributions or shared experiences.
 
 **Key Points:**
-- Frustration with unnecessary and unwanted Christmas gifts
-- Desire for practical gifts like money for a child's education fund
-- Preference for experiences and quality time over material items
-- Positive feedback on alternative gift-giving practices like red envelopes and lottery tickets
-- Consensus on the benefits of stopping or reducing traditional gift exchanges
+- Frustration with receiving unwanted and unnecessary gifts
+- Preference for practical gifts like financial contributions to a 529 fund
+- Desire for meaningful family experiences over material accumulation
+- Suggestions for alternative gift-giving practices like money in red envelopes or scratch-off lottery tickets
+- Consensus on stopping the exchange of trivial gifts in favor of more thoughtful alternatives
 
-**Discussion Highlights:** The discussion highlights a consensus on the benefits of moving away from traditional gift-giving practices. Many commenters share their experiences with alternative practices such as giving money, lottery tickets, or practical gifts, which have led to happier and more meaningful celebrations.
+**Discussion Highlights:** The discussion highlights a consensus on moving away from traditional, often unnecessary gift-giving towards more practical and meaningful alternatives. Many commenters share their experiences with alternative practices like giving money, scratch-off lottery tickets, or financial investments, which are seen as more valuable and less wasteful.
 
 ---
 
-## 24. [Derailed - Laid off while Sole Earner with 4 kids and Wife Prego - Panicked](https://reddit.com/r/Fire/comments/1px7s7s/derailed_laid_off_while_sole_earner_with_4_kids/)
+## 25. [Derailed - Laid off while Sole Earner with 4 kids and Wife Prego - Panicked](https://reddit.com/r/Fire/comments/1px7s7s/derailed_laid_off_while_sole_earner_with_4_kids/)
 
-**Author:** u/TequilaHappy | **Upvotes:** 204 | **Comments:** 212 | **Date:** 2025-12-27
+**Author:** u/TequilaHappy | **Upvotes:** 204 | **Comments:** 211 | **Date:** 2025-12-27
 
-**Summary:** A user was laid off from a job of 15 years while being the sole earner for a family of six with another child on the way. They are struggling with financial anxiety and seeking advice on job hunting and managing their finances.
+**Summary:** A Reddit user, u/TequilaHappy, shares their sudden job loss while being the sole earner for a family of six with another child on the way. They express panic and uncertainty about their financial future, detailing their assets, liabilities, and monthly expenses. The post seeks advice on updating their resume, job searching, and managing their financial situation. Key points include the user's layoff from a long-term job, significant savings and investments, monthly expenses of around $3000, and the need for an income of at least $50k a year. The discussion highlights the user's disciplined savings and suggests focusing on securing an income source quickly, emphasizing the need for immediate action to find a job and manage expenses.
+
+---
+
+## 26. [Anyone FIRE In the Middle of Their Kids Going To College - Were You You Able To Negotiate Better Financial Aid?](https://reddit.com/r/Fire/comments/1pwdgbc/anyone_fire_in_the_middle_of_their_kids_going_to/)
+
+**Author:** u/Anxious-Party2289 | **Upvotes:** 117 | **Comments:** 106 | **Date:** 2025-12-26
+
+**Summary:** The post discusses strategies for negotiating better financial aid for college tuition after achieving FIRE, focusing on how a lower AGI post-retirement can qualify for tuition-free guarantees and whether schools consider early retirement as a significant financial event. Key points include the impact of early retirement on AGI, the role of FAFSA and CSS Profile in financial aid determination, and the importance of timing and understanding school-specific policies. The discussion highlights that retiring early can significantly impact financial aid eligibility, with some users sharing personal experiences of successfully navigating the system. There is a consensus that timing and understanding the specific financial aid policies of target schools are critical.
+
+---
+
+## 27. [Just hit 100k invested at 25!!](https://reddit.com/r/Fire/comments/1pwcumb/just_hit_100k_invested_at_25/)
+
+**Author:** u/No-Bullfrog8545 | **Upvotes:** 164 | **Comments:** 22 | **Date:** 2025-12-26
+
+**Summary:** The author celebrates reaching a $100k investment milestone at age 25, detailing their portfolio breakdown and expressing excitement about their early retirement goal in their 40s.
 
 **Key Points:**
-- User was laid off from a job of 15 years, leaving them as the sole earner for a large family.
-- They have significant savings and investments but are worried about financial stability.
-- The user is seeking advice on updating their resume, job hunting, and managing their finances during this transition.
-- The community offered support and practical advice, highlighting the user's strong financial discipline.
-- Suggestions included exploring various income sources and focusing on immediate financial needs.
+- Author reached $100k invested at 25 years old
+- Investment breakdown: Taxable ($58,136), Roth ($26,198), Traditional ($8,775), 529 ($6,451), and Taxable for child ($501)
+- Goal to retire in early 40s with a single income
+- Positive community feedback and shared experiences in comments
+- Encouragement and congratulations from other users
 
-**Discussion Highlights:** The community was supportive, acknowledging the user's financial discipline and offering practical advice. Key suggestions included exploring various income sources, focusing on immediate financial needs, and seeking help with resume updates and job hunting strategies.
-
----
-
-## 25. [Anyone FIRE In the Middle of Their Kids Going To College - Were You You Able To Negotiate Better Financial Aid?](https://reddit.com/r/Fire/comments/1pwdgbc/anyone_fire_in_the_middle_of_their_kids_going_to/)
-
-**Author:** u/Anxious-Party2289 | **Upvotes:** 111 | **Comments:** 106 | **Date:** 2025-12-26
-
-**Summary:** The post discusses strategies for negotiating better financial aid for college tuition after achieving FIRE, focusing on how a lower AGI post-retirement can qualify for tuition-free guarantees and whether schools consider voluntary retirement as a significant financial event. Key points include the importance of retiring before kids start college to qualify for better financial aid, the tiers of exemption in FAFSA, the scrutiny of assets by schools using CSS Profile, the asset-check policies of some public schools, and the crucial timing of retirement due to FAFSA's look-back period. The discussion highlights that retiring early can significantly impact financial aid eligibility, with many users sharing their experiences of qualifying for better aid post-retirement, and there is a consensus that timing and understanding the specific financial aid policies of schools are crucial for maximizing aid.
+**Discussion Highlights:** The discussion highlights a sense of community and shared achievement, with users congratulating the author and sharing their own milestones. There is a consensus of encouragement and optimism about the author's early retirement goal.
 
 ---
 
-## 26. [Just hit 100k invested at 25!!](https://reddit.com/r/Fire/comments/1pwcumb/just_hit_100k_invested_at_25/)
+## 28. [How much easier is it to FIRE with a partner? Did you get married, and if so did you sign a prenup?](https://reddit.com/r/Fire/comments/1pw8yfa/how_much_easier_is_it_to_fire_with_a_partner_did/)
 
-**Author:** u/No-Bullfrog8545 | **Upvotes:** 161 | **Comments:** 22 | **Date:** 2025-12-26
+**Author:** u/Ordinary-Lead8089 | **Upvotes:** 109 | **Comments:** 175 | **Date:** 2025-12-26
 
-**Summary:** The author celebrates reaching a $100k investment milestone at age 25, detailing their portfolio breakdown across taxable, Roth, traditional, and 529 accounts, and expresses excitement about their goal to retire in their early 40s.
-
-**Key Points:**
-- Author achieved $100k in investments by age 25 without employer-sponsored retirement plans.
-- Investment breakdown: Taxable ($58,136), Roth ($26,198), Traditional ($8,775), 529 ($6,451), and additional taxable for child ($501).
-- Goal to retire in early 40s, relying solely on their income.
-- Community support and shared experiences in the comments highlight the author's progress.
-- Positive and encouraging tone in the discussion.
-
-**Discussion Highlights:** The discussion is overwhelmingly supportive, with commenters sharing their own experiences and congratulating the author on their achievement. There is a consensus on the author's strong financial position and encouragement for their early retirement goal.
-
----
-
-## 27. [How much easier is it to FIRE with a partner? Did you get married, and if so did you sign a prenup?](https://reddit.com/r/Fire/comments/1pw8yfa/how_much_easier_is_it_to_fire_with_a_partner_did/)
-
-**Author:** u/Ordinary-Lead8089 | **Upvotes:** 102 | **Comments:** 175 | **Date:** 2025-12-26
-
-**Summary:** The post discusses the impact of having a partner on achieving Financial Independence/Retire Early (FIRE), with the author expressing concerns about the financial risks of marriage and the potential benefits of a like-minded partner. The discussion highlights the importance of shared financial goals and the potential acceleration or deceleration of FIRE with a partner.
+**Summary:** The post discusses the impact of having a partner on achieving financial independence and early retirement (FIRE). The author, a single 30-year-old male with a net worth of $500k, questions whether marriage accelerates or hinders FIRE goals, considering the risks of divorce and the benefits of shared financial goals.
 
 **Key Points:**
 - A partner can significantly accelerate or decelerate FIRE depending on shared financial goals.
-- The author is a single 30M with a $500k net worth, aiming to retire by 45, and has no desire for children or homeownership.
-- The author is open to meeting a like-minded partner but is cautious about the financial risks of marriage.
+- Marriage can provide companionship but may also introduce financial risks and responsibilities.
 - Shared financial goals and values are crucial for a successful FIRE journey with a partner.
-- Mismatched financial values can hinder FIRE progress.
+- The right partner can enhance financial stability and emotional well-being, while the wrong one can hinder progress.
+- Personal preferences and lifestyle choices play a significant role in determining the suitability of marriage for FIRE.
 
-**Discussion Highlights:** The discussion consensus emphasizes the importance of shared financial goals and values in a partnership for achieving FIRE. While a like-minded partner can accelerate FIRE, a mismatched partner can significantly hinder progress. The risks and benefits of marriage in the context of FIRE are also highlighted.
-
----
-
-## 28. [I've stopped thinking of it as Sequence of Returns Risk and started thinking of it as Sequence of Withdrawals Risk](https://reddit.com/r/Fire/comments/1pw3w1j/ive_stopped_thinking_of_it_as_sequence_of_returns/)
-
-**Author:** u/SlapDashUser | **Upvotes:** 130 | **Comments:** 35 | **Date:** 2025-12-26
-
-**Summary:** The author discusses shifting focus from Sequence of Returns Risk to Sequence of Withdrawals Risk, emphasizing spending flexibility and using the VPW worksheet to manage retirement finances.
-
-**Key Points:**
-- The author plans to retire in 2026 and is not overly concerned about market timing.
-- They use the VPW worksheet to determine spending limits and a 'floor' for worst-case scenarios.
-- Flexibility in spending is highlighted as a key strategy to mitigate market risks.
-- The discussion includes critiques of spending flexibility and personal experiences from other users.
-
-**Discussion Highlights:** The discussion includes critiques of spending flexibility, personal experiences from other retirees, and a general consensus on the importance of having a spending floor and flexibility in retirement planning.
+**Discussion Highlights:** The discussion highlights that while a partner with aligned financial goals can accelerate FIRE, a mismatched partner can significantly hinder progress. Many commenters emphasize the importance of shared values and goals, as well as the potential risks and benefits of marriage in the context of financial independence.
 
 ---
 
