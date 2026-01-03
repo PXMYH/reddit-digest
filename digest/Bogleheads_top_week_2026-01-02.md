@@ -8,120 +8,120 @@
 
 ## 1. [VTI or VOO is a choice that truly doesn’t matter. But the year is now 2026, and the S&amp;P 500 is a long-outdated investment for buy &amp; hold purposes.](https://reddit.com/r/Bogleheads/comments/1q1fy9m/vti_or_voo_is_a_choice_that_truly_doesnt_matter/)
 
-**Author:** u/Kashmir79 | **Upvotes:** 1346 | **Comments:** 267 | **Date:** 2026-01-01
+**Author:** u/Kashmir79 | **Upvotes:** 1365 | **Comments:** 271 | **Date:** 2026-01-01
 
-**Summary:** The post discusses the historical context and merits of the S&P 500 (VOO) versus the total US market fund (VTI), arguing that the choice between the two makes little meaningful difference in long-term returns. It highlights the S&P 500's origins and its role as a benchmark, while also addressing common investor debates.
+**Summary:** The post discusses the historical context and merits of the S&P 500 (VOO) versus the total US market fund (VTI), arguing that the choice between the two makes little meaningful difference in long-term returns. It highlights the S&P 500's origins and its role as a benchmark, while acknowledging the repetitive nature of the debate in investing communities.
 
 **Key Points:**
-- The S&P 500 was originally created in 1926 as a 90-stock index to broadly track the US stock market.
-- The choice between VOO (S&P 500) and VTI (total US market) is unlikely to significantly impact long-term returns.
-- The S&P 500 is often recommended by experts like Warren Buffett, but VTI includes small caps.
-- The debate is so common that it has its own satirical subreddit (r/VOOorVTI).
-- The post aims to provide a comprehensive explanation to settle the recurring debate.
+- The S&P 500 was originally created in 1926 as a 90-stock index to broadly track the US stock market, later expanding to 500 stocks.
+- The choice between VOO (S&P 500) and VTI (total US market) is unlikely to significantly impact long-term investment returns.
+- The debate over VOO vs. VTI is a common and often repetitive topic in investing forums.
+- The S&P 500 has been a widely recognized benchmark, recommended by figures like Warren Buffett.
+- Community consensus suggests that either fund is a viable option, with personal preference playing a minor role.
 
-**Discussion Highlights:** The top comments reinforce the post's main point, emphasizing that the choice between VOO and VTI is inconsequential. One comment humorously suggests expanding the discussion to include VT (total world market fund), indicating a broader perspective on diversification.
+**Discussion Highlights:** The discussion highlights a strong consensus that the choice between VOO and VTI is largely inconsequential for long-term investors. Many commenters emphasize that both funds are excellent choices, and the debate is often overblown. Some users humorously suggest expanding the discussion to include global funds like VT (Vanguard Total World Stock ETF).
 
 ---
 
 ## 2. [How did the 2025 S&amp;P 500 predictions pan out?](https://reddit.com/r/Bogleheads/comments/1q196kv/how_did_the_2025_sp_500_predictions_pan_out/)
 
-**Author:** u/vulcansarecool | **Upvotes:** 128 | **Comments:** 37 | **Date:** 2026-01-01
+**Author:** u/vulcansarecool | **Upvotes:** 126 | **Comments:** 37 | **Date:** 2026-01-01
 
-**Summary:** The post evaluates the accuracy of 2025 S&P 500 predictions, noting that most were conservative or exuberant, and highlights the unpredictability of market forecasts. The actual S&P 500 closed at 6846, with varying predictions from financial institutions.
+**Summary:** The Reddit post discusses the accuracy of 2025 S&P 500 predictions, noting that most were conservative or exuberant, and emphasizes the unpredictability of financial markets. The actual S&P 500 closed at 6846, with various institutions' predictions ranging widely.
 
 **Key Points:**
 - Most predictions for the S&P 500 in 2025 were either too conservative or too exuberant.
 - The actual S&P 500 closed at 6846, with predictions ranging from 5500 to 7100.
-- Comments emphasize the unreliability of market predictions and the speculative nature of forecasts.
-- Economic statistics and predictions are increasingly politicized, requiring caution.
-- The post underscores the difficulty in predicting market movements accurately.
+- The post highlights the unpredictability of financial markets and cautions against relying on predictions.
+- Top comments emphasize that financial predictions are often unreliable and likened to guesswork.
+- The discussion underscores skepticism towards financial forecasts and their marketing nature.
 
-**Discussion Highlights:** The discussion highlights skepticism about the accuracy of financial predictions, with comments likening strategists to 'tarot card readers' and emphasizing the speculative nature of forecasts. The consensus is that market predictions are unreliable and should not be heavily relied upon.
+**Discussion Highlights:** The discussion consensus is that financial predictions are unreliable and should not be heavily relied upon. Comments reflect skepticism, with some users likening predictions to guesswork or marketing tools.
 
 ---
 
 ## 3. [Warren Buffet Officially Retired - Loved Bogleheads](https://reddit.com/r/Bogleheads/comments/1q179i6/warren_buffet_officially_retired_loved_bogleheads/)
 
-**Author:** u/groovinup | **Upvotes:** 870 | **Comments:** 100 | **Date:** 2026-01-01
+**Author:** u/groovinup | **Upvotes:** 882 | **Comments:** 100 | **Date:** 2026-01-01
 
-**Summary:** Warren Buffett, at age 95, has officially retired and was revealed to be a 'superfan' of Jack Bogle, praising his contributions to American investors and supporting index investing, which some find counter-intuitive given Buffett's reputation as a stock picker.
+**Summary:** Warren Buffett, at age 95, has officially retired and expressed admiration for Jack Bogle and the concept of index investing, which is seen as counter-intuitive given his reputation as a stock picker.
 
 **Key Points:**
-- Warren Buffett retired at age 95 and admired Jack Bogle.
-- Buffett praised Bogle's impact on American investors and supported index investing.
+- Warren Buffett retired at age 95.
+- Buffett admired Jack Bogle and supported index investing.
 - Buffett and Munger advised inexperienced investors to use index funds.
-- The discussion highlights the consensus that index investing is a sound strategy for most investors.
-- Buffett's support for Bogle's methods is seen as surprising by some.
+- Diversification is seen as a hedge against ignorance.
+- Buffett's support for Bogle methods is highlighted in the discussion.
 
-**Discussion Highlights:** The discussion highlights a consensus that index investing is a sound strategy for most investors, with Buffett and Munger's advice to use index funds being a key point. The top comments reflect this consensus and add humor about Buffett's late retirement.
+**Discussion Highlights:** The discussion highlights Buffett's and Munger's consistent advice for household investors to use index funds and avoid stock picking, with a humorous comment about Buffett's late retirement.
 
 ---
 
 ## 4. [Do you own individual stocks for any weird reasons?](https://reddit.com/r/Bogleheads/comments/1q16xfv/do_you_own_individual_stocks_for_any_weird_reasons/)
 
-**Author:** u/Mysterious_Remote584 | **Upvotes:** 246 | **Comments:** 335 | **Date:** 2026-01-01
+**Author:** u/Mysterious_Remote584 | **Upvotes:** 247 | **Comments:** 336 | **Date:** 2026-01-01
 
-**Summary:** The Reddit post discusses unusual reasons for owning individual stocks, such as receiving perks, supporting friends, or as reminders of past mistakes. The comments highlight a mix of personal, sentimental, and experimental motivations for holding individual stocks.
+**Summary:** The Reddit post discusses unusual reasons for owning individual stocks, such as perks, personal connections, or reminders. The comments highlight diverse motivations, including loyalty, long-term bets, and lessons learned from past mistakes.
 
 **Key Points:**
-- Some investors own individual stocks for non-financial perks, like free snacks or event access.
-- Personal connections, such as supporting a friend's company, influence stock ownership.
-- Individual stocks are sometimes held as reminders of past investment mistakes.
-- Long-term bets or experiments, like holding a tech stock for decades, are another motivation.
-- Sentimental value, such as attending shareholder meetings, plays a role in ownership.
+- Some investors own stocks for non-financial perks, like free snacks or event access.
+- Personal connections or faith in individuals can influence stock ownership.
+- Stocks are sometimes held as reminders of past investment mistakes.
+- Long-term bets on companies, like Amazon or Berkshire Hathaway, are common.
+- Investors may hold stocks for sentimental or experimental reasons.
 
-**Discussion Highlights:** The discussion reveals a consensus that while individual stocks are often held for financial reasons, personal and sentimental motivations are also significant. Many commenters share stories of holding stocks for experimental or reminder purposes, reflecting a diverse range of investment behaviors.
+**Discussion Highlights:** The discussion reveals a mix of practical and emotional reasons for owning individual stocks. While some investors focus on perks or personal connections, others use stocks as reminders or long-term experiments. The consensus leans toward recognizing the risks of individual stocks but also acknowledging their personal or sentimental value.
 
 ---
 
 ## 5. [90% Return on my 401k VS 35% Return on Brokerage in 4 Years…](https://reddit.com/r/Bogleheads/comments/1q154xm/90_return_on_my_401k_vs_35_return_on_brokerage_in/)
 
-**Author:** u/SpiritualRest2080 | **Upvotes:** 117 | **Comments:** 21 | **Date:** 2026-01-01
+**Author:** u/SpiritualRest2080 | **Upvotes:** 118 | **Comments:** 21 | **Date:** 2026-01-01
 
-**Summary:** The author realized that passive investing in a 401k yielded a 90% return over 4 years, while active trading in a brokerage account resulted in only 35% return. They decided to switch to a 100% VTI strategy and avoid market timing.
+**Summary:** The author realized that passive investing in a 401k yielded a 90% return over 4 years, while active trading in a brokerage account resulted in only a 35% return. They decided to switch to a 100% VTI strategy and avoid market timing.
 
 **Key Points:**
 - Passive investing in a 401k yielded higher returns than active trading.
-- The author decided to adopt a 100% VTI strategy.
-- The importance of patience and long-term investing was emphasized in the comments.
+- The author decided to adopt a 100% VTI strategy and avoid market timing.
+- The discussion highlights the importance of patience and long-term investing.
 - The best-performing accounts are often those that are left untouched.
 - The author is young and has time to benefit from compounding.
 
-**Discussion Highlights:** The discussion highlighted the benefits of passive investing, the importance of patience during market downturns, and the potential for significant gains over the long term with a buy-and-hold strategy.
+**Discussion Highlights:** The discussion consensus emphasizes the benefits of passive investing, patience during market downturns, and the long-term advantages of compounding. Many commenters shared their positive experiences with low-cost index funds like VTI and VXUS.
 
 ---
 
 ## 6. [2025 Returns by Asset Class](https://reddit.com/r/Bogleheads/comments/1q0x681/2025_returns_by_asset_class/)
 
-**Author:** u/Prudent-Corgi3793 | **Upvotes:** 221 | **Comments:** 33 | **Date:** 2026-01-01
+**Author:** u/Prudent-Corgi3793 | **Upvotes:** 223 | **Comments:** 33 | **Date:** 2026-01-01
 
-**Summary:** The Reddit post discusses the performance of various asset classes in 2025, highlighting strong returns in US equities, significant outperformance in international markets, and explosive gains in precious metals like gold and silver. Cryptocurrencies like Bitcoin and Ethereum ended the year in the negative, while bonds delivered solid returns.
+**Summary:** The Reddit post discusses the 2025 returns by asset class, highlighting strong performances in US equities, international markets, and precious metals, while noting underperformance in cryptocurrencies and solid returns in bonds.
 
 **Key Points:**
 - US equities, particularly large cap and growth, performed strongly in 2025.
-- International developed and emerging markets significantly outperformed US markets.
-- Precious metals like gold and silver saw explosive returns.
-- Cryptocurrencies like Bitcoin and Ethereum ended the year with negative returns.
-- Bonds delivered solid returns due to rate cuts by the US Federal Reserve.
+- International developed and emerging markets saw significant outperformance.
+- Precious metals like gold and silver had explosive returns.
+- Cryptocurrencies like Bitcoin and Ethereum ended the year in the negative.
+- Bonds delivered solid returns due to federal rate cuts.
 
-**Discussion Highlights:** The discussion highlights the refreshing outperformance of international markets after years of underperformance, the strong returns of international small cap value, and the impact of dollar devaluation on international assets. There was also a notable mention of the strong performance of silver.
+**Discussion Highlights:** The discussion highlights a consensus on the refreshing outperformance of international markets after years of underperformance, with some users noting the impact of dollar devaluation on international strength.
 
 ---
 
 ## 7. [Lost a decade of growth due to a fiduciary financial advisor](https://reddit.com/r/Bogleheads/comments/1q0f40h/lost_a_decade_of_growth_due_to_a_fiduciary/)
 
-**Author:** u/Factoverfallacy | **Upvotes:** 620 | **Comments:** 250 | **Date:** 2025-12-31
+**Author:** u/Factoverfallacy | **Upvotes:** 621 | **Comments:** 250 | **Date:** 2025-12-31
 
-**Summary:** The author expresses regret over trusting a fiduciary financial advisor who mismanaged their investments, leading to lost growth over a decade. The post highlights the importance of financial literacy and self-management of investments.
+**Summary:** The author expresses regret over trusting a fiduciary financial advisor who mismanaged their investments, leading to lost growth. The post highlights the importance of financial literacy and self-management of investments.
 
 **Key Points:**
 - Trusting a fiduciary advisor led to significant financial losses.
-- The advisor's frequent strategy changes and lack of transparency caused confusion.
-- The author emphasizes the need for personal financial expertise.
+- The advisor frequently changed strategies and firms, making it hard to track performance.
+- The author emphasizes the need for personal financial expertise before trusting others with money.
 - Comments highlight common experiences with poor financial advice and the benefits of passive investing.
-- The Boglehead strategy of passive investing is recommended over active trading.
+- Many commenters stress the importance of financial literacy and self-management.
 
-**Discussion Highlights:** The discussion consensus emphasizes the importance of financial literacy and self-management. Many commenters share similar experiences and recommend passive investing strategies, such as those advocated by the Bogleheads community.
+**Discussion Highlights:** The discussion consensus emphasizes the importance of financial literacy, self-management of investments, and the risks of trusting financial advisors without proper oversight. Many commenters share similar experiences and stress the benefits of passive investing strategies.
 
 ---
 
@@ -129,67 +129,66 @@
 
 **Author:** u/humdinger44 | **Upvotes:** 1915 | **Comments:** 48 | **Date:** 2025-12-31
 
-**Summary:** Warren Buffett has stepped down as CEO of Berkshire Hathaway after six decades, marking the end of an era. The Reddit post and comments reflect on his legacy, the company's culture, and the impact of his departure.
+**Summary:** Warren Buffett has stepped down as CEO of Berkshire Hathaway after six decades, marking the end of an era. The Reddit discussion highlights nostalgia for his leadership and appreciation for the company's employee-friendly policies.
 
 **Key Points:**
-- Warren Buffett's departure marks the end of an era at Berkshire Hathaway.
-- Berkshire Hathaway is known for its culture of investing in people and avoiding layoffs.
-- The Buffett-Munger duo is considered a generational talent that will be hard to replace.
-- Comments reflect on the FIRE (Financial Independence, Retire Early) trend and its implications.
-- The company's stability and long-term employee retention are highlighted.
+- End of an era with Warren Buffett stepping down
+- Berkshire Hathaway's employee-friendly policies praised
+- Buffett and Munger's partnership recognized as unique and irreplaceable
+- Mixed emotions about the future of Berkshire Hathaway
 
-**Discussion Highlights:** The discussion highlights a mix of nostalgia for Buffett's leadership, appreciation for Berkshire Hathaway's employee-friendly culture, and recognition of the unique partnership between Buffett and Munger. There is a consensus that the company will not be the same without them.
+**Discussion Highlights:** The discussion reflects a mix of nostalgia and appreciation for Buffett's leadership and Berkshire's policies, with concerns about the company's future without him.
 
 ---
 
 ## 9. [Why do people read A Random Walk Down Wall Street and end up with the wrong conclusion from the author?](https://reddit.com/r/Bogleheads/comments/1q0btcp/why_do_people_read_a_random_walk_down_wall_street/)
 
-**Author:** u/AndrewNiccol | **Upvotes:** 293 | **Comments:** 127 | **Date:** 2025-12-31
+**Author:** u/AndrewNiccol | **Upvotes:** 289 | **Comments:** 127 | **Date:** 2025-12-31
 
-**Summary:** The post discusses how people often misinterpret 'A Random Walk Down Wall Street,' continuing to pick stocks despite the book's advice to invest in index funds or ETFs. The author shares personal anecdotes and observes similar behavior in others.
+**Summary:** The post discusses how readers of 'A Random Walk Down Wall Street' often misinterpret its message, continuing to pick stocks instead of following the book's advice to invest in index funds. Many people prefer active investing due to psychological factors or perceived control, despite evidence suggesting passive investing is more effective.
 
 **Key Points:**
-- Many readers misinterpret the book's message, continuing to pick stocks.
-- People often believe they can beat the market despite evidence to the contrary.
-- Some individuals enjoy the process of stock picking as a hobby or for a sense of control.
-- The book clearly states that stock picking and technical analysis are ineffective.
-- There is a common desire to perform better than average, leading to risky investment behaviors.
+- Readers frequently misinterpret the book's core message about index funds
+- People often believe they can beat the market despite statistical evidence
+- Psychological factors like overconfidence and desire for control influence investment decisions
+- Active investing is sometimes treated as a hobby or form of entertainment
+- The book's advice on passive investing is commonly overlooked or ignored
 
-**Discussion Highlights:** The discussion highlights a consensus that many people struggle to accept the book's advice due to overconfidence, enjoyment of stock picking, or a desire for control. The top comments emphasize the difficulty in changing people's financial behaviors and the rarity of individuals who can consistently beat the market.
+**Discussion Highlights:** The discussion highlights widespread confirmation bias and overconfidence among investors. Many commenters note that people prefer active investing for psychological reasons or as a hobby, even when it leads to poorer outcomes. There is a consensus that the book's message about the superiority of passive investing is frequently misunderstood or ignored.
 
 ---
 
 ## 10. [Dumped $300k in VTI+VXUS combined](https://reddit.com/r/Bogleheads/comments/1q075ex/dumped_300k_in_vtivxus_combined/)
 
-**Author:** u/Neybula | **Upvotes:** 148 | **Comments:** 81 | **Date:** 2025-12-31
+**Author:** u/Neybula | **Upvotes:** 149 | **Comments:** 81 | **Date:** 2025-12-31
 
 **Summary:** A 40-year-old user invested $300k in VTI and VXUS after discontinuing a financial planner's service and seeks reassurance about their decision. The community generally supports the move, emphasizing long-term holding and the simplicity of the chosen funds.
 
 **Key Points:**
 - User invested $280k in VTI and $20k in VXUS after dissatisfaction with a financial planner.
-- The user plans to leave the investment untouched for at least 10 years.
-- The community consensus supports the investment choice and emphasizes long-term holding.
-- Some commenters suggest a slightly higher allocation to international funds (VXUS).
-- The simplicity and popularity of the chosen funds (VTI and VXUS) are highlighted.
+- The user plans to hold the investment for at least 10 years without monitoring.
+- The community consensus supports the decision, highlighting the importance of long-term holding.
+- Some comments suggest a slightly higher allocation to international funds (e.g., 20% VXUS).
+- Many users share similar portfolios, reinforcing the validity of the chosen funds.
 
-**Discussion Highlights:** The discussion highlights strong support for the user's decision, with emphasis on the importance of long-term investing and the simplicity of the chosen funds. Some commenters suggest minor adjustments to the allocation, but overall, the consensus is positive and reassuring.
+**Discussion Highlights:** The discussion highlights strong support for the user's decision, with emphasis on the benefits of long-term investing and the simplicity of the chosen index funds. Some users suggest minor adjustments to the allocation, but the overall consensus is positive.
 
 ---
 
 ## 11. [Why does nobody believe us?](https://reddit.com/r/Bogleheads/comments/1pzrpg4/why_does_nobody_believe_us/)
 
-**Author:** u/JPCool1 | **Upvotes:** 985 | **Comments:** 599 | **Date:** 2025-12-30
+**Author:** u/JPCool1 | **Upvotes:** 989 | **Comments:** 599 | **Date:** 2025-12-30
 
-**Summary:** The author expresses frustration with family members who prefer stock picking over ETFs, highlighting the benefits of a conservative investment approach. The discussion reflects a consensus that convincing others of this approach is often futile.
+**Summary:** The post discusses the author's frustration with family members who prefer stock picking over ETF investing, highlighting the challenges of convincing others about the benefits of a conservative investment approach.
 
 **Key Points:**
-- Author prefers ETFs over individual stock picking
-- Family members tout successful stock picks but ignore losses
-- Consensus in comments: convincing others is difficult
-- People prefer quick wealth over long-term strategies
-- Simplicity in investing is often underestimated
+- Author prefers ETFs for long-term growth and lower risk.
+- Family members tout individual stock successes but may ignore losses.
+- Author finds it difficult to convince others about the benefits of ETFs.
+- Comments suggest that people prefer quick wins and complexity over simplicity.
+- Consensus is that convincing others about investment strategies is often futile.
 
-**Discussion Highlights:** The top comments emphasize the difficulty in convincing others of the benefits of ETFs, with many people preferring the excitement of stock picking and the hope of quick wealth. There is a general agreement that people do what they want, regardless of advice.
+**Discussion Highlights:** The discussion highlights a general consensus that people are drawn to the excitement of stock picking and quick gains, often ignoring the long-term benefits of ETFs. Many commenters agree that trying to convince others about investment strategies is often a waste of time.
 
 ---
 
@@ -197,16 +196,16 @@
 
 **Author:** u/FoggyFoggyFoggy | **Upvotes:** 153 | **Comments:** 153 | **Date:** 2025-12-29
 
-**Summary:** The post discusses the significant weight of NVDA, AAPL, and MSFT in VTI, with NVDA alone making up over 7% of the fund. The discussion revolves around whether this concentration is a concern and how index funds inherently reflect market dynamics.
+**Summary:** The post discusses the significant concentration of NVDA, AAPL, and MSFT in the VTI index fund, with NVDA alone making up over 7% of the fund. The discussion revolves around whether this concentration is a concern and how index funds naturally adjust over time.
 
 **Key Points:**
-- NVDA, AAPL, and MSFT constitute nearly 1/5 of VTI, with NVDA alone at over 7%.
-- Index funds naturally reflect market capitalization, leading to concentration in top-performing stocks.
-- Historical context: AT&T once made up 13% of the S&P 500, showing that market dynamics can shift.
-- Trust in market efficiency is a recurring theme, with some arguing that the market self-corrects over time.
-- Concerns about diversification are raised, with comparisons to the 1972 Nifty Fifty era.
+- NVDA, AAPL, and MSFT make up nearly 1/5 of the VTI index fund.
+- NVDA alone constitutes over 7% of the VTI fund, which includes over 3,500 stocks.
+- Some commenters argue that index funds naturally balance over time, while others express concerns about diversification.
+- Historical context is provided, such as AT&T's 13% weight in the S&P 500.
+- There is a debate about whether modern indexing has become a concentrated momentum play.
 
-**Discussion Highlights:** The discussion highlights a divide between those who trust market efficiency and passive indexing, and those who express concerns about over-concentration and potential risks akin to historical market bubbles. The consensus leans toward trusting the market, but with acknowledgment of valid concerns about diversification.
+**Discussion Highlights:** The discussion highlights a mix of trust in market efficiency and concerns about over-concentration in index funds. While some users believe the market will self-correct, others draw parallels to historical market bubbles like the Nifty Fifty. Overall, there is no clear consensus, but the majority seem to trust the market's ability to balance itself over time.
 
 ---
 
@@ -214,90 +213,90 @@
 
 **Author:** u/Icy-Neighborhood6207 | **Upvotes:** 588 | **Comments:** 159 | **Date:** 2025-12-29
 
-**Summary:** The user has a 401k invested in a target date fund for over 10 years and is considering whether to make changes at age 35. The community generally advises leaving it as is.
+**Summary:** The user, aged 35, has a 401k invested in a target date fund that has grown significantly over 10 years. They seek advice on whether to make changes to their investment strategy.
 
 **Key Points:**
-- User has not made changes to their 401k in over 10 years.
-- Investment is in a target date fund.
-- User is 35 years old and considering whether to tweak the investment.
-- Community advises against making changes if the fund is performing well.
-- Expense ratio of the fund is a consideration for potential changes.
+- The target date fund has performed well over the years.
+- The user has not made any changes to the investment since starting it.
+- Top comments suggest leaving the investment as is if it is performing well.
+- Consider checking the expense ratio of the target date fund compared to other options.
+- General consensus is to avoid unnecessary changes if the current strategy is effective.
 
-**Discussion Highlights:** The consensus among commenters is that the target date fund is performing well and no changes are necessary. Some suggest checking the expense ratio of the fund as a potential reason to consider other options.
+**Discussion Highlights:** The discussion highlights a strong consensus that target date funds are generally a good choice and that unnecessary changes should be avoided. The top comments emphasize the importance of checking the expense ratio and suggest leaving the investment untouched if it is performing well.
 
 ---
 
 ## 14. [Can I fund my Roth IRA account with $7500 on January 1st?](https://reddit.com/r/Bogleheads/comments/1py7tk6/can_i_fund_my_roth_ira_account_with_7500_on/)
 
-**Author:** u/go4rabbit | **Upvotes:** 350 | **Comments:** 160 | **Date:** 2025-12-28
+**Author:** u/go4rabbit | **Upvotes:** 345 | **Comments:** 160 | **Date:** 2025-12-28
 
-**Summary:** The post asks whether it's possible to fund a Roth IRA with $7500 on January 1st, without waiting for accumulated take-home pay. The discussion confirms that it is possible to max out the 2026 contribution early, provided the contributor earns at least $7500 by the end of the year.
+**Summary:** The post discusses whether it's possible to fund a Roth IRA with $7500 on January 1st, without waiting for accumulated take-home pay. The consensus is that it is allowed, provided the contributor earns at least $7500 by the end of the year.
 
 **Key Points:**
-- You can fund your Roth IRA with $7500 on January 1st, even before earning the income, as long as you are confident you will earn at least $7500 by the end of the year.
-- The contribution limit for 2026 is $7500 for individuals under 50 years old.
-- It is advisable to first max out the previous year's contribution (2025) if not already done, as the deadline for 2025 contributions is April 15th.
-- Catch-up contributions for previous years are also possible if the limit was not reached.
+- You can fund your Roth IRA with $7500 on January 1st, even before earning the income, as long as you earn at least $7500 by the end of the year.
+- The contribution limit for 2026 is $7500 for individuals under 50.
+- It's advisable to ensure you will meet the income requirement before making the contribution.
+- If you haven't maxed out your 2025 contributions, you have until April 15th to do so.
 
-**Discussion Highlights:** The consensus is that early funding of the Roth IRA is allowed, but contributors should ensure they will meet the income requirement by the end of the year. The discussion also highlights the importance of prioritizing previous years' contributions if they haven't been maxed out.
+**Discussion Highlights:** The discussion highlights that early funding of a Roth IRA is permissible, but caution is advised to ensure the income requirement is met. There is also a reminder to prioritize maxing out previous year contributions if not already done.
 
 ---
 
 ## 15. [Why do Bogleheads discourage use of AI search for investing information? Because it is too often wrong or misleading.](https://reddit.com/r/Bogleheads/comments/1py0ajm/why_do_bogleheads_discourage_use_of_ai_search_for/)
 
-**Author:** u/Kashmir79 | **Upvotes:** 231 | **Comments:** 137 | **Date:** 2025-12-28
+**Author:** u/Kashmir79 | **Upvotes:** 232 | **Comments:** 137 | **Date:** 2025-12-28
 
-**Summary:** The post discusses why Bogleheads discourage the use of AI search for investing information due to inaccuracies, hallucinations, and the potential for misleading advice. The community prefers firsthand knowledge and authoritative sources over AI-generated content. Key points include: AI-generated content is prone to errors and hallucinations, making it unreliable for investing advice; the quality of AI responses depends heavily on the user's ability to craft effective prompts; Bogleheads value firsthand knowledge and authoritative sources over algorithmic responses; AI tools can be useful for those skilled in their use but are discouraged for novices; policies against AI content are not a judgment on AI's potential but a measure to ensure quality and reliability. The discussion highlights several instances where AI tools provided incorrect information, such as wrong expense ratios for index funds. Commenters emphasize the importance of human experience and authoritative sources in investing advice. There is a consensus that while AI has potential, it is not yet reliable enough for novice investors.
+**Summary:** The Reddit post discusses why the Bogleheads community discourages the use of AI-generated content for investing information, citing issues like inaccuracies, hallucinations, and the need for skilled prompting. The discussion highlights concerns about AI reliability and the preference for human experiences and authoritative sources. Key points include: AI-generated content is discouraged due to inaccuracies and hallucinations; LLMs are not firsthand sources and can propagate mistakes or biases; AI responses can be confidently wrong, which is misleading for novices; Quality of AI responses depends heavily on the user's prompting skills; The community prefers human experiences and authoritative sources over AI-generated content. The discussion consensus emphasizes the unreliability of AI for investing advice, with users sharing personal experiences of AI providing incorrect information. There is a strong preference for human insights and authoritative sources in financial discussions.
 
 ---
 
 ## 16. [In a Wild Year for Markets, Investors Who Did Nothing Did Just Fine](https://reddit.com/r/Bogleheads/comments/1pxz1wt/in_a_wild_year_for_markets_investors_who_did/)
 
-**Author:** u/Hefty-Report6360 | **Upvotes:** 801 | **Comments:** 79 | **Date:** 2025-12-28
+**Author:** u/Hefty-Report6360 | **Upvotes:** 802 | **Comments:** 79 | **Date:** 2025-12-28
 
-**Summary:** The Reddit post highlights that passive investors who did nothing during market volatility performed well, emphasizing the effectiveness of long-term, hands-off investing strategies.
+**Summary:** The Reddit post highlights that investors who maintained a passive approach during market volatility performed well, emphasizing the benefits of long-term, hands-off investing strategies.
 
 **Key Points:**
-- Passive investing often outperforms active trading in volatile markets.
-- Financial media may promote anxiety to encourage unnecessary transactions.
+- Passive investing often outperforms active trading during market volatility.
+- Financial media can create unnecessary anxiety to encourage trading.
 - Dollar-cost averaging (DCA) and consistent contributions lead to positive outcomes.
-- Long-term investors benefit from ignoring short-term market fluctuations.
+- Long-term investors who stick to their plans tend to see good results.
 
-**Discussion Highlights:** The discussion consensus supports passive investing strategies, with users sharing personal success stories of consistent contributions and long-term growth, while criticizing financial media for promoting unnecessary trading.
+**Discussion Highlights:** The discussion consensus supports passive investing strategies, with many commenters advocating for consistent contributions, dollar-cost averaging, and avoiding reactionary trading based on market fluctuations.
 
 ---
 
 ## 17. [Wife has large sum of cash in HYSA, Suggested it may be better to put in a taxable brokerage in a three fund portfolio. looking for conformation I'm correct or other suggestions.](https://reddit.com/r/Bogleheads/comments/1pxbhjm/wife_has_large_sum_of_cash_in_hysa_suggested_it/)
 
-**Author:** u/DrewHefner | **Upvotes:** 179 | **Comments:** 95 | **Date:** 2025-12-27
+**Author:** u/DrewHefner | **Upvotes:** 182 | **Comments:** 95 | **Date:** 2025-12-27
 
-**Summary:** The post discusses whether a large sum of cash in a HYSA should be moved to a taxable brokerage for better returns, given that the couple is already maxing out their tax-advantaged accounts. The discussion highlights the potential benefits of investing but also emphasizes the importance of understanding risk and market fluctuations.
+**Summary:** The post discusses whether a large sum of cash in a High-Yield Savings Account (HYSA) should be moved to a taxable brokerage account with a three-fund portfolio. The author seeks confirmation on their suggestion and additional advice from the community.
 
 **Key Points:**
-- The wife has $275k in a HYSA, which is considered excessive for an emergency fund.
-- The couple is already maxing out their 401k and backdoor Roth IRA contributions.
-- The discussion suggests that investing in a taxable brokerage could be beneficial but requires understanding of market risks.
-- Non-financial factors, such as the wife's comfort with investing, are also important considerations.
-- The consensus supports the idea of investing but advises caution and education about market fluctuations.
+- The wife has $275k in a HYSA, which the author considers excessive for an emergency fund.
+- The wife plans to buy a car for $75k and keep $50k in the HYSA, potentially investing $150k in a taxable brokerage.
+- Both spouses max out their 401k and backdoor Roth IRA contributions.
+- The community generally agrees with the suggestion but highlights the importance of investment education and risk tolerance.
+- Tax-efficient fund placement is recommended for the taxable brokerage account.
 
-**Discussion Highlights:** The discussion generally agrees that moving a portion of the HYSA funds to a taxable brokerage could be a good idea, given that the couple is already maxing out their tax-advantaged accounts. However, it also emphasizes the need for the wife to understand and be comfortable with market risks and fluctuations. Some commenters suggest starting with more conservative funds if she is worried about market volatility.
+**Discussion Highlights:** The discussion highlights the importance of considering both financial and personal factors, such as risk tolerance and investment education. The consensus is that moving a portion of the HYSA funds to a taxable brokerage with a three-fund portfolio is a reasonable strategy, given that all tax-advantaged accounts are maxed out. However, it is crucial to ensure both parties are comfortable with market fluctuations and have a clear understanding of investment basics.
 
 ---
 
 ## 18. [FT: So Long, American Exceptionalism. Does this change US allocation going forward for anyone else?](https://reddit.com/r/Bogleheads/comments/1pwy2rq/ft_so_long_american_exceptionalism_does_this/)
 
-**Author:** u/Ripley_Riley | **Upvotes:** 164 | **Comments:** 219 | **Date:** 2025-12-27
+**Author:** u/Ripley_Riley | **Upvotes:** 160 | **Comments:** 219 | **Date:** 2025-12-27
 
-**Summary:** The post discusses whether changing US market sentiment should affect investment allocations, with the author considering reducing US exposure from 60% to 40-50% in favor of international markets. The community generally advises maintaining market-cap weights or using global funds like VT.
+**Summary:** The post discusses whether to adjust US investment allocation due to shifting global sentiment, with the author considering reducing US exposure from 60% to 40-50% in favor of international markets.
 
 **Key Points:**
-- Author considers reducing US allocation (VTI) from 60% to 40-50% due to perceived US instability
-- Current allocation: 60% VTI, 20% VXUS, 20% BND
-- Community largely recommends staying with market-cap weights or using global funds
-- Suggestions to incrementally adjust rather than drastic portfolio changes
-- Uncertainty acknowledged - no consensus on future US performance
+- Author's current allocation is 60% VTI, 20% VXUS, 20% BND.
+- Considering adjustment to 50/30/20 or 40/40/20 due to concerns about US reliability.
+- Community advice leans towards maintaining market cap weights or using global funds like VT.
+- Suggestions to incrementally adjust contributions rather than overhauling the portfolio.
+- General consensus that no one can predict the best allocation.
 
-**Discussion Highlights:** Most commenters advocate for maintaining market-cap weighted allocations or using global funds like VT. Some suggest gradual adjustments rather than major portfolio shifts. There's broad acknowledgment that future US performance is uncertain, with recommendations to avoid reactionary changes based on short-term sentiment.
+**Discussion Highlights:** The discussion highlights a preference for maintaining market cap weights or using global funds (e.g., VT) rather than making drastic changes. Some suggest incrementally adjusting contributions to international markets. The overall consensus is uncertain, with an emphasis on long-term strategy over short-term reactions to political or economic sentiment.
 
 ---
 
