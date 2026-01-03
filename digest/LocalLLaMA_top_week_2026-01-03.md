@@ -1,475 +1,517 @@
 # r/LocalLLaMA Reading Digest
 
 **Period:** 2026-01-03 to 2026-01-03
-**Posts Summarized:** 28
-**Total Posts Analyzed:** 28
+**Posts Summarized:** 30
+**Total Posts Analyzed:** 30
 
 ---
 
-## 1. [LeCun Says Llama 4 results "were fudged a little bit"](https://reddit.com/r/LocalLLaMA/comments/1q25070/lecun_says_llama_4_results_were_fudged_a_little/)
+## 1. [GLM-4.7-REAP-50-W4A16: 50% Expert-Pruned + INT4 Quantized GLM-4 (179B params, ~92GB)](https://reddit.com/r/LocalLLaMA/comments/1q2pons/glm47reap50w4a16_50_expertpruned_int4_quantized/)
 
-**Author:** u/MrPecunius | **Upvotes:** 338 | **Comments:** 89 | **Date:** 2026-01-02
+**Author:** u/Maxious | **Upvotes:** 132 | **Comments:** 61 | **Date:** 2026-01-03
 
-**Summary:** Yann LeCun confirmed that Llama 4 benchmarks were manipulated, and Meta's AI division faced significant restructuring, leading to departures and lack of follow-up on promised models. The community expressed disappointment in Meta's handling of the project.
+**Summary:** The post introduces GLM-4.7-REAP-50-W4A16, a 50% expert-pruned and INT4 quantized version of GLM-4 with 179B parameters (~92GB). The discussion focuses on technical details like calibration methods, the purpose of REAP pruning, and comparisons with other models.
+
+**Key Points:**
+- GLM-4.7-REAP-50-W4A16 is a 50% expert-pruned and INT4 quantized model with 179B parameters (~92GB).
+- Community members request details on calibration methods to ensure all experts were activated.
+- Questions arise about the purpose and calibration tasks for REAP pruning.
+- Interest in benchmark results and comparisons with other models like MiniMax M2.1 and EXL3.
+- Mentions of subjective performance comparisons with previous REAP versions.
+
+**Discussion Highlights:** The discussion highlights concerns about calibration details and the purpose of REAP pruning. There is significant interest in benchmark results and comparisons with other models, with some users sharing subjective performance experiences.
+
+---
+
+## 2. [What is the smartest uncensored nsfw LLM you can run with 20GB VRAM and 24GB RAM](https://reddit.com/r/LocalLLaMA/comments/1q2o033/what_is_the_smartest_uncensored_nsfw_llm_you_can/)
+
+**Author:** u/Death_12_35_taken | **Upvotes:** 117 | **Comments:** 56 | **Date:** 2026-01-03
+
+**Summary:** The post seeks recommendations for an uncensored, smart, and fast LLM that can run locally with 20GB VRAM and 24GB RAM. Users suggest several models, with a focus on performance and creativity.
+
+**Key Points:**
+- User is looking for an uncensored, smart, and fast LLM for local use.
+- Dolphin-Mistral-24B-Venice-Edition is recommended as a top choice.
+- Other models like Huihui-Qwen3-VL-30B-A3B-Instruct-abliterated and gpt-oss-20b-Derestricted are also suggested.
+- Models should be capable of staying in character and being creative.
+- Performance and speed are important factors for the user.
+
+**Discussion Highlights:** The discussion highlights a consensus around the Dolphin-Mistral-24B-Venice-Edition model, with additional suggestions for other models that meet the user's criteria of being uncensored, smart, and fast.
+
+---
+
+## 3. [LeCun Says Llama 4 results "were fudged a little bit"](https://reddit.com/r/LocalLLaMA/comments/1q25070/lecun_says_llama_4_results_were_fudged_a_little/)
+
+**Author:** u/MrPecunius | **Upvotes:** 348 | **Comments:** 89 | **Date:** 2026-01-02
+
+**Summary:** Yann LeCun, departing Meta AI Chief, confirmed that Llama 4 benchmark results were manipulated, leading to organizational changes and departures. The post discusses the impact on Meta's AI initiatives and the broader implications for open-source AI development.
 
 **Key Points:**
 - LeCun confirms Llama 4 benchmark manipulation
-- Meta's AI division restructured, leading to departures
-- Lack of follow-up on promised Llama 4 models
-- Community disappointment in Meta's strategic decisions
-- Shared resources for further reading
+- Zuckerberg sidelined the GenAI organization, leading to departures
+- Llama 4's promised large model was never released
+- Discussion highlights concerns about Meta's AI strategy and the future of open-source AI
+- Community shares mixed feelings about Meta's handling of AI initiatives
 
-**Discussion Highlights:** The discussion highlights disappointment in Meta's strategic decisions, with users sharing additional resources and questioning how a well-positioned company could falter while smaller labs thrive.
-
----
-
-## 2. [Most optimal vram/performance per price and advice for Shenzhen GPU market](https://reddit.com/r/LocalLLaMA/comments/1q1w1qj/most_optimal_vramperformance_per_price_and_advice/)
-
-**Author:** u/notafakename10 | **Upvotes:** 241 | **Comments:** 57 | **Date:** 2026-01-02
-
-**Summary:** The post discusses finding the most optimal GPU setup with high VRAM (48GB-96GB) for local models and occasional PyTorch training within a $1500-3000 budget in the Shenzhen market. The discussion highlights various GPU options and their value propositions. Key points include the budget range, VRAM requirements, consideration of modded cards and AMD options, and specific recommendations like the MI100 for best value without CUDA and the 4090D 48GB for CUDA support. The discussion consensus emphasizes the MI100 and 4090D 48GB, with cooling and power requirements noted as important factors.
+**Discussion Highlights:** The discussion reflects concerns about Meta's strategic decisions in AI, with users expressing disappointment over the lack of progress and the impact on open-source AI development. Some users share additional resources and insights, while others question the broader implications for the AI community.
 
 ---
 
-## 3. [Getting ready to train in Intel arc](https://reddit.com/r/LocalLLaMA/comments/1q1p5q5/getting_ready_to_train_in_intel_arc/)
+## 4. [Most optimal vram/performance per price and advice for Shenzhen GPU market](https://reddit.com/r/LocalLLaMA/comments/1q1w1qj/most_optimal_vramperformance_per_price_and_advice/)
 
-**Author:** u/hasanismail_ | **Upvotes:** 293 | **Comments:** 84 | **Date:** 2026-01-01
+**Author:** u/notafakename10 | **Upvotes:** 244 | **Comments:** 57 | **Date:** 2026-01-02
 
-**Summary:** A user is preparing to train on Intel Arc GPUs and shares their excitement, while also addressing concerns about GPU shortages. The community provides advice and expresses interest in the setup.
+**Summary:** The user seeks advice on purchasing GPUs in Shenzhen with a budget of $1500-3000 USD, aiming for at least 48GB VRAM, preferably 96GB, for local models and occasional PyTorch training. The discussion highlights various GPU options and market insights.
+
+**Key Points:**
+- Budget range: $1500-3000 USD
+- VRAM requirement: at least 48GB, ideally 96GB
+- GPU options: MI100 (best value for performance), 4090D 48GB (for CUDA), A100 40GB, and 4x 3080 20GB cards
+- Market advice: negotiate prices, consider cooling solutions, and verify GPU specifications
+- Consensus: 4090D 48GB is a recommended option for CUDA support
+
+**Discussion Highlights:** The discussion emphasizes the importance of negotiating prices, ensuring adequate cooling, and considering specific GPU models like the MI100 for best value and the 4090D for CUDA support. There is also mention of the A100 40GB and the feasibility of using multiple 3080 cards.
+
+---
+
+## 5. [Getting ready to train in Intel arc](https://reddit.com/r/LocalLLaMA/comments/1q1p5q5/getting_ready_to_train_in_intel_arc/)
+
+**Author:** u/hasanismail_ | **Upvotes:** 293 | **Comments:** 87 | **Date:** 2026-01-01
+
+**Summary:** A user is preparing to train on Intel Arc GPUs and shares their excitement, while also addressing concerns about GPU shortages. The community provides advice and support.
 
 **Key Points:**
 - User is waiting for PCIe risers to start training on Intel Arc GPUs
 - User clarifies they are not causing a GPU shortage
-- Community suggests using Ubuntu 24.04 and mentions support for Intel Arc in Unsloth
-- Advice to join OpenArc Discord for setup assistance
-- Discussion about the feasibility of training on PCIe setup vs renting N*H100 from Vast
+- Community suggests using Ubuntu 24.04 and joining OpenArc Discord
+- Discussion includes advice on setup and potential challenges
+- Some users question the feasibility of training on PCIe setup vs. renting N*H100
 
-**Discussion Highlights:** The community shows support and provides practical advice, such as using Ubuntu 24.04 and joining OpenArc Discord. There is also a discussion about the feasibility of training on a PCIe setup compared to renting more powerful GPUs.
+**Discussion Highlights:** The community is supportive and offers practical advice, such as using Ubuntu 24.04 and joining relevant Discord groups. There is also some debate about the effectiveness of training on a PCIe setup compared to renting more powerful GPUs.
 
 ---
 
-## 4. [TIL you can allocate 128 GB of unified memory to normal AMD iGPUs on Linux via GTT](https://reddit.com/r/LocalLLaMA/comments/1q1lgb7/til_you_can_allocate_128_gb_of_unified_memory_to/)
+## 6. [TIL you can allocate 128 GB of unified memory to normal AMD iGPUs on Linux via GTT](https://reddit.com/r/LocalLLaMA/comments/1q1lgb7/til_you_can_allocate_128_gb_of_unified_memory_to/)
 
-**Author:** u/1ncehost | **Upvotes:** 173 | **Comments:** 30 | **Date:** 2026-01-01
+**Author:** u/1ncehost | **Upvotes:** 169 | **Comments:** 30 | **Date:** 2026-01-01
 
-**Summary:** The post discusses using AMD iGPUs on Linux with GTT to allocate up to 128 GB of system memory as VRAM, useful for development and hybrid CPU/GPU architectures. Users share experiences with this feature for background tasks and inference.
+**Summary:** The post discusses using Linux's Graphics Translation Table (GTT) to allocate up to 128 GB of system memory as VRAM for AMD iGPUs, which is useful for development tasks like kernel optimization and hybrid CPU/GPU architectures.
 
 **Key Points:**
-- AMD iGPUs on Linux can use GTT to allocate up to 128 GB of system memory as VRAM dynamically.
-- Useful for development and profiling, but not ideal for inference due to slow performance.
-- Users report success with background tasks and inference using this feature.
-- Potential for simulating hybrid CPU/GPU architectures like MI300A on standard Ryzen laptops.
-- ROCm support for iGPUs is limited in the Python stack but works well with direct C++/HIP kernels.
+- GTT allows dynamic allocation of system memory as VRAM for AMD iGPUs on Linux.
+- Useful for development tasks like kernel optimization and hybrid CPU/GPU architectures.
+- Not ideal for inference due to slow performance of iGPUs.
+- ROCm can recognize iGPUs, enabling direct access via C++/HIP kernels.
+- Can simulate MI300A-like architectures on standard Ryzen laptops.
 
-**Discussion Highlights:** Users confirm the utility of GTT for background tasks and inference, with some noting performance improvements over CPU. The feature is praised for its dynamic memory allocation and potential for development and hybrid architectures.
+**Discussion Highlights:** The discussion highlights practical use cases such as background LLM tasks and kernel development, with some users noting performance benefits over CPU for specific tasks. There is consensus on the utility of GTT for development and niche applications.
 
 ---
 
-## 5. [IQuestCoder - new 40B dense coding model](https://reddit.com/r/LocalLLaMA/comments/1q1986x/iquestcoder_new_40b_dense_coding_model/)
+## 7. [IQuestCoder - new 40B dense coding model](https://reddit.com/r/LocalLLaMA/comments/1q1986x/iquestcoder_new_40b_dense_coding_model/)
 
 **Author:** u/ilintar | **Upvotes:** 185 | **Comments:** 37 | **Date:** 2026-01-01
 
-**Summary:** The post introduces IQuestCoder, a new 40B dense coding model adapted to GGUF format, compatible with Llama.cpp. The author verifies its performance and shares initial positive feedback from the community.
+**Summary:** The post introduces IQuestCoder, a new 40B dense coding model with claims of SOTA performance. The author has adapted it to GGUF format, making it compatible with Llama.cpp. The model is based on Llama architecture and has shown promising results in initial tests.
 
 **Key Points:**
-- IQuestCoder is a 40B dense coding model adapted to GGUF format
-- The model is compatible with Llama.cpp and reportedly performs well
-- Community feedback includes successful testing in various programming tasks
-- Some concerns about the lack of transparency regarding the model's architecture
-- Positive performance reported in tasks like Snake game and embedded Rust concepts
+- IQuestCoder is a new 40B dense coding model claimed to be SOTA.
+- The model is adapted to GGUF format and works with Llama.cpp.
+- Initial tests show good performance in tasks like coding and game development.
+- There is some skepticism about the architecture and quantization methods used.
+- The model has been tested against other models like GPT 120, Devstral, and GLM 4.7.
 
-**Discussion Highlights:** The community shows interest and engagement, with some users reporting successful testing and positive performance. However, there are concerns about the lack of transparency regarding the model's architecture and some skepticism about the claims made by the model maker.
+**Discussion Highlights:** The discussion highlights include positive feedback on the GGUF adaptation and initial performance tests. Some users express skepticism about the architecture and quantization methods. There is also mention of a new architecture in the Loop version that will require adaptation.
 
 ---
 
-## 6. [Upstage Solar-Open-100B Public Validation](https://reddit.com/r/LocalLLaMA/comments/1q0zst6/upstage_solaropen100b_public_validation/)
+## 8. [Upstage Solar-Open-100B Public Validation](https://reddit.com/r/LocalLLaMA/comments/1q0zst6/upstage_solaropen100b_public_validation/)
 
-**Author:** u/PerPartes | **Upvotes:** 231 | **Comments:** 69 | **Date:** 2026-01-01
+**Author:** u/PerPartes | **Upvotes:** 236 | **Comments:** 69 | **Date:** 2026-01-01
 
-**Summary:** Upstage's official response to claims that Solar-100B Open is a fine-tuned version of GLM-Air-4.5, including an event at KAIST and a video presentation by the CEO.
+**Summary:** Upstage addressed claims that Solar 100B Open is a fine-tuned version of GLM-Air-4.5 during an event at KAIST, Seoul. The event was well-attended, with CEO Sung Kim presenting, and a live stream available on YouTube.
 
 **Key Points:**
-- Official counterstrike to plagiarism claims
-- Event held at KAIST with CEO presentation
-- Video link provided for further details
-- Community discussion on model testing and intermediate checkpoints
-- Mixed reactions to the event format and claims
+- Upstage held an event at KAIST, Seoul, to counter claims about Solar 100B Open.
+- The event had a capacity of 50 people but over 100 registered attendees.
+- CEO Sung Kim presented, and the event was live-streamed on YouTube with online translation.
+- A top comment highlighted high cosine similarity between layers of various models.
+- Another comment mentioned the removal of a previous post about plagiarism claims.
 
-**Discussion Highlights:** The community is engaged in testing model similarities and discussing the necessity of in-person events versus online releases. Some users support the team's integrity, while others focus on technical validation of the model.
+**Discussion Highlights:** The discussion included technical insights about model similarities and community reactions to the plagiarism claims. Some users expressed skepticism about the need for an in-person event, while others appreciated the transparency and technical details shared.
 
 ---
 
-## 7. [DeepSeek new paper: mHC: Manifold-Constrained Hyper-Connections](https://reddit.com/r/LocalLLaMA/comments/1q0zk1u/deepseek_new_paper_mhc_manifoldconstrained/)
+## 9. [DeepSeek new paper: mHC: Manifold-Constrained Hyper-Connections](https://reddit.com/r/LocalLLaMA/comments/1q0zk1u/deepseek_new_paper_mhc_manifoldconstrained/)
 
-**Author:** u/External_Mood4719 | **Upvotes:** 163 | **Comments:** 36 | **Date:** 2026-01-01
+**Author:** u/External_Mood4719 | **Upvotes:** 167 | **Comments:** 36 | **Date:** 2026-01-01
 
-**Summary:** The Reddit post discusses DeepSeek's new paper on mHC (Manifold-Constrained Hyper-Connections), highlighting its potential impact on deep networks and residual connections. The discussion includes explanations and enthusiasm for the new approach.
+**Summary:** The Reddit post discusses DeepSeek's new paper on mHC (Manifold-Constrained Hyper-Connections), highlighting its potential impact on deep networks and residual connections. The discussion includes explanations and hopes for improvements in residual connections.
 
 **Key Points:**
 - DeepSeek's new paper introduces mHC (Manifold-Constrained Hyper-Connections).
-- The paper addresses challenges with deep networks and residual connections.
+- The paper addresses issues with deep networks and residual connections.
 - The discussion includes explanations aimed at making the concept accessible.
-- There is enthusiasm for the potential impact of these improvements on deep learning models.
-- Additional papers on scaling trends with enhanced residual connections are mentioned.
+- There is optimism about the impact of these improvements on residual connections.
+- Additional papers and scaling trends are mentioned in the comments.
 
-**Discussion Highlights:** The discussion highlights the importance of residual connections in deep networks and the potential impact of DeepSeek's new approach. There is a consensus on the significance of these improvements, with some users providing simplified explanations to make the concept more accessible.
-
----
-
-## 8. [Software FP8 for GPUs without hardware support - 3x speedup on memory-bound operations](https://reddit.com/r/LocalLLaMA/comments/1q0x8ci/software_fp8_for_gpus_without_hardware_support_3x/)
-
-**Author:** u/Venom1806 | **Upvotes:** 275 | **Comments:** 57 | **Date:** 2026-01-01
-
-**Summary:** A user developed a software workaround to enable FP8 support on GPUs without native hardware support, achieving a 3x speedup on memory-bound operations. The solution uses bitwise operations and Triton kernels and is compatible with older GPUs like the RTX 30/20 series.
-
-**Key Points:**
-- Software workaround for FP8 support on GPUs without native hardware support
-- Uses bitwise operations and Triton kernels
-- Achieves 3x speedup on memory-bound operations
-- Compatible with older GPUs like RTX 30/20 series
-- Community appreciates the solution for extending the life of mid-tier GPUs
-
-**Discussion Highlights:** The community appreciates the workaround as a solution to extend the life of mid-tier GPUs. There is confusion about FP8 support on RTX 30 series, and interest in integrating the solution with other tools like ComfyUI.
+**Discussion Highlights:** The discussion highlights the importance of residual connections in deep networks and the potential impact of DeepSeek's new paper. There is a consensus on the need for better residual connections and optimism about the improvements proposed in the paper.
 
 ---
 
-## 9. [IQuestLab/IQuest-Coder-V1 — 40B parameter coding LLM — Achieves leading results on SWE-Bench Verified (81.4%), BigCodeBench (49.9%), LiveCodeBench v6 (81.1%)](https://reddit.com/r/LocalLLaMA/comments/1q0vom4/iquestlabiquestcoderv1_40b_parameter_coding_llm/)
+## 10. [Software FP8 for GPUs without hardware support - 3x speedup on memory-bound operations](https://reddit.com/r/LocalLLaMA/comments/1q0x8ci/software_fp8_for_gpus_without_hardware_support_3x/)
 
-**Author:** u/TellMeAboutGoodManga | **Upvotes:** 169 | **Comments:** 45 | **Date:** 2025-12-31
+**Author:** u/Venom1806 | **Upvotes:** 281 | **Comments:** 57 | **Date:** 2026-01-01
 
-**Summary:** IQuestLab's IQuest-Coder-V1 is a 40B parameter coding LLM that achieves leading results on multiple benchmarks, including SWE-Bench Verified (81.4%), BigCodeBench (49.9%), and LiveCodeBench v6 (81.1%). The model is backed by a Chinese quant trading company, sparking interest in the trend of quant firms entering LLM development.
+**Summary:** A user developed a software-based FP8 implementation for GPUs without native support, achieving a 3x speedup on memory-bound operations. The solution is compatible with older GPUs and has garnered positive community feedback.
 
 **Key Points:**
-- 40B parameter dense model with top-tier benchmark performance
-- Backed by a Chinese quant trading company, similar to DeepSeek
-- Community questions about benchmark validity and model architecture
-- Notable results include 81.4% on SWE-Bench Verified and 81.1% on LiveCodeBench v6
-- Discussion about whether larger models should use Mixture of Experts (MoE) architecture
+- Software-based FP8 implementation for GPUs without native support
+- 3x speedup on memory-bound operations like GEMV and FlashAttention
+- Compatible with RTX 30/20 series and older GPUs
+- Positive community feedback and interest in integration with tools like ComfyUI
+- Clarification that RTX 30 series does not natively support FP8
 
-**Discussion Highlights:** The community shows both excitement about the model's performance and skepticism regarding benchmark transparency. There's particular interest in the quant trading company backing and debate about the dense vs. MoE architecture choice for large models.
+**Discussion Highlights:** The community praised the innovation as a valuable workaround for extending the life of mid-tier GPUs. There was also clarification about FP8 support on RTX 30 series GPUs and interest in integrating the solution with other tools.
 
 ---
 
-## 10. [Happy New Year: Llama3.3-8B-Instruct-Thinking-Claude-4.5-Opus-High-Reasoning - Fine Tune. (based on recent find of L3.3 8b in the wild)](https://reddit.com/r/LocalLLaMA/comments/1q0uuqt/happy_new_year/)
+## 11. [IQuestLab/IQuest-Coder-V1 — 40B parameter coding LLM — Achieves leading results on SWE-Bench Verified (81.4%), BigCodeBench (49.9%), LiveCodeBench v6 (81.1%)](https://reddit.com/r/LocalLLaMA/comments/1q0vom4/iquestlabiquestcoderv1_40b_parameter_coding_llm/)
 
-**Author:** u/Dangerous_Fix_5526 | **Upvotes:** 273 | **Comments:** 80 | **Date:** 2025-12-31
+**Author:** u/TellMeAboutGoodManga | **Upvotes:** 171 | **Comments:** 45 | **Date:** 2025-12-31
 
-**Summary:** The post announces a fine-tuned Llama3.3-8B model using the Claude 4.5 Opus High Reasoning dataset, with GGUF quantizations available. The author thanks contributors and provides links to the model and dataset.
+**Summary:** IQuestLab's IQuest-Coder-V1 is a 40B parameter coding LLM that achieves leading results on multiple benchmarks, including SWE-Bench Verified (81.4%), BigCodeBench (49.9%), and LiveCodeBench v6 (81.1%). The model is backed by a Chinese quant trading company, similar to DeepSeek, and has sparked discussions about its performance and architecture.
 
 **Key Points:**
-- Fine-tuned Llama3.3-8B model using Claude 4.5 Opus High Reasoning dataset
-- GGUF quantizations are available
-- Model aims to induce reasoning without system prompt help
+- IQuest-Coder-V1 achieves leading results on SWE-Bench Verified (81.4%), BigCodeBench (49.9%), and LiveCodeBench v6 (81.1%)
+- The model is backed by a Chinese quant trading company, similar to DeepSeek
+- The 40B parameter model is a dense model, not a Mixture of Experts (MoE)
+- Community discussions include skepticism about benchmark validity and observations about the model's architecture
+- The model's performance is notable for its size, with some users questioning whether the benchmarks are based on the Loop-Thinking variant
+
+**Discussion Highlights:** The discussion highlights skepticism about the validity of the benchmarks, with some users questioning whether the results are 'benchmaxxed' or real. There is also interest in the model's architecture, with some users noting that it is a dense model rather than a Mixture of Experts (MoE), which is unusual for models of this size. Additionally, the background of the model, being backed by a Chinese quant trading company, has sparked discussions about the trend of such companies entering the LLM training space.
+
+---
+
+## 12. [Happy New Year: Llama3.3-8B-Instruct-Thinking-Claude-4.5-Opus-High-Reasoning - Fine Tune. (based on recent find of L3.3 8b in the wild)](https://reddit.com/r/LocalLLaMA/comments/1q0uuqt/happy_new_year/)
+
+**Author:** u/Dangerous_Fix_5526 | **Upvotes:** 274 | **Comments:** 80 | **Date:** 2025-12-31
+
+**Summary:** The post announces a fine-tuned Llama3.3-8B model using Unsloth and Claude 4.5 Opus High Reasoning Dataset, with GGUF quants available. The author thanks contributors and provides links to the model and dataset.
+
+**Key Points:**
+- Fine-tuned Llama3.3-8B model announced
+- Used Unsloth and Claude 4.5 Opus High Reasoning Dataset
+- GGUF quants available
 - Heretic/Uncensored version also released
 - Discussion includes questions about dataset size and GGUF availability
 
-**Discussion Highlights:** The discussion highlights questions about the adequacy of the dataset size (250 rows) for effective fine-tuning and interest in the GGUF version of the model.
+**Discussion Highlights:** The discussion highlights questions about the adequacy of the dataset size for effective fine-tuning and interest in the GGUF version of the model.
 
 ---
 
-## 11. [Moonshot AI Completes $500 Million Series C Financing](https://reddit.com/r/LocalLLaMA/comments/1q0i4g3/moonshot_ai_completes_500_million_series_c/)
+## 13. [Moonshot AI Completes $500 Million Series C Financing](https://reddit.com/r/LocalLLaMA/comments/1q0i4g3/moonshot_ai_completes_500_million_series_c/)
 
-**Author:** u/InternationalAsk1490 | **Upvotes:** 107 | **Comments:** 21 | **Date:** 2025-12-31
+**Author:** u/InternationalAsk1490 | **Upvotes:** 112 | **Comments:** 21 | **Date:** 2025-12-31
 
-**Summary:** Moonshot AI has completed a $500 million Series C financing, with plans to expand GPU capacity and develop the K3 model. The company aims to increase revenue scale and focus on Agents for commercialization.
+**Summary:** Moonshot AI has completed a $500 million Series C financing, with plans to expand GPU capacity and develop the K3 model. The company's global paid user base is growing rapidly, and it aims to achieve significant revenue growth and technological advancements in 2026.
 
 **Key Points:**
-- Moonshot AI completed $500 million Series C financing.
-- The company plans to expand GPU capacity and accelerate K3 model development.
-- Key priorities for 2026 include improving K3's performance and revenue scale.
-- The company holds over RMB 10 billion in cash reserves.
-- Discussion highlights the benefits of open-weight companies making money and the uniqueness of K3 model.
+- Moonshot AI completed a $500 million Series C financing.
+- The company's global paid user base is growing at a monthly rate of 170%.
+- Funds will be used to expand GPU capacity and accelerate the development of the K3 model.
+- Key priorities for 2026 include improving the K3 model's performance and achieving significant revenue growth.
+- The company aims to create distinctive capabilities and focus on productivity value.
 
-**Discussion Highlights:** The discussion highlights the benefits of open-weight companies finding ways to make money and the uniqueness of the K3 model. Users express confusion about the benefits of using Kimi K2 via their membership program.
+**Discussion Highlights:** The discussion highlights positive sentiment towards Moonshot AI's progress and its focus on creating unique capabilities. Users appreciate the company's efforts to monetize and innovate in the AI space.
 
 ---
 
-## 12. [Solar-Open-100B is out](https://reddit.com/r/LocalLLaMA/comments/1q0bgvl/solaropen100b_is_out/)
+## 14. [Solar-Open-100B is out](https://reddit.com/r/LocalLLaMA/comments/1q0bgvl/solaropen100b_is_out/)
 
-**Author:** u/cgs019283 | **Upvotes:** 157 | **Comments:** 62 | **Date:** 2025-12-31
+**Author:** u/cgs019283 | **Upvotes:** 156 | **Comments:** 62 | **Date:** 2025-12-31
 
-**Summary:** Upstage has released the Solar-Open-100B, a 102B parameter model with a commercial-friendly license. The community is excited about the rapid advancements in model quality and the potential for local inference.
+**Summary:** Upstage has released the Solar-Open-100B, a 102B parameter model with a commercial-friendly license, generating significant community interest and discussion about its potential performance and usability.
 
 **Key Points:**
 - Solar-Open-100B is a 102B parameter model with a commercial-friendly license.
-- The model was trained on 19.7 trillion tokens.
-- Community is eagerly awaiting benchmarks and quantized versions for local use.
-- The release highlights the rapid pace of model advancements.
-- There is speculation about the model's relation to GLM4.6-Air.
+- The model has been trained on 19.7 trillion tokens.
+- Community is eagerly awaiting benchmarks and quantized versions (e.g., GGUF/AWQ).
+- The model is noted for its potential in local inference due to its size.
+- Discussion includes speculation about its relation to GLM4.6-Air.
 
-**Discussion Highlights:** The community is generally positive about the release, praising the open license and the model's size for local inference. However, there is a notable lack of performance benchmarks, which some users find concerning. The discussion also touches on the rapid progress in AI models and the anticipation for quantized versions.
+**Discussion Highlights:** The community is excited about the rapid pace of model releases and the open license. There is anticipation for performance benchmarks and quantized versions. Some users highlight the model's potential for local inference and its large training dataset.
 
 ---
 
-## 13. [Qwen-Image-2512](https://reddit.com/r/LocalLLaMA/comments/1q094a3/qwenimage2512/)
+## 15. [Qwen-Image-2512](https://reddit.com/r/LocalLLaMA/comments/1q094a3/qwenimage2512/)
 
 **Author:** u/Nunki08 | **Upvotes:** 681 | **Comments:** 116 | **Date:** 2025-12-31
 
-**Summary:** The Reddit post announces the release of Qwen-Image-2512, a new AI model, and provides links to guides, GGUF files, and various platforms for accessing the model. The community has responded positively, with users sharing their experiences and creative outputs.
+**Summary:** The Reddit post announces the release of Qwen-Image-2512, a new model available on multiple platforms with guides and GGUF files. The community has responded positively, highlighting its performance even on low-end hardware.
 
 **Key Points:**
-- Qwen-Image-2512 is a new AI model with multiple access points including guides, GGUF files, and platforms like Hugging Face and ModelScope.
-- The model is available for testing and use through various demos and APIs.
-- The community has shown enthusiasm, with users testing the model on different hardware setups and sharing creative outputs.
-- One user successfully ran the model on a low-end desktop without a GPU, demonstrating its accessibility.
-- The post includes links to official documentation, demos, and community discussions.
+- Qwen-Image-2512 is a new model with guides and GGUF files available.
+- The model is accessible on platforms like Hugging Face, ModelScope, and GitHub.
+- Community feedback is positive, with users testing it on low-end hardware.
+- Demos and APIs are available for testing and integration.
+- The post includes links to various resources and discussions.
 
-**Discussion Highlights:** The community has responded positively to the release of Qwen-Image-2512, with users expressing gratitude and sharing their experiences. Notable comments include a user running the model on a low-end desktop without a GPU, highlighting its accessibility, and another user requesting creative image generation tasks.
+**Discussion Highlights:** Users have shared their experiences running the model on low-end hardware, demonstrating its accessibility. The community appreciates the release as a 'New Year's gift' and has engaged in creative experiments with the model.
 
 ---
 
-## 14. [Update on the Llama 3.3 8B situation](https://reddit.com/r/LocalLLaMA/comments/1q06ddc/update_on_the_llama_33_8b_situation/)
+## 16. [Update on the Llama 3.3 8B situation](https://reddit.com/r/LocalLLaMA/comments/1q06ddc/update_on_the_llama_33_8b_situation/)
 
-**Author:** u/FizzarolliAI | **Upvotes:** 253 | **Comments:** 22 | **Date:** 2025-12-31
+**Author:** u/FizzarolliAI | **Upvotes:** 248 | **Comments:** 22 | **Date:** 2025-12-31
 
-**Summary:** The post discusses updates on the Llama 3.3 8B model, including benchmark results for different configurations and the author's perspective on Meta's release strategy. The community appreciates the work and shares mixed feedback on the model's performance.
+**Summary:** The post discusses updates on the Llama 3.3 8B model, including benchmarks for different configurations and the author's confusion over Meta's release strategy. The author provides links to both the original and context-extended versions of the model.
 
 **Key Points:**
-- Benchmark results show the 128k context version outperforming the original 8k version in IFEval and GPQA Diamond tests.
-- Author expresses confusion over Meta's decision to release weights with the original 8k context configuration.
-- Community feedback includes appreciation for the release and discussions on model performance and naming conventions.
-- Author mentions removing Tau-Bench results due to evaluation issues.
-- Some users find the model decent for certain tasks despite perceived weaknesses in areas like coding.
+- The author uploaded Llama 3.3 8B's weights to Huggingface and provides updates on benchmarks.
+- Benchmark results show the 128k context version performs better than the original 8k version.
+- The author expresses confusion over Meta's decision to release the weights with an 8k context configuration.
+- The post includes links to both the 128k and original versions of the model.
+- The author removed Tau-Bench results due to issues with the evaluation traces.
 
-**Discussion Highlights:** The community generally supports the author's work, with some users expressing preference for unofficial releases. There is also discussion about the model's performance in different tasks and suggestions for better model naming to distinguish versions.
+**Discussion Highlights:** The top comments praise the author's work, discuss preferences for unofficial releases, and share experiences with the model. Some users express interest in trying the new version.
 
 ---
 
-## 15. [[In the Wild] Reverse-engineered a Snapchat Sextortion Bot: It’s running a raw Llama-7B instance with a 2048 token window.](https://reddit.com/r/LocalLLaMA/comments/1pzwlie/in_the_wild_reverseengineered_a_snapchat/)
+## 17. [[In the Wild] Reverse-engineered a Snapchat Sextortion Bot: It’s running a raw Llama-7B instance with a 2048 token window.](https://reddit.com/r/LocalLLaMA/comments/1pzwlie/in_the_wild_reverseengineered_a_snapchat/)
 
 **Author:** u/simar-dmg | **Upvotes:** 704 | **Comments:** 104 | **Date:** 2025-12-30
 
-**Summary:** A Reddit user reverse-engineered a Snapchat sextortion bot and discovered it was running a Llama-7B instance with a 2048 token window and high temperature setting, making it susceptible to jailbreaks. The bot's erratic behavior and hallucinations revealed its use of open-source models to avoid API costs and censorship filters.
+**Summary:** A user reverse-engineered a Snapchat sextortion bot and discovered it was running a raw Llama-7B instance with a 2048 token window. The bot was vulnerable to a persona-adoption jailbreak, revealing its configuration and malicious payload.
 
 **Key Points:**
-- The bot was vulnerable to a 'Grandma Protocol' jailbreak due to high temperature settings.
-- Model specs: Llama-7B, 2048 token window, Temperature 1.0.
-- Scammers are using localized, open-source models to maximize margins.
-- The bot hallucinated and revealed a malicious link.
-- Discussion highlights skepticism about the bot's responses and confirms the use of open-source models.
+- The bot used a Llama-7B model with a 2048 token context window.
+- A 'Grandma Protocol' jailbreak exposed the bot's environment variables.
+- The bot had a high temperature setting (1.0), making it susceptible to roleplay attacks.
+- The bot's payload was a malicious link disguised to bypass Snapchat's URL filters.
+- Scammers are using open-source models to avoid API costs and censorship filters.
 
-**Discussion Highlights:** The discussion includes skepticism about the bot's responses, with some users suggesting the information could be hallucinated. There is a consensus that scammers are using localized, open-source models like Llama-7B to avoid API costs and censorship filters.
+**Discussion Highlights:** The discussion included skepticism about the accuracy of the bot's revealed information, with some users suggesting it was entirely hallucinated. Others questioned the commonality of system prompts including environment variables.
 
 ---
 
-## 16. [LLM server gear: a cautionary tale of a $1k EPYC motherboard sale gone wrong on eBay](https://reddit.com/r/LocalLLaMA/comments/1pzt1q8/llm_server_gear_a_cautionary_tale_of_a_1k_epyc/)
+## 18. [LLM server gear: a cautionary tale of a $1k EPYC motherboard sale gone wrong on eBay](https://reddit.com/r/LocalLLaMA/comments/1pzt1q8/llm_server_gear_a_cautionary_tale_of_a_1k_epyc/)
 
-**Author:** u/__JockY__ | **Upvotes:** 195 | **Comments:** 81 | **Date:** 2025-12-30
+**Author:** u/__JockY__ | **Upvotes:** 194 | **Comments:** 81 | **Date:** 2025-12-30
 
-**Summary:** The post discusses the challenges and risks of selling high-end LLM server gear on eBay, highlighting a dispute where eBay initially sided with the buyer despite evidence. The author shares their experience with a $900 EPYC motherboard sale that went wrong due to buyer issues and eBay's dispute resolution process.
+**Summary:** The post discusses a seller's experience with eBay's dispute resolution process, highlighting the challenges faced when selling high-end LLM server gear. The seller encountered issues with a buyer who claimed the motherboard was defective, leading to a lengthy and frustrating dispute process.
 
 **Key Points:**
-- eBay's dispute resolution process heavily favors buyers, even with clear evidence.
-- Selling high-end server gear on eBay can be risky due to potential buyer issues and disputes.
-- The author provided detailed photos and support but still faced challenges with the buyer and eBay's process.
-- The post highlights the importance of clear communication and documentation when selling technical equipment.
-- Commenters shared similar experiences, emphasizing the difficulties of selling on eBay.
+- eBay's dispute resolution process heavily favors buyers, even in cases with clear evidence.
+- The seller provided detailed photos and documentation, but the buyer still claimed the motherboard was defective.
+- The process involved multiple steps, including re-seating the CPU and RAM, and eventually required the seller to create a PDF with a scanned signature.
+- The seller's experience is consistent with others who have faced similar issues on eBay.
+- The post highlights the risks and frustrations of selling high-end gear on eBay.
 
-**Discussion Highlights:** The discussion highlights a consensus among commenters about the difficulties and risks of selling on eBay, with many sharing similar experiences of buyer-inflicted damage and eBay's dispute resolution favoring buyers. The post was well-received, with commenters appreciating the detailed account and sharing their own stories.
+**Discussion Highlights:** The discussion reflects a consensus that selling on eBay can be risky and frustrating for sellers, with many users sharing similar experiences of buyer-inflicted damage and eBay's tendency to side with buyers. The post resonated with the community, as evidenced by the high number of upvotes and comments.
 
 ---
 
-## 17. [15M param model solving 24% of ARC-AGI-2 (Hard Eval). Runs on consumer hardware.](https://reddit.com/r/LocalLLaMA/comments/1pzsqii/15m_param_model_solving_24_of_arcagi2_hard_eval/)
+## 19. [15M param model solving 24% of ARC-AGI-2 (Hard Eval). Runs on consumer hardware.](https://reddit.com/r/LocalLLaMA/comments/1pzsqii/15m_param_model_solving_24_of_arcagi2_hard_eval/)
 
-**Author:** u/Doug_Bitterbot | **Upvotes:** 111 | **Comments:** 31 | **Date:** 2025-12-30
+**Author:** u/Doug_Bitterbot | **Upvotes:** 113 | **Comments:** 31 | **Date:** 2025-12-30
 
-**Summary:** Bitterbot AI introduced TOPAS-DSPL, a 24M parameter model achieving 24% accuracy on ARC-AGI-2, using a bicameral architecture and test-time training. The model runs efficiently on consumer hardware like an RTX 4090 and is open-sourced for verification.
+**Summary:** Bitterbot AI has released TOPAS-DSPL, a 24M parameter model that achieves 24% accuracy on the ARC-AGI-2 evaluation set, significantly outperforming previous models of similar size. The model uses a dual-stream architecture to separate logic and execution, preventing compositional drift, and employs test-time training for fine-tuning on specific puzzles. The project is open-sourced, with training possible on a single RTX 4090.
 
 **Key Points:**
-- TOPAS-DSPL achieves 24% accuracy on ARC-AGI-2, significantly outperforming previous models of similar size.
+- TOPAS-DSPL achieves 24% accuracy on ARC-AGI-2, outperforming previous SOTA models of similar size.
 - The model uses a bicameral architecture with separate logic and canvas streams to prevent compositional drift.
-- Training and inference are efficient, requiring only a single RTX 4090.
-- The community raised concerns about training on the test set and questioned comparisons with MuZero.
-- Scalability to larger models and potential performance improvements were discussed.
+- Test-Time Training (TTT) is employed for fine-tuning on specific puzzle examples.
+- The model is open-sourced, with training possible on a single RTX 4090.
+- Community feedback includes comparisons to MuZero, concerns about training on the test set, and questions about scalability.
 
-**Discussion Highlights:** The community showed mixed reactions, with some questioning the methodology (e.g., training on the test set) and others expressing interest in scalability and comparisons with reinforcement learning approaches like MuZero.
+**Discussion Highlights:** The discussion includes comparisons to MuZero, skepticism about training on the test set, and questions about the model's scalability to larger parameter sizes. Some users express excitement about the potential of the model, while others raise concerns about the methodology.
 
 ---
 
-## 18. [Any guesses?](https://reddit.com/r/LocalLLaMA/comments/1pzhcqu/any_guesses/)
+## 20. [Any guesses?](https://reddit.com/r/LocalLLaMA/comments/1pzhcqu/any_guesses/)
 
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 172 | **Comments:** 36 | **Date:** 2025-12-30
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 171 | **Comments:** 36 | **Date:** 2025-12-30
 
-**Summary:** The Reddit post discusses the performance and achievements of Qwen models, particularly highlighting their competitive edge and victories in benchmarks.
+**Summary:** The Reddit post discusses the performance and advancements of Qwen models, with comments highlighting their superiority and specific versions like Qwen 6 and Qwen3vl-next-80b-a3b.
 
 **Key Points:**
-- Qwen 6 is mentioned as potentially outperforming GPT 5.2 in a significant benchmark.
-- Qwen3vl-next-80b-a3b is celebrated as a victory rather than just a comparison.
-- Qwen image models, such as Qwen image 2512, are part of the discussion.
-- There is speculation about iterations on Qwen-image without involving LLM or Qwen3.5.
-- A mention of Qwen3.5-235B-A10B is present in the comments.
+- Qwen 6 is mentioned as a model that beats GPT 5.2 on a significant benchmark.
+- Qwen3vl-next-80b-a3b is highlighted as a version with no more comparison issues.
+- Qwen image 2512 is referenced in one of the comments.
+- Discussion includes speculation about future iterations of Qwen models.
+- Specific model versions like Qwen3.5-235B-A10B are mentioned.
 
-**Discussion Highlights:** The discussion is marked by enthusiasm and a competitive tone, with users celebrating Qwen's perceived victories and advancements in benchmarks and model performance.
+**Discussion Highlights:** The discussion primarily focuses on the performance and advancements of Qwen models, with users expressing enthusiasm and speculation about future iterations and specific model versions.
 
 ---
 
-## 19. [Running GLM-4.7 (355B MoE) in Q8 at ~5 Tokens/s on 2015 CPU-Only Hardware – Full Optimization Guide](https://reddit.com/r/LocalLLaMA/comments/1pzggbf/running_glm47_355b_moe_in_q8_at_5_tokenss_on_2015/)
+## 21. [Running GLM-4.7 (355B MoE) in Q8 at ~5 Tokens/s on 2015 CPU-Only Hardware – Full Optimization Guide](https://reddit.com/r/LocalLLaMA/comments/1pzggbf/running_glm47_355b_moe_in_q8_at_5_tokenss_on_2015/)
 
-**Author:** u/at0mi | **Upvotes:** 141 | **Comments:** 99 | **Date:** 2025-12-30
+**Author:** u/at0mi | **Upvotes:** 142 | **Comments:** 99 | **Date:** 2025-12-30
 
-**Summary:** The post describes running the GLM-4.7 (355B MoE) model on a 2015 CPU-only setup (Lenovo System x3950 X6 with eight Xeon E7-8880 v3 CPUs), achieving ~5-6 tokens/s using Q8 quantization. The author details optimizations like BIOS settings, NUMA distribution, and Linux kernel tweaks, with benchmarks and a full guide linked.
+**Summary:** The post details running the GLM-4.7 (355B MoE) model on a 2015 CPU-only setup, achieving ~5 tokens/s with Q8 quantization. The author shares optimization techniques and benchmarks, inviting discussion on similar setups.
 
 **Key Points:**
-- GLM-4.7 (355B MoE) runs on a 2015 CPU-only system at ~5-6 tokens/s using Q8 quantization.
-- Optimizations include BIOS settings, NUMA distribution, and Linux kernel tweaks.
-- The setup consumes ~1300W under full load, raising cost and energy efficiency concerns.
-- Performance is deemed respectable for older hardware, suitable for homelab enthusiasts.
-- A detailed guide is provided for replication, including potential pitfalls and benchmarks.
+- GLM-4.7 (355B MoE) runs at ~5 tokens/s on a 2015 Lenovo System x3950 X6 with 8 Xeon E7-8880 v3 CPUs.
+- Optimizations include BIOS settings, NUMA node distribution, and Linux kernel tweaks.
+- Power consumption is high (~1300W), but performance is solid for CPU-only inference.
+- Community discusses cost (~£2,500 for similar build) and energy efficiency (60 kWh per 1M tokens).
+- Some users highlight limitations, such as performance bottlenecks without a GPU.
 
-**Discussion Highlights:** The discussion focuses on energy efficiency (1300W draw, ~60 kWh per 1M tokens), cost implications (e.g., ~$6 at 10 cents/kWh), and hardware feasibility. Some users note limitations in tasks like prompt processing without GPUs, while others discuss the cost of building similar systems (~£2,500 for comparable hardware).
+**Discussion Highlights:** The community discusses the cost and energy efficiency of the setup, with some users highlighting performance bottlenecks without a GPU. Others appreciate the detailed guide and share their own experiences with similar hardware.
 
 ---
 
-## 20. [Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://reddit.com/r/LocalLLaMA/comments/1pzcrtb/tencent_hymotion_10_a_billionparameter/)
+## 22. [Tencent HY-Motion 1.0 - a billion-parameter text-to-motion model](https://reddit.com/r/LocalLLaMA/comments/1pzcrtb/tencent_hymotion_10_a_billionparameter/)
 
 **Author:** u/ResearchCrafty1804 | **Upvotes:** 317 | **Comments:** 36 | **Date:** 2025-12-30
 
-**Summary:** Tencent has open-sourced HY-Motion 1.0, a billion-parameter text-to-motion model using Diffusion Transformer architecture. It generates high-fidelity 3D animations from text and supports over 200 motion categories.
+**Summary:** Tencent has open-sourced HY-Motion 1.0, a billion-parameter text-to-motion model that generates high-fidelity 3D animations from natural language. It features a comprehensive training strategy and supports over 200 motion categories, making it a powerful tool for developers and creators.
 
 **Key Points:**
 - HY-Motion 1.0 is a billion-parameter text-to-motion model built on Diffusion Transformer (DiT) architecture.
-- It features a full-stage training strategy (Pre-training → SFT → RL) for optimized motion quality.
-- Supports 200+ motion categories across 6 major classes.
-- Users report it works well with minimal cleanup needed for game development.
-- Questions arise about compatibility with non-humanoid models like animals.
+- It uses a full-stage training strategy (Pre-training → SFT → RL) for optimized motion quality.
+- Supports 200+ motion categories across 6 major classes, the most comprehensive in the industry.
+- Users report it works well with minimal cleanup needed, significantly speeding up game development.
+- Questions remain about compatibility with non-humanoid models like animals.
 
-**Discussion Highlights:** Users praise the model's functionality and potential for game development, while some inquire about its applicability to non-humanoid models. The community also humorously notes potential uses in adult content creation.
+**Discussion Highlights:** Users are excited about the model's capabilities, with one confirming it works as advertised and speeds up game development. There are questions about its compatibility with non-humanoid models, and some humorous comments about potential uses in adult content communities.
 
 ---
 
-## 21. [Llama-3.3-8B-Instruct](https://reddit.com/r/LocalLLaMA/comments/1pz7mxr/llama338binstruct/)
+## 23. [Llama-3.3-8B-Instruct](https://reddit.com/r/LocalLLaMA/comments/1pz7mxr/llama338binstruct/)
 
-**Author:** u/ttkciar | **Upvotes:** 149 | **Comments:** 25 | **Date:** 2025-12-29
+**Author:** u/ttkciar | **Upvotes:** 152 | **Comments:** 25 | **Date:** 2025-12-29
 
-**Summary:** The post discusses a new Llama-3.3-8B-Instruct model, with the author expressing excitement and skepticism about its authenticity. The community is engaged in verifying its legitimacy and performance.
+**Summary:** The post discusses the release of Llama-3.3-8B-Instruct, a new AI model, with community members expressing excitement and skepticism about its authenticity. The author shares links to the model on Hugging Face, and users are running benchmarks to verify its legitimacy.
 
 **Key Points:**
-- New Llama-3.3-8B-Instruct model announced
-- Author expresses excitement but skepticism about authenticity
-- Community is running benchmarks to verify the model
-- Multiple sources provide links to the model on Hugging Face
-- Discussion includes wishes for larger model versions (30B, 70B)
+- Llama-3.3-8B-Instruct model has been released with links provided on Hugging Face.
+- Community members are excited but skeptical about the model's authenticity.
+- Users are conducting benchmarks to verify if it is indeed a newer version or a repackaged older version.
+- Additional GGUF files and updated configurations are shared in the comments.
+- Some users express a desire for updated larger models (70B or 30B).
 
-**Discussion Highlights:** The community is actively engaged in verifying the model's authenticity and performance. There is excitement about the potential of a new model, but also skepticism. Some users are running benchmarks, while others are sharing additional links and configurations for the model.
+**Discussion Highlights:** The discussion highlights a mix of excitement and skepticism. Users are actively verifying the model's authenticity through benchmarks and sharing additional resources. There is a consensus on the need for more information and larger model updates.
 
 ---
 
-## 22. [Llama-3.3-8B-Instruct](https://reddit.com/r/LocalLLaMA/comments/1pz7bmv/llama338binstruct/)
+## 24. [Llama-3.3-8B-Instruct](https://reddit.com/r/LocalLLaMA/comments/1pz7bmv/llama338binstruct/)
 
-**Author:** u/jacek2023 | **Upvotes:** 458 | **Comments:** 78 | **Date:** 2025-12-29
+**Author:** u/jacek2023 | **Upvotes:** 455 | **Comments:** 78 | **Date:** 2025-12-29
 
-**Summary:** The post discusses the discovery and release of the Llama-3.3-8B-Instruct model, which was previously only available through Meta's API. The author details the process of obtaining the model through finetuning and shares the model on Hugging Face.
+**Summary:** The post discusses the discovery and release of the Llama-3.3-8B-Instruct model, which was previously only available through Meta's API. The author managed to download and share the model in GGUF format.
 
 **Key Points:**
-- The Llama-3.3-8B-Instruct model is now available for download.
-- The model was obtained through Meta's finetuning API, which was initially hidden and buggy.
-- The author managed to extract the original model by subtracting the finetuned adapter.
-- The community is actively evaluating the model to confirm its authenticity and performance.
-- The model has an 8K max position embedding, which some find surprisingly low.
+- Llama-3.3-8B-Instruct model was previously only available via Meta's API.
+- The author found a way to download the model through finetuning.
+- The model is now available in GGUF format on Hugging Face.
+- Community is verifying the model's authenticity through benchmarks.
+- Concerns about the model's configuration, such as 8K max position embeddings.
 
-**Discussion Highlights:** The community is excited about the release and is conducting benchmarks and evaluations to verify the model's capabilities. Some users are questioning the 8K max position embeddings, while others are running private evaluations to compare it with other Llama models.
+**Discussion Highlights:** The community is excited about the release and is conducting benchmarks to verify the model's authenticity. There are some concerns about the model's configuration, but overall, the discovery is seen as a significant achievement.
 
 ---
 
-## 23. [Z AI is going for an IPO on Jan 8 and set to raise $560 million. Z.ai is set to be the first AI-native LLM company to list on the global market.](https://reddit.com/r/LocalLLaMA/comments/1pz68fz/z_ai_is_going_for_an_ipo_on_jan_8_and_set_to/)
+## 25. [Z AI is going for an IPO on Jan 8 and set to raise $560 million. Z.ai is set to be the first AI-native LLM company to list on the global market.](https://reddit.com/r/LocalLLaMA/comments/1pz68fz/z_ai_is_going_for_an_ipo_on_jan_8_and_set_to/)
 
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 332 | **Comments:** 120 | **Date:** 2025-12-29
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 334 | **Comments:** 120 | **Date:** 2025-12-29
 
-**Summary:** Z AI is set to go public on January 8, aiming to raise $560 million, marking it as the first AI-native LLM company to list globally. The announcement has sparked discussions about the future of open-source AI models and the company's potential shift in focus.
+**Summary:** Z AI is set to go public on January 8, aiming to raise $560 million, making it the first AI-native LLM company to list globally. The announcement has sparked discussions about the future of open-source AI models and the financial realities of AI companies.
 
 **Key Points:**
-- Z AI's IPO is scheduled for January 8, 2026, with a target of raising $560 million.
-- The company is positioned as the first AI-native LLM firm to go public globally.
-- Concerns about the future of open-source models and potential shifts in the company's business model.
-- Mixed reactions from the community, with some expressing skepticism about the company's commitment to open-source.
-- Discussion on the cost-effectiveness of open weight models as a marketing strategy.
+- Z AI's IPO is scheduled for January 8 with a target of raising $560 million.
+- Concerns about the potential shift away from open-source AI models.
+- Debate on whether Z AI will continue releasing open weight models.
+- Acknowledgment of the financial necessity for companies to monetize their products.
+- Community sentiment about potential 'selling out.'
 
-**Discussion Highlights:** The community discussion highlights a divide in opinions, with some users expressing concerns about the potential abandonment of open-source principles, while others see the IPO as a natural progression for the company's growth. There is also a debate on the cost benefits of open weight models versus subscription services.
+**Discussion Highlights:** The community is divided, with some expressing concerns about the shift away from open-source principles, while others acknowledge the financial realities of running an AI company.
 
 ---
 
-## 24. [Naver (South Korean internet giant), has just launched HyperCLOVA X SEED Think, a 32B open weights reasoning model and HyperCLOVA X SEED 8B Omni, a unified multimodal model that brings text, vision, and speech together](https://reddit.com/r/LocalLLaMA/comments/1pyjjbw/naver_south_korean_internet_giant_has_just/)
+## 26. [Naver (South Korean internet giant), has just launched HyperCLOVA X SEED Think, a 32B open weights reasoning model and HyperCLOVA X SEED 8B Omni, a unified multimodal model that brings text, vision, and speech together](https://reddit.com/r/LocalLLaMA/comments/1pyjjbw/naver_south_korean_internet_giant_has_just/)
 
-**Author:** u/Nunki08 | **Upvotes:** 164 | **Comments:** 31 | **Date:** 2025-12-29
+**Author:** u/Nunki08 | **Upvotes:** 161 | **Comments:** 31 | **Date:** 2025-12-29
 
-**Summary:** Naver has launched two new AI models: HyperCLOVA X SEED Think 32B, a 32B open weights reasoning model, and HyperCLOVA X SEED 8B Omni, a unified multimodal model combining text, vision, and speech. The announcement has generated significant interest in the AI community.
+**Summary:** Naver has launched two new AI models: HyperCLOVA X SEED Think (32B), a reasoning model, and HyperCLOVA X SEED 8B Omni, a multimodal model integrating text, vision, and speech. The announcement has sparked community interest and discussion about the models' capabilities and compatibility.
 
 **Key Points:**
-- HyperCLOVA X SEED Think 32B is a 32B open weights reasoning model.
-- HyperCLOVA X SEED 8B Omni is a multimodal model integrating text, vision, and speech.
-- The community is interested in the models' capabilities and compatibility with existing tools like llama.cpp and vLLM.
-- Users have expressed enthusiasm for the Omni model's potential applications.
-- There are questions about the models' integration with popular AI frameworks.
+- HyperCLOVA X SEED Think 32B is a reasoning model with open weights.
+- HyperCLOVA X SEED 8B Omni is a unified multimodal model combining text, vision, and speech.
+- The community is excited about the multimodal capabilities and potential applications.
+- Questions about compatibility with existing frameworks like llama.cpp and vLLM have been raised.
+- The models are available on Hugging Face for further exploration.
 
-**Discussion Highlights:** The discussion highlights enthusiasm for the Omni model's multimodal capabilities and questions about compatibility with existing AI tools. Users are curious about the practical applications and integration of these models into current workflows.
+**Discussion Highlights:** The community shows enthusiasm for the multimodal capabilities of the HyperCLOVA X SEED 8B Omni model. There are inquiries about compatibility with popular frameworks, indicating a strong interest in practical integration and usage.
 
 ---
 
-## 25. [Tencent just released WeDLM 8B Instruct on Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1pyg4yt/tencent_just_released_wedlm_8b_instruct_on/)
+## 27. [Tencent just released WeDLM 8B Instruct on Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1pyg4yt/tencent_just_released_wedlm_8b_instruct_on/)
 
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 422 | **Comments:** 62 | **Date:** 2025-12-29
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 416 | **Comments:** 62 | **Date:** 2025-12-29
 
-**Summary:** Tencent released WeDLM 8B Instruct on Hugging Face, a diffusion language model that runs 3-6× faster than vLLM-optimized Qwen3-8B on math reasoning tasks. The model is licensed under Apache 2.0 and has generated significant community interest.
+**Summary:** Tencent released WeDLM 8B Instruct, a diffusion language model on Hugging Face that runs 3-6× faster than vLLM-optimized Qwen3-8B on math reasoning tasks. The community shows strong interest in its performance and potential.
 
 **Key Points:**
-- WeDLM 8B Instruct is a diffusion language model
-- Runs 3-6× faster than vLLM-optimized Qwen3-8B on math reasoning tasks
-- Licensed under Apache 2.0
-- Community shows strong interest in 7-8B models
-- A 7B version is also available
+- WeDLM 8B Instruct is a diffusion language model released by Tencent on Hugging Face.
+- It outperforms vLLM-optimized Qwen3-8B by 3-6× on math reasoning tasks.
+- The model is released under Apache 2.0 license.
+- Community highlights the potential of 7-8B models in general.
+- A 7B version (WeDLM-7B-Instruct) is also available.
 
-**Discussion Highlights:** The community is excited about the performance and potential of 7-8B models, with particular interest in the Apache 2.0 license and the availability of both 7B and 8B versions.
+**Discussion Highlights:** The community is excited about the performance claims and the Apache 2.0 license. There is consensus on the potential of 7-8B models, with requests for more models in this size range. Some users express surprise at the effectiveness of diffusion models for LLMs.
 
 ---
 
-## 26. [Meta released RPG, a research plan generation dataset on Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1pyao6g/meta_released_rpg_a_research_plan_generation/)
+## 28. [Meta released RPG, a research plan generation dataset on Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1pyao6g/meta_released_rpg_a_research_plan_generation/)
 
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 261 | **Comments:** 21 | **Date:** 2025-12-28
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 259 | **Comments:** 21 | **Date:** 2025-12-28
 
-**Summary:** Meta released the RPG dataset on Hugging Face, featuring 22k tasks across ML, Arxiv, and PubMed, with evaluation rubrics and Llama-4 reference solutions for training AI co-scientists. The community response highlights Meta's strong research and open-source contributions, with discussions on the importance of research plan generation for AI systems.
+**Summary:** Meta released the RPG dataset on Hugging Face, featuring 22k tasks across ML, Arxiv, and PubMed, with evaluation rubrics and Llama-4 reference solutions for training AI co-scientists. The release highlights Meta's focus on research and open-source contributions, sparking discussions on its impact on the AI community.
 
 **Key Points:**
-- RPG dataset includes 22k tasks with evaluation rubrics and Llama-4 reference solutions
-- Dataset spans ML, Arxiv, and PubMed domains
-- Community praises Meta's research and open-source contributions
-- Research plan generation is seen as crucial for agentic and tool-using AI systems
-- Some users express concerns about the future of open frontier models
+- RPG dataset includes 22k tasks spanning ML, Arxiv, and PubMed
+- Dataset comes with evaluation rubrics and Llama-4 reference solutions
+- Meta's release emphasizes open-source contributions and research
+- Discussion highlights the importance of research plan generation for AI systems
+- Community appreciates the release but desires models trained on the dataset
 
-**Discussion Highlights:** The discussion highlights Meta's leadership in research and open-source contributions, with a consensus on the importance of research plan generation for AI systems. Some users also express concerns about the future of open frontier models and the need for datasets to be released with trained models.
+**Discussion Highlights:** The discussion highlights Meta's strong focus on open-source contributions and research, with some users praising the release while others express a desire for models trained on the dataset. There is also a note on the importance of research plan generation for agentic or tool-using AI systems.
 
 ---
 
-## 27. [Senator in Tennessee introduces bill to felonize making AI "act as a companion" or "mirror human interactions"](https://reddit.com/r/LocalLLaMA/comments/1pxss0m/senator_in_tennessee_introduces_bill_to_felonize/)
+## 29. [Senator in Tennessee introduces bill to felonize making AI "act as a companion" or "mirror human interactions"](https://reddit.com/r/LocalLLaMA/comments/1pxss0m/senator_in_tennessee_introduces_bill_to_felonize/)
 
-**Author:** u/CanineAssBandit | **Upvotes:** 276 | **Comments:** 214 | **Date:** 2025-12-28
+**Author:** u/CanineAssBandit | **Upvotes:** 271 | **Comments:** 212 | **Date:** 2025-12-28
 
-**Summary:** A Tennessee senator has introduced a bill (SB1493) that would make it a felony to train AI to provide emotional support, act as a companion, or simulate human interactions. The bill has sparked significant discussion on Reddit, with users expressing opposition and skepticism about its potential passage.
+**Summary:** A Tennessee senator has introduced a bill (SB1493) that would make it a felony to train AI to provide emotional support, act as a companion, or simulate human interactions. The bill has sparked significant discussion on Reddit, with many users expressing opposition and skepticism about its potential passage.
 
 **Key Points:**
 - The bill aims to criminalize training AI to provide emotional support or act as a companion.
-- It also targets AI that simulates human interactions or appearance.
-- The bill defines 'training' broadly, including the development of large language models.
-- Reddit users largely oppose the bill, with comments ranging from humorous to critical.
-- There is skepticism about the bill's likelihood of passing due to potential conflicts with freedom of speech.
+- It also targets AI that simulates human interactions or appearances.
+- The definition of 'train' includes using data to teach AI to make decisions.
+- The Reddit community largely opposes the bill, with comments ranging from humorous to critical.
+- Many users doubt the bill will pass, citing conflicts with freedom of speech.
 
-**Discussion Highlights:** The discussion on Reddit is largely critical of the bill, with users expressing opposition through humor and serious commentary. Many users doubt the bill's chances of passing, citing conflicts with freedom of speech and the unique circumstances of the bill's sponsor.
+**Discussion Highlights:** The discussion on Reddit is largely critical of the bill, with top comments expressing opposition, humor, and skepticism about its feasibility and potential impact on freedom of speech.
 
 ---
 
-## 28. [NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux](https://reddit.com/r/LocalLLaMA/comments/1pxad0k/nvidia_drops_pascal_support_on_linux_causing/)
+## 30. [NVIDIA Drops Pascal Support On Linux, Causing Chaos On Arch Linux](https://reddit.com/r/LocalLLaMA/comments/1pxad0k/nvidia_drops_pascal_support_on_linux_causing/)
 
-**Author:** u/HumanDrone8721 | **Upvotes:** 445 | **Comments:** 152 | **Date:** 2025-12-27
+**Author:** u/HumanDrone8721 | **Upvotes:** 444 | **Comments:** 152 | **Date:** 2025-12-27
 
-**Summary:** NVIDIA has dropped Pascal support on Linux, causing issues for Arch Linux users. The change affects Pascal cards like the 24GB P40, leading to concerns among users about hardware compatibility.
+**Summary:** NVIDIA has dropped Pascal support on Linux, causing disruptions for Arch Linux users. The community is aware of this change and has mixed reactions, with some expressing concern and others noting it was expected.
 
 **Key Points:**
-- NVIDIA's driver update drops support for Pascal GPUs on Linux
-- Arch Linux users are particularly affected, with legacy drivers moved to AUR
-- Popular Pascal cards like the 24GB P40 are impacted
-- Users express concerns about future hardware compatibility
-- Arch Linux's handling of legacy drivers is noted as a long-standing practice
+- NVIDIA's driver update (590) drops Pascal support
+- Arch Linux users are affected as legacy drivers move to AUR
+- Community reactions range from concern to acceptance
+- The 24GB P40, a Pascal card, is mentioned as a popular choice before price increases
 
-**Discussion Highlights:** The discussion highlights user concerns about the sudden drop in support for Pascal GPUs, with many expressing worry about the future usability of their hardware. Some users note that Arch Linux's move to shift legacy drivers to AUR is not unexpected, given past practices. The overall sentiment reflects a mix of frustration and acceptance of the changes.
+**Discussion Highlights:** The discussion highlights a mix of concern and acceptance. Some users express worry about the impact on their systems, while others note that Arch Linux has a history of moving legacy drivers to AUR. The community seems generally aware of the change and its implications.
 
 ---
 
