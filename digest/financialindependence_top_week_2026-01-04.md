@@ -1,25 +1,42 @@
 # r/financialindependence Reading Digest
 
 **Period:** 2026-01-04 to 2026-01-04
-**Posts Summarized:** 1
-**Total Posts Analyzed:** 1
+**Posts Summarized:** 2
+**Total Posts Analyzed:** 2
 
 ---
 
-## 1. [Anyone planning to "hedge" for extreme and sustained economic downturn?](https://reddit.com/r/financialindependence/comments/1pyc5yw/anyone_planning_to_hedge_for_extreme_and/)
+## 1. [Handing in my resignation on Monday.](https://reddit.com/r/financialindependence/comments/1q2wqi1/handing_in_my_resignation_on_monday/)
 
-**Author:** u/jason_for_prez | **Upvotes:** 108 | **Comments:** 210 | **Date:** 2025-12-28
+**Author:** u/Yellow_Apple_1971 | **Upvotes:** 249 | **Comments:** 59 | **Date:** 2026-01-03
 
-**Summary:** The post discusses strategies for hedging against extreme and sustained economic downturns, focusing on long-term retirement planning and potential economic crises. The author expresses concerns about scenarios where traditional investments like stocks and bonds perform poorly over extended periods.
+**Summary:** The author, u/Yellow_Apple_1971, announces their resignation to achieve financial independence after years of saving and investing. They reflect on their journey, anxieties, and the emotional aspects of financial security.
 
 **Key Points:**
-- Author retired early and is concerned about long-term economic downturns affecting retirement.
-- Potential scenarios include government debt crises, dollar weakening, demographic trends, and climate change.
-- Traditional investments like stocks and bonds may perform poorly in such scenarios.
-- Discussion highlights include the difficulty of hedging against unprecedented events and the importance of social networks.
-- Some commenters suggest practical steps like buying a house or traveling more.
+- Author is resigning to achieve financial independence
+- Reflects on personal journey and anxieties around money
+- Discusses the emotional aspects of financial security
+- Community support and encouragement in comments
+- Suggestions for part-time work during transition
 
-**Discussion Highlights:** The discussion highlights the challenges of hedging against extreme economic events, with some commenters emphasizing the importance of social networks and practical steps like homeownership. There is a consensus that unprecedented events may not have realistic hedges, and some suggest that societal collapse scenarios are less likely than extreme economic crises.
+**Discussion Highlights:** The community overwhelmingly supports the author's decision, with comments expressing encouragement and shared experiences. Some suggest part-time work for a smoother transition.
+
+---
+
+## 2. [Anyone planning to "hedge" for extreme and sustained economic downturn?](https://reddit.com/r/financialindependence/comments/1pyc5yw/anyone_planning_to_hedge_for_extreme_and/)
+
+**Author:** u/jason_for_prez | **Upvotes:** 111 | **Comments:** 210 | **Date:** 2025-12-28
+
+**Summary:** The Reddit post discusses strategies for hedging against extreme and sustained economic downturns, particularly relevant for early retirees facing potential long-term economic challenges. The author expresses concerns about scenarios where traditional investments like stocks and bonds may perform poorly over extended periods.
+
+**Key Points:**
+- The author retired in their early 30s and is concerned about a 50+ year retirement period.
+- Potential economic scenarios include government debt crises, dollar weakening, demographic trends, climate change, and war.
+- Historical examples like Japan's economic downturn are cited to illustrate the risks.
+- Top comments suggest that extreme events may not have realistic hedges and emphasize the importance of social networks and practical measures like homeownership.
+- Some commenters believe that severe economic crises could render traditional financial strategies ineffective.
+
+**Discussion Highlights:** The discussion highlights a mix of skepticism about effective hedging strategies for extreme economic events and practical suggestions like relying on social networks and securing living situations. There is a consensus that traditional financial strategies may not suffice in unprecedented economic crises.
 
 ---
 
