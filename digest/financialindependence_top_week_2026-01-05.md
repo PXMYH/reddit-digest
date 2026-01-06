@@ -8,35 +8,26 @@
 
 ## 1. [FIRE Update: One Year Ago I Quit My Job With a 935K NW - Here's How It's Going](https://reddit.com/r/financialindependence/comments/1q3xyuv/fire_update_one_year_ago_i_quit_my_job_with_a/)
 
-**Author:** u/Hero_Ryan | **Upvotes:** 419 | **Comments:** 99 | **Date:** 2026-01-04
+**Author:** u/Hero_Ryan | **Upvotes:** 433 | **Comments:** 99 | **Date:** 2026-01-04
 
-**Summary:** The author quit their job at 32 with a $935K net worth and took a sabbatical, which included renovating a camper, traveling domestically, and embarking on a year-long international trip with their wife. Their net worth slightly declined due to a conservative investment strategy.
-
-**Key Points:**
-- Author quit job at 32 with $935K net worth
-- Net worth declined slightly to $931K due to conservative investments
-- Spent first 6 months renovating a camper and traveling domestically
-- Embarked on a year-long international trip starting July 2025
-- Leveraged credit card points for travel
-
-**Discussion Highlights:** The discussion highlights include praise for the author's achievements and lifestyle, curiosity about their investment strategy and credit card tips, and a consensus on the value of taking a sabbatical.
+**Summary:** The author quit their job at 32 with a $935K net worth and took a sabbatical, which included renovations, travel, and attending events. Their net worth slightly declined due to a conservative investment strategy. They embarked on international travel with their wife, visiting multiple countries. Key points include the author's financial independence, sabbatical activities, and discussion highlights such as credit card tips and investment strategy concerns.
 
 ---
 
 ## 2. [Handing in my resignation on Monday.](https://reddit.com/r/financialindependence/comments/1q2wqi1/handing_in_my_resignation_on_monday/)
 
-**Author:** u/Yellow_Apple_1971 | **Upvotes:** 281 | **Comments:** 99 | **Date:** 2026-01-03
+**Author:** u/Yellow_Apple_1971 | **Upvotes:** 285 | **Comments:** 99 | **Date:** 2026-01-03
 
-**Summary:** The author, u/Yellow_Apple_1971, is resigning from their job to achieve financial independence after years of saving and investing. They discuss their journey, anxieties, and the decision to leave their career despite not feeling entirely secure.
+**Summary:** The author, after years of financial planning and overcoming personal anxieties, has decided to resign from their job to embrace financial independence. The post details their journey from a challenging childhood to achieving financial security, and the comments are overwhelmingly supportive and celebratory.
 
 **Key Points:**
-- Author is resigning to achieve financial independence
-- Discusses personal journey and anxieties around money
-- Mentions the importance of therapy and self-understanding
-- Highlights the role of frugality and investing in their financial journey
-- Community support and encouragement in the comments
+- Author's decision to resign and embrace financial independence
+- Background of financial struggles and frugal upbringing
+- Emotional journey and therapy to overcome financial anxieties
+- Supportive and celebratory comments from the community
+- Suggestions for part-time work during transition
 
-**Discussion Highlights:** The community is overwhelmingly supportive, with many users congratulating the author and sharing similar experiences. Some users suggest part-time work for a smoother transition, and there is curiosity about healthcare arrangements.
+**Discussion Highlights:** The discussion is marked by strong support and encouragement for the author's decision. Many commenters share similar experiences and offer advice for a smooth transition, including suggestions for part-time work to ease into retirement.
 
 ---
 
