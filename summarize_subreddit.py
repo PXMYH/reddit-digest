@@ -279,9 +279,8 @@ def main(
             if date_mode:
                 output = digest_dir / f"{subreddit}_digest_{start}_to_{end}.md"
             else:
-                # Timeframe mode: use timeframe in filename
-                today = datetime.now().strftime("%Y-%m-%d")
-                output = digest_dir / f"{subreddit}_top_{timeframe}_{today}.md"
+                # Timeframe mode: simple filename without date (overwrites previous)
+                output = digest_dir / f"{subreddit}-{timeframe}.md"
         else:
             output = digest_dir / Path(output).name
 

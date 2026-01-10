@@ -14,33 +14,34 @@ from pathlib import Path
 
 def scan_digest_files(digest_dir="digest"):
     """
-    Scan digest directory and return dict of latest digest per subreddit.
+    Scan digest directory and return dict of ALL timeframe digests per subreddit.
 
     Returns:
-        dict: {subreddit: (filepath, end_date, timeframe)}
+        dict: {subreddit: {timeframe: filepath}}
+              e.g., {'formula1': {'week': 'path/to/formula1-week.md', 'month': 'path/to/formula1-month.md'}}
     """
-    digests = {}
+    digests = {}  # {subreddit: {timeframe: filepath}}
 
-    # Pattern 1: Date range digests (subreddit_digest_start_to_end.md)
-    pattern1 = os.path.join(digest_dir, "*_digest_*_to_*.md")
+    # Pattern 1: New simple format (subreddit-timeframe.md)
+    pattern1 = os.path.join(digest_dir, "*-*.md")
     for filepath in glob.glob(pattern1):
         filename = os.path.basename(filepath)
-        match = re.match(r'(.+?)_digest_\d{4}-\d{2}-\d{2}_to_(\d{4}-\d{2}-\d{2})\.md$', filename)
+        match = re.match(r'(.+?)-(week|month|year)\.md$', filename)
 
         if match:
             subreddit = match.group(1)
-            end_date_str = match.group(2)
-            end_date = datetime.strptime(end_date_str, '%Y-%m-%d')
+            timeframe = match.group(2)
 
-            # Keep latest digest per subreddit
-            if subreddit not in digests or end_date > digests[subreddit][1]:
-                digests[subreddit] = (filepath, end_date, None)  # None = date range mode
+            if subreddit not in digests:
+                digests[subreddit] = {}
 
-    # Pattern 2: Timeframe digests (subreddit_top_timeframe_date.md)
+            digests[subreddit][timeframe] = filepath
+
+    # Pattern 2: Legacy date-based timeframe digests (subreddit_top_timeframe_date.md)
     pattern2 = os.path.join(digest_dir, "*_top_*_*.md")
     for filepath in glob.glob(pattern2):
         filename = os.path.basename(filepath)
-        match = re.match(r'(.+?)_top_(hour|day|week|month|year|all)_(\d{4}-\d{2}-\d{2})\.md$', filename)
+        match = re.match(r'(.+?)_top_(week|month|year)_(\d{4}-\d{2}-\d{2})\.md$', filename)
 
         if match:
             subreddit = match.group(1)
@@ -48,11 +49,14 @@ def scan_digest_files(digest_dir="digest"):
             date_str = match.group(3)
             date = datetime.strptime(date_str, '%Y-%m-%d')
 
-            # Keep latest digest per subreddit (comparing with existing)
-            if subreddit not in digests or date > digests[subreddit][1]:
-                digests[subreddit] = (filepath, date, timeframe)
+            if subreddit not in digests:
+                digests[subreddit] = {}
 
-    return {sub: (info[0], info[2]) for sub, info in digests.items()}  # Return (filepath, timeframe)
+            # Only use legacy file if no new format exists for this subreddit/timeframe
+            if timeframe not in digests[subreddit]:
+                digests[subreddit][timeframe] = filepath
+
+    return digests
 
 
 def parse_markdown_content(filepath):
@@ -138,9 +142,20 @@ def parse_post_section(section):
 
 
 def generate_html(digest_data, digest_metadata):
-    """Generate complete HTML page with tabbed interface and timeframe filtering."""
+    """Generate complete HTML page with tabbed interface and timeframe filtering.
+
+    Args:
+        digest_data: dict of {tab_id: parsed_digest_data}
+        digest_metadata: dict of {tab_id: {'subreddit': str, 'timeframe': str}}
+    """
     now = datetime.now().strftime('%Y-%m-%d %H:%M UTC')
-    subreddits = sorted(digest_data.keys())
+
+    # Get unique subreddits and timeframes for organization
+    subreddits = sorted(set(meta['subreddit'] for meta in digest_metadata.values()))
+
+    # Define timeframe display order and labels
+    timeframe_order = ['week', 'month', 'year']
+    timeframe_labels = {'week': 'Weekly', 'month': 'Monthly', 'year': 'Yearly'}
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -162,33 +177,46 @@ def generate_html(digest_data, digest_metadata):
         <div class="filter-controls">
             <label for="timeframe-filter">Filter by timeframe:</label>
             <select id="timeframe-filter" onchange="filterByTimeframe()">
-                <option value="all">All</option>
-                <option value="week">Top - Week</option>
-                <option value="month">Top - Month</option>
-                <option value="year">Top - Year</option>
-                <option value="all-time">Top - All Time</option>
+                <option value="all">All Timeframes</option>
+                <option value="week">Weekly</option>
+                <option value="month">Monthly</option>
+                <option value="year">Yearly</option>
             </select>
         </div>
 
         <div class="tabs">
 """
 
-    # Generate tab buttons with data-timeframe attribute
-    for i, subreddit in enumerate(subreddits):
-        active_class = ' active' if i == 0 else ''
-        timeframe = digest_metadata.get(subreddit, None)
-        timeframe_attr = f' data-timeframe="{timeframe}"' if timeframe else ' data-timeframe="date-range"'
-        html += f'            <button class="tab-button{active_class}"{timeframe_attr} onclick="openTab(\'{subreddit}\')">{subreddit}</button>\n'
+    # Generate tab buttons organized by subreddit, sorted by timeframe
+    tab_ids = sorted(digest_data.keys(), key=lambda x: (
+        digest_metadata[x]['subreddit'],
+        timeframe_order.index(digest_metadata[x]['timeframe']) if digest_metadata[x]['timeframe'] in timeframe_order else 99
+    ))
+
+    first_tab = True
+    for tab_id in tab_ids:
+        meta = digest_metadata[tab_id]
+        subreddit = meta['subreddit']
+        timeframe = meta['timeframe']
+
+        active_class = ' active' if first_tab else ''
+        timeframe_label = timeframe_labels.get(timeframe, timeframe.title())
+        display_name = f"{subreddit} ({timeframe_label})"
+
+        html += f'            <button class="tab-button{active_class}" data-timeframe="{timeframe}" data-subreddit="{subreddit}" onclick="openTab(\'{tab_id}\')">{display_name}</button>\n'
+        first_tab = False
 
     html += '        </div>\n\n'
 
-    # Generate tab content for each subreddit
-    for i, subreddit in enumerate(subreddits):
-        data = digest_data[subreddit]
-        active_class = ' active' if i == 0 else ''
-        html += f'        <div id="{subreddit}" class="tab-content{active_class}">\n'
+    # Generate tab content for each digest
+    first_tab = True
+    for tab_id in tab_ids:
+        data = digest_data[tab_id]
+        active_class = ' active' if first_tab else ''
+        html += f'        <div id="{tab_id}" class="tab-content{active_class}">\n'
         html += generate_digest_html(data)
         html += '        </div>\n\n'
+        first_tab = False
 
     # Add scroll-to-top button (must be before script so getElementById can find it)
     html += '        <button id="scrollToTop" class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top">↑</button>\n\n'
@@ -210,14 +238,45 @@ def generate_html(digest_data, digest_metadata):
 
                 // Show selected tab and mark button as active
                 document.getElementById(tabName).classList.add('active');
-                event.currentTarget.classList.add('active');
+
+                // Find and activate the corresponding button
+                var clickedButton = document.querySelector('[onclick="openTab(\\'' + tabName + '\\')"]');
+                if (clickedButton) {
+                    clickedButton.classList.add('active');
+                }
             }
 
             function filterByTimeframe() {
-                // Show all tabs regardless of filter selection
+                var selectedTimeframe = document.getElementById('timeframe-filter').value;
                 var buttons = document.getElementsByClassName('tab-button');
+                var firstVisibleButton = null;
+
                 for (var i = 0; i < buttons.length; i++) {
-                    buttons[i].style.display = '';
+                    var buttonTimeframe = buttons[i].getAttribute('data-timeframe');
+
+                    if (selectedTimeframe === 'all' || buttonTimeframe === selectedTimeframe) {
+                        buttons[i].style.display = '';
+                        if (!firstVisibleButton) {
+                            firstVisibleButton = buttons[i];
+                        }
+                    } else {
+                        buttons[i].style.display = 'none';
+                        // If this hidden button was active, we need to switch
+                        if (buttons[i].classList.contains('active')) {
+                            buttons[i].classList.remove('active');
+                        }
+                    }
+                }
+
+                // Check if any active button is still visible
+                var activeButton = document.querySelector('.tab-button.active');
+                var needsNewActive = !activeButton || activeButton.style.display === 'none';
+
+                if (needsNewActive && firstVisibleButton) {
+                    // Click the first visible button to activate it
+                    var tabId = firstVisibleButton.getAttribute('onclick').match(/openTab\\('([^']+)'\\)/)[1];
+                    openTab(tabId);
+                    firstVisibleButton.classList.add('active');
                 }
             }
 
@@ -468,21 +527,29 @@ def generate_css():
 
 if __name__ == "__main__":
     print("🔍 Scanning digest files...")
-    latest_digests = scan_digest_files()
+    subreddit_digests = scan_digest_files()  # {subreddit: {timeframe: filepath}}
 
-    if not latest_digests:
+    if not subreddit_digests:
         print("❌ No digest files found in digest/ directory")
         exit(1)
 
-    print(f"✅ Found {len(latest_digests)} subreddits: {', '.join(sorted(latest_digests.keys()))}")
+    # Count total digests
+    total_digests = sum(len(timeframes) for timeframes in subreddit_digests.values())
+    print(f"✅ Found {total_digests} digests across {len(subreddit_digests)} subreddits")
+
+    for subreddit, timeframes in sorted(subreddit_digests.items()):
+        print(f"  - {subreddit}: {', '.join(sorted(timeframes.keys()))}")
 
     print("\n📖 Parsing digest content...")
-    digest_data = {}
-    digest_metadata = {}  # Track timeframe per subreddit
-    for subreddit, (filepath, timeframe) in sorted(latest_digests.items()):
-        print(f"  - Parsing {subreddit}...")
-        digest_data[subreddit] = parse_markdown_content(filepath)
-        digest_metadata[subreddit] = timeframe
+    digest_data = {}  # {tab_id: parsed_content}
+    digest_metadata = {}  # {tab_id: {'subreddit': str, 'timeframe': str}}
+
+    for subreddit, timeframes in sorted(subreddit_digests.items()):
+        for timeframe, filepath in sorted(timeframes.items()):
+            tab_id = f"{subreddit}-{timeframe}"
+            print(f"  - Parsing {tab_id}...")
+            digest_data[tab_id] = parse_markdown_content(filepath)
+            digest_metadata[tab_id] = {'subreddit': subreddit, 'timeframe': timeframe}
 
     print("\n🎨 Generating HTML...")
     html_content = generate_html(digest_data, digest_metadata)

@@ -2,6 +2,20 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Important: Always Use UV
+
+**ALWAYS use `uv` to run Python scripts in this project.** Never use `python` or `python3` directly.
+
+```bash
+# Correct
+uv run python generate_index.py
+uv run pytest
+
+# Incorrect - DO NOT use
+python generate_index.py
+python3 generate_index.py
+```
+
 ## Repository Overview
 
 This is a Reddit Subreddit Digest Generator that uses the ACE (Agentic Context Engineering) framework for self-improving AI summarization. The tool fetches posts from Reddit's public JSON API (no authentication required) and generates AI-powered reading digests using 100+ LLM models via OpenRouter or direct provider APIs.
