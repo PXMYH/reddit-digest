@@ -176,8 +176,7 @@ def generate_html(digest_data, digest_metadata):
         <div class="filter-controls">
             <label for="timeframe-filter">Filter by timeframe:</label>
             <select id="timeframe-filter" onchange="filterByTimeframe()">
-                <option value="all">All Timeframes</option>
-                <option value="week">Weekly</option>
+                <option value="week" selected>Weekly</option>
                 <option value="month">Monthly</option>
                 <option value="year">Yearly</option>
             </select>
@@ -251,7 +250,7 @@ def generate_html(digest_data, digest_metadata):
                 for (var i = 0; i < buttons.length; i++) {
                     var buttonTimeframe = buttons[i].getAttribute('data-timeframe');
 
-                    if (selectedTimeframe === 'all' || buttonTimeframe === selectedTimeframe) {
+                    if (buttonTimeframe === selectedTimeframe) {
                         buttons[i].style.display = '';
                         if (!firstVisibleButton) {
                             firstVisibleButton = buttons[i];
