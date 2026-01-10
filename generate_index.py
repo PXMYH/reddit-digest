@@ -153,9 +153,8 @@ def generate_html(digest_data, digest_metadata):
     # Get unique subreddits and timeframes for organization
     subreddits = sorted(set(meta['subreddit'] for meta in digest_metadata.values()))
 
-    # Define timeframe display order and labels
+    # Define timeframe display order
     timeframe_order = ['week', 'month', 'year']
-    timeframe_labels = {'week': 'Weekly', 'month': 'Monthly', 'year': 'Yearly'}
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -200,10 +199,8 @@ def generate_html(digest_data, digest_metadata):
         timeframe = meta['timeframe']
 
         active_class = ' active' if first_tab else ''
-        timeframe_label = timeframe_labels.get(timeframe, timeframe.title())
-        display_name = f"{subreddit} ({timeframe_label})"
 
-        html += f'            <button class="tab-button{active_class}" data-timeframe="{timeframe}" data-subreddit="{subreddit}" onclick="openTab(\'{tab_id}\')">{display_name}</button>\n'
+        html += f'            <button class="tab-button{active_class}" data-timeframe="{timeframe}" data-subreddit="{subreddit}" onclick="openTab(\'{tab_id}\')">{subreddit}</button>\n'
         first_tab = False
 
     html += '        </div>\n\n'
