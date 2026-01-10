@@ -1,25 +1,25 @@
 # r/financialindependence Reading Digest
 
-**Period:** 2026-01-03 to 2026-01-03
+**Period:** 2026-01-04 to 2026-01-04
 **Posts Summarized:** 1
 **Total Posts Analyzed:** 1
 
 ---
 
-## 1. [Anyone planning to "hedge" for extreme and sustained economic downturn?](https://reddit.com/r/financialindependence/comments/1pyc5yw/anyone_planning_to_hedge_for_extreme_and/)
+## 1. [Handing in my resignation on Monday.](https://reddit.com/r/financialindependence/comments/1q2wqi1/handing_in_my_resignation_on_monday/)
 
-**Author:** u/jason_for_prez | **Upvotes:** 113 | **Comments:** 210 | **Date:** 2025-12-28
+**Author:** u/Yellow_Apple_1971 | **Upvotes:** 273 | **Comments:** 96 | **Date:** 2026-01-03
 
-**Summary:** The post discusses strategies for hedging against extreme and sustained economic downturns, focusing on long-term retirement planning and potential economic crises. The author expresses concerns about scenarios where traditional investments like stocks and bonds perform poorly over extended periods.
+**Summary:** The author, u/Yellow_Apple_1971, is resigning from their job to achieve financial independence after years of saving and investing. They reflect on their journey, anxieties, and the emotional aspects of financial security.
 
 **Key Points:**
-- The author retired early and is concerned about a 50+ year retirement period.
-- Potential economic downturns could be caused by government debt, a weakening dollar, demographic trends, or climate change.
-- The post highlights the risk of both stocks and bonds performing poorly in such scenarios.
-- Comments suggest that hedging may not be realistic in unprecedented events and emphasize the importance of social networks and practical measures like homeownership.
-- The discussion includes examples like Japan's economic stagnation to illustrate the risks.
+- Author is resigning to achieve financial independence
+- Reflects on childhood experiences and financial anxieties
+- Discusses the emotional journey towards financial security
+- Community support and encouragement in comments
+- Suggestions for part-time work during transition
 
-**Discussion Highlights:** The discussion highlights a mix of skepticism about effective hedging strategies and practical suggestions like relying on social networks, owning a home, and traveling more. There is a consensus that extreme economic crises could significantly impact retirement plans, but opinions vary on the best ways to mitigate these risks.
+**Discussion Highlights:** The community is overwhelmingly supportive, with comments encouraging the author to enjoy their retirement and freedom. Some users share similar experiences and offer advice on handling the transition, including part-time work.
 
 ---
 
