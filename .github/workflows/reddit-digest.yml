@@ -6,7 +6,7 @@ on:
     - cron: '0 */4 * * *'
   workflow_dispatch: # Allow manual triggers
   workflow_run:
-    workflows: ["Build and Release Reddit Digest"]
+    workflows: ["Build and Release Reddit Digest CLI"]
     types:
       - completed
     branches:

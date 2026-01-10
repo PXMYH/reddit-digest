@@ -1,4 +1,4 @@
-name: Build and Release Reddit Digest
+name: Build and Release Reddit Digest CLI
 
 on:
   push:
