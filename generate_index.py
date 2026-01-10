@@ -190,6 +190,9 @@ def generate_html(digest_data, digest_metadata):
         html += generate_digest_html(data)
         html += '        </div>\n\n'
 
+    # Add scroll-to-top button (must be before script so getElementById can find it)
+    html += '        <button id="scrollToTop" class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top">↑</button>\n\n'
+
     # Add JavaScript for tabs and filtering
     html += """        <script>
             function openTab(tabName) {
@@ -216,6 +219,23 @@ def generate_html(digest_data, digest_metadata):
                 for (var i = 0; i < buttons.length; i++) {
                     buttons[i].style.display = '';
                 }
+            }
+
+            // Scroll to top functionality
+            var scrollToTopBtn = document.getElementById('scrollToTop');
+            window.addEventListener('scroll', function() {
+                if (window.scrollY > 300) {
+                    scrollToTopBtn.classList.add('visible');
+                } else {
+                    scrollToTopBtn.classList.remove('visible');
+                }
+            });
+
+            function scrollToTop() {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
             }
         </script>
     </div>
@@ -407,6 +427,36 @@ def generate_css():
             border-left: 3px solid #0079D3;
         }
         .discussion h4 { color: #0079D3; margin-bottom: 8px; font-size: 1em; }
+        .scroll-to-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 50px;
+            height: 50px;
+            background: #FF4500;
+            color: white;
+            border: none;
+            border-radius: 50%;
+            font-size: 24px;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(255, 69, 0, 0.4);
+            transition: all 0.3s ease;
+            opacity: 0;
+            visibility: hidden;
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .scroll-to-top:hover {
+            background: #E03D00;
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(255, 69, 0, 0.5);
+        }
+        .scroll-to-top.visible {
+            opacity: 1;
+            visibility: visible;
+        }
         @media (max-width: 768px) {
             h1 { font-size: 1.8em; }
             .tab-button { padding: 10px 16px; font-size: 0.9em; }
