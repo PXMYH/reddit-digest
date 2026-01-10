@@ -1,4 +1,4 @@
-name: Reddit Digest Generator
+name: Generate Reddit Digest
 
 on:
   schedule:
