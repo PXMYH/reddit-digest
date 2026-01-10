@@ -1,790 +1,804 @@
 # r/formula1 Reading Digest
 
-**Period:** 2025-12-30 to 2025-12-30
+**Period:** 2025-12-31 to 2025-12-31
 **Posts Summarized:** 50
 **Total Posts Analyzed:** 50
 
 ---
 
-## 1. [[F1StatsGuru] Only SIX drivers have a 100% record of featuring in the team principals' Top-10 rankings (minimum two seasons)](https://reddit.com/r/formula1/comments/1pzq1e1/f1statsguru_only_six_drivers_have_a_100_record_of/)
+## 1. [[F1] From 21 drivers, thousands of behind-the-scenes staff, and from us… thank you](https://reddit.com/r/formula1/comments/1q0kwxx/f1_from_21_drivers_thousands_of_behindthescenes/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 2297 | **Comments:** 240 | **Date:** 2025-12-30
+**Author:** u/xxrew1ndxx | **Upvotes:** 1650 | **Comments:** 40 | **Date:** 2025-12-31
 
-**Summary:** The Reddit post highlights that only six drivers have a 100% record of featuring in team principals' Top-10 rankings over multiple seasons. The discussion focuses on notable drivers like Hamilton and Max Verstappen, with comments emphasizing their consistent high rankings. Key points include: Only six drivers have a 100% record in team principals' Top-10 rankings (minimum two seasons). Lewis Hamilton's recent drop in rankings is noted. Max Verstappen has been ranked in the top 2 every season except his debut year. Max Verstappen was ranked 4th in his rookie season and has been top 2 ever since. Comments highlight the impressiveness of Max Verstappen's consistent high rankings. The discussion highlights the impressive consistency of Max Verstappen's rankings, with comments noting his top 2 finishes in every season except his debut. There is also mention of Lewis Hamilton's recent drop in rankings, adding context to the overall discussion about driver performance and recognition.
+**Summary:** The Reddit post expresses gratitude towards the F1 community, including drivers and behind-the-scenes staff, highlighting their contributions and acknowledging Jack Doohan. The discussion reflects appreciation for the pit crews and excitement for the 2026 season.
+
+**Key Points:**
+- Gratitude towards F1 drivers and staff
+- Acknowledgment of Jack Doohan
+- Appreciation for pit crews
+- Anticipation for the 2026 season and new regulations
+
+**Discussion Highlights:** The discussion highlights the appreciation for the unseen heroes like pit crews and the excitement for the upcoming 2026 season with new regulations.
 
 ---
 
-## 2. [[autosport] The only two drivers in F1 history to stand on the podium with McLaren, Ferrari and Williams](https://reddit.com/r/formula1/comments/1pzgkbm/autosport_the_only_two_drivers_in_f1_history_to/)
+## 2. [Was looking around Walmarts today and found it!](https://reddit.com/r/formula1/comments/1q0h5j7/was_looking_around_walmarts_today_and_found_it/)
 
-**Author:** u/PrimeyXE | **Upvotes:** 4020 | **Comments:** 89 | **Date:** 2025-12-30
+**Author:** u/t4ldro | **Upvotes:** 1507 | **Comments:** 88 | **Date:** 2025-12-31
 
-**Summary:** The post highlights that only two drivers in F1 history have achieved podium finishes with McLaren, Ferrari, and Williams, a rare and prestigious accomplishment. The discussion emphasizes the significance of this achievement and compares it to other notable F1 milestones.
+**Summary:** A Reddit user found a Formula 1-themed Lego set at Walmart, sparking excitement and discussion among fans. The post features a link to the product, and comments highlight enthusiasm for the set, comparisons to other Lego sets, and requests for more detailed driver mini-figures.
+
+**Key Points:**
+- User discovered a Formula 1 Lego set at Walmart
+- Post received significant engagement with 1507 upvotes and 88 comments
+- Comments express excitement and interest in the Lego set
+- Some users compare it to other Lego sets or express desire for more detailed mini-figures
+- One user mentions collecting the entire grid of Formula 1 Lego sets
+
+**Discussion Highlights:** The discussion is largely positive, with users expressing excitement about the Lego set. Some comments humorously reference other Lego sets or express a desire for more detailed mini-figures of real drivers. There is also a mention of collecting the entire grid of Formula 1 Lego sets, indicating a strong fan interest in such merchandise.
+
+---
+
+## 3. [[Lando Norris] 2025. Best one yet](https://reddit.com/r/formula1/comments/1q0elgz/lando_norris_2025_best_one_yet/)
+
+**Author:** u/xxrew1ndxx | **Upvotes:** 1875 | **Comments:** 211 | **Date:** 2025-12-31
+
+**Summary:** The Reddit post celebrates Lando Norris's 2025 Formula 1 season, highlighting his emotional response and happiness after winning the World Drivers' Championship (WDC). The discussion focuses on his personal growth and performance throughout the season.
+
+**Key Points:**
+- Lando Norris appears happier and more content compared to previous years.
+- His emotional response to winning the WDC was well-received by fans.
+- Notable performances in races like Monaco, Mexico, Australia, and Brazil were praised.
+- Fans appreciated his humility and how he handled himself post-victory.
+- The post includes a lighthearted moment of Norris posing with a Monster energy drink flavor in a supermarket.
+
+**Discussion Highlights:** The consensus among commenters is overwhelmingly positive, with fans expressing admiration for Norris's emotional journey, his performance in key races, and his overall demeanor as a champion. Many highlighted how his victory seemed deeply personal and meaningful.
+
+---
+
+## 4. [Cadillac will have the third-most experienced driver lineup when it arrives on the F1 grid for 2026 [planetf1com]](https://reddit.com/r/formula1/comments/1q07eqi/cadillac_will_have_the_thirdmost_experienced/)
+
+**Author:** u/Holytrishaw | **Upvotes:** 4975 | **Comments:** 195 | **Date:** 2025-12-31
+
+**Summary:** Cadillac's 2026 F1 driver lineup is noted for being the third-most experienced on the grid, sparking discussions about experience metrics and team dynamics.
+
+**Key Points:**
+- Cadillac's 2026 F1 lineup is the third-most experienced.
+- Discussion on whether experience should be measured by race wins.
+- Aston Martin's lineup is highlighted as highly experienced.
+- Suggestions to pair Hamilton and Alonso for an unprecedented experience level.
+
+**Discussion Highlights:** The discussion highlights differing opinions on how to measure driver experience, with some advocating for race wins as a metric. There is also humor and critique about Aston Martin's performance despite their experienced lineup, and speculative excitement about potential ultra-experienced driver pairings.
+
+---
+
+## 5. [Charles Leclerc posted on X](https://reddit.com/r/formula1/comments/1pzs5tf/charles_leclerc_posted_on_x/)
+
+**Author:** u/Un_known70 | **Upvotes:** 2172 | **Comments:** 82 | **Date:** 2025-12-30
+
+**Summary:** The Reddit post discusses Charles Leclerc's recent misfortunes, including a boat DNF and mechanical issues, as humorously highlighted by the community. The comments also reference a cancelled Antarctica trip and compare his tweets to plot twists for Ferrari.
+
+**Key Points:**
+- Charles Leclerc posted on X
+- Discussion about his recent misfortunes (boat DNF, mechanical issues)
+- Humorous reference to a cancelled Antarctica trip
+- Comparison of his tweets to Ferrari plot twists
+
+**Discussion Highlights:** The community humorously discusses Charles Leclerc's recent string of bad luck, including mechanical issues and a cancelled trip, while also noting the unpredictability of his tweets for Ferrari.
+
+---
+
+## 6. [[F1StatsGuru] Only SIX drivers have a 100% record of featuring in the team principals' Top-10 rankings (minimum two seasons)](https://reddit.com/r/formula1/comments/1pzq1e1/f1statsguru_only_six_drivers_have_a_100_record_of/)
+
+**Author:** u/FewCollar227 | **Upvotes:** 3651 | **Comments:** 326 | **Date:** 2025-12-30
+
+**Summary:** The Reddit post highlights that only six drivers have a 100% record of featuring in team principals' Top-10 rankings over at least two seasons. The discussion focuses on notable drivers like Hamilton and Max Verstappen, with comments emphasizing their consistent high rankings and achievements. Key points include: Only six drivers have a 100% record in team principals' Top-10 rankings (minimum two seasons). Lewis Hamilton has dropped out of the rankings this year, as noted in the comments. Max Verstappen has been ranked either 1st or 2nd in every season except his debut year in 2015. Verstappen was ranked 4th in his rookie season and has been in the top 2 ever since. The post and comments highlight the rarity and impressiveness of these consistent rankings. The discussion revolves around the impressive consistency of drivers like Max Verstappen, who has been ranked in the top 2 every season except his debut year. Comments also note Hamilton's recent drop from the rankings and the overall rarity of maintaining a 100% record in the Top-10 rankings.
+
+---
+
+## 7. [[georgerussell63] 2025 camera roll](https://reddit.com/r/formula1/comments/1pzngv4/georgerussell63_2025_camera_roll/)
+
+**Author:** u/General_Agency9905 | **Upvotes:** 1333 | **Comments:** 56 | **Date:** 2025-12-30
+
+**Summary:** The Reddit post features a camera roll from George Russell for 2025, showcasing various moments and interactions. The comments highlight humorous and notable observations, such as Oscar Piastri's presence in a photo and Fernando Alonso wearing a mask. There is also appreciation for Russell's fashion sense and hopes for his future success in Formula 1.
+
+**Key Points:**
+- Oscar Piastri's humorous presence in a photo
+- Fernando Alonso's notable appearance in a mask
+- Appreciation for George Russell's fashion sense
+- Hopes for Russell's future success in Formula 1
+- Mention of a humorous video involving Carlos Sainz and Lando Norris
+
+**Discussion Highlights:** The discussion is light-hearted and appreciative, with a focus on humorous moments and hopes for Russell's future success. The comments also highlight notable interactions and fashion choices.
+
+---
+
+## 8. [[Racingnews365] The FIA has confirmed a major increase in the financial threshold for protests, appeals and reviews in F1, raising the key deposit from €2,000 to €20,000 as part of the 2026 F1 Regulations.](https://reddit.com/r/formula1/comments/1pzk20q/racingnews365_the_fia_has_confirmed_a_major/)
+
+**Author:** u/Maximum-Room-3999 | **Upvotes:** 1506 | **Comments:** 159 | **Date:** 2025-12-30
+
+**Summary:** The FIA has significantly increased the financial threshold for protests, appeals, and reviews in F1, raising the deposit from €2,000 to €20,000 as part of the 2026 regulations. This change has sparked discussions among fans, with many criticizing the decision and questioning the FIA's priorities.
+
+**Key Points:**
+- FIA raises protest/appeal deposit from €2,000 to €20,000 for 2026
+- Criticism over lack of professional paid stewards
+- Suggestions that the increase is to offset financial losses or controversial rulings
+- Comparisons to cost of living crisis
+- Jokes about funding going to MBS (Mohammed bin Salman)
+
+**Discussion Highlights:** The discussion highlights a general consensus of criticism towards the FIA's decision, with users questioning the motives behind the increase and expressing dissatisfaction with the lack of professional stewards. Some comments suggest the increase is a way to offset financial losses or controversial rulings, while others joke about the funds being directed elsewhere.
+
+---
+
+## 9. [[autosport] The only two drivers in F1 history to stand on the podium with McLaren, Ferrari and Williams](https://reddit.com/r/formula1/comments/1pzgkbm/autosport_the_only_two_drivers_in_f1_history_to/)
+
+**Author:** u/PrimeyXE | **Upvotes:** 5342 | **Comments:** 105 | **Date:** 2025-12-30
+
+**Summary:** The post highlights that only two drivers in F1 history have achieved podium finishes with McLaren, Ferrari, and Williams, a rare and prestigious accomplishment. The discussion emphasizes the significance of this achievement and compares it to other milestones in the sport.
 
 **Key Points:**
 - Only two drivers have stood on the podium with McLaren, Ferrari, and Williams.
-- This achievement is compared to collecting the 'Infinity Stones of F1 history'.
-- Only three drivers have driven for all three teams, making the podium achievement even rarer.
-- The post references Alain Prost and Carlos Sainz Jr. as the drivers who accomplished this feat.
+- This achievement is likened to collecting the 'Infinity Stones' of F1 history.
+- Only three drivers have driven for all three teams, making the podium achievement even more rare.
+- The post references Alain Prost and Carlos Sainz Jr. as the two drivers.
 - The discussion highlights the prestige of these three heritage teams.
 
-**Discussion Highlights:** The discussion consensus revolves around the rarity and prestige of achieving podium finishes with all three heritage teams (McLaren, Ferrari, and Williams). Users compare this accomplishment to other significant F1 milestones and express admiration for the drivers who have achieved it.
+**Discussion Highlights:** The discussion consensus revolves around the rarity and prestige of achieving podium finishes with all three heritage teams (McLaren, Ferrari, and Williams). Users compare it to significant milestones and express admiration for the drivers who have accomplished this feat.
 
 ---
 
-## 3. [Fastest pitstop of the season vs slowest pitstop of the season [The Race]](https://reddit.com/r/formula1/comments/1pzfbvq/fastest_pitstop_of_the_season_vs_slowest_pitstop/)
+## 10. [[The Race] The F1 drivers and team bosses have spoke, here their rankings for the 2025 season](https://reddit.com/r/formula1/comments/1pzgabg/the_race_the_f1_drivers_and_team_bosses_have/)
 
-**Author:** u/PrimeyXE | **Upvotes:** 1475 | **Comments:** 78 | **Date:** 2025-12-30
+**Author:** u/xxrew1ndxx | **Upvotes:** 1469 | **Comments:** 380 | **Date:** 2025-12-30
 
-**Summary:** The Reddit post discusses the fastest and slowest pit stops of the 2025 Formula 1 season, highlighting McLaren's inconsistency and notable incidents like Bearman's loose wheel at Imola.
+**Summary:** The Reddit post discusses the rankings of F1 drivers and team bosses for the 2025 season, as shared by the drivers and team bosses themselves. The post includes a link to the source and has garnered significant engagement with 1469 upvotes and 380 comments.
 
 **Key Points:**
-- McLaren had a mix of quick and slow pit stops throughout the season
-- A humorous comment described a slow pit stop as a 'coffee break'
-- Bearman experienced a loose wheel at Imola, leading to an extended pit stop
-- Reference to Mercedes' past pit stop issues
+- The drivers' rankings align well with fan opinions.
+- Albon humorously comments on his team bosses' ranking.
+- Lewis Hamilton's ranking is a notable point of discussion.
+- Drivers are considered to have better insights than others.
 
-**Discussion Highlights:** The discussion highlights McLaren's pit stop inconsistencies and includes humorous remarks about slow pit stops, with a notable incident involving Bearman's loose wheel.
+**Discussion Highlights:** The discussion highlights a general consensus that the drivers' rankings resonate with the fan base. There is also a light-hearted moment with Albon's comment about his ranking, and a notable mention of Lewis Hamilton's ranking. Overall, the community values the drivers' perspectives.
 
 ---
 
-## 4. [[The RACE] You have a 12-hour flight, which seat are you choosing?](https://reddit.com/r/formula1/comments/1pzf0ia/the_race_you_have_a_12hour_flight_which_seat_are/)
+## 11. [Fastest pitstop of the season vs slowest pitstop of the season [The Race]](https://reddit.com/r/formula1/comments/1pzfbvq/fastest_pitstop_of_the_season_vs_slowest_pitstop/)
 
-**Author:** u/Luffy710j | **Upvotes:** 1730 | **Comments:** 1072 | **Date:** 2025-12-30
+**Author:** u/PrimeyXE | **Upvotes:** 1940 | **Comments:** 82 | **Date:** 2025-12-30
 
-**Summary:** The Reddit post discusses the preferred seating choices for a 12-hour flight among Formula 1 drivers, with users sharing their opinions on which drivers they would like to sit next to.
+**Summary:** The Reddit post discusses the fastest and slowest pit stops of the 2025 Formula 1 season, highlighting McLaren's inconsistency and notable incidents like a slow pit stop and a loose wheel issue.
 
 **Key Points:**
-- Lewis Hamilton is described as chill and easy-going, making him a popular choice.
-- Fernando Alonso is also a favored option, especially for older fans.
-- George Russell and Alex Albon's banter, as well as George Russell and Max Verstappen's interactions, are highlighted as entertaining.
-- Some users prefer sitting next to rookies or in non-middle seats.
+- McLaren had inconsistent pit stops throughout the season
+- A notably slow pit stop was described as a 'coffee break'
+- Bearman experienced a loose wheel issue at Imola, leading to an additional pit stop
+- Haas performed checks and replaced tires after the loose wheel incident
+- A humorous reference was made to Mercedes' past pit stop issues
 
-**Discussion Highlights:** The discussion highlights a preference for sitting next to experienced and easy-going drivers like Lewis Hamilton and Fernando Alonso. There is also a notable interest in the dynamic interactions between certain drivers, such as George Russell and Max Verstappen. Overall, the consensus leans towards choosing seats that promise engaging conversations and a pleasant flight experience.
-
----
-
-## 5. [F1 drivers chose their Top 10 drivers of 2025](https://reddit.com/r/formula1/comments/1pzeic6/f1_drivers_chose_their_top_10_drivers_of_2025/)
-
-**Author:** u/Schlapfel9 | **Upvotes:** 2681 | **Comments:** 283 | **Date:** 2025-12-30
-
-**Summary:** The Reddit post discusses F1 drivers' Top 10 drivers of 2025, highlighting their ratings and comparing them with Team Principals' rankings. The comments emphasize the drivers' high regard for Albon and the interesting comparison between Bearman and Hadjar. The discussion highlights the drivers' perspectives on their peers, with a general consensus that the drivers' ratings are more reliable and less biased than those of the Team Principals.
+**Discussion Highlights:** The discussion primarily focused on McLaren's pit stop inconsistencies, with users sharing memorable incidents and humorous comments about slow pit stops.
 
 ---
 
-## 6. [2025 Motor Sport Magazine Photo of the Year](https://reddit.com/r/formula1/comments/1pz19a8/2025_motor_sport_magazine_photo_of_the_year/)
+## 12. [[The RACE] You have a 12-hour flight, which seat are you choosing?](https://reddit.com/r/formula1/comments/1pzf0ia/the_race_you_have_a_12hour_flight_which_seat_are/)
 
-**Author:** u/madman320 | **Upvotes:** 13702 | **Comments:** 161 | **Date:** 2025-12-29
+**Author:** u/Luffy710j | **Upvotes:** 2174 | **Comments:** 1217 | **Date:** 2025-12-30
 
-**Summary:** The 2025 Motor Sport Magazine Photo of the Year is Victor Eleuterio’s shot of Gabriel Bortoleto’s crash at Interlagos, highlighting the crash's magnitude and advancements in F1 safety.
+**Summary:** The Reddit post discusses the choice of seat for a 12-hour flight, with users preferring seats next to specific Formula 1 drivers like Lewis Hamilton, Valtteri Bottas, Fernando Alonso, George Russell, and Max Verstappen. The discussion highlights the appeal of different drivers' personalities and interactions.
+
+**Key Points:**
+- Lewis Hamilton and Valtteri Bottas are considered chill and easy-going.
+- Fernando Alonso is preferred by some for his experience and personality.
+- Seat 3 is described as 'peak' by one user.
+- Seat 4 is favored for the potential banter and interactions between George Russell, Alex Albon, and Max Verstappen.
+- Seat 12 is chosen by one user who doesn't mind sitting with rookies and prefers not to be in a middle seat.
+
+**Discussion Highlights:** The discussion highlights a preference for seats next to specific drivers based on their personalities and the potential for interesting interactions. There is no clear consensus, but Lewis Hamilton, Fernando Alonso, and the combination of George Russell and Max Verstappen are popular choices.
+
+---
+
+## 13. [F1 drivers chose their Top 10 drivers of 2025](https://reddit.com/r/formula1/comments/1pzeic6/f1_drivers_chose_their_top_10_drivers_of_2025/)
+
+**Author:** u/Schlapfel9 | **Upvotes:** 3150 | **Comments:** 300 | **Date:** 2025-12-30
+
+**Summary:** F1 drivers have released their Top 10 drivers of 2025, with notable mentions for Albon and Bearman. The drivers' ratings are perceived as more reliable and less biased compared to Team Principals' ratings.
+
+**Key Points:**
+- Drivers rate Albon highly
+- Bearman is rated ahead of Hadjar
+- Drivers' ratings are considered better than Team Principals'
+- Drivers are seen as more immune to recency bias
+- Fan narrative about Norris not being respected by other drivers is debunked
+
+**Discussion Highlights:** The discussion highlights the perceived reliability of drivers' ratings over Team Principals' ratings, with a focus on the lack of recency bias and the debunking of the fan narrative about Norris.
+
+---
+
+## 14. [2025 Motor Sport Magazine Photo of the Year](https://reddit.com/r/formula1/comments/1pz19a8/2025_motor_sport_magazine_photo_of_the_year/)
+
+**Author:** u/madman320 | **Upvotes:** 14671 | **Comments:** 166 | **Date:** 2025-12-29
+
+**Summary:** The 2025 Motor Sport Magazine Photo of the Year features Victor Eleuterio’s shot of Gabriel Bortoleto’s crash at Interlagos, highlighting the magnitude of the shunt and the advancements in F1 safety. The photo has garnered significant attention and praise from the community.
 
 **Key Points:**
 - Victor Eleuterio’s photo of Gabriel Bortoleto’s crash at Interlagos won the 2025 Photo of the Year.
 - The photo captures the sheer magnitude of the crash and the advancements in F1 safety.
-- Drivers can walk away from such crashes, showcasing modern F1 safety features.
-- The crash resulted in significant damage, as noted by comments about the high repair costs for Sauber.
-- The photo was described as awe-inspiring and reminiscent of scenes from movies like Transformers.
+- The community praised the photo and noted the impressive safety standards that allowed the driver to walk away unharmed.
+- The photo was described as visually stunning and reminiscent of scenes from movies like Transformers.
+- The cost of the crash for the Sauber team was also highlighted.
 
-**Discussion Highlights:** The discussion highlights the impressive safety advancements in F1, with many users expressing awe at the crash's severity and the fact that the driver walked away unharmed. Comments also noted the high repair costs and the photo's cinematic quality.
+**Discussion Highlights:** The discussion highlights the community’s appreciation for the photo’s visual impact and the advancements in F1 safety. There is a consensus on the impressive safety standards that allow drivers to walk away from such severe crashes.
 
 ---
 
-## 7. [My hand-drawn Ferrari F1](https://reddit.com/r/formula1/comments/1pyyt0h/my_handdrawn_ferrari_f1/)
+## 15. [My hand-drawn Ferrari F1](https://reddit.com/r/formula1/comments/1pyyt0h/my_handdrawn_ferrari_f1/)
 
-**Author:** u/nikola_culjic_art | **Upvotes:** 8035 | **Comments:** 232 | **Date:** 2025-12-29
+**Author:** u/nikola_culjic_art | **Upvotes:** 9072 | **Comments:** 245 | **Date:** 2025-12-29
 
-**Summary:** The post showcases a hand-drawn Ferrari F1 car by u/nikola_culjic_art, created using markers, colored pencils, and an airbrush over 30 hours. The artwork is highly detailed and captures the essence of speed, impressing the community with its realism.
+**Summary:** The post showcases a hand-drawn Ferrari F1 car created using markers, colored pencils, and an airbrush on A3 paper, taking around 30 hours to complete. The artist aimed to capture the car's speed and details, and the comments express admiration and disbelief at the artwork's realism.
 
 **Key Points:**
 - Hand-drawn Ferrari F1 car using markers, colored pencils, and airbrush
-- Process took around 30 hours
-- Artwork captures the feeling of speed and detail
-- Community reactions range from disbelief to admiration
-- Drawing is so realistic it's compared to a photo
+- Took 30 hours to complete
+- Artist aimed to capture speed and details
+- Comments express disbelief and admiration
 
-**Discussion Highlights:** The community is highly impressed with the artwork, with many expressing disbelief that it is hand-drawn. Comments highlight the realism and detail of the drawing, often comparing it favorably to the reference photo.
+**Discussion Highlights:** The discussion highlights the realism of the artwork, with comments humorously expressing disbelief that it is hand-drawn and praising its quality.
 
 ---
 
-## 8. [My oil painting of Michael Schumacher which took around 200 hours.](https://reddit.com/r/formula1/comments/1pytd54/my_oil_painting_of_michael_schumacher_which_took/)
+## 16. [My oil painting of Michael Schumacher which took around 200 hours.](https://reddit.com/r/formula1/comments/1pytd54/my_oil_painting_of_michael_schumacher_which_took/)
 
-**Author:** u/Smooth_Operator_211 | **Upvotes:** 3932 | **Comments:** 104 | **Date:** 2025-12-29
+**Author:** u/Smooth_Operator_211 | **Upvotes:** 4334 | **Comments:** 109 | **Date:** 2025-12-29
 
-**Summary:** A Reddit user shared an oil painting of Michael Schumacher that took around 200 hours to complete, receiving praise and inquiries about its sale.
+**Summary:** A Reddit user shared an oil painting of Michael Schumacher that took around 200 hours to complete, receiving positive feedback and inquiries about potential sales.
 
 **Key Points:**
 - The painting took approximately 200 hours to complete.
 - The subject of the painting is Michael Schumacher.
-- The post received positive feedback and inquiries about purchasing the artwork.
-- The community appreciated the choice of livery in the painting.
+- The post received 4334 upvotes and 109 comments.
+- The community praised the artwork and expressed interest in purchasing it.
+- The painting features a well-regarded livery.
 
-**Discussion Highlights:** The community expressed admiration for the artwork, with many praising its quality and inquiring about its availability for purchase. The choice of livery was also highlighted as a positive aspect.
+**Discussion Highlights:** The community showed strong appreciation for the artwork, with many users praising its quality and expressing interest in buying it. Some comments also highlighted the choice of livery as particularly appealing.
 
 ---
 
-## 9. [Unc’s been killing it in the paddock walk in aesthetic these last couple of years](https://reddit.com/r/formula1/comments/1pynsug/uncs_been_killing_it_in_the_paddock_walk_in/)
+## 17. [Unc’s been killing it in the paddock walk in aesthetic these last couple of years](https://reddit.com/r/formula1/comments/1pynsug/uncs_been_killing_it_in_the_paddock_walk_in/)
 
-**Author:** u/HelloSlowly | **Upvotes:** 5339 | **Comments:** 232 | **Date:** 2025-12-29
+**Author:** u/HelloSlowly | **Upvotes:** 5610 | **Comments:** 236 | **Date:** 2025-12-29
 
 **Summary:** The Reddit post discusses Unc's impressive aesthetic during paddock walks in recent years, with comments highlighting his consistent style and unique features.
 
 **Key Points:**
-- Unc has been praised for his aesthetic in paddock walks.
-- Comments suggest his style has been impressive for a long time.
-- Observations about his strong neck and normal-looking fits are noted.
-- A humorous reference to Taylor Swift is included.
+- Uniqlo catalog reference
+- Long-standing aesthetic appeal
+- Taylor Swift comparison
+- Strong neck feature
+- Normal-looking fits
 
-**Discussion Highlights:** The discussion highlights Unc's long-standing impressive aesthetic, with some humorous and observational comments about his appearance and style.
-
----
-
-## 10. [How The Team Principals Have Ranked Their Top 10 Drivers From 2008 to 2025](https://reddit.com/r/formula1/comments/1pyk8s3/how_the_team_principals_have_ranked_their_top_10/)
-
-**Author:** u/creatorop | **Upvotes:** 1665 | **Comments:** 464 | **Date:** 2025-12-29
-
-**Summary:** The post discusses how team principals have ranked their top 10 drivers from 2008 to 2025, highlighting fluctuations and notable rankings.
-
-**Key Points:**
-- Alonso's rankings fluctuated significantly, including periods of retirement.
-- Piastri has been consistently ranked higher than Russell every season.
-- Leclerc's 7th place ranking this season is considered harsh by some.
-- Max Verstappen has always been ranked in the top 5.
-- There is overall consistency at the top of the rankings.
-
-**Discussion Highlights:** The discussion includes comments on Alonso's retirement affecting his rankings, debates about Piastri's consistent high ranking, and perceptions of Leclerc's ranking being too harsh.
+**Discussion Highlights:** The discussion highlights Unc's consistent and impressive aesthetic, with some humor and comparisons to other figures like Taylor Swift.
 
 ---
 
-## 11. [F1 team bosses choose their top 10 drivers of 2025](https://reddit.com/r/formula1/comments/1pyj31w/f1_team_bosses_choose_their_top_10_drivers_of_2025/)
+## 18. [How The Team Principals Have Ranked Their Top 10 Drivers From 2008 to 2025](https://reddit.com/r/formula1/comments/1pyk8s3/how_the_team_principals_have_ranked_their_top_10/)
 
-**Author:** u/OldActiveYeast | **Upvotes:** 4858 | **Comments:** 1122 | **Date:** 2025-12-29
+**Author:** u/creatorop | **Upvotes:** 1726 | **Comments:** 464 | **Date:** 2025-12-29
 
-**Summary:** F1 team bosses have released their top 10 drivers of 2025, with notable absences from Red Bull and Ferrari. The list includes two rookies and has sparked discussions about driver rankings and omissions.
+**Summary:** The post discusses how team principals have ranked their top 10 drivers from 2008 to 2025, highlighting fluctuations and controversies in the rankings.
 
 **Key Points:**
-- Only 8 team principals participated, missing Red Bull and Ferrari
-- Two rookies made it to the top 10 list
-- Leclerc's ranking is his worst since his rookie season
-- Sainz's high ranking and Albon's absence are points of discussion
+- Alonso's rankings have fluctuated significantly, including periods of retirement.
+- Piastri has been ranked higher than Russell every season, which is debated.
+- Leclerc's 7th place ranking this season is considered too harsh by some.
+- Max Verstappen has consistently been ranked in the top 5.
+- There is some consistency at the top of the rankings.
 
-**Discussion Highlights:** The discussion highlights concerns about the absence of key teams, surprises over rookie inclusions, and debates about specific driver rankings like Leclerc, Sainz, and Albon.
+**Discussion Highlights:** The discussion highlights debates around specific driver rankings, such as Alonso's fluctuations due to retirement and Piastri's consistent high ranking. There is also a consensus on Verstappen's consistent top 5 presence.
 
 ---
 
-## 12. [Cool Christmas gift from my brother.](https://reddit.com/r/formula1/comments/1pyaoor/cool_christmas_gift_from_my_brother/)
+## 19. [F1 team bosses choose their top 10 drivers of 2025](https://reddit.com/r/formula1/comments/1pyj31w/f1_team_bosses_choose_their_top_10_drivers_of_2025/)
 
-**Author:** u/Is_what_it_is__ | **Upvotes:** 2276 | **Comments:** 47 | **Date:** 2025-12-28
+**Author:** u/OldActiveYeast | **Upvotes:** 4934 | **Comments:** 1122 | **Date:** 2025-12-29
 
-**Summary:** The author's brother created a 3D-printed Formula 1 track model as a Christmas gift, which the author plans to display in their office. The author suggested adding elevation changes to the model in the future.
+**Summary:** F1 team bosses voted on their top 10 drivers of 2025, with notable absences from Red Bull and Ferrari. The list includes two rookies and has sparked discussions about specific drivers' rankings.
 
 **Key Points:**
-- Brother used a 3D printer to create a Formula 1 track model
-- Model will be displayed in the author's office
-- Author suggested adding elevation changes to the model
+- Only 8 team principals participated, missing Red Bull and Ferrari.
+- Two rookies made it to the top 10 list.
+- Leclerc's ranking is his worst since his rookie season.
+- Sainz's high ranking and Albon's absence from the list are notable points of discussion.
+
+**Discussion Highlights:** The discussion highlights concerns about the absence of key teams, the inclusion of rookies, and debates over specific drivers' rankings, particularly Leclerc, Sainz, and Albon.
+
+---
+
+## 20. [Cool Christmas gift from my brother.](https://reddit.com/r/formula1/comments/1pyaoor/cool_christmas_gift_from_my_brother/)
+
+**Author:** u/Is_what_it_is__ | **Upvotes:** 2342 | **Comments:** 48 | **Date:** 2025-12-28
+
+**Summary:** The author's brother used a 3D printer to create a unique Christmas gift, a Formula 1 track model, which the author plans to display in their office. The author suggested adding elevation changes to future versions.
+
+**Key Points:**
+- Brother used a 3D printer to make a Formula 1 track model
+- Gift will be displayed in the author's office
+- Author suggested adding elevation changes
 - Reddit users expressed interest in the design file and the idea of elevation changes
 
-**Discussion Highlights:** The discussion highlights the enthusiasm of Reddit users for the 3D-printed model, with many expressing interest in obtaining the design file and suggesting improvements like adding elevation changes.
+**Discussion Highlights:** Reddit users were enthusiastic about the gift, with many expressing interest in obtaining the design file and suggesting improvements like adding elevation changes.
 
 ---
 
-## 13. [What a waste of 1,443 laps! [Autosport]](https://reddit.com/r/formula1/comments/1py84bf/what_a_waste_of_1443_laps_autosport/)
+## 21. [What a waste of 1,443 laps! [Autosport]](https://reddit.com/r/formula1/comments/1py84bf/what_a_waste_of_1443_laps_autosport/)
 
-**Author:** u/Holytrishaw | **Upvotes:** 22831 | **Comments:** 168 | **Date:** 2025-12-28
+**Author:** u/Holytrishaw | **Upvotes:** 23256 | **Comments:** 168 | **Date:** 2025-12-28
 
-**Summary:** The Reddit post discusses the 2025 Formula 1 season, highlighting its competitive nature and key moments like the Hulkenpodium. Despite the high number of laps, the season was exciting and competitive until the end.
+**Summary:** The Reddit post discusses the 2023 Formula 1 season, highlighting its competitive nature and key moments like the 'Hulkenpodium' and McLaren's performance. Despite the high number of laps, the season was exciting and engaging until the final races. Key points include the 'Hulkenpodium' moment, the championship developing similarly to the final race, and the last few races being particularly exciting. The discussion highlights the excitement and competitive nature of the season, with specific moments standing out.
+
+---
+
+## 22. [F1 tyre with 33 FL markings could this be a Verstappen RB13 wheel ?](https://reddit.com/r/formula1/comments/1pxzom1/f1_tyre_with_33_fl_markings_could_this_be_a/)
+
+**Author:** u/Burnembrother | **Upvotes:** 1636 | **Comments:** 121 | **Date:** 2025-12-28
+
+**Summary:** A Reddit user seeks help identifying an F1 wheel marked with '33 FL' and a Dutch flag, potentially from Max Verstappen's RB13 car in the 2017 season. The post includes details about the wheel's markings, part number, and hub design, with comments confirming its authenticity and providing additional insights.
 
 **Key Points:**
-- The season was notable for the Hulkenpodium
-- The championship was competitive until the final races
-- The season was exciting despite the high number of laps
+- Wheel marked '33 FL' with Dutch flag, suggesting it's from Max Verstappen's front left wheel.
+- Part number 'RB13-FS-01007' indicates it's from the RB13 car (2017 season), with 'FS' likely meaning Front Suspension.
+- Hub design is specific and may relate to races with hard braking zones.
+- Comments confirm the wheel is authentic and decode the part number further.
+- Discussion suggests the tyre might be from a show or test, as race tyres are typically shredded.
 
-**Discussion Highlights:** The consensus among commenters is that the season was exciting and competitive, with key moments like the Hulkenpodium and the final races being particularly notable.
+**Discussion Highlights:** The discussion highlights include confirmation of the wheel's authenticity, decoding of the part number (RB13-FS-01007), and insights into the tyre's potential origin (show or test rather than a race).
 
 ---
 
-## 14. [F1 tyre with 33 FL markings could this be a Verstappen RB13 wheel ?](https://reddit.com/r/formula1/comments/1pxzom1/f1_tyre_with_33_fl_markings_could_this_be_a/)
+## 23. [Are there any f1 cars in history that had an absurd advantage on one department compared to every other car on the grid .](https://reddit.com/r/formula1/comments/1pxxbcf/are_there_any_f1_cars_in_history_that_had_an/)
 
-**Author:** u/Burnembrother | **Upvotes:** 1608 | **Comments:** 121 | **Date:** 2025-12-28
+**Author:** u/Calm-Focus-6968 | **Upvotes:** 1223 | **Comments:** 429 | **Date:** 2025-12-28
 
-**Summary:** A Reddit user seeks help identifying an F1 wheel marked with '33 FL' and a Dutch flag, potentially from Max Verstappen's RB13 car in the 2017 season. The wheel has a specific hub design and a sticker marked 'RB13-FS-01007'.
+**Summary:** The Reddit post discusses F1 cars that had significant advantages in specific areas, with examples like the 2014 Mercedes cars, Williams FW14B, Brawn BGP001, and Lotus 79. Key points include the 2014 Mercedes cars' significant speed advantage, the unique advantages of Williams FW14B, Brawn BGP001, and Lotus 79, the engine advantage of the 2014-16 Mercedes, and Ferrari's advanced 2004 chassis. The discussion highlights several iconic F1 cars known for their unique advantages, with a consensus on the dominance of certain models in specific areas like engine performance, active suspension, and ground effect.
+
+---
+
+## 24. [While Oscar was at the MCG the Barmy Army had a cheeky crack at him!](https://reddit.com/r/formula1/comments/1pxr24j/while_oscar_was_at_the_mcg_the_barmy_army_had_a/)
+
+**Author:** u/NippyMoto_1 | **Upvotes:** 3471 | **Comments:** 298 | **Date:** 2025-12-28
+
+**Summary:** The Reddit post highlights a humorous interaction between Oscar Piastri and the Barmy Army at the MCG, blending cricket banter with F1 references. The comments reflect a lighthearted tone, with the chant being recognized as a friendly meme.
 
 **Key Points:**
-- The wheel is marked with '33 FL' and a Dutch flag, suggesting it is from Max Verstappen's front-left wheel.
-- The sticker 'RB13-FS-01007' indicates it is from the RB13 car (2017 season), with 'FS' likely meaning Front Suspension.
-- The hub design is unique and may be from a race with hard braking zones or a show event.
-- Top comments confirm the wheel is authentic and provide insights into the part numbering system.
-- Discussion highlights include the presence of a tyre valve and the likelihood that the tyre is from a show or test, not a race.
+- Oscar Piastri was the subject of playful banter from the Barmy Army at the MCG.
+- The interaction blends cricket culture with F1 references.
+- The chant is described as a friendly meme, not intended to be offensive.
+- The comments reflect a humorous and lighthearted tone.
 
-**Discussion Highlights:** The discussion confirms the wheel's authenticity and decodes the part number, indicating it is from the RB13 car's front suspension. Users also note the presence of a tyre valve and suggest the wheel is likely from a show or test event rather than a race.
-
----
-
-## 15. [While Oscar was at the MCG the Barmy Army had a cheeky crack at him!](https://reddit.com/r/formula1/comments/1pxr24j/while_oscar_was_at_the_mcg_the_barmy_army_had_a/)
-
-**Author:** u/NippyMoto_1 | **Upvotes:** 3436 | **Comments:** 297 | **Date:** 2025-12-28
-
-**Summary:** The post highlights a humorous interaction between F1 driver Oscar Piastri and the Barmy Army cricket fans at the MCG, showcasing playful banter between sports communities.
-
-**Key Points:**
-- Oscar Piastri encountered playful banter from the Barmy Army at MCG
-- The interaction blends cricket culture with F1 fandom
-- The chant is described as a friendly meme rather than serious criticism
-- British crowds are known for this type of humorous engagement
-- The incident shows crossover between different sports fan communities
-
-**Discussion Highlights:** The comments indicate this is seen as lighthearted banter that has become a friendly tradition, with most viewers understanding it as humorous rather than offensive. The consensus suggests this type of interaction is common and accepted in British sports culture.
+**Discussion Highlights:** The discussion emphasizes the playful nature of the interaction, with users noting that the chant has evolved into a friendly meme. The consensus is that the banter is all in good fun, and there is no outrage or negativity.
 
 ---
 
-## 16. [Verstappen’s long-time engineer Gianpiero Lambiase is expected to leave Red Bull. Williams talks led by Vowles are ongoing, while Aston Martin has also sounded him out for a senior management role that could mean less travel.](https://reddit.com/r/formula1/comments/1pxpcp8/verstappens_longtime_engineer_gianpiero_lambiase/)
+## 25. [Verstappen’s long-time engineer Gianpiero Lambiase is expected to leave Red Bull. Williams talks led by Vowles are ongoing, while Aston Martin has also sounded him out for a senior management role that could mean less travel.](https://reddit.com/r/formula1/comments/1pxpcp8/verstappens_longtime_engineer_gianpiero_lambiase/)
 
-**Author:** u/One-Consideration404 | **Upvotes:** 8125 | **Comments:** 156 | **Date:** 2025-12-28
+**Author:** u/One-Consideration404 | **Upvotes:** 8145 | **Comments:** 156 | **Date:** 2025-12-28
 
-**Summary:** Gianpiero Lambiase, Verstappen's long-time engineer, is expected to leave Red Bull, with Williams and Aston Martin showing interest in hiring him. The post discusses potential career moves and personal challenges faced by Lambiase.
+**Summary:** Gianpiero Lambiase, Verstappen's long-time engineer, is expected to leave Red Bull. Williams and Aston Martin are interested in hiring him for senior roles.
 
 **Key Points:**
 - Gianpiero Lambiase may leave Red Bull
 - Williams and Aston Martin are interested in hiring him
-- Lambiase's wife is battling breast cancer, affecting his performance
-- Discussion about the high number of races and their impact on team members
-- Speculation about Lambiase's future in Formula 1
+- Lambiase's potential new role could involve less travel
+- Discussion highlights personal challenges faced by Lambiase
+- Community expresses concern over excessive race schedule
 
-**Discussion Highlights:** The discussion highlights concerns about the high number of races and their impact on team members' well-being. There is also sympathy for Lambiase's personal situation and speculation about his future career moves.
-
----
-
-## 17. [The F1-75 at the Puma Store on Oxford Street | Look at those sidepods!](https://reddit.com/r/formula1/comments/1pxd3uh/the_f175_at_the_puma_store_on_oxford_street_look/)
-
-**Author:** u/steferrari | **Upvotes:** 3053 | **Comments:** 89 | **Date:** 2025-12-27
-
-**Summary:** The Reddit post discusses the Ferrari F1-75 car, particularly its distinctive 'bathtub' sidepods, and highlights its aesthetic appeal and performance during the season.
-
-**Key Points:**
-- The F1-75 is praised for its unique 'bathtub' sidepods and overall design.
-- Many users express admiration for the car's appearance, calling it the best-looking car of the ground effect era.
-- There is disappointment over the car's performance and the upcoming 2025 livery.
-- Users reflect on the car's potential and the regret that it couldn't win the title.
-
-**Discussion Highlights:** The discussion highlights a consensus on the F1-75's aesthetic appeal and the regret over its performance and the upcoming livery changes.
+**Discussion Highlights:** The discussion highlights concerns about Lambiase's personal situation, including his wife's health, and critiques the excessive number of races in the season. There is also skepticism about the rumor's validity and speculation about other teams' interest.
 
 ---
 
-## 18. [Which of these special liveries was your favourite?](https://reddit.com/r/formula1/comments/1px6qep/which_of_these_special_liveries_was_your_favourite/)
+## 26. [The F1-75 at the Puma Store on Oxford Street | Look at those sidepods!](https://reddit.com/r/formula1/comments/1pxd3uh/the_f175_at_the_puma_store_on_oxford_street_look/)
 
-**Author:** u/EducationalHoney9840 | **Upvotes:** 2251 | **Comments:** 438 | **Date:** 2025-12-27
+**Author:** u/steferrari | **Upvotes:** 3083 | **Comments:** 89 | **Date:** 2025-12-27
 
-**Summary:** The post discusses favorite special liveries in Formula 1, with the author praising Haas and RBR liveries for the Japanese GP and Williams livery for Austin. The comments highlight preferences for Haas' cherry blossom livery, criticism of Ferrari's blue livery, and appreciation for Racing Bulls' and RBR's bold designs.
+**Summary:** The Reddit post discusses the Ferrari F1-75 car, highlighting its distinctive 'bathtub' sidepods and its aesthetic appeal. The community expresses admiration for the car's design but also disappointment regarding its performance and the 2025 livery.
 
 **Key Points:**
-- Author's favorites: Haas and RBR liveries (Japanese GP), Williams livery (Austin)
-- Positive sentiment towards Haas cherry blossom livery
-- Negative sentiment towards blue Ferrari livery
-- Praise for Racing Bulls' liveries and RBR's bold color choices
-- Mention of Las Vegas Williams and Racing Bulls liveries, and retro Williams livery
+- The Ferrari F1-75 is praised for its unique 'bathtub' sidepods and overall design.
+- The car is considered one of the best-looking in recent Formula 1 history.
+- There is disappointment about the car's performance and the 2025 livery.
+- The community expresses a strong emotional connection to the car's aesthetics.
 
-**Discussion Highlights:** The discussion highlights a consensus on the appeal of Haas' cherry blossom livery and Racing Bulls' designs, while criticizing Ferrari's blue livery. There is also appreciation for RBR's bold color choices and mentions of other notable liveries like Williams' retro design.
+**Discussion Highlights:** The discussion highlights a consensus that the Ferrari F1-75 is visually stunning, with particular admiration for its sidepods. However, there is a shared sentiment of disappointment regarding its performance and the upcoming livery changes.
 
 ---
 
-## 19. [James Vowles questions Mercedes Engine prediction after rival creates 'narrative'](https://reddit.com/r/formula1/comments/1pwxz8k/james_vowles_questions_mercedes_engine_prediction/)
+## 27. [Who’s the GOAT of neck girth in F1?](https://reddit.com/r/formula1/comments/1px7j95/whos_the_goat_of_neck_girth_in_f1/)
 
-**Author:** u/garfungle_ | **Upvotes:** 1712 | **Comments:** 95 | **Date:** 2025-12-27
+**Author:** u/Gaunterwithnomirrors | **Upvotes:** 1134 | **Comments:** 202 | **Date:** 2025-12-27
 
-**Summary:** James Vowles, Williams F1 boss, questions Mercedes' engine prediction amid upcoming F1 rules changes, highlighting uncertainty in performance predictions.
+**Summary:** The Reddit post discusses the 'GOAT of neck girth in F1,' highlighting drivers like Leclerc, Alonso, and Coulthard, and humorously debates whether neck size impacts performance.
 
 **Key Points:**
-- James Vowles challenges Mercedes' engine prediction
+- Leclerc's neck is noted as the thickest among current drivers.
+- Historical drivers like Alonso and Coulthard are mentioned for their neck size.
+- The discussion is lighthearted, occurring during the winter break.
+- References to humorous 'neck tricks' like cracking nuts.
+- Debate on whether neck girth affects driver performance.
+
+**Discussion Highlights:** The discussion is playful and focuses on humorous anecdotes, with Alonso and Coulthard being highlighted for their neck size. The post clarifies it's about neck girth, not driver skill, and the top comments joke about 'cracking nuts' with necks.
+
+---
+
+## 28. [Which of these special liveries was your favourite?](https://reddit.com/r/formula1/comments/1px6qep/which_of_these_special_liveries_was_your_favourite/)
+
+**Author:** u/EducationalHoney9840 | **Upvotes:** 2263 | **Comments:** 441 | **Date:** 2025-12-27
+
+**Summary:** The Reddit post discusses favorite special liveries in Formula 1, with the author highlighting the Haas and RBR liveries for the Japanese GP and the Williams livery for Austin. The comments reveal a mix of opinions, with some praising the Haas cherry blossom livery and others criticizing the blue Ferrari livery. Key points include the author's favorite liveries, positive feedback for the Haas cherry blossom livery, criticism of the blue Ferrari livery, praise for the Racing Bulls' liveries, and appreciation for the bold color choices of the Japanese RBR livery. The discussion highlights a consensus on the appeal of the Haas cherry blossom livery and the bold choices of the Japanese RBR livery, with criticism for the blue Ferrari livery and praise for the Racing Bulls' consistent livery designs.
+
+---
+
+## 29. [James Vowles questions Mercedes Engine prediction after rival creates 'narrative'](https://reddit.com/r/formula1/comments/1pwxz8k/james_vowles_questions_mercedes_engine_prediction/)
+
+**Author:** u/garfungle_ | **Upvotes:** 1722 | **Comments:** 95 | **Date:** 2025-12-27
+
+**Summary:** James Vowles, Williams F1 boss, questions Mercedes' engine prediction amid upcoming F1 rules changes, highlighting uncertainty in determining the best engine until actual racing begins.
+
+**Key Points:**
+- James Vowles questions Mercedes' engine prediction
 - Upcoming F1 rules changes affect aerodynamics and power units
-- Uncertainty remains about which engine will perform best until actual racing
-- Discussion about narrative control in F1
-- James Vowles is highly regarded for his insights on racing and engineering
+- Uncertainty in predicting the best engine until actual racing
+- Discussion highlights the narrative around engine performance predictions
+- Consensus that real-world racing will determine engine performance
 
-**Discussion Highlights:** The discussion highlights skepticism about pre-season predictions and the role of narrative control in F1, with many agreeing that actual racing is needed to determine engine performance. James Vowles' credibility and insights are also praised.
-
----
-
-## 20. [What season is this mouse pad](https://reddit.com/r/formula1/comments/1pwpv1o/what_season_is_this_mouse_pad/)
-
-**Author:** u/UnwieldyElm | **Upvotes:** 1887 | **Comments:** 122 | **Date:** 2025-12-26
-
-**Summary:** The Reddit post discusses a Formula 1 mouse pad with 24 tracks, questioning which season it represents. Users in the comments suggest it is not from any specific season, as the tracks listed do not align with any actual F1 season. Key points include inconsistencies like the presence of both Hockenheim and Nürburgring, tracks like Sepang, Sochi, and Imola, and incorrect details like the COTA start/finish line. The consensus is that the mouse pad is likely a random collection of tracks rather than representing a specific season.
+**Discussion Highlights:** The discussion emphasizes the uncertainty in engine performance predictions and the role of actual racing in determining the best engine, with a focus on the narrative created by rivals.
 
 ---
 
-## 21. [Oscar Piastri at the MCG](https://reddit.com/r/formula1/comments/1pwpdh6/oscar_piastri_at_the_mcg/)
+## 30. [What season is this mouse pad](https://reddit.com/r/formula1/comments/1pwpv1o/what_season_is_this_mouse_pad/)
 
-**Author:** u/His_Holiness | **Upvotes:** 5833 | **Comments:** 135 | **Date:** 2025-12-26
+**Author:** u/UnwieldyElm | **Upvotes:** 1910 | **Comments:** 122 | **Date:** 2025-12-26
 
-**Summary:** The Reddit post discusses Oscar Piastri's presence at the MCG, with comments highlighting Australia's recent performance struggles despite a strong start. The discussion reflects on Piastri's challenges and the team's shift from success to potential defeat.
+**Summary:** The Reddit post discusses a mouse pad featuring 24 F1 tracks, with the user questioning which season it represents. The top comments suggest it is not from a specific season but rather a random collection of tracks.
 
 **Key Points:**
-- Oscar Piastri's presence at the MCG is noted, with comments reflecting on his challenges.
-- Australia had a strong start with 3 wins but is about to lose this match.
-- Comments highlight the team's shift from success to potential defeat.
-- Sentiment includes humor and disappointment about the situation.
+- The mouse pad includes 24 tracks, but Vegas is missing.
+- Tracks like Nurburgring Nordschleife, Sepang, Sochi, and Imola were never all on the calendar at the same time.
+- The start/finish line on COTA is incorrectly placed.
+- No season in the 2010s had both Hockenheim and Nürburgring holding races.
 
-**Discussion Highlights:** The discussion highlights a mix of humor and disappointment, with a consensus that Australia is facing a setback after a strong start. Comments reflect on Piastri's challenges and the team's performance shift.
+**Discussion Highlights:** The consensus among commenters is that the mouse pad is not from a specific season but rather a random assortment of F1 tracks. Key points include the inclusion of tracks that were never simultaneously on the calendar and inaccuracies like the COTA start/finish line placement.
 
 ---
 
-## 22. [Alain Prost and Carlos Sainz Jr. are the only drivers in Formula 1 history to stand on the podium for all the three teams Ferrari, McLaren &amp; Williams](https://reddit.com/r/formula1/comments/1pwkhj3/alain_prost_and_carlos_sainz_jr_are_the_only/)
+## 31. [Oscar Piastri at the MCG](https://reddit.com/r/formula1/comments/1pwpdh6/oscar_piastri_at_the_mcg/)
 
-**Author:** u/Maximum-Room-3999 | **Upvotes:** 5933 | **Comments:** 80 | **Date:** 2025-12-26
+**Author:** u/His_Holiness | **Upvotes:** 5866 | **Comments:** 135 | **Date:** 2025-12-26
 
-**Summary:** Alain Prost and Carlos Sainz Jr. are the only Formula 1 drivers to have stood on the podium for Ferrari, McLaren, and Williams. The post highlights their unique achievements and discusses Sainz Jr.'s notable podiums with Williams.
+**Summary:** The post discusses Oscar Piastri's presence at the MCG, with comments highlighting Australia's recent performance struggles despite a strong start.
+
+**Key Points:**
+- Oscar Piastri's presence at the MCG is noted.
+- Australia has lost the current match after winning the previous three.
+- Comments reflect on Australia's recent performance struggles.
+- The discussion includes humor and disappointment about the team's performance.
+
+**Discussion Highlights:** The discussion highlights a mix of humor and disappointment regarding Australia's recent performance, with comments noting the team's struggle to maintain their initial success.
+
+---
+
+## 32. [Alain Prost and Carlos Sainz Jr. are the only drivers in Formula 1 history to stand on the podium for all the three teams Ferrari, McLaren &amp; Williams](https://reddit.com/r/formula1/comments/1pwkhj3/alain_prost_and_carlos_sainz_jr_are_the_only/)
+
+**Author:** u/Maximum-Room-3999 | **Upvotes:** 5965 | **Comments:** 81 | **Date:** 2025-12-26
+
+**Summary:** Alain Prost and Carlos Sainz Jr. are the only drivers in Formula 1 history to stand on the podium for Ferrari, McLaren, and Williams. The post highlights their unique achievements and discusses Sainz Jr.'s impressive performances, particularly his unexpected podiums with Williams.
 
 **Key Points:**
 - Prost and Sainz Jr. are the only drivers to podium for Ferrari, McLaren, and Williams.
 - Prost won races for all three teams.
-- Sainz Jr. achieved unexpected podiums in Baku and Qatar with Williams.
-- Community discussion focuses on the rarity of this achievement and Sainz Jr.'s performance.
+- Sainz Jr. achieved podiums in unexpected races like Baku and Qatar with Williams.
+- Community admires Sainz Jr.'s performance post-summer break.
 
-**Discussion Highlights:** The community appreciates the rarity of Prost and Sainz Jr.'s achievements, with particular focus on Sainz Jr.'s podiums in high-downforce tracks like Qatar and his improved performance post-summer break.
+**Discussion Highlights:** The community appreciates the rarity of this achievement and discusses the impressive performances of both drivers, especially Sainz Jr.'s unexpected podiums.
 
 ---
 
-## 23. [[Facebook] Gianpiero Lambiase’s wife is battling breast cancer (reason for Max’s race engineer’s absence)](https://reddit.com/r/formula1/comments/1pwk38h/facebook_gianpiero_lambiases_wife_is_battling/)
+## 33. [[Facebook] Gianpiero Lambiase’s wife is battling breast cancer (reason for Max’s race engineer’s absence)](https://reddit.com/r/formula1/comments/1pwk38h/facebook_gianpiero_lambiases_wife_is_battling/)
 
-**Author:** u/InquisitiveExplorer_ | **Upvotes:** 10804 | **Comments:** 305 | **Date:** 2025-12-26
+**Author:** u/InquisitiveExplorer_ | **Upvotes:** 10825 | **Comments:** 305 | **Date:** 2025-12-26
 
-**Summary:** Gianpiero Lambiase, Max Verstappen's race engineer, has been absent from races due to his wife battling breast cancer. She shared a heartfelt post about her journey and the support she has received. The F1 community has expressed their support and well-wishes for the family.
+**Summary:** Gianpiero Lambiase, Max Verstappen's race engineer, has been absent from some races due to his wife battling breast cancer. The community has shown overwhelming support for the family during this difficult time.
 
 **Key Points:**
 - Gianpiero Lambiase's wife is battling breast cancer
-- She shared a public post expressing gratitude for support
-- The F1 community has shown overwhelming support
-- Lambiase has been emotional and absent from races due to the situation
-- The family has a child at home, adding to the challenge
+- The situation has led to Lambiase's absence from some races
+- The community has expressed strong support and well-wishes for the family
+- Lambiase was visibly emotional during recent races
+- The family is facing challenges with travel and caring for their child
 
-**Discussion Highlights:** The Reddit community expressed strong support for Lambiase and his family, with many sharing personal experiences with cancer and wishing for privacy and recovery.
+**Discussion Highlights:** The discussion is marked by overwhelming support for Lambiase and his family, with many users expressing sympathy and sharing their own experiences with cancer. There is a strong consensus against media intrusion and a focus on privacy and recovery for the family.
 
 ---
 
-## 24. [Must've missed this part of history](https://reddit.com/r/formula1/comments/1pwdw39/mustve_missed_this_part_of_history/)
+## 34. [Must've missed this part of history](https://reddit.com/r/formula1/comments/1pwdw39/mustve_missed_this_part_of_history/)
 
-**Author:** u/Aggressive-Fix-7617 | **Upvotes:** 3616 | **Comments:** 82 | **Date:** 2025-12-26
+**Author:** u/Aggressive-Fix-7617 | **Upvotes:** 3623 | **Comments:** 83 | **Date:** 2025-12-26
 
-**Summary:** The Reddit post references a historical aspect of Formula 1, with comments focusing on a 'GP2 dictatorship' and Fernando Alonso's time in the sport.
+**Summary:** The Reddit post discusses a historical aspect of Formula 1, focusing on a dictatorship theme, particularly referencing GP2 and Alonso's era. The comments highlight humor and nostalgia around these topics.
 
 **Key Points:**
-- Reference to a 'GP2 dictatorship'
-- Mentions of Fernando Alonso's time in Formula 1
-- Humor and references to Alonso's time at Renault
+- GP2 dictatorship theme
+- Alonso's 2005-2006 era
+- Humor and nostalgia in comments
+- References to 'El Plan'
+- Mentions of leaving Spain
 
-**Discussion Highlights:** The discussion highlights include humor and references to Alonso's time in Formula 1, particularly his time at Renault.
+**Discussion Highlights:** The discussion is light-hearted and humorous, with a focus on historical references and inside jokes about Formula 1's past, particularly Alonso's era and GP2.
 
 ---
 
-## 25. [Max Verstappen’s Christmas present [via Kelly Piquet’s IG]](https://reddit.com/r/formula1/comments/1pw8qsf/max_verstappens_christmas_present_via_kelly/)
+## 35. [Max Verstappen’s Christmas present [via Kelly Piquet’s IG]](https://reddit.com/r/formula1/comments/1pw8qsf/max_verstappens_christmas_present_via_kelly/)
 
-**Author:** u/ICumCoffee | **Upvotes:** 17777 | **Comments:** 234 | **Date:** 2025-12-26
+**Author:** u/ICumCoffee | **Upvotes:** 17818 | **Comments:** 234 | **Date:** 2025-12-26
 
-**Summary:** Max Verstappen received a Christmas present, shared via Kelly Piquet's Instagram, sparking humorous and positive reactions from the r/formula1 community.
+**Summary:** The Reddit post discusses Max Verstappen's Christmas present, shared via Kelly Piquet's Instagram, with users commenting on his happiness and the photo's quality.
 
 **Key Points:**
-- She should run his merch
-- He looks so happy
-- Banger pic
-- Humor about his contract
-- Moderation note about t-shirt dropshippers
+- Max Verstappen received a Christmas present, shared via Kelly Piquet's Instagram.
+- Users noted his happiness and the quality of the photo.
+- A comment highlighted the humor in the situation regarding his contract.
+- The post was temporarily locked due to an influx of t-shirt dropshippers.
 
-**Discussion Highlights:** The community reacted positively with humor and praise, though moderation was needed due to commercial spam.
+**Discussion Highlights:** The discussion was largely positive, with users appreciating the photo and making light-hearted comments about Verstappen's contract and the influx of merchants.
 
 ---
 
-## 26. [Verstappen's race engineer Lambiase could join Aston Martin](https://reddit.com/r/formula1/comments/1pw6cu1/verstappens_race_engineer_lambiase_could_join/)
+## 36. [Verstappen's race engineer Lambiase could join Aston Martin](https://reddit.com/r/formula1/comments/1pw6cu1/verstappens_race_engineer_lambiase_could_join/)
 
-**Author:** u/Androsid93 | **Upvotes:** 3358 | **Comments:** 304 | **Date:** 2025-12-26
+**Author:** u/Androsid93 | **Upvotes:** 3368 | **Comments:** 304 | **Date:** 2025-12-26
 
-**Summary:** The Reddit post discusses the potential move of Max Verstappen's race engineer, Gianpiero Lambiase, to Aston Martin. The comments speculate on the implications of this move, including the possibility of Verstappen joining Aston Martin in the future and the nature of Lambiase's new role.
+**Summary:** The Reddit post discusses the potential move of Max Verstappen's race engineer, Gianpiero Lambiase, to Aston Martin. Users speculate about the implications, including the possibility of Verstappen joining Aston Martin in the future and the nature of Lambiase's new role.
 
 **Key Points:**
-- Gianpiero Lambiase, Verstappen's race engineer, may join Aston Martin.
-- Speculation about Lambiase's role and its potential impact on Verstappen's future.
-- Discussion on whether Lambiase's move is strategic to attract Verstappen.
-- Clarification that Lambiase is expected to take a senior management role, not a race engineer position.
-- Comments highlight the competitive nature of Formula 1 and the significance of key personnel moves.
+- Lambiase may join Aston Martin in a senior role, not necessarily as a race engineer.
+- Speculation about Verstappen potentially joining Aston Martin in 2027.
+- Discussion about Aston Martin's strategy to attract Red Bull personnel.
+- Comments highlight the importance of Lambiase's role and his potential influence on Verstappen.
+- Clarification that Lambiase's move is for a management position, not a race engineer role.
 
-**Discussion Highlights:** The discussion is marked by speculation about the strategic implications of Lambiase's potential move, with many users suggesting it could be a tactic to attract Verstappen to Aston Martin in the future. There is also a consensus that Lambiase's role would likely be in management rather than as a race engineer, which could influence Verstappen's decision-making.
+**Discussion Highlights:** The discussion is marked by speculation about future moves and the strategic implications of Lambiase's potential transfer. Many users see this as a move by Aston Martin to eventually attract Verstappen, while others clarify the nature of Lambiase's new role.
 
 ---
 
-## 27. [Drop you 2026 Formula 1 predictions](https://reddit.com/r/formula1/comments/1pw370r/drop_you_2026_formula_1_predictions/)
+## 37. [Drop you 2026 Formula 1 predictions](https://reddit.com/r/formula1/comments/1pw370r/drop_you_2026_formula_1_predictions/)
 
-**Author:** u/_StarDust_0 | **Upvotes:** 2548 | **Comments:** 539 | **Date:** 2025-12-26
+**Author:** u/_StarDust_0 | **Upvotes:** 2546 | **Comments:** 539 | **Date:** 2025-12-26
 
 **Summary:** The Reddit post invites users to share their predictions for the 2026 Formula 1 season, with top comments offering humorous and speculative takes on potential outcomes.
 
 **Key Points:**
 - Lawson potentially outscoring Hadjar and getting promoted late in the season
 - A humorous prediction about all four Ford engines burning up in one race
-- Mention of Hamilton's retirement as a plausible prediction
+- Mention of Hamilton's retirement as a plausible event over the season
 - A playful prediction about Ollie Bearman receiving a race ban due to penalty points
 
-**Discussion Highlights:** The discussion is lighthearted and speculative, with users sharing creative and often humorous predictions for the 2026 season. There is no clear consensus, but the tone is playful and engaging.
+**Discussion Highlights:** The discussion is lighthearted and speculative, with users sharing creative and often humorous predictions for the 2026 F1 season. There is no clear consensus, but the tone is engaging and playful.
 
 ---
 
-## 28. [[motorsport1924] From Bahrain 2022 to Abu Dhabi 2025, Max Verstappen has scored more grand prix podiums on his own than every other F1 team has managed individually](https://reddit.com/r/formula1/comments/1pw2upj/motorsport1924_from_bahrain_2022_to_abu_dhabi/)
+## 38. [[motorsport1924] From Bahrain 2022 to Abu Dhabi 2025, Max Verstappen has scored more grand prix podiums on his own than every other F1 team has managed individually](https://reddit.com/r/formula1/comments/1pw2upj/motorsport1924_from_bahrain_2022_to_abu_dhabi/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 3852 | **Comments:** 110 | **Date:** 2025-12-26
+**Author:** u/FewCollar227 | **Upvotes:** 3867 | **Comments:** 110 | **Date:** 2025-12-26
 
-**Summary:** The post highlights Max Verstappen's dominance in Formula 1 from 2022 to 2025, noting that he has scored more grand prix podiums individually than any other team. This underscores his exceptional performance during the ground effect era. Key points include: Max Verstappen has more podiums than any other F1 team from 2022 to 2025; The era is referred to as the 'Max Verstappen era' due to his dominance; Haas is noted for not making the chart, highlighting their lack of podiums; Hülkenberg is praised for his performance with Sauber; Verstappen's podium count is 67 out of 92 races, a 72.82% success rate. The discussion consensus emphasizes Verstappen's unprecedented dominance, with comments highlighting his consistency and the struggles of other teams like Haas. There is also praise for individual performances like Hülkenberg's.
-
----
-
-## 29. [Alonso driving his Mercedes CLK GTR in Monaco](https://reddit.com/r/formula1/comments/1pw04qu/alonso_driving_his_mercedes_clk_gtr_in_monaco/)
-
-**Author:** u/Joseki100 | **Upvotes:** 20271 | **Comments:** 522 | **Date:** 2025-12-26
-
-**Summary:** Fernando Alonso was seen driving his rare Mercedes CLK GTR in Monaco, sparking discussions about the car's value and exclusivity.
+**Summary:** From 2022 to 2025, Max Verstappen has achieved more grand prix podiums individually than any other F1 team, highlighting his dominance in the sport during this period.
 
 **Key Points:**
-- The Mercedes CLK GTR is extremely rare and valuable, estimated at $10-15 million.
-- Only about 20 people worldwide own this car, including notable figures like MBS and the Sultan of Brunei.
-- The car's value is comparable to Alonso's annual salary, highlighting its exclusivity.
-- The post and comments emphasize the vast difference between the lifestyle of F1 drivers and ordinary people.
+- Max Verstappen's podium count surpasses every other F1 team individually from 2022 to 2025.
+- The post highlights the dominance of Max Verstappen in the ground effect era of Formula 1.
+- Haas is noted for not making the chart, indicating their lack of podiums.
+- Hülkenberg is praised for his performance with Sauber.
+- Verstappen's podium count is 67 out of 92 races, a 72.82% success rate.
 
-**Discussion Highlights:** The discussion primarily revolves around the car's rarity, its high value, and the exclusive group of owners. There is a consensus on the car's prestige and the lifestyle it represents, with some comments humorously noting the contrast with everyday life.
+**Discussion Highlights:** The discussion highlights Max Verstappen's unprecedented success and dominance in Formula 1 from 2022 to 2025, with comments noting the struggles of teams like Haas and the strong performance of Hülkenberg with Sauber.
 
 ---
 
-## 30. [TIL that Ford sold it’s Jaguar F1 team to Red Bull for $1](https://reddit.com/r/formula1/comments/1pvvc9c/til_that_ford_sold_its_jaguar_f1_team_to_red_bull/)
+## 39. [Alonso driving his Mercedes CLK GTR in Monaco](https://reddit.com/r/formula1/comments/1pw04qu/alonso_driving_his_mercedes_clk_gtr_in_monaco/)
 
-**Author:** u/air144 | **Upvotes:** 4778 | **Comments:** 194 | **Date:** 2025-12-25
+**Author:** u/Joseki100 | **Upvotes:** 20303 | **Comments:** 522 | **Date:** 2025-12-26
+
+**Summary:** Fernando Alonso was spotted driving his rare Mercedes CLK GTR in Monaco, sparking discussions about the car's exclusivity and value.
+
+**Key Points:**
+- The Mercedes CLK GTR is extremely rare and expensive, valued at $10-15 million.
+- Only about 20 people worldwide own this car, including notable figures like MBS and the Sultan of Brunei.
+- The car's value is comparable to Alonso's annual salary, highlighting its exclusivity.
+- Public reactions emphasize the vast difference between the lifestyle of successful F1 drivers and common folks.
+
+**Discussion Highlights:** The discussion highlights the exclusivity and high value of the Mercedes CLK GTR, with comments emphasizing the rarity of the car and the luxurious lifestyle of F1 drivers. Notable owners and the car's worth were key points of interest.
+
+---
+
+## 40. [TIL that Ford sold it’s Jaguar F1 team to Red Bull for $1](https://reddit.com/r/formula1/comments/1pvvc9c/til_that_ford_sold_its_jaguar_f1_team_to_red_bull/)
+
+**Author:** u/air144 | **Upvotes:** 4784 | **Comments:** 197 | **Date:** 2025-12-25
 
 **Summary:** In 2004, Ford sold its struggling Jaguar F1 team to Red Bull for $1, with Red Bull assuming operational costs. Today, Oracle Red Bull Racing is one of the most successful teams in F1 history.
 
 **Key Points:**
-- Ford sold Jaguar F1 team to Red Bull for $1 in 2004
-- Red Bull took on operational costs amounting to hundreds of millions
+- Ford sold Jaguar F1 team for $1 with Red Bull taking on operational costs
 - Oracle Red Bull Racing is now a powerhouse in F1
-- Ford has returned to F1 after 20 years
-- F1 was historically a financially demanding sport for team owners
+- F1 teams historically faced significant financial challenges
+- Similar low-cost acquisitions have led to success, like Brawn GP
+- Ford has since returned to F1
 
-**Discussion Highlights:** The discussion highlights the financial challenges of F1, with comparisons to other team sales like Brawn GP. There is a consensus on the historical significance of the sale and the transformation of the team under Red Bull's ownership.
+**Discussion Highlights:** The discussion highlights the financial challenges of F1 teams, with many noting that the sport was a significant financial burden until recent years. There is also a consensus on the historical significance of the transaction, with comparisons to other successful low-cost acquisitions in F1.
 
 ---
 
-## 31. [NZ F1 star Liam Lawson raises more than $50k for breast cancer research](https://reddit.com/r/formula1/comments/1pvuiqh/nz_f1_star_liam_lawson_raises_more_than_50k_for/)
+## 41. [NZ F1 star Liam Lawson raises more than $50k for breast cancer research](https://reddit.com/r/formula1/comments/1pvuiqh/nz_f1_star_liam_lawson_raises_more_than_50k_for/)
 
-**Author:** u/risingsuncoc | **Upvotes:** 2743 | **Comments:** 53 | **Date:** 2025-12-25
+**Author:** u/risingsuncoc | **Upvotes:** 2747 | **Comments:** 53 | **Date:** 2025-12-25
 
-**Summary:** Liam Lawson, a New Zealand F1 driver, raised over $50,000 for breast cancer research, as highlighted in a Reddit post from r/formula1. The community praised his efforts and expressed admiration for his character.
+**Summary:** Liam Lawson, a New Zealand F1 driver, raised over $50,000 for breast cancer research, earning praise from fans for his charitable efforts.
 
 **Key Points:**
 - Liam Lawson raised more than $50k for breast cancer research
-- The post received significant engagement with 2743 upvotes and 53 comments
-- Top comments praised Lawson's character and expressed admiration for his actions
-- The community appreciated his interviews and social media presence
-- There was a desire for more drivers to engage in charitable activities
+- Fans appreciate his charitable actions and personality
+- Positive sentiment towards Lawson's interviews and social media presence
+- Desire for more 'drivers being homies to the world' moments in F1
 
-**Discussion Highlights:** The discussion was overwhelmingly positive, with users commending Lawson's efforts and character. Many expressed admiration for his actions and hoped to see more drivers involved in charitable activities.
+**Discussion Highlights:** The discussion highlights overwhelming support for Lawson's fundraising efforts, with fans praising his character and expressing a desire for more such positive interactions from F1 drivers.
 
 ---
 
-## 32. [Got this as a gift. Now I’m hoping this isn’t foreshadowing for the season  to come!](https://reddit.com/r/formula1/comments/1pvs7pz/got_this_as_a_gift_now_im_hoping_this_isnt/)
+## 42. [Got this as a gift. Now I’m hoping this isn’t foreshadowing for the season  to come!](https://reddit.com/r/formula1/comments/1pvs7pz/got_this_as_a_gift_now_im_hoping_this_isnt/)
 
-**Author:** u/Pretty1george | **Upvotes:** 2187 | **Comments:** 101 | **Date:** 2025-12-25
+**Author:** u/Pretty1george | **Upvotes:** 2191 | **Comments:** 102 | **Date:** 2025-12-25
 
-**Summary:** The post features a gift related to Ferrari, humorously noted for being upside down, sparking a discussion filled with ironic comments about Ferrari's performance and attention to detail.
+**Summary:** The Reddit post features a gift related to Formula 1, specifically Ferrari, with a humorous twist involving the logo being upside down. The comments playfully discuss the implications of this for the upcoming season and share lighthearted jokes about Ferrari's performance.
 
 **Key Points:**
-- The gift is Ferrari-themed and was received upside down, leading to humorous interpretations.
-- Comments highlight the irony of Ferrari's 'attention to detail' and potential performance implications.
-- The post and comments reflect a lighthearted, community-driven discussion about Formula 1.
-- The gift's orientation is seen as a humorous foreshadowing of the upcoming season.
+- The gift is related to Ferrari and has an upside-down logo.
+- The post humorously suggests this might foreshadow the upcoming season.
+- Comments joke about Ferrari's performance and the attention to detail.
+- The gift was received a month ago but the upside-down logo was only noticed recently.
+- There is a playful suggestion that Ferrari might dominate in Australia.
 
-**Discussion Highlights:** The discussion is marked by a playful tone, with users joking about Ferrari's reputation and the symbolic meaning of the upside-down gift. The consensus leans towards humor and camaraderie, with no serious criticism intended.
+**Discussion Highlights:** The discussion is lighthearted and humorous, with users joking about Ferrari's performance and the attention to detail in the gift. There is a consensus that the upside-down logo is a funny coincidence and not a serious omen for the season.
 
 ---
 
-## 33. [Max Verstappen taking a F1 car for a walk in the snow](https://reddit.com/r/formula1/comments/1pvqeyt/max_verstappen_taking_a_f1_car_for_a_walk_in_the/)
+## 43. [Max Verstappen taking a F1 car for a walk in the snow](https://reddit.com/r/formula1/comments/1pvqeyt/max_verstappen_taking_a_f1_car_for_a_walk_in_the/)
 
-**Author:** u/One_Impressionism | **Upvotes:** 2038 | **Comments:** 85 | **Date:** 2025-12-25
+**Author:** u/One_Impressionism | **Upvotes:** 2040 | **Comments:** 85 | **Date:** 2025-12-25
 
-**Summary:** Max Verstappen is seen driving a Formula 1 car in snowy conditions, impressing viewers with his skill and the car's performance. The post highlights his daring maneuver near ice cliffs and the excitement of the fans.
+**Summary:** Max Verstappen is seen driving a Formula 1 car in snowy conditions, impressing viewers with his skill and the car's performance on snow and ice.
 
 **Key Points:**
 - Max Verstappen driving a F1 car in the snow
-- Impressive performance near ice cliffs
-- Fan excitement and appreciation
-- Comparison to winter testing
-- Mention of Verstappen's young age at the time (18)
+- The car is near the edge of a cliff, adding to the danger
+- Verstappen revving the car at high gear to please fans
+- The event took place in 2016 when Verstappen was 18
+- Such stunts might not be allowed now due to safety concerns
 
-**Discussion Highlights:** The discussion highlights the daring nature of Verstappen's drive, with comments praising his skill and the excitement of the moment. There is also a consensus that such a stunt would likely not be allowed today.
+**Discussion Highlights:** The discussion highlights the impressive driving skills of Verstappen and the thrill of seeing a F1 car in unusual conditions. Many commenters express awe and amusement, with some noting the potential risks and changes in safety regulations over time.
 
 ---
 
-## 34. [Got my favourite memory framed](https://reddit.com/r/formula1/comments/1pvkx1s/got_my_favourite_memory_framed/)
+## 44. [Christmas build completed](https://reddit.com/r/formula1/comments/1pvmu1e/christmas_build_completed/)
 
-**Author:** u/PistaCaster | **Upvotes:** 5339 | **Comments:** 62 | **Date:** 2025-12-25
+**Author:** u/madmanchatter | **Upvotes:** 1100 | **Comments:** 28 | **Date:** 2025-12-25
+
+**Summary:** The Reddit post discusses a completed Christmas build related to Formula 1, with users sharing their experiences and opinions on the build and related accessories.
+
+**Key Points:**
+- Users enjoyed putting the build together and appreciated the inclusion of real sponsors.
+- Some users received the build as a gift and found it a welcome alternative to other activities.
+- There is interest in cigarette advertising sticker packs for an accurate look on the car.
+- Comparisons were made between this build and others, such as the McLaren one.
+
+**Discussion Highlights:** The discussion highlights a positive consensus on the enjoyment of the build, with users sharing their experiences and opinions on related accessories and comparisons to other builds.
+
+---
+
+## 45. [Got my favourite memory framed](https://reddit.com/r/formula1/comments/1pvkx1s/got_my_favourite_memory_framed/)
+
+**Author:** u/PistaCaster | **Upvotes:** 5348 | **Comments:** 62 | **Date:** 2025-12-25
 
 **Summary:** The Reddit post shares a framed memory of the author with Fernando Alonso and their late cat, celebrating cherished moments despite the loss.
 
 **Key Points:**
-- Author framed a favorite memory with Fernando Alonso
-- Cat named Kaiba passed away in July 2022
-- Post celebrates memories despite the loss
-- Top comment humorously notes the author and Alonso's close bond
-- Community acknowledges the iconic moment
+- The author framed a favorite memory involving Fernando Alonso and their cat.
+- The cat, Kaiba, passed away in July 2022 at 1.5 years old.
+- The post includes a humorous comment about the author and Alonso looking like a long-term couple.
+- The moment is described as iconic within the r/formula1 community.
+- The discussion highlights nostalgia and appreciation for the shared memory.
 
-**Discussion Highlights:** The discussion highlights the humorous and heartfelt reactions from the community, with many acknowledging the iconic nature of the moment and expressing sympathy for the loss of the cat.
+**Discussion Highlights:** The top comments reflect humor, nostalgia, and appreciation for the iconic moment shared between the author, Fernando Alonso, and the late cat, with the community celebrating the memory.
 
 ---
 
-## 35. [[Autosport] Kimi Antonelli visited a children's hospital in Bologna to hand out Christmas gifts](https://reddit.com/r/formula1/comments/1pvjjmp/autosport_kimi_antonelli_visited_a_childrens/)
+## 46. [[Autosport] Kimi Antonelli visited a children's hospital in Bologna to hand out Christmas gifts](https://reddit.com/r/formula1/comments/1pvjjmp/autosport_kimi_antonelli_visited_a_childrens/)
 
-**Author:** u/PrimeyXE | **Upvotes:** 14102 | **Comments:** 124 | **Date:** 2025-12-25
+**Author:** u/PrimeyXE | **Upvotes:** 14119 | **Comments:** 123 | **Date:** 2025-12-25
 
-**Summary:** Kimi Antonelli visited a children's hospital in Bologna to distribute Christmas gifts, receiving positive feedback from the community. The post highlights his charitable act and the impact it had on the children and viewers.
+**Summary:** Kimi Antonelli visited a children's hospital in Bologna to hand out Christmas gifts, receiving positive reactions from the community.
 
 **Key Points:**
-- Kimi Antonelli visited a children's hospital in Bologna.
-- He handed out Christmas gifts to the children.
-- The community responded positively, praising his kindness.
-- Comparisons were made to similar visits by Lewis Hamilton and Charles Leclerc.
-- The gifts included items like a Lego Mercedes, which were well-received.
+- Kimi Antonelli's visit to a children's hospital in Bologna
+- Positive community reactions and appreciation for the gesture
+- Comparison with similar visits by Lewis Hamilton and Charles Leclerc
+- Mention of gifts like Lego Mercedes being distributed
 
-**Discussion Highlights:** The discussion was overwhelmingly positive, with users expressing admiration for Antonelli's kindness and comparing his actions to those of other F1 drivers. Some comments also highlighted the emotional impact of such visits on terminally ill children.
+**Discussion Highlights:** The community expressed admiration for Antonelli's kindness, with some comparing it to similar visits by other F1 drivers. The overall consensus was positive, highlighting the impact of such gestures on children.
 
 ---
 
-## 36. [Old photos from Monaco GP](https://reddit.com/r/formula1/comments/1pvetcl/old_photos_from_monaco_gp/)
+## 47. [Old photos from Monaco GP](https://reddit.com/r/formula1/comments/1pvetcl/old_photos_from_monaco_gp/)
 
-**Author:** u/thatfamousgrouse | **Upvotes:** 2980 | **Comments:** 40 | **Date:** 2025-12-25
+**Author:** u/thatfamousgrouse | **Upvotes:** 2986 | **Comments:** 40 | **Date:** 2025-12-25
 
-**Summary:** A Reddit user shared old photos from a Monaco GP taken by their father-in-law, seeking help to identify the year. The community quickly identified the photos as being from the 1993 Monaco GP based on the presence of Senna in McLaren overalls, Prost in Williams, and the Sauber Mercedes.
+**Summary:** A Reddit user shared old photos from a Monaco GP taken by their father-in-law, seeking help to identify the year. The community quickly identified the photos as being from the 1993 Monaco GP, highlighting key drivers and cars from that era.
 
 **Key Points:**
 - Photos are from the 1993 Monaco GP
-- Key identifiers include Senna in McLaren overalls and Prost in Williams
-- Sauber Mercedes (Sauber C12 with Ilmor V10 engine) is visible
-- Community expressed appreciation for the nostalgic photos
+- Features Senna in McLaren and Prost in Williams
+- Includes the Sauber Mercedes C12 driven by JJ Lehto
+- Shared as a nostalgic gift during the off-season
+- Community expressed appreciation and nostalgia
 
-**Discussion Highlights:** The discussion highlights a strong consensus that the photos are from the 1993 Monaco GP, with commenters providing specific details about drivers and cars to support this conclusion. The community also expressed nostalgia and appreciation for the shared photos.
+**Discussion Highlights:** The discussion reached a consensus that the photos are from the 1993 Monaco GP, with users providing detailed insights about the drivers and cars visible in the photos. The community expressed gratitude and nostalgia for the shared content.
 
 ---
 
-## 37. [Cadillac F1 team livery reveal on February the eighth](https://reddit.com/r/formula1/comments/1pvd1i6/cadillac_f1_team_livery_reveal_on_february_the/)
+## 48. [Cadillac F1 team livery reveal on February the eighth](https://reddit.com/r/formula1/comments/1pvd1i6/cadillac_f1_team_livery_reveal_on_february_the/)
 
-**Author:** u/Fast-Bumblebee-2108 | **Upvotes:** 2345 | **Comments:** 168 | **Date:** 2025-12-25
+**Author:** u/Fast-Bumblebee-2108 | **Upvotes:** 2349 | **Comments:** 168 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post discusses the upcoming Cadillac F1 team livery reveal scheduled for February 8th, with users speculating on the design and timing of the reveal.
+**Summary:** The Reddit post announces the Cadillac F1 team livery reveal on February 8th, sparking community speculation and humor about the design and timing.
 
 **Key Points:**
-- Cadillac F1 team livery reveal is set for February 8th.
-- Users speculate the livery will be mostly black with white accents.
-- Comments include humor about potential chrome livery and timing confusion.
-- Mentions of the reveal possibly happening during the Super Bowl.
+- Livery reveal scheduled for February 8th
+- Speculation about mostly black and white design
+- Jokes about potential chrome livery
+- Confusion about the date (February vs. August)
+- Mention of Super Bowl reveal
 
-**Discussion Highlights:** The discussion highlights include speculation about the livery design, humorous comments about potential chrome livery, and confusion about the timing of the reveal. There is a consensus that the livery reveal is highly anticipated.
+**Discussion Highlights:** The community is speculating about the livery design, with humor and confusion about the timing and potential impact on other teams.
 
 ---
 
-## 38. [[RedBull Racing] Happy Holidays, Team!](https://reddit.com/r/formula1/comments/1pvaeva/redbull_racing_happy_holidays_team/)
+## 49. [[RedBull Racing] Happy Holidays, Team!](https://reddit.com/r/formula1/comments/1pvaeva/redbull_racing_happy_holidays_team/)
 
-**Author:** u/FerrariStrategisttt | **Upvotes:** 1468 | **Comments:** 57 | **Date:** 2025-12-25
+**Author:** u/FerrariStrategisttt | **Upvotes:** 1467 | **Comments:** 57 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post from r/formula1 by u/FerrariStrategisttt shares a holiday greeting from Red Bull Racing, featuring a link post with no text content. The discussion in the comments highlights an Akira reference and speculations about the team's livery for the next year.
+**Summary:** The Reddit post from r/formula1 by u/FerrariStrategisttt shares a link post titled 'Happy Holidays, Team!' from RedBull Racing, garnering significant engagement with 1467 upvotes and 57 comments. The discussion primarily revolves around the visual content of the post, with users noting references to Akira and speculating about potential livery changes for the upcoming season.
 
 **Key Points:**
-- The post is a holiday greeting from Red Bull Racing.
-- The post includes an Akira reference, noted by multiple commenters.
-- Speculation about the team's livery for the next year, including hints of white on the engine cover.
-- Mentions of a potential GT car and references to the 2015 livery.
+- The post is a link post with no text content, titled 'Happy Holidays, Team!' from RedBull Racing.
+- Users in the comments noted an Akira reference in the visual content.
+- There is speculation about the white on the engine cover hinting at next year's livery.
+- Some users expressed hope for a GT car.
+- The livery tease with white outlines was last seen in 2015.
 
-**Discussion Highlights:** The discussion is centered around the Akira reference and speculation about the team's future livery, with some commenters noting the potential significance of the white outlines on the car.
+**Discussion Highlights:** The discussion highlights include recognition of an Akira reference in the post, speculation about potential livery changes for the next season, and nostalgia for a previous livery design from 2015. The consensus seems to be focused on the visual elements and their implications for future designs.
 
 ---
 
-## 39. [[F1] Merry Christmas from the Formula 1 family!](https://reddit.com/r/formula1/comments/1pv9moy/f1_merry_christmas_from_the_formula_1_family/)
+## 50. [[F1] Merry Christmas from the Formula 1 family!](https://reddit.com/r/formula1/comments/1pv9moy/f1_merry_christmas_from_the_formula_1_family/)
 
-**Author:** u/wokwok__ | **Upvotes:** 3658 | **Comments:** 95 | **Date:** 2025-12-25
+**Author:** u/wokwok__ | **Upvotes:** 3661 | **Comments:** 95 | **Date:** 2025-12-25
 
-**Summary:** The Reddit post is a Christmas greeting from the Formula 1 community, featuring a lighthearted and festive tone. The comments highlight various humorous and relatable moments from the F1 world.
+**Summary:** The Reddit post from r/formula1 is a festive greeting from the Formula 1 community, featuring a link post with no text content. The discussion in the comments includes humorous and light-hearted exchanges among fans.
 
 **Key Points:**
-- The post is a festive greeting from the Formula 1 family.
-- Comments include humorous references to F1 drivers and teams.
-- Discussion highlights include playful banter and relatable moments.
-- Some comments reflect on the challenges faced by drivers like Lewis Hamilton.
-
-**Discussion Highlights:** The discussion is lighthearted and festive, with comments focusing on humorous and relatable moments from the F1 world. There is a mix of playful banter and reflections on the challenges faced by drivers.
-
----
-
-## 40. [What if drivers were paired geographically? The 2025 Formula 1 Nations Cup](https://reddit.com/r/formula1/comments/1pv3h38/what_if_drivers_were_paired_geographically_the/)
-
-**Author:** u/Yottaphy | **Upvotes:** 3997 | **Comments:** 403 | **Date:** 2025-12-24
-
-**Summary:** The post discusses a hypothetical scenario where Formula 1 drivers are paired geographically for a 'Nations Cup'. The discussion includes humorous and insightful comments about potential pairings and historical references.
-
-**Key Points:**
-- Max Verstappen's teammate is humorously noted for scoring only 33 points in a year.
-- A playful reference to the Hamilton-Russell pairing with a 'I wish I knew how to quit you' joke.
-- Appreciation for not pairing Norris and Verstappen together in the Belgium team.
-- A nostalgic comment about Mika Hakkinen and Mika Salo growing up on the same street in the 90s.
-- A missed opportunity to name the German-Italy alliance with a funny name.
-
-**Discussion Highlights:** The discussion is light-hearted and humorous, with fans appreciating the creative pairing ideas and referencing historical driver pairings. There is a consensus on the fun and imaginative nature of the hypothetical scenario.
-
----
-
-## 41. [[Motorsport Italia] No compromise: Mercedes and Red Bull Powertrains can proceed on their own terms.](https://reddit.com/r/formula1/comments/1putbed/motorsport_italia_no_compromise_mercedes_and_red/)
-
-**Author:** u/bonafide_bigbird | **Upvotes:** 4369 | **Comments:** 572 | **Date:** 2025-12-24
-
-**Summary:** The Reddit post discusses the FIA's decision allowing Mercedes and Red Bull Powertrains to proceed with their engine designs, deemed legal. The discussion highlights Ferrari's humorous and critical reactions, reflecting their ongoing struggles in Formula 1.
-
-**Key Points:**
-- FIA confirms Mercedes and Red Bull Powertrains' engine designs are legal.
-- Ferrari's humorous response, including a joke about Lewis Hamilton's weight.
-- Criticism of Ferrari's repeated delays in competitive performance.
-- Mention of Ferrari's past engine controversies and future expectations.
-- Fan frustration over Ferrari's inability to provide Charles Leclerc with a competitive car.
-
-**Discussion Highlights:** The discussion is marked by humor and criticism, with a consensus that Ferrari continues to lag behind Mercedes and Red Bull. Fans express frustration over Ferrari's repeated promises of future success and their current struggles.
-
----
-
-## 42. [Senna holds up the arm of Fangio - Adelaide 1990](https://reddit.com/r/formula1/comments/1putay0/senna_holds_up_the_arm_of_fangio_adelaide_1990/)
-
-**Author:** u/Hawker92 | **Upvotes:** 1267 | **Comments:** 68 | **Date:** 2025-12-24
-
-**Summary:** The Reddit post features a photo of Formula 1 world champions at the 1990 Adelaide Grand Prix, with Ayrton Senna holding up Juan Manuel Fangio's arm. The discussion highlights Fangio's legacy and the significance of the moment.
-
-**Key Points:**
-- Photo from the 1990 Adelaide Grand Prix featuring multiple F1 world champions
-- Juan Manuel Fangio was 79 years old at the time
-- Champions in the photo include James Hunt, Jackie Stewart, Denny Hulme, Nelson Piquet, Fangio, and Senna
-- Fangio is widely regarded as the greatest driver by the community
-- The era of racing Fangio competed in was notably dangerous
-
-**Discussion Highlights:** The discussion emphasizes Fangio's enduring legacy and the historical significance of the photo, with many users expressing admiration for his achievements and survival in a dangerous era of racing.
-
----
-
-## 43. [Max his reaction when he got the chessboard because of his win in Qatar is hilarious](https://reddit.com/r/formula1/comments/1purctp/max_his_reaction_when_he_got_the_chessboard/)
-
-**Author:** u/Jamiesavel | **Upvotes:** 3727 | **Comments:** 84 | **Date:** 2025-12-24
-
-**Summary:** The Reddit post highlights Max Verstappen's humorous and confused reaction to receiving a chessboard as a prize for his win in Qatar. The discussion focuses on his amusing response and the unexpected nature of the gift.
-
-**Key Points:**
-- Max looked more confused by the chessboard than any race strategy call.
-- Max humorously questioned how he could overtake in a game of chess.
-- Suggestions to have Hannah autograph the chessboard.
-- A commenter initially confused chessboard with cheeseboard.
-- Requests for explanations about the context of the chessboard gift.
-
-**Discussion Highlights:** The discussion revolves around Max Verstappen's amusing reaction to the chessboard prize, with users highlighting his confusion and humor. There is also a lighthearted tone with suggestions and playful comments.
-
----
-
-## 44. [[The Race] Top 5 in the constructor's standings, 2015 - 2025](https://reddit.com/r/formula1/comments/1puqtsi/the_race_top_5_in_the_constructors_standings_2015/)
-
-**Author:** u/PrimeyXE | **Upvotes:** 2693 | **Comments:** 160 | **Date:** 2025-12-24
-
-**Summary:** The Reddit post discusses the top 5 teams in the constructor's standings from 2015 to 2025, highlighting Ferrari's dominance in second place and McLaren's notable comeback. The discussion also reflects on the historical significance of the top 5 teams in 2025. Key points include Ferrari's consistent second-best performance, McLaren's significant comeback, the historical significance of the top 5 teams in 2025, and a nostalgic mention of Force India's past performances.
-
----
-
-## 45. [[Max Verstappen] Bit of fun before the break, looking forward to 2026](https://reddit.com/r/formula1/comments/1pupqo7/max_verstappen_bit_of_fun_before_the_break/)
-
-**Author:** u/kpopsns28 | **Upvotes:** 2372 | **Comments:** 56 | **Date:** 2025-12-24
-
-**Summary:** Max Verstappen shares his excitement for the 2026 season, with fans admiring his forward-looking mindset and the car's livery.
-
-**Key Points:**
-- Max's enthusiasm for 2026
-- Positive feedback on the car's livery
-- Playful comments about Max's dominance
-
-**Discussion Highlights:** Fans appreciate Max's optimism and the car's aesthetics, with some humorous remarks about his success across teams.
-
----
-
-## 46. [[verstappencom] on IG: Verstappen Racing has announced a multi-year collaboration with Mercedes-AMG, starting next year.](https://reddit.com/r/formula1/comments/1puog7l/verstappencom_on_ig_verstappen_racing_has/)
-
-**Author:** u/thesaket | **Upvotes:** 16684 | **Comments:** 457 | **Date:** 2025-12-24
-
-**Summary:** Verstappen Racing has announced a multi-year collaboration with Mercedes-AMG, starting next year. They will continue participating in the 2026 GT World Challenge Europe championship.
-
-**Key Points:**
-- Verstappen Racing announces multi-year collaboration with Mercedes-AMG
-- Collaboration starts next year
-- Team will continue in the 2026 GT World Challenge Europe championship
-- Community reactions include humor and disappointment about the nature of the collaboration
-- Speculation about potential partnerships with other brands like Aston Martin, Ferrari, or Porsche
-
-**Discussion Highlights:** The community reacted with a mix of humor and disappointment, as many were expecting or hoping for a different kind of collaboration, such as Verstappen joining Mercedes as a driver. The top comments reflect this sentiment, with jokes about the unexpected nature of the announcement and references to other potential partnerships.
-
----
-
-## 47. [My Son Wanted A Ferrari Bedroom](https://reddit.com/r/formula1/comments/1pukknc/my_son_wanted_a_ferrari_bedroom/)
-
-**Author:** u/Stumpy493 | **Upvotes:** 10537 | **Comments:** 376 | **Date:** 2025-12-24
-
-**Summary:** A parent shares their son's newly renovated Ferrari-themed bedroom, complete with an F1 Ferrari wall. The son is also planning to add 1/4 scale Ferrari helmets to the room.
-
-**Key Points:**
-- The son wanted a Ferrari-themed bedroom
-- The parent successfully met the son's request with an F1 Ferrari wall
-- The son plans to add 1/4 scale Ferrari helmets next
-- The Reddit community reacted with a mix of admiration and humor
-- Some comments joked about potential future disappointments for the son
-
-**Discussion Highlights:** The Reddit community generally admired the bedroom renovation, with top comments praising the design while humorously suggesting potential future disappointments for the son. The overall consensus was positive, with many users finding the project impressive.
-
----
-
-## 48. [Kimi Räikkönen's predictions for his final season in F1 were perfect](https://reddit.com/r/formula1/comments/1puk0kr/kimi_räikkönens_predictions_for_his_final_season/)
-
-**Author:** u/Fast-Bumblebee-2108 | **Upvotes:** 8980 | **Comments:** 174 | **Date:** 2025-12-24
-
-**Summary:** The Reddit post highlights Kimi Räikkönen's accurate predictions for his final season in F1, with comments emphasizing the timing of his announcement and the notable events of the 2021 season.
-
-**Key Points:**
-- Kimi Räikkönen made accurate predictions for his final season
-- His announcement timing was notable
-- The 2021 season had significant events
-- Fans admire Räikkönen's insights
-
-**Discussion Highlights:** The discussion reflects admiration for Räikkönen and the significance of his predictions, with comments highlighting the timing of his announcement and the notable events of the 2021 season.
-
----
-
-## 49. [Overtakes per race in the 2025 F1 season [f1statsguru]](https://reddit.com/r/formula1/comments/1pujucj/overtakes_per_race_in_the_2025_f1_season/)
-
-**Author:** u/Holytrishaw | **Upvotes:** 1273 | **Comments:** 138 | **Date:** 2025-12-24
-
-**Summary:** The Reddit post discusses overtakes per race in the 2025 F1 season, with users sharing their opinions on the quality of races and specific tracks. The discussion highlights both positive and negative aspects of the season's overtakes.
-
-**Key Points:**
-- Half of the overtakes in Abu Dhabi weren't shown on the main broadcast.
-- Qatar's inclusion in the calendar is criticized for being a procession without the history or beauty of tracks like Istanbul.
-- A high number of overtakes doesn't necessarily make a race fun to watch.
-- Hungary's race had a fair amount of overtakes, challenging the myth that it's impossible to pass there.
-- Over 40 overtakes at Imola was surprising.
-
-**Discussion Highlights:** The discussion highlights a mix of opinions on the quality of races and specific tracks. Users express frustration with broadcast coverage and track selection, while also noting surprising overtake statistics at certain races.
-
----
-
-## 50. [The last time F1 introduces new engine rules, Mercedes stole a march on the competition. But Toto Wolff says the feeling within the team "is not comparable" to the winter of 2013/14](https://reddit.com/r/formula1/comments/1puj5fa/the_last_time_f1_introduces_new_engine_rules/)
-
-**Author:** u/MoneyLibrarian9032 | **Upvotes:** 2740 | **Comments:** 218 | **Date:** 2025-12-24
-
-**Summary:** The Reddit post discusses Mercedes' potential advantage with new engine rules in Formula 1, comparing it to their dominance in 2014. Toto Wolff suggests the current situation is not comparable to the 2013/14 winter. The discussion highlights uncertainty due to significant rule changes and past experiences.
-
-**Key Points:**
-- Mercedes had a significant advantage with the 2014 engine rules.
-- Toto Wolff states the current situation is not comparable to 2013/14.
-- Past experiences show Mercedes' dominance and subsequent challenges with rule changes.
-- The new engine rules are simpler, leaving less room for innovation.
-- Uncertainty remains high due to both engine and aero rule revamps.
-
-**Discussion Highlights:** The discussion highlights uncertainty and past experiences with rule changes. Some commenters suggest Mercedes might still have an advantage, while others point out the challenges and limitations of the new rules.
+- Liam's obscure VCARB social media reference
+- Leclerc's humorous comment about melting ice
+- Lewis Hamilton's perceived demeanor
+- Stroll getting a tow from Hulk
+- A comment about ice skates full of water
+
+**Discussion Highlights:** The discussion is light-hearted and festive, with fans sharing humorous comments and references related to Formula 1. There is no clear consensus, but the overall tone is positive and celebratory.
 
 ---
 
