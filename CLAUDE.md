@@ -4,16 +4,18 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Important: Always Use UV
 
-**ALWAYS use `uv` to run Python scripts in this project.** Never use `python` or `python3` directly.
+**ALWAYS use `uv` to run ANY Python command in this project.** Never use `python` or `python3` directly, even for standard library modules like `http.server`.
 
 ```bash
 # Correct
 uv run python generate_index.py
 uv run pytest
+uv run python -m http.server 8888
 
 # Incorrect - DO NOT use
 python generate_index.py
 python3 generate_index.py
+python3 -m http.server 8888
 ```
 
 ## Repository Overview
