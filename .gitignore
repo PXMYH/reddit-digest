@@ -41,6 +41,9 @@ uv.lock
 .pytest_cache/
 .DS_Store
 
+# Playwright MCP screenshots
+.playwright-mcp/
+
 # Checkpoints (optional - uncomment to ignore)
 # *.checkpoint.json
 
