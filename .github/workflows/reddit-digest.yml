@@ -38,7 +38,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Formula1 digest
+      # ==================== WEEKLY DIGESTS ====================
+      - name: Generate Formula1 weekly digest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
@@ -49,7 +50,7 @@ jobs:
             --min-comments 20
         continue-on-error: true
 
-      - name: Generate LocalLLaMA digest
+      - name: Generate LocalLLaMA weekly digest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
@@ -60,7 +61,7 @@ jobs:
             --min-comments 20
         continue-on-error: true
 
-      - name: Generate FIRE digest
+      - name: Generate FIRE weekly digest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
@@ -71,7 +72,7 @@ jobs:
             --min-comments 20
         continue-on-error: true
 
-      - name: Generate Financial Independence digest
+      - name: Generate Financial Independence weekly digest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
@@ -82,7 +83,7 @@ jobs:
             --min-comments 20
         continue-on-error: true
 
-      - name: Generate Bogleheads digest
+      - name: Generate Bogleheads weekly digest
         env:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
@@ -91,6 +92,118 @@ jobs:
             --summarize \
             --min-upvotes 100 \
             --min-comments 20
+        continue-on-error: true
+
+      # ==================== MONTHLY DIGESTS ====================
+      - name: Generate Formula1 monthly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest formula1 \
+            --timeframe month \
+            --summarize \
+            --min-upvotes 200 \
+            --min-comments 50
+        continue-on-error: true
+
+      - name: Generate LocalLLaMA monthly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest LocalLLaMA \
+            --timeframe month \
+            --summarize \
+            --min-upvotes 200 \
+            --min-comments 50
+        continue-on-error: true
+
+      - name: Generate FIRE monthly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest Fire \
+            --timeframe month \
+            --summarize \
+            --min-upvotes 200 \
+            --min-comments 50
+        continue-on-error: true
+
+      - name: Generate Financial Independence monthly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest financialindependence \
+            --timeframe month \
+            --summarize \
+            --min-upvotes 200 \
+            --min-comments 50
+        continue-on-error: true
+
+      - name: Generate Bogleheads monthly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest Bogleheads \
+            --timeframe month \
+            --summarize \
+            --min-upvotes 200 \
+            --min-comments 50
+        continue-on-error: true
+
+      # ==================== YEARLY DIGESTS ====================
+      - name: Generate Formula1 yearly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest formula1 \
+            --timeframe year \
+            --summarize \
+            --min-upvotes 500 \
+            --min-comments 100
+        continue-on-error: true
+
+      - name: Generate LocalLLaMA yearly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest LocalLLaMA \
+            --timeframe year \
+            --summarize \
+            --min-upvotes 500 \
+            --min-comments 100
+        continue-on-error: true
+
+      - name: Generate FIRE yearly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest Fire \
+            --timeframe year \
+            --summarize \
+            --min-upvotes 500 \
+            --min-comments 100
+        continue-on-error: true
+
+      - name: Generate Financial Independence yearly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest financialindependence \
+            --timeframe year \
+            --summarize \
+            --min-upvotes 500 \
+            --min-comments 100
+        continue-on-error: true
+
+      - name: Generate Bogleheads yearly digest
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          ./reddit-digest Bogleheads \
+            --timeframe year \
+            --summarize \
+            --min-upvotes 500 \
+            --min-comments 100
         continue-on-error: true
 
       - name: Commit and push digests
