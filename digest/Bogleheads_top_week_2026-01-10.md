@@ -8,201 +8,225 @@
 
 ## 1. [Advice for a 50 year-old with no investment experience?](https://reddit.com/r/Bogleheads/comments/1q8f6ut/advice_for_a_50_yearold_with_no_investment/)
 
-**Author:** u/Round_Breakfast_5312 | **Upvotes:** 121 | **Comments:** 35 | **Date:** 2026-01-09
+**Author:** u/Round_Breakfast_5312 | **Upvotes:** 128 | **Comments:** 37 | **Date:** 2026-01-09
 
-**Summary:** A 50-year-old with no investment experience seeks advice on how to start investing $30K saved in a savings account, given a tight budget and annual income of $35K. The discussion emphasizes the importance of understanding financial goals, leveraging tax credits, and considering low-risk investment options.
+**Summary:** A 50-year-old with no investment experience seeks advice on how to invest $30K saved in a savings account, given a tight budget and low income. The community suggests starting with financial planning resources and considering tax-advantaged accounts.
 
 **Key Points:**
-- Determine when the money will be needed before making investment decisions.
-- Consider opening a Roth IRA to take advantage of the Savers Tax Credit.
-- Start with self-education using resources like the Bogleheads wiki and personal finance flowcharts.
-- Avoid putting all savings at risk; consider investing only a portion (e.g., $10K).
-- Focus on low-cost, diversified investments like ETFs.
+- The user has $30K in savings and earns $35K/year.
+- Top comments recommend using financial planning resources like flowcharts and wikis.
+- Suggestions include opening a Roth IRA and taking advantage of the Savers Tax Credit.
+- Some advise against using an advisor and recommend self-education and ETFs.
+- A conservative approach is suggested, with only a portion of the savings invested.
 
-**Discussion Highlights:** The consensus suggests starting with self-education and leveraging tax-advantaged accounts like a Roth IRA. Many commenters advise against using a financial advisor due to the relatively small amount of savings and recommend low-cost, diversified investments. There is also a strong emphasis on not risking the entire savings and focusing on long-term financial planning.
+**Discussion Highlights:** The consensus emphasizes starting with financial education, using tax-advantaged accounts, and being cautious with investments. Many recommend self-education over hiring an advisor and suggest a gradual approach to investing.
 
 ---
 
 ## 2. [Should I add a small % of bonds at 35 years old?](https://reddit.com/r/Bogleheads/comments/1q7jymr/should_i_add_a_small_of_bonds_at_35_years_old/)
 
-**Author:** u/According-Willow-238 | **Upvotes:** 134 | **Comments:** 104 | **Date:** 2026-01-08
+**Author:** u/According-Willow-238 | **Upvotes:** 131 | **Comments:** 104 | **Date:** 2026-01-08
 
-**Summary:** A 35-year-old investor seeks advice on whether to include a small percentage of bonds in their portfolio. The discussion highlights varying perspectives, with some advocating for early bond inclusion for stability and others suggesting a focus on growth given the long investment horizon.
+**Summary:** A 35-year-old investor is seeking advice on whether to include a small percentage of bonds in their portfolio. The discussion highlights varying perspectives on bond allocation, with some suggesting early inclusion for stability and others emphasizing the importance of current portfolio size relative to retirement goals.
 
 **Key Points:**
-- Consider the ratio of current portfolio size to target retirement portfolio size when deciding on bond allocation.
-- Vanguard's model portfolio allocations are referenced as a guideline for asset allocation.
-- Two main schools of thought exist: early gradual bond inclusion (like target-date funds) vs. later bond allocation.
-- A 90/10 stock-to-bond ratio is suggested for stability without significantly impacting returns.
-- Target-date funds typically include 10-15% bonds at age 35.
+- Consider the current portfolio size relative to the target retirement portfolio size.
+- Vanguard's model portfolio allocation suggests a bond allocation based on age and risk tolerance.
+- Two schools of thought exist: early bond ramp-up or delaying bond allocation until closer to retirement.
+- A 10-15% bond allocation is common in target-date funds for someone at this age.
+- The difference in yield between a 100/0 and 90/10 portfolio may not justify the lack of stability.
 
-**Discussion Highlights:** The discussion presents a mix of opinions, with a slight lean towards including a small percentage of bonds for stability. Key considerations include the investor's current portfolio size relative to their retirement goal, the trade-off between stability and growth, and the use of guidelines like Vanguard's model portfolios or the '120 minus age' rule for stock allocation.
+**Discussion Highlights:** The discussion reflects a consensus that including a small percentage of bonds (e.g., 10-15%) at age 35 can provide stability without significantly impacting long-term growth. Some commenters emphasize the importance of aligning bond allocation with individual risk tolerance and retirement goals.
 
 ---
 
 ## 3. [Should I change my 401k contributions from Roth to traditional?](https://reddit.com/r/Bogleheads/comments/1q7hz0l/should_i_change_my_401k_contributions_from_roth/)
 
-**Author:** u/EvinKay7 | **Upvotes:** 104 | **Comments:** 98 | **Date:** 2026-01-08
+**Author:** u/EvinKay7 | **Upvotes:** 105 | **Comments:** 98 | **Date:** 2026-01-08
 
-**Summary:** The author, in the 22% tax bracket and nearing retirement, questions whether to switch 401k contributions from Roth to traditional, proposing a strategy to convert traditional funds to Roth over 10 years in retirement to potentially lower their tax bracket. The discussion highlights the potential benefits of traditional 401k contributions in their current tax situation and the mechanics of Roth conversions.
+**Summary:** The post discusses the potential benefits and drawbacks of switching 401k contributions from Roth to traditional, focusing on tax implications and retirement strategies. The author is in the 22% tax bracket and considers converting traditional 401k funds to Roth in retirement to potentially lower tax liability.
 
 **Key Points:**
-- Author's current investments are all in Roth accounts (401k, IRA, HSA) and they are in the 22% tax bracket.
-- Proposed strategy involves converting traditional 401k funds to Roth over 10 years in retirement to potentially lower tax bracket.
-- Traditional 401k may be more beneficial than Roth in the 22% tax bracket.
-- Roth conversions can be done strategically in retirement to manage tax brackets.
-- All growth in a 401k is tax-free; taxes are either paid on contributions (Roth) or withdrawals (traditional).
+- The author is considering switching from Roth to traditional 401k contributions to potentially lower tax liability in retirement.
+- The strategy involves rolling over traditional 401k funds to a Roth IRA in retirement to take advantage of lower tax brackets.
+- The discussion highlights that traditional 401k contributions may be more beneficial than Roth for those in the 22% tax bracket.
+- Key considerations include tax-free growth in Roth accounts versus potential tax savings in traditional accounts.
+- The consensus suggests that a mix of traditional 401k and Roth IRA contributions may be optimal.
 
-**Discussion Highlights:** The consensus in the discussion suggests that switching to traditional 401k contributions could be advantageous given the author's current tax bracket. Key points include the potential for lower tax rates in retirement, the benefits of traditional 401k contributions in the 22% bracket, and the strategic use of Roth conversions. The discussion also clarifies the tax treatment of 401k growth and the mechanics of Roth conversions.
+**Discussion Highlights:** The discussion generally supports the idea of switching to traditional 401k contributions for potential tax savings in retirement. However, some commenters note the benefits of Roth contributions and suggest a balanced approach. The consensus leans towards traditional contributions being more advantageous for those in higher tax brackets during their working years.
 
 ---
 
 ## 4. [Where to park 550k in cash](https://reddit.com/r/Bogleheads/comments/1q70cdg/where_to_park_550k_in_cash/)
 
-**Author:** u/Worried-Ad1268 | **Upvotes:** 494 | **Comments:** 306 | **Date:** 2026-01-07
+**Author:** u/Worried-Ad1268 | **Upvotes:** 494 | **Comments:** 309 | **Date:** 2026-01-07
 
-**Summary:** The user has $550k in cash from a property sale and seeks low-risk investment options for a potential down payment in 2-3 years, aiming for $30k annual income. The community recommends cash equivalents like HYSA, CDs, Money Market Funds, T-Bills, or treasury floating rate note ETFs.
+**Summary:** The user has $550k in cash from a property sale and needs suggestions for parking it for a potential down payment in 2-3 years, ideally generating $30k annual income. The community recommends low-risk, short-term investments.
 
 **Key Points:**
-- User has $550k in cash and may need it for a down payment in 2-3 years.
-- Desires $30k annual income, similar to previous rental income.
-- Community consensus favors low-risk, liquid investments.
-- Top recommendations include HYSA, CDs, Money Market Funds, T-Bills, and treasury floating rate note ETFs.
-- Time horizon of 2-3 years is critical for investment strategy.
+- Funds are needed for a potential down payment in 2-3 years
+- Desire for $30k annual income from the investment
+- Community recommends cash equivalents like HYSA, CD, Money Market Fund, T-Bills, or treasury floating rate note ETF
+- Emphasis on low-risk, liquid investments due to short time horizon
+- Importance of specifying the time horizon for investment advice
 
-**Discussion Highlights:** The discussion highlights a strong consensus on using low-risk, liquid investments such as HYSA, CDs, Money Market Funds, T-Bills, or treasury floating rate note ETFs due to the short-term time horizon. The community emphasizes the importance of preserving capital while generating modest income.
+**Discussion Highlights:** The discussion highlights a strong consensus on using low-risk, short-term investment options such as HYSA, CD, Money Market Fund, T-Bills, or treasury floating rate note ETF. The community appreciates the user specifying the time horizon, which is crucial for tailored advice.
 
 ---
 
 ## 5. [Now I get it...](https://reddit.com/r/Bogleheads/comments/1q6text/now_i_get_it/)
 
-**Author:** u/Mysterious-Entry-357 | **Upvotes:** 242 | **Comments:** 33 | **Date:** 2026-01-07
+**Author:** u/Mysterious-Entry-357 | **Upvotes:** 245 | **Comments:** 33 | **Date:** 2026-01-07
 
-**Summary:** The author reflects on their financial journey, attributing their success to ignorance, discipline, and luck. They consider shifting to a target date fund (TDF) for a more hands-off approach. The discussion highlights the benefits of a disciplined, long-term investment strategy and the advantages of TDFs.
+**Summary:** The author reflects on their financial journey, attributing their success to ignorance, discipline, and luck. They consider shifting to a target date fund (TDF) for a more hands-off approach. The discussion highlights the benefits of TDFs and the importance of staying the course.
 
 **Key Points:**
-- The author's financial success was driven by discipline and luck rather than active management.
-- The importance of staying the course during market downturns is emphasized.
-- Target date funds (TDFs) are recommended for a hands-off, disciplined investment approach.
-- Ignorance and inaction can sometimes lead to better financial outcomes than frequent trading.
-- Diversification and professional advice are suggested for optimizing investment strategies.
+- The author's financial success was due to a combination of ignorance, discipline, and luck.
+- The author is considering shifting to a target date fund (TDF) for simplicity.
+- The discussion emphasizes the benefits of TDFs and a hands-off investment approach.
+- The importance of discipline and avoiding frequent decisions is highlighted.
 
-**Discussion Highlights:** The discussion consensus supports the author's consideration of shifting to a target date fund (TDF). Commenters emphasize the benefits of a disciplined, long-term approach and the advantages of TDFs for those who prefer a hands-off strategy. The importance of diversification and seeking professional financial advice is also highlighted.
+**Discussion Highlights:** The consensus in the discussion is that target date funds (TDFs) are a good choice for those who prefer a hands-off approach. The importance of discipline and avoiding frequent investment decisions is also emphasized.
 
 ---
 
 ## 6. [High earner, mid 20's investment strategy?](https://reddit.com/r/Bogleheads/comments/1q625ao/high_earner_mid_20s_investment_strategy/)
 
-**Author:** u/Past-Storm4158 | **Upvotes:** 162 | **Comments:** 50 | **Date:** 2026-01-06
+**Author:** u/Past-Storm4158 | **Upvotes:** 156 | **Comments:** 50 | **Date:** 2026-01-06
 
-**Summary:** A high earner in their mid-20s with a net worth of $250k and an annual income of $250k seeks advice on optimizing their investment strategy, which currently involves low-cost index funds (VOO), maxing out retirement accounts, and maintaining an emergency fund. The community generally advises staying the course but suggests considering a three-fund portfolio and backdoor Roth IRA.
+**Summary:** A high earner in their mid-20s with a net worth of $250k and an annual income of $250k seeks advice on optimizing their investment strategy, which currently involves low-cost index funds (VOO), maxing out retirement accounts, and maintaining an emergency fund. The discussion emphasizes staying disciplined, considering a three-fund portfolio, and maximizing tax-advantaged accounts.
 
 **Key Points:**
-- Current strategy involves VOO, maxing out 401k and IRA, and maintaining an emergency fund.
-- Community advises staying disciplined and avoiding greed.
-- Suggestions include a three-fund portfolio and backdoor Roth IRA.
-- Emphasis on aggressive saving and investing to achieve early retirement.
-- Mention of the impact of lifestyle choices (e.g., having kids) on financial goals.
+- Current strategy involves low-cost index funds (VOO), maxing out 401k and IRA, and maintaining an emergency fund.
+- Seeking advice on optimizing investments without being greedy.
+- Discussion highlights the importance of staying disciplined and avoiding risky investments like crypto or stock picking.
+- Suggestions include considering a three-fund portfolio and maximizing tax-advantaged accounts.
+- Mention of backdoor Roth IRA as a potential strategy.
 
-**Discussion Highlights:** The consensus is that the poster is on the right track with their current strategy. Key suggestions include diversifying with a three-fund portfolio, utilizing a backdoor Roth IRA, and continuing to maximize tax-advantaged accounts. The discussion also highlights the importance of maintaining discipline and avoiding risky investments.
+**Discussion Highlights:** The consensus in the discussion is to stay the course with a disciplined approach, avoid risky investments, and consider diversifying with a three-fund portfolio. Maximizing tax-advantaged accounts and exploring backdoor Roth IRA are also recommended.
 
 ---
 
 ## 7. [Why keep maxing a 401k when taxable seems almost as good?](https://reddit.com/r/Bogleheads/comments/1q60m6f/why_keep_maxing_a_401k_when_taxable_seems_almost/)
 
-**Author:** u/Essay_Few | **Upvotes:** 533 | **Comments:** 527 | **Date:** 2026-01-06
+**Author:** u/Essay_Few | **Upvotes:** 533 | **Comments:** 530 | **Date:** 2026-01-06
 
-**Summary:** The post discusses the trade-offs between maxing out a 401k and investing in a taxable brokerage account, highlighting the marginal difference in outcomes and the value of flexibility in accessing funds. The discussion includes perspectives on tax benefits, the Rule of 55, and the importance of having accessible funds.
+**Summary:** The post discusses the trade-offs between maxing out a 401k and investing in a taxable brokerage account, highlighting the marginal difference in outcomes and the desire for more flexibility. The author questions the traditional advice of always maxing out the 401k once a solid balance is achieved and the employer match is modest.
 
 **Key Points:**
-- The difference in outcomes between maxing a 401k and investing in a taxable account is marginal.
-- Flexibility and access to funds are important considerations, especially as one gets closer to retirement.
-- The Rule of 55 allows for early withdrawal from a 401k without penalties, which can be a significant factor.
-- Tax benefits of a 401k are important but may not always outweigh the benefits of having accessible funds.
-- Legal protections for 401k funds can be an important consideration in certain situations.
+- The author finds the financial outcomes of maxing out a 401k versus investing in a taxable account to be surprisingly close.
+- Flexibility and accessibility of funds in a taxable account are valued more as the author ages.
+- Tax benefits of 401k contributions are acknowledged but questioned in terms of their significance.
+- The Rule of 55 allows for early withdrawal from a 401k, which could be a significant factor.
+- 401k funds are generally protected from lawsuits, unlike taxable brokerage accounts.
 
-**Discussion Highlights:** The discussion highlights the importance of considering both tax benefits and flexibility when deciding between maxing a 401k and investing in a taxable account. Many commenters emphasize the need to see the specific math behind the original post's claims and discuss the potential benefits of the Rule of 55 and legal protections for 401k funds.
+**Discussion Highlights:** The discussion highlights include a request for more detailed math to support the author's claims, the tax advantages of 401k contributions, the potential benefits of the Rule of 55 for early withdrawal, and the protection of 401k funds from lawsuits. There is a general consensus that while taxable accounts offer more flexibility, 401k contributions still provide significant tax benefits and protections.
 
 ---
 
 ## 8. [I auto-buy 300$ of VOO daily when markets are open, is this a bad strategy?](https://reddit.com/r/Bogleheads/comments/1q5vh30/i_autobuy_300_of_voo_daily_when_markets_are_open/)
 
-**Author:** u/AetherialMan | **Upvotes:** 263 | **Comments:** 273 | **Date:** 2026-01-06
+**Author:** u/AetherialMan | **Upvotes:** 257 | **Comments:** 273 | **Date:** 2026-01-06
 
-**Summary:** The post discusses the strategy of auto-buying $300 of VOO daily and seeks feedback on its long-term viability. The consensus from the comments is generally positive, with emphasis on consistency and long-term holding. Key points include the strategy's focus on daily investments, the praise for consistency and long-term holding, the mathematical advantage of lump sum investing, the importance of ensuring sufficient funds for essentials, and the overall acceptance of the strategy for long-term investment. The discussion highlights the importance of consistent investing and long-term holding, with the consensus being that time in the market is more crucial than timing the market.
+**Summary:** The post discusses the strategy of auto-buying $300 of VOO daily and seeks feedback on its long-term viability. The consensus is that consistent investing in a low-cost index fund is beneficial, though lump-sum investing may be mathematically superior.
+
+**Key Points:**
+- Auto-buying $300 of VOO daily is a consistent investment strategy.
+- Consistency and long-term holding are key to success.
+- Lump-sum investing may be mathematically better but timing the market is not recommended.
+- Ensuring sufficient funds for essentials is crucial before investing.
+
+**Discussion Highlights:** The discussion highlights the importance of consistent investing and long-term holding. While lump-sum investing is mathematically superior, the consensus is that time in the market is more important than timing the market. Additionally, ensuring financial stability for essentials is emphasized.
 
 ---
 
 ## 9. [How do you protect your investments against medical bills?](https://reddit.com/r/Bogleheads/comments/1q5ocby/how_do_you_protect_your_investments_against/)
 
-**Author:** u/Junekim10 | **Upvotes:** 103 | **Comments:** 152 | **Date:** 2026-01-06
+**Author:** u/Junekim10 | **Upvotes:** 108 | **Comments:** 151 | **Date:** 2026-01-06
 
-**Summary:** The post discusses the financial impact of nursing home costs on an individual's net worth and seeks advice on how to protect investments from such expenses. The discussion highlights the importance of Long Term Care insurance and proactive health measures. Key points include: Nursing home costs can significantly deplete one's net worth; Long Term Care insurance is suggested as a protective measure; Proactive health measures like exercise can reduce long-term care costs; Medicare does not cover nursing home costs; Two main strategies for nursing homes: using personal assets or planning ahead with insurance. The consensus in the discussion emphasizes the importance of Long Term Care insurance and proactive health measures to mitigate the financial impact of nursing home costs. Additionally, it clarifies the distinction between medical bills and nursing home costs, noting that Medicare does not cover the latter.
+**Summary:** The post discusses the financial impact of nursing home costs on an individual's net worth and seeks advice on how to protect investments from such expenses. The discussion highlights the importance of Long Term Care insurance and proactive health measures to mitigate these costs.
+
+**Key Points:**
+- Nursing home costs can significantly deplete one's net worth, as illustrated by the grandfather's experience.
+- Long Term Care insurance is recommended as a way to protect against nursing home expenses.
+- Proactive health measures, such as regular exercise, can lead to better health outcomes and reduce long-term care costs.
+- Medicare does not cover nursing home costs, necessitating alternative strategies like using personal assets or insurance.
+
+**Discussion Highlights:** The discussion emphasizes the importance of Long Term Care insurance and proactive health measures to mitigate nursing home costs. There is a consensus that Medicare does not cover nursing home expenses, and individuals need to plan ahead using insurance or personal assets.
 
 ---
 
 ## 10. [How Marginal Tax Rates Actually Work](https://reddit.com/r/Bogleheads/comments/1q57ud7/how_marginal_tax_rates_actually_work/)
 
-**Author:** u/Old_Claim_5500 | **Upvotes:** 1592 | **Comments:** 278 | **Date:** 2026-01-05
+**Author:** u/Old_Claim_5500 | **Upvotes:** 1606 | **Comments:** 278 | **Date:** 2026-01-05
 
 **Summary:** The Reddit post explains how marginal tax rates work, emphasizing that earning more does not necessarily result in taking home less money due to progressive taxation. The discussion highlights common misconceptions and clarifies the gradual nature of tax brackets.
 
 **Key Points:**
 - Marginal tax rates apply only to income within specific brackets, not the entire income.
-- Earning more does not always result in taking home less money, contrary to common misconceptions.
-- Tax brackets are gradual, and higher income does not push all income into a higher tax rate.
-- Certain income-based aids or benefits may create situations where earning more results in taking home less.
-- Understanding tax brackets is crucial for effective financial planning.
+- Earning more does not necessarily mean taking home less due to progressive taxation.
+- Tax brackets vary by country, with some having higher rates but also significant deductions.
+- Certain income-based aids or benefits may create situations where earning more results in less take-home pay.
+- Understanding tax rates is crucial for effective financial planning.
 
-**Discussion Highlights:** The discussion highlights common misunderstandings about tax brackets and emphasizes the importance of understanding how marginal tax rates work. Many commenters agree that this knowledge is fundamental for personal finance and should be prioritized over minor investment details.
+**Discussion Highlights:** The discussion highlights common misconceptions about tax brackets and emphasizes the importance of understanding how marginal tax rates work. There is a consensus that knowing this information is fundamental for personal finance and should be prioritized over minor investment details.
 
 ---
 
 ## 11. [Inheritance $400k. VT , VOO, VTI, VXUS, Target Date Funds. Overwhelmed](https://reddit.com/r/Bogleheads/comments/1q525qs/inheritance_400k_vt_voo_vti_vxus_target_date/)
 
-**Author:** u/rasberrybliss | **Upvotes:** 267 | **Comments:** 80 | **Date:** 2026-01-05
+**Author:** u/rasberrybliss | **Upvotes:** 263 | **Comments:** 80 | **Date:** 2026-01-05
 
-**Summary:** A 43-year-old woman inherited $400k and seeks advice on investing it, considering her current financial situation and future plans. She is overwhelmed by the options and wants to maximize her Roth IRA contributions while also investing the rest in a taxable account.
+**Summary:** A 43-year-old woman inherited $400k and seeks advice on investing it, considering her current financial situation and future plans. She is overwhelmed by the options and asks for guidance on maxing out her Roth IRA contributions and investing the rest in a taxable account.
 
 **Key Points:**
 - The author inherited $400k and wants to invest it wisely.
+- She is 43, single, no kids, no debt, and lives a simple life.
 - She plans to max out her Roth IRA contributions for 2025 and 2026.
-- She is considering switching to a more aggressive Target Date Fund (2050 or 2055) in her Roth IRA.
-- She plans to invest the remaining $385,500 in a taxable account at Vanguard, specifically in VT.
-- She lives a simple life and is focused on caring for her aging parents.
+- She is considering investing the rest in a taxable account at Vanguard.
+- She seeks advice on whether to use a more aggressive target date fund for her Roth IRA.
 
-**Discussion Highlights:** The discussion highlights the importance of checking the 401k details and potentially rolling it over to an IRA for lower fees. There is consensus that using a later date Target Date Fund for more aggression is acceptable. Some comments suggest separating investments in the taxable account for better management.
+**Discussion Highlights:** The top comments suggest checking the 401k for completeness, possibly rolling it over to an IRA for lower fees, and confirm that using a later date target date fund for more aggression is acceptable. There is also a suggestion to separate the taxable account investments.
 
 ---
 
 ## 12. [Over funded 529](https://reddit.com/r/Bogleheads/comments/1q4ye2y/over_funded_529/)
 
-**Author:** u/LazyBatter | **Upvotes:** 206 | **Comments:** 203 | **Date:** 2026-01-05
+**Author:** u/LazyBatter | **Upvotes:** 207 | **Comments:** 203 | **Date:** 2026-01-05
 
-**Summary:** The post discusses a situation where a family has overfunded 529 plans for their children, with $1.1mm saved but only expecting to need $300k each for college. The discussion focuses on strategies to manage the excess funds, such as Roth IRA conversions or changing beneficiaries. Key points include the excess funds of $600k, suggestions for Roth IRA conversions or changing beneficiaries, and reconsidering future education costs. The discussion highlights options like Roth IRA conversions and changing beneficiaries to utilize the excess funds effectively, with a consensus on reconsidering future education costs and the potential for additional degrees or higher education expenses.
+**Summary:** The author has overfunded 529 plans for their children, with $1.1mm saved for two kids who may only need $300k each for college. They seek advice on managing the excess $600k.
+
+**Key Points:**
+- The 529 plans are overfunded by approximately $600k.
+- Suggestions include converting some funds to a Roth IRA or reallocating for future family education needs.
+- Some commenters advise against assuming the children won't pursue graduate education.
+- The cost of graduate education (e.g., MBA) could be higher than anticipated.
+- The author is unsure whether to let the excess funds ride in VOO/VXUS.
+
+**Discussion Highlights:** The discussion highlights potential solutions like Roth IRA conversions and reallocating funds for broader family education needs. There is also a consensus that the author may be underestimating future education costs, especially for graduate studies.
 
 ---
 
 ## 13. [I just learned that my wife of 20 years has $114K in VGT](https://reddit.com/r/Bogleheads/comments/1q4xkb6/i_just_learned_that_my_wife_of_20_years_has_114k/)
 
-**Author:** u/No-Court7265 | **Upvotes:** 278 | **Comments:** 99 | **Date:** 2026-01-05
+**Author:** u/No-Court7265 | **Upvotes:** 287 | **Comments:** 100 | **Date:** 2026-01-05
 
-**Summary:** The author considers selling $14K of their wife's $114K VGT holdings to fund Roth IRAs for 2026 and reallocating the remainder to VOO, seeking community feedback on the tax implications and strategy.
+**Summary:** The author is considering selling $14K of their wife's VGT holdings to max out their Roth IRAs for 2026 and reallocating the remainder to VOO. The post discusses the financial context, the performance of VGT, and seeks community feedback on the plan.
 
 **Key Points:**
-- The VGT holdings predate the marriage and have seen significant growth in recent years.
-- The author aims to use $14K from VGT to max out Roth IRAs for 2026, considering tax benefits.
-- Community feedback highlights potential tax implications, especially regarding long-term capital gains.
-- The importance of mutual agreement in financial decisions is emphasized.
-- Some comments suggest letting the wife control her own investments.
+- The author and their wife have been transparent about their finances, with the wife's VGT holdings predating their marriage.
+- The author is considering selling part of the VGT to fund Roth IRAs and reallocating the remainder to VOO.
+- The community discusses the tax implications, legal aspects of pre-marriage assets, and the benefits of letting the wife control her own money.
+- VGT has shown significant growth in recent years, with notable returns in 2023, 2024, and 2025.
+- The author is seeking advice on whether this financial move is a good idea.
 
-**Discussion Highlights:** The discussion focuses on the tax implications of selling VGT now versus later, with some users pointing out potential 0% long-term capital gains tax in retirement. There is also a consensus on the importance of mutual agreement and transparency in financial decisions between spouses.
+**Discussion Highlights:** The community generally supports the idea of funding Roth IRAs but advises considering tax implications and legal aspects of pre-marriage assets. Some commenters suggest letting the wife control her own money, while others discuss the potential benefits of long-term capital gains tax rates in retirement.
 
 ---
 
 ## 14. [2026 Vanguard report_ stocks and bonds](https://reddit.com/r/Bogleheads/comments/1q493co/2026_vanguard_report_stocks_and_bonds/)
 
-**Author:** u/Black_Thunder00 | **Upvotes:** 101 | **Comments:** 81 | **Date:** 2026-01-04
+**Author:** u/Black_Thunder00 | **Upvotes:** 104 | **Comments:** 75 | **Date:** 2026-01-04
 
 **Summary:** Vanguard's 2026 outlook suggests bonds will perform well over the next decade, leading to an adjusted 40/60 portfolio allocation. The post discusses community reactions to this shift.
 
@@ -210,10 +234,10 @@
 - Vanguard expects bonds to perform well and equities to have lower returns.
 - Vanguard adjusted its classic 60/40 portfolio to 40/60.
 - The new allocation aims for similar long-term returns with lower risk.
-- Community reactions vary, with some emphasizing long-term perspectives and others questioning predictions.
-- Some commenters highlight the uncertainty in long-term predictions.
+- Community reactions vary from support to skepticism about predictions.
+- Some commenters emphasize the long-term nature of the outlook.
 
-**Discussion Highlights:** The discussion includes a mix of acceptance and skepticism. Some users emphasize maintaining a balanced approach and not overreacting to predictions, while others question the accuracy of long-term forecasts. There is a general consensus on the importance of long-term investing and not making drastic changes based on short-term predictions.
+**Discussion Highlights:** The discussion highlights a mix of support for Vanguard's approach and skepticism about the accuracy of long-term predictions. Some commenters emphasize the importance of a balanced approach and understanding the basis of Vanguard's outlook.
 
 ---
 
@@ -221,66 +245,66 @@
 
 **Author:** u/becksrunrunrun | **Upvotes:** 113 | **Comments:** 93 | **Date:** 2026-01-04
 
-**Summary:** The post discusses the strategy of front-loading 401k contributions early in the year, with the author planning to contribute 50% of their paycheck until reaching their yearly goal. The discussion focuses on potential downsides and considerations, particularly regarding employer matching contributions.
+**Summary:** The post discusses the strategy of front-loading 401k contributions early in the year, highlighting potential downsides and considerations. The author plans to contribute 50% of their paycheck until reaching their desired yearly contribution, taking advantage of lower spending in the first few months.
 
 **Key Points:**
 - Front-loading 401k contributions can help maximize contributions early in the year.
-- Employer match policies vary; some require contributions throughout the year to receive the full match.
-- Missing out on employer matches is a significant downside if the employer does not offer a 'true up' at year-end.
-- Front-loading can be beneficial if there's a risk of job loss later in the year.
-- Financial flexibility may be reduced if unforeseen expenses arise later in the year.
+- Employer match policies vary; some companies do a 'true up' at year-end, while others match per paycheck, potentially causing missed matches if contributions stop early.
+- Front-loading can ensure contributions are maximized even if unexpected financial changes occur later in the year.
+- Missing out on employer matches is a significant downside if the employer does not do a year-end true up.
+- Financial flexibility might be reduced later in the year if contributions are front-loaded.
 
-**Discussion Highlights:** The discussion highlights the importance of verifying employer match policies, with many commenters emphasizing the need to ensure a 'true up' is offered if front-loading contributions. There is a consensus that while front-loading can be advantageous for maximizing contributions, it may lead to missed matches and reduced financial flexibility if not managed carefully.
+**Discussion Highlights:** The discussion emphasizes the importance of understanding employer match policies, particularly whether they offer a year-end 'true up.' Many commenters highlight the risk of missing out on employer matches if contributions are front-loaded and the employer does not adjust for this. Some also note the benefit of ensuring contributions are maximized early, which can be advantageous in case of unexpected financial changes.
 
 ---
 
 ## 16. [Question for 40-50 year olds with modest account totals](https://reddit.com/r/Bogleheads/comments/1q3unbq/question_for_4050_year_olds_with_modest_account/)
 
-**Author:** u/TechnicalStaff8856 | **Upvotes:** 121 | **Comments:** 102 | **Date:** 2026-01-04
+**Author:** u/TechnicalStaff8856 | **Upvotes:** 120 | **Comments:** 102 | **Date:** 2026-01-04
 
-**Summary:** The post discusses how the 2008 financial crisis influenced investment strategies for individuals in their 40s and 50s who started retirement planning late. Many users share their experiences and adjustments in fund selection and risk tolerance.
+**Summary:** The post discusses how the 2008 financial crisis influenced investment strategies among 40-50 year olds with modest retirement savings, highlighting varied approaches from risk aversion to aggressive investing.
 
 **Key Points:**
-- The 2008 financial crisis significantly impacted investment behaviors and risk tolerance.
-- Some individuals became more conservative, keeping savings in cash or focusing on emergency funds.
-- Others adopted more aggressive strategies, such as a 100/0 equity/bond split, to compensate for lost time.
-- Personal experiences varied widely, with some users realizing the importance of diversification and long-term planning.
-- Many emphasized the importance of eliminating debt and maximizing savings in retirement accounts.
+- The 2008 financial crisis led some individuals to avoid stock market investments, keeping savings in cash.
+- Others maintained their investment strategies but focused on building emergency funds and reducing expenses.
+- Some late starters adopted aggressive investment strategies, such as a 100/0 equity/bond split, to compensate for lost time.
+- Personal experiences varied widely, with some individuals realizing the importance of diversification and long-term planning post-crisis.
 
-**Discussion Highlights:** The discussion highlights a range of responses to the 2008 financial crisis, from conservative approaches focusing on emergency funds and debt elimination to more aggressive investment strategies. There is a consensus on the importance of long-term planning and diversification, but individual approaches vary based on personal experiences and financial situations.
+**Discussion Highlights:** The discussion revealed a mix of risk-averse and aggressive investment strategies, with a consensus on the importance of emergency funds and expense management. Many users shared personal anecdotes about how the crisis reshaped their financial behaviors and investment choices.
 
 ---
 
 ## 17. [Retiring after this year. 42 years old.](https://reddit.com/r/Bogleheads/comments/1q3c8u3/retiring_after_this_year_42_years_old/)
 
-**Author:** u/Ok-Computer1234567 | **Upvotes:** 422 | **Comments:** 277 | **Date:** 2026-01-03
+**Author:** u/Ok-Computer1234567 | **Upvotes:** 424 | **Comments:** 278 | **Date:** 2026-01-03
 
-**Summary:** The author plans to retire at 43 with a $60–65k pension, significant savings in a 457(b), crypto holdings, and a paid-off house. They aim to build a taxable brokerage to offset inflation and ensure financial stability.
+**Summary:** The author plans to retire at 43 with a $60–65k pension, significant savings in a 457(b), crypto holdings, and a paid-off house. They aim to manage inflation and future spending through a taxable brokerage and Roth conversions.
 
 **Key Points:**
 - Retiring at 43 with a $60–65k pension and $2,800–3,500/month spending.
-- Assets include $500k in 457(b), $250k in crypto, and a paid-off house.
-- Concerns about inflation eroding pension value and the need to rebalance crypto holdings.
-- Discussion highlights the risk of high crypto allocation and potential underestimation of future spending needs.
+- Assets include $500k in a 457(b), $250k in crypto, and a paid-off house.
+- Concerns about inflation eroding the pension in 7–10 years.
+- Feedback highlights the need to rebalance crypto holdings and consider future spending.
+- Discussion emphasizes the importance of pension stability and long-term financial planning.
 
-**Discussion Highlights:** The discussion emphasizes reducing crypto exposure and considering future spending needs. There is also a suggestion to verify pension stability and explore social security benefits in the 60s.
+**Discussion Highlights:** The discussion consensus advises rebalancing the crypto portfolio and considering future spending needs. There is also a focus on the stability of the pension and the potential impact of inflation.
 
 ---
 
 ## 18. [Are my wife and I on track to retire okay?](https://reddit.com/r/Bogleheads/comments/1q36tjb/are_my_wife_and_i_on_track_to_retire_okay/)
 
-**Author:** u/adamousprimr | **Upvotes:** 114 | **Comments:** 71 | **Date:** 2026-01-03
+**Author:** u/adamousprimr | **Upvotes:** 116 | **Comments:** 71 | **Date:** 2026-01-03
 
-**Summary:** A couple in their 40s with a combined income of $100,000, a net worth of $200,000, and a home with a $250,000 mortgage seeks feedback on their retirement plan. They aim to retire in 20-25 years with a projected $2,000,000 in savings, but commenters suggest this may be unrealistic with their current savings rate.
+**Summary:** A 40-year-old couple with a combined income of $100,000, a net worth of $200,000, and a home valued at $350,000 seeks feedback on their retirement plan. They aim to retire in 20-25 years with a projected $2,000,000 in savings, but commenters suggest their calculations may be overly optimistic and recommend increasing their monthly savings.
 
 **Key Points:**
 - Couple is 40 years old with two kids, earning $100,000 annually.
-- Net worth is $200,000, mostly invested, with a $250,000 mortgage.
+- Net worth is $200,000, mostly invested, with a home valued at $350,000.
 - They plan to retire in 20-25 years with a projected $2,000,000 in savings.
-- Commenters suggest their savings rate of $500/month may not be sufficient to reach $2,000,000.
-- Recommendations include increasing savings to at least $1,000/month and considering higher income.
+- Commenters suggest their retirement calculator may be overly optimistic.
+- Recommendations include increasing monthly savings to at least $1,000.
 
-**Discussion Highlights:** Commenters generally agree that the couple is on a good path but needs to increase their savings rate significantly. Many suggest that a $500/month savings rate is insufficient to reach their $2,000,000 goal and recommend saving at least $1,000/month. Some also advise increasing their income to boost savings further.
+**Discussion Highlights:** The discussion highlights concerns about the realism of the couple's retirement projections, with many commenters suggesting they need to save more aggressively. There is a consensus that while they are on a good path, increasing their monthly savings and potentially their income would significantly improve their retirement outlook.
 
 ---
 
