@@ -66,9 +66,9 @@ Digests are saved to the `digest/` folder:
 
 ## Documentation
 
+- [Quick Start](docs/QUICK_START.md) - Common commands and use cases
 - [Technical Details](docs/TECHNICAL.md) - Architecture, all CLI options, GitHub Actions examples
 - [Developer Guide](CLAUDE.md) - Development commands and guidelines
-- [Quick Start](QUICK_START.md) - Common commands and use cases
 
 ## Live Demo
 
