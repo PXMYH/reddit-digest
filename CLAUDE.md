@@ -31,12 +31,12 @@ This is a Reddit Subreddit Digest Generator that uses the ACE (Agentic Context E
 uv run python summarize_subreddit.py LocalLLaMA --start 2025-12-10 --end 2025-12-17
 
 # Timeframe mode (NEW - fast, no summaries by default)
-uv run python summarize_subreddit.py Fire --timeframe year
+uv run python summarize_subreddit.py Fire --timeframe week
 
 # Timeframe mode with summaries (NEW)
-uv run python summarize_subreddit.py Fire --timeframe year --summarize
+uv run python summarize_subreddit.py Fire --timeframe week --summarize
 
-# All timeframe options: hour, day, week, month, year, all
+# Timeframe options: week, month
 uv run python summarize_subreddit.py Python --timeframe month --summarize
 
 # With all options (date range mode)
@@ -116,7 +116,7 @@ The tool supports two mutually exclusive modes for fetching posts:
 - **Use case:** Historical analysis, specific date ranges
 
 **2. Timeframe Mode** (`--timeframe`):
-- Fetches top posts from a specific timeframe (hour/day/week/month/year/all)
+- Fetches top posts from a specific timeframe (week/month)
 - Uses `/r/{subreddit}/top.json?t={timeframe}` endpoint
 - Reddit handles timeframe filtering server-side
 - **Default behavior:** No AI summaries (fast mode, can enable with `--summarize`)

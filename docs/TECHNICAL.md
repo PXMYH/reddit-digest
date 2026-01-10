@@ -46,7 +46,7 @@ reddit-digest/
 | `SUBREDDIT` | Name of subreddit (without r/) | Required |
 | `--start`, `-s` | Start date (YYYY-MM-DD) | Required with `--end` |
 | `--end`, `-e` | End date (YYYY-MM-DD) | Required with `--start` |
-| `--timeframe`, `-t` | Timeframe (week/month/year) | Alternative to start/end |
+| `--timeframe`, `-t` | Timeframe (week/month) | Alternative to start/end |
 | `--summarize/--no-summarize` | Generate AI summaries | True for date range, False for timeframe |
 | `--min-upvotes` | Minimum upvotes threshold | 100 |
 | `--min-comments` | Minimum comments threshold | 30 |

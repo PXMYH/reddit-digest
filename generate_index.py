@@ -26,7 +26,7 @@ def scan_digest_files(digest_dir="digest"):
     pattern1 = os.path.join(digest_dir, "*-*.md")
     for filepath in glob.glob(pattern1):
         filename = os.path.basename(filepath)
-        match = re.match(r'(.+?)-(week|month|year)\.md$', filename)
+        match = re.match(r'(.+?)-(week|month)\.md$', filename)
 
         if match:
             subreddit = match.group(1)
@@ -41,7 +41,7 @@ def scan_digest_files(digest_dir="digest"):
     pattern2 = os.path.join(digest_dir, "*_top_*_*.md")
     for filepath in glob.glob(pattern2):
         filename = os.path.basename(filepath)
-        match = re.match(r'(.+?)_top_(week|month|year)_(\d{4}-\d{2}-\d{2})\.md$', filename)
+        match = re.match(r'(.+?)_top_(week|month)_(\d{4}-\d{2}-\d{2})\.md$', filename)
 
         if match:
             subreddit = match.group(1)
@@ -153,11 +153,11 @@ def generate_html(digest_data, digest_metadata):
     # Get unique subreddits and timeframes for organization
     subreddits = sorted(set(meta['subreddit'] for meta in digest_metadata.values()))
     available_timeframes = sorted(set(meta['timeframe'] for meta in digest_metadata.values()),
-                                   key=lambda x: ['week', 'month', 'year'].index(x) if x in ['week', 'month', 'year'] else 99)
+                                   key=lambda x: ['week', 'month'].index(x) if x in ['week', 'month'] else 99)
 
     # Define timeframe display order and labels
-    timeframe_order = ['week', 'month', 'year']
-    timeframe_labels = {'week': 'Weekly', 'month': 'Monthly', 'year': 'Yearly'}
+    timeframe_order = ['week', 'month']
+    timeframe_labels = {'week': 'Weekly', 'month': 'Monthly'}
 
     # Generate dropdown options only for available timeframes
     dropdown_options = ""

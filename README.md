@@ -38,7 +38,6 @@ uv run python summarize_subreddit.py Python --timeframe week --summarize
 
 - `week` - Top posts from the past week
 - `month` - Top posts from the past month
-- `year` - Top posts from the past year
 
 ### Custom date range
 
@@ -62,7 +61,6 @@ uv run python summarize_subreddit.py Python \
 Digests are saved to the `digest/` folder:
 - `Python-week.md` - Weekly digest
 - `Python-month.md` - Monthly digest
-- `Python-year.md` - Yearly digest
 
 ## Documentation
 

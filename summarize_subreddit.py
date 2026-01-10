@@ -40,7 +40,7 @@ load_dotenv()
 @click.option(
     "--timeframe",
     "-t",
-    type=click.Choice(["hour", "day", "week", "month", "year", "all"], case_sensitive=False),
+    type=click.Choice(["week", "month"], case_sensitive=False),
     default=None,
     help="Timeframe for top posts (alternative to --start/--end)",
 )

@@ -27,9 +27,6 @@ Perfect for quick overviews and when you just want the post list:
 # Get top posts from past week (~5 seconds)
 uv run python summarize_subreddit.py Python --timeframe week
 
-# Get top posts from past year (~10 seconds)
-uv run python summarize_subreddit.py Fire --timeframe year
-
 # Get top posts from past month
 uv run python summarize_subreddit.py MachineLearning --timeframe month
 ```
@@ -40,8 +37,8 @@ uv run python summarize_subreddit.py MachineLearning --timeframe month
 For comprehensive analysis with AI-powered summaries:
 
 ```bash
-# Top posts from past year WITH summaries (~3-5 minutes)
-uv run python summarize_subreddit.py Fire --timeframe year --summarize
+# Top posts from past week WITH summaries (~2-3 minutes)
+uv run python summarize_subreddit.py Fire --timeframe week --summarize
 
 # Top posts from past month WITH summaries
 uv run python summarize_subreddit.py Python --timeframe month --summarize
@@ -89,16 +86,7 @@ uv run python summarize_subreddit.py Python --timeframe week --summarize
 **Time**: 2-3 minutes
 **Output**: AI summaries, key insights, discussion highlights
 
-### Use Case 3: Annual Digest
-```bash
-# Top posts of the year with AI analysis
-uv run python summarize_subreddit.py Fire --timeframe year --summarize --max-posts 50
-```
-
-**Time**: 5-10 minutes
-**Output**: Best-of-year digest with comprehensive summaries
-
-### Use Case 4: Custom Research
+### Use Case 3: Custom Research
 ```bash
 # Specific date range with custom filters
 uv run python summarize_subreddit.py Bogleheads \
@@ -155,7 +143,7 @@ open docs/index.html
 
 The index page includes:
 - ✅ Tabbed interface for each subreddit
-- ✅ Filter by timeframe (week/month/year)
+- ✅ Filter by timeframe (week/month)
 - ✅ Click post titles to open on Reddit
 - ✅ Auto-generated from digest/ folder
 
@@ -164,17 +152,17 @@ The index page includes:
 ### Tip 1: Fast Mode First, Then Summarize
 ```bash
 # 1. Quick scan to see what's available (~5 seconds)
-uv run python summarize_subreddit.py Fire --timeframe year
+uv run python summarize_subreddit.py Fire --timeframe month
 
 # 2. Review the output, then decide if you want summaries
-uv run python summarize_subreddit.py Fire --timeframe year --summarize
+uv run python summarize_subreddit.py Fire --timeframe month --summarize
 ```
 
 ### Tip 2: Use Checkpoints for Large Jobs
 ```bash
 # For long-running summarization (>20 posts)
 uv run python summarize_subreddit.py MachineLearning \
-  --timeframe year \
+  --timeframe month \
   --summarize \
   --checkpoint progress.json \
   --checkpoint-interval 10
@@ -322,6 +310,6 @@ jobs:
 |---------|------|--------|
 | `--timeframe week` | ~5s | Post list |
 | `--timeframe week --summarize` | ~2-3min | Full digest |
-| `--timeframe year` | ~10s | Post list |
-| `--timeframe year --summarize` | ~5-10min | Full digest |
+| `--timeframe month` | ~10s | Post list |
+| `--timeframe month --summarize` | ~3-5min | Full digest |
 | Date range (7 days) | ~3-5min | Full digest |
