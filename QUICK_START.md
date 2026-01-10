@@ -34,7 +34,7 @@ uv run python summarize_subreddit.py Fire --timeframe year
 uv run python summarize_subreddit.py MachineLearning --timeframe month
 ```
 
-**Output**: `digest/{subreddit}_top_{timeframe}_{date}.md`
+**Output**: `digest/{subreddit}-{timeframe}.md`
 
 ### Full Digest Mode (With AI Summaries)
 For comprehensive analysis with AI-powered summaries:
@@ -155,7 +155,7 @@ open docs/index.html
 
 The index page includes:
 - ✅ Tabbed interface for each subreddit
-- ✅ Filter by timeframe (hour/day/week/month/year/all/date-range)
+- ✅ Filter by timeframe (week/month/year)
 - ✅ Click post titles to open on Reddit
 - ✅ Auto-generated from digest/ folder
 
