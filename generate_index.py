@@ -152,9 +152,19 @@ def generate_html(digest_data, digest_metadata):
 
     # Get unique subreddits and timeframes for organization
     subreddits = sorted(set(meta['subreddit'] for meta in digest_metadata.values()))
+    available_timeframes = sorted(set(meta['timeframe'] for meta in digest_metadata.values()),
+                                   key=lambda x: ['week', 'month', 'year'].index(x) if x in ['week', 'month', 'year'] else 99)
 
-    # Define timeframe display order
+    # Define timeframe display order and labels
     timeframe_order = ['week', 'month', 'year']
+    timeframe_labels = {'week': 'Weekly', 'month': 'Monthly', 'year': 'Yearly'}
+
+    # Generate dropdown options only for available timeframes
+    dropdown_options = ""
+    for i, tf in enumerate(available_timeframes):
+        label = timeframe_labels.get(tf, tf.title())
+        selected = " selected" if i == 0 else ""
+        dropdown_options += f'                <option value="{tf}"{selected}>{label}</option>\n'
 
     html = f"""<!DOCTYPE html>
 <html lang="en">
@@ -176,10 +186,7 @@ def generate_html(digest_data, digest_metadata):
         <div class="filter-controls">
             <label for="timeframe-filter">Filter by timeframe:</label>
             <select id="timeframe-filter" onchange="filterByTimeframe()">
-                <option value="week" selected>Weekly</option>
-                <option value="month">Monthly</option>
-                <option value="year">Yearly</option>
-            </select>
+{dropdown_options}            </select>
         </div>
 
         <div class="tabs">
