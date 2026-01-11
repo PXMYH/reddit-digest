@@ -44,8 +44,8 @@ uv.lock
 # Playwright MCP screenshots
 .playwright-mcp/
 
-# Checkpoints (optional - uncomment to ignore)
-# *.checkpoint.json
+# Summary cache
+cache/
 
 # PyInstaller
 # Note: reddit_digest.spec is committed for GitHub Actions builds
