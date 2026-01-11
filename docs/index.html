@@ -177,7 +177,7 @@
     <header>
         <div class="container">
             <h1>🔥 Reddit Digest Reader</h1>
-            <div class="last-updated">Last Updated: 2026-01-11 15:32 UTC</div>
+            <div class="last-updated">Last Updated: 2026-01-11 15:56 UTC</div>
         </div>
     </header>
 
@@ -201,6 +201,7 @@
             <button class="tab-button" data-timeframe="month" data-subreddit="financialindependence" onclick="openTab('financialindependence-month')">financialindependence</button>
             <button class="tab-button" data-timeframe="week" data-subreddit="formula1" onclick="openTab('formula1-week')">formula1</button>
             <button class="tab-button" data-timeframe="month" data-subreddit="formula1" onclick="openTab('formula1-month')">formula1</button>
+            <button class="tab-button" data-timeframe="week" data-subreddit="test" onclick="openTab('test-week')">test</button>
         </div>
 
         <div id="Bogleheads-week" class="tab-content active">
@@ -8681,6 +8682,17 @@
 
         </div>
 
+        <div id="test-week" class="tab-content">
+            <div class="digest-header">
+                <h2>r/test Reading Digest</h2>
+                <div class="digest-meta">
+                    <strong>Period:</strong> 2026-01-10 to 2026-01-10 |
+                    <strong>Posts:</strong> 0
+                </div>
+            </div>
+
+        </div>
+
         <button id="scrollToTop" class="scroll-to-top" onclick="scrollToTop()" title="Scroll to top">↑</button>
 
         <script>
@@ -8757,6 +8769,11 @@
                     behavior: 'smooth'
                 });
             }
+
+            // Filter tabs on initial page load to match dropdown default
+            document.addEventListener('DOMContentLoaded', function() {
+                filterByTimeframe();
+            });
         </script>
     </div>
 </body>

@@ -299,6 +299,11 @@ def generate_html(digest_data, digest_metadata):
                     behavior: 'smooth'
                 });
             }
+
+            // Filter tabs on initial page load to match dropdown default
+            document.addEventListener('DOMContentLoaded', function() {
+                filterByTimeframe();
+            });
         </script>
     </div>
 </body>
