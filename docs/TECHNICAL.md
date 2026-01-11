@@ -56,8 +56,8 @@ reddit-digest/
 | `--skillbook` | Load existing skillbook | None |
 | `--save-skillbook` | Save updated skillbook | None |
 | `--no-comments` | Skip comment analysis | False |
-| `--checkpoint` | Checkpoint file for resume | None |
-| `--checkpoint-interval` | Save checkpoint every N posts | 5 |
+| `--cache/--no-cache` | Enable/disable summary caching | True (enabled) |
+| `--cache-dir` | Cache directory path | cache |
 
 **Note:** Use either `--start/--end` (date range mode) OR `--timeframe` (timeframe mode), not both.
 
@@ -109,19 +109,22 @@ uv run python summarize_subreddit.py python --timeframe week --output digest.htm
 
 Format is auto-detected from file extension.
 
-## Checkpoint Support
+## Summary Caching
 
-For long-running tasks, use checkpoints to save progress:
+Summaries are cached by default to avoid re-processing posts:
 
 ```bash
-# Start with checkpoint
-uv run python summarize_subreddit.py MachineLearning \
-  --timeframe year --summarize \
-  --checkpoint ml_progress.json \
-  --checkpoint-interval 5
+# First run: summarizes all posts (cache miss)
+uv run python summarize_subreddit.py MachineLearning --timeframe month --summarize
 
-# If interrupted, re-run the same command to resume
+# Second run: uses cached summaries (instant)
+uv run python summarize_subreddit.py MachineLearning --timeframe month --summarize
+
+# Disable cache for fresh summaries
+uv run python summarize_subreddit.py MachineLearning --timeframe month --summarize --no-cache
 ```
+
+Cache files are stored in `cache/{subreddit}.json` and keyed by post ID.
 
 ## GitHub Actions Integration
 
@@ -219,4 +222,4 @@ uv run pylint reddit_summarizer/
 - **[api_patterns-00002]**: Explicit timeout on HTTP requests (10s default)
 - **[api_patterns-00003]**: Pagination limits for data collection (100 items max)
 - **[api_patterns-00004]**: Rate limiting delays between API calls
-- **[execution_patterns-00005]**: Progress checkpoints for multi-step tasks
+- **[caching-00001]**: Summary caching to avoid re-processing posts

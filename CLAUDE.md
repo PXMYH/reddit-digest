@@ -46,9 +46,10 @@ uv run python summarize_subreddit.py python \
   --max-posts 25 \
   --model openrouter/openai/gpt-4o \
   --output my_digest.md \
-  --save-skillbook skillbook.json \
-  --checkpoint progress.json \
-  --checkpoint-interval 10
+  --save-skillbook skillbook.json
+
+# Disable cache for fresh summaries
+uv run python summarize_subreddit.py python --timeframe week --summarize --no-cache
 ```
 
 ### Building the Executable

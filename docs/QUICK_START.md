@@ -158,16 +158,15 @@ uv run python summarize_subreddit.py Fire --timeframe month
 uv run python summarize_subreddit.py Fire --timeframe month --summarize
 ```
 
-### Tip 2: Use Checkpoints for Large Jobs
+### Tip 2: Cache Speeds Up Repeated Runs
 ```bash
-# For long-running summarization (>20 posts)
-uv run python summarize_subreddit.py MachineLearning \
-  --timeframe month \
-  --summarize \
-  --checkpoint progress.json \
-  --checkpoint-interval 10
+# Cache is enabled by default - repeated runs are instant for cached posts
+uv run python summarize_subreddit.py MachineLearning --timeframe month --summarize
+# First run: summarizes all posts (cache miss)
+# Second run: uses cached summaries (instant)
 
-# If interrupted, just re-run the same command - it resumes!
+# Disable cache for fresh summaries
+uv run python summarize_subreddit.py MachineLearning --timeframe month --summarize --no-cache
 ```
 
 ### Tip 3: Save Your Skillbook
@@ -283,7 +282,7 @@ jobs:
 2. **Try summaries**: `--timeframe week --summarize`
 3. **Explore date ranges**: `--start YYYY-MM-DD --end YYYY-MM-DD`
 4. **Customize filters**: `--min-upvotes`, `--max-posts`
-5. **Advanced features**: `--checkpoint`, `--skillbook`
+5. **Advanced features**: `--no-cache`, `--skillbook`
 6. **Automate**: GitHub Actions workflows
 
 ---
@@ -298,7 +297,7 @@ jobs:
 │ With summaries:   --timeframe week --summarize              │
 │ Date range:       --start 2025-12-01 --end 2025-12-31      │
 │ Custom filters:   --min-upvotes 200 --max-posts 30         │
-│ Checkpoint:       --checkpoint progress.json                │
+│ No cache:         --no-cache                                │
 │ View digests:     python generate_index.py                  │
 │ Help:             uv run python summarize_subreddit.py --help│
 └─────────────────────────────────────────────────────────────┘
