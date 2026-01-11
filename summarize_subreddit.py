@@ -16,7 +16,7 @@ from pathlib import Path
 import click
 from dotenv import load_dotenv
 
-from reddit_summarizer import RedditFetcher, RedditSummarizer
+from reddit_summarizer import RedditFetcher, RedditSummarizer, SummaryCache
 
 
 # Load environment variables
@@ -86,14 +86,14 @@ load_dotenv()
     help="Skip fetching and analyzing comments",
 )
 @click.option(
-    "--checkpoint",
-    default=None,
-    help="Path to checkpoint file for resumable processing",
+    "--cache/--no-cache",
+    default=True,
+    help="Cache summaries to avoid re-processing (default: enabled)",
 )
 @click.option(
-    "--checkpoint-interval",
-    default=5,
-    help="Save checkpoint every N posts (default: 5)",
+    "--cache-dir",
+    default="cache",
+    help="Cache directory path (default: cache)",
 )
 @click.option(
     "--summarize/--no-summarize",
@@ -113,8 +113,8 @@ def main(
     skillbook: str,
     save_skillbook: str,
     no_comments: bool,
-    checkpoint: str,
-    checkpoint_interval: int,
+    cache: bool,
+    cache_dir: str,
     summarize: bool,
 ):
     """
@@ -127,10 +127,13 @@ def main(
         python summarize_subreddit.py MachineLearning --start 2024-01-01 --end 2024-01-31
 
         # Timeframe mode (no summaries by default, fast)
-        python summarize_subreddit.py Fire --timeframe year
+        python summarize_subreddit.py Fire --timeframe week
 
-        # Timeframe mode with summaries
-        python summarize_subreddit.py Fire --timeframe year --summarize
+        # Timeframe mode with summaries (cache enabled by default)
+        python summarize_subreddit.py Fire --timeframe week --summarize
+
+        # Disable caching for fresh summaries
+        python summarize_subreddit.py Fire --timeframe week --summarize --no-cache
     """
     click.echo(f"\n🤖 Reddit Subreddit Summarizer with ACE Framework\n")
     click.echo(f"Subreddit: r/{subreddit}")
@@ -224,17 +227,21 @@ def main(
 
         # Handle summarization
         if summarize:
+            # Initialize cache if enabled
+            summary_cache = None
+            if cache:
+                summary_cache = SummaryCache(cache_dir=cache_dir)
+                click.echo(f"📦 Caching: Enabled (directory: {cache_dir})")
+
             # Full digest generation with AI summaries
             summarizer = RedditSummarizer(
                 model=model,
                 skillbook_path=skillbook,
                 fetcher=fetcher,
+                cache=summary_cache,
             )
 
             click.echo("🔮 Generating digest with AI summaries...")
-            if checkpoint:
-                click.echo(f"📂 Checkpoint enabled: {checkpoint}")
-                click.echo(f"   Saving every {checkpoint_interval} posts")
 
             digest = summarizer.generate_digest(
                 posts=posts,
@@ -242,8 +249,6 @@ def main(
                 start_date=start_date if date_mode else datetime.now(),
                 end_date=end_date if date_mode else datetime.now(),
                 include_comments=not no_comments,
-                checkpoint_file=checkpoint,
-                checkpoint_interval=checkpoint_interval,
             )
         else:
             # Fast mode: no summaries, just create digest from posts
