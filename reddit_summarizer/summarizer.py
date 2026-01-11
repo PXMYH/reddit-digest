@@ -3,12 +3,11 @@ ACE-powered Reddit post summarizer with self-improving capabilities
 """
 
 import json
-import os
 from datetime import datetime
-from pathlib import Path
 from typing import List, Optional
 from .models import RedditPost, PostSummary, SubredditDigest
 from .fetcher import RedditFetcher
+from .cache import SummaryCache
 
 try:
     from tqdm import tqdm
@@ -40,6 +39,7 @@ class RedditSummarizer:
         model: str = "openrouter/mistralai/devstral-2512:free",
         skillbook_path: Optional[str] = None,
         fetcher: Optional[RedditFetcher] = None,
+        cache: Optional[SummaryCache] = None,
     ):
         """
         Initialize the summarizer with ACE components
@@ -48,9 +48,11 @@ class RedditSummarizer:
             model: LLM model to use (default: openrouter/mistralai/devstral-2512:free)
             skillbook_path: Path to load existing skillbook (optional)
             fetcher: RedditFetcher instance (optional, will create one if not provided)
+            cache: SummaryCache instance for caching summaries (optional)
         """
         self.model = model
         self.fetcher = fetcher
+        self.cache = cache
 
         # Initialize LLM client
         self.llm = LiteLLMClient(model=model)
@@ -156,11 +158,9 @@ Format your response as JSON:
         end_date: datetime,
         include_comments: bool = True,
         show_progress: bool = True,
-        checkpoint_file: Optional[str] = None,
-        checkpoint_interval: int = 5,
     ) -> SubredditDigest:
         """
-        Generate a complete digest for multiple posts with checkpoint support
+        Generate a complete digest for multiple posts with caching support
 
         Args:
             posts: List of RedditPost objects to summarize
@@ -169,49 +169,60 @@ Format your response as JSON:
             end_date: End date of the digest period
             include_comments: Whether to include comment analysis
             show_progress: Whether to show progress bar (default: True)
-            checkpoint_file: Path to save/resume checkpoints (optional) [execution_patterns-00005]
-            checkpoint_interval: Save checkpoint every N posts (default: 5)
 
         Returns:
             SubredditDigest with all post summaries
         """
         summaries = []
-        start_index = 0
         total = len(posts)
+        cache_hits = 0
+        cache_misses = 0
 
-        # Try to resume from checkpoint [execution_patterns-00005]
-        if checkpoint_file and os.path.exists(checkpoint_file):
-            print(f"📂 Resuming from checkpoint: {checkpoint_file}")
-            summaries, start_index = self._load_checkpoint(checkpoint_file)
-            print(f"   Resuming from post {start_index}/{total}")
+        # Load cache for this subreddit if caching is enabled
+        if self.cache:
+            self.cache.load(subreddit)
 
         if not show_progress or not TQDM_AVAILABLE:
             print(f"\nGenerating summaries for {total} posts...")
 
         # Create progress bar if tqdm is available
         posts_iter = tqdm(
-            posts[start_index:],
+            posts,
             desc="Summarizing posts",
             unit="post",
-            initial=start_index,
             total=total,
             disable=not (show_progress and TQDM_AVAILABLE),
         )
 
-        for idx, post in enumerate(posts_iter, start=start_index):
+        for post in posts_iter:
             try:
                 # Update description with current post title
                 if show_progress and TQDM_AVAILABLE:
                     posts_iter.set_postfix_str(f"{post.title[:40]}...")
 
+                # Check cache first
+                if self.cache:
+                    cached = self.cache.get(subreddit, post.post_id)
+                    if cached:
+                        # Use cached summary
+                        summary = PostSummary(
+                            post=post,
+                            summary=cached["summary"],
+                            key_points=cached["key_points"],
+                            discussion_highlights=cached["discussion_highlights"],
+                        )
+                        summaries.append(summary)
+                        cache_hits += 1
+                        continue
+
+                # Cache miss - generate new summary
                 summary = self.summarize_post(post, include_comments=include_comments)
                 summaries.append(summary)
+                cache_misses += 1
 
-                # Save checkpoint periodically [execution_patterns-00005]
-                if checkpoint_file and (idx + 1) % checkpoint_interval == 0:
-                    self._save_checkpoint(checkpoint_file, summaries, idx + 1)
-                    if show_progress and TQDM_AVAILABLE:
-                        tqdm.write(f"💾 Checkpoint saved at post {idx + 1}/{total}")
+                # Store in cache
+                if self.cache:
+                    self.cache.put(subreddit, post.post_id, summary)
 
             except Exception as e:
                 if not show_progress or not TQDM_AVAILABLE:
@@ -220,9 +231,11 @@ Format your response as JSON:
                     tqdm.write(f"  ⚠️  Error summarizing post '{post.title[:50]}': {e}")
                 continue
 
-        # Remove checkpoint file on successful completion
-        if checkpoint_file and os.path.exists(checkpoint_file):
-            os.remove(checkpoint_file)
+        # Save cache after processing
+        if self.cache:
+            self.cache.save(subreddit)
+            stats = self.cache.get_stats(subreddit)
+            print(f"\n📦 Cache: {stats['hits']} hits, {stats['misses']} misses ({stats['cached_posts']} total cached)")
 
         digest = SubredditDigest(
             subreddit=subreddit,
@@ -233,82 +246,6 @@ Format your response as JSON:
         )
 
         return digest
-
-    def _save_checkpoint(
-        self, checkpoint_file: str, summaries: List[PostSummary], next_index: int
-    ) -> None:
-        """
-        Save checkpoint to resume later [execution_patterns-00005]
-
-        Args:
-            checkpoint_file: Path to checkpoint file
-            summaries: List of summaries completed so far
-            next_index: Index of next post to process
-        """
-        checkpoint_data = {
-            "next_index": next_index,
-            "summaries": [
-                {
-                    "post": {
-                        "title": s.post.title,
-                        "author": s.post.author,
-                        "url": s.post.url,
-                        "selftext": s.post.selftext,
-                        "score": s.post.score,
-                        "num_comments": s.post.num_comments,
-                        "created_utc": s.post.created_utc.isoformat(),
-                        "permalink": s.post.permalink,
-                        "post_id": s.post.post_id,
-                        "subreddit": s.post.subreddit,
-                    },
-                    "summary": s.summary,
-                    "key_points": s.key_points,
-                    "discussion_highlights": s.discussion_highlights,
-                }
-                for s in summaries
-            ],
-        }
-
-        Path(checkpoint_file).parent.mkdir(parents=True, exist_ok=True)
-        with open(checkpoint_file, "w", encoding="utf-8") as f:
-            json.dump(checkpoint_data, f, indent=2)
-
-    def _load_checkpoint(self, checkpoint_file: str) -> tuple[List[PostSummary], int]:
-        """
-        Load checkpoint to resume [execution_patterns-00005]
-
-        Args:
-            checkpoint_file: Path to checkpoint file
-
-        Returns:
-            Tuple of (summaries, next_index)
-        """
-        with open(checkpoint_file, "r", encoding="utf-8") as f:
-            data = json.load(f)
-
-        summaries = []
-        for s in data["summaries"]:
-            post = RedditPost(
-                title=s["post"]["title"],
-                author=s["post"]["author"],
-                url=s["post"]["url"],
-                selftext=s["post"]["selftext"],
-                score=s["post"]["score"],
-                num_comments=s["post"]["num_comments"],
-                created_utc=datetime.fromisoformat(s["post"]["created_utc"]),
-                permalink=s["post"]["permalink"],
-                post_id=s["post"]["post_id"],
-                subreddit=s["post"]["subreddit"],
-            )
-            summary = PostSummary(
-                post=post,
-                summary=s["summary"],
-                key_points=s["key_points"],
-                discussion_highlights=s["discussion_highlights"],
-            )
-            summaries.append(summary)
-
-        return summaries, data["next_index"]
 
     def learn_from_feedback(self, task: str, answer: str, feedback: str) -> None:
         """
