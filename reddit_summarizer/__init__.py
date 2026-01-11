@@ -9,9 +9,10 @@ __version__ = "0.1.0"
 
 # Always available - no dependencies
 from .models import RedditPost, PostSummary, SubredditDigest
+from .cache import SummaryCache
 
 # Import optional components with graceful fallback
-__all__ = ["RedditPost", "PostSummary", "SubredditDigest"]
+__all__ = ["RedditPost", "PostSummary", "SubredditDigest", "SummaryCache"]
 
 try:
     from .fetcher import RedditFetcher
