@@ -8,35 +8,35 @@
 
 ## 1. [We’re FI now and it’s so worth it](https://reddit.com/r/financialindependence/comments/1qb4ud0/were_fi_now_and_its_so_worth_it/)
 
-**Author:** u/PassiveUser0234 | **Upvotes:** 341 | **Comments:** 46 | **Date:** 2026-01-12
+**Author:** u/PassiveUser0234 | **Upvotes:** 345 | **Comments:** 46 | **Date:** 2026-01-12
 
-**Summary:** The post discusses the authors' journey to financial independence (FI) after 30+ years of hard work and frugal living. They highlight the mental freedom and reduced stress at work that comes with FI, even though they plan to retire soon to travel more.
+**Summary:** The post discusses the authors' journey to financial independence (FI) after 30+ years of hard work and frugal living. They highlight the mental freedom and reduced stress at work that comes with FI, even before retiring. The discussion emphasizes the liberating effect of financial independence on one's approach to work and life.
 
 **Key Points:**
 - Financial independence provides mental freedom and reduces work-related stress.
 - The authors achieved FI through decades of hard work and living below their means.
 - FI allows for greater confidence and autonomy in the workplace.
-- The goal of retirement is to gain more control over time and pursue personal interests like travel.
-- The community consensus is that achieving FI is highly rewarding and liberating.
+- The community agrees that FI changes one's perspective on work and life.
+- Many commenters share similar experiences of reduced anxiety and increased control over their time.
 
-**Discussion Highlights:** The comments emphasize the liberating effect of having 'FU money' and the reduced anxiety around job security and performance reviews. Many users share similar experiences of reaching FI and the positive impact it has on their lives.
+**Discussion Highlights:** The discussion highlights a consensus that achieving financial independence significantly reduces anxiety related to work, such as layoffs and performance reviews. Many commenters echo the sentiment that FI provides a sense of liberation and control over one's time and decisions.
 
 ---
 
 ## 2. [Entering your 30s at 250k: a retrospective](https://reddit.com/r/financialindependence/comments/1q8c00j/entering_your_30s_at_250k_a_retrospective/)
 
-**Author:** u/GoodGuyGanja | **Upvotes:** 173 | **Comments:** 67 | **Date:** 2026-01-09
+**Author:** u/GoodGuyGanja | **Upvotes:** 170 | **Comments:** 67 | **Date:** 2026-01-09
 
-**Summary:** The author reflects on reaching a net worth of $282,486 by age 30, expressing gratitude for financial education and the FIRE community. They emphasize the importance of relationships and experiences over financial milestones.
+**Summary:** The post reflects on a decade of saving and expresses gratitude for the support received. The author emphasizes the importance of relationships and cherishing time with loved ones over financial achievements. They share their financial milestone of reaching a net worth of $282,486 at age 30.
 
 **Key Points:**
-- Author's net worth is $282,486 at age 30 with a gross income of $140,000 and annual expenses of $60,000.
-- The post highlights the importance of financial education and community support in achieving financial independence.
-- The author emphasizes valuing relationships and experiences over financial numbers.
-- Discussion includes appreciation for the heartfelt nature of the post and shared experiences from others in similar financial situations.
-- Health and social aspects of financial independence are discussed in the comments.
+- Gratitude for support from the subreddit, family, and job
+- Importance of relationships and time with loved ones over financial goals
+- Financial milestone: net worth of $282,486 at age 30
+- Reflection on a decade of saving and financial habits
+- Encouragement to spend money and cherish relationships
 
-**Discussion Highlights:** The discussion highlights appreciation for the author's heartfelt reflection and shared experiences from others in similar financial situations. Comments also touch on the health and social aspects of financial independence.
+**Discussion Highlights:** The comments highlight appreciation for the heartfelt post and emphasize the importance of balancing financial goals with personal well-being and relationships. Some users share similar experiences and struggles with long-term costs of financial independence.
 
 ---
 
