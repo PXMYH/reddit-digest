@@ -1,76 +1,67 @@
 # r/Bogleheads Reading Digest
 
 **Period:** 2026-01-15 to 2026-01-15
-**Posts Summarized:** 16
-**Total Posts Analyzed:** 16
+**Posts Summarized:** 17
+**Total Posts Analyzed:** 17
 
 ---
 
 ## 1. [Investing $5M windfall into Vanguard ETF's](https://reddit.com/r/Bogleheads/comments/1qcorrw/investing_5m_windfall_into_vanguard_etfs/)
 
-**Author:** u/No-debt-P22-7 | **Upvotes:** 130 | **Comments:** 133 | **Date:** 2026-01-14
+**Author:** u/No-debt-P22-7 | **Upvotes:** 135 | **Comments:** 138 | **Date:** 2026-01-14
 
-**Summary:** The author seeks advice on investing a $5M windfall into Vanguard ETFs, proposing allocations to VOO, VXUS, VUG, SCHD, and SGOV. The discussion focuses on the merits of the proposed plan and alternative suggestions.
+**Summary:** The post discusses a $5M windfall investment plan into Vanguard ETFs, with a focus on diversification and tax management. The author seeks feedback on their proposed allocation and receives advice on market timing, diversification, and professional guidance.
 
 **Key Points:**
-- Author plans to invest $2M in VOO, $1M in VXUS, $500k in VUG, $500k in SCHD, and $1M in SGOV.
-- The $1M in SGOV is earmarked for tax liability due in 2027.
-- Discussion highlights include the rationale behind VOO's all-time highs, the importance of keeping tax funds in safe investments, and suggestions for more diversified funds like VTI.
-- Financial planners advise seeking professional guidance due to significant tax exposure.
-- The author aims for a balanced portfolio but may have conflicting tilts towards tech and dividends.
+- Author plans to invest $2M in VOO, $1M in VXUS, $500k in VUG, $500k in SCHD, and $1M in SGOV for tax liability.
+- Top comment advises against market timing, noting that VOO is often at all-time highs.
+- Another comment suggests using VTI instead of VOO for better diversification.
+- A financial planner advises seeking professional guidance due to significant tax exposure.
+- Discussion highlights the importance of diversification and avoiding tech-heavy portfolios.
 
-**Discussion Highlights:** The discussion emphasizes the importance of diversification, the rationale behind keeping tax funds in safe investments, and the benefits of seeking professional financial advice. There is a consensus on the need for a balanced portfolio and caution against market timing.
+**Discussion Highlights:** The discussion emphasizes the importance of diversification, avoiding market timing, and seeking professional advice for tax management. There is a consensus on keeping the tax liability funds in safe investments and considering broader market ETFs like VTI.
 
 ---
 
 ## 2. [How do you contribute exactly the 401K limit?](https://reddit.com/r/Bogleheads/comments/1qc0nzt/how_do_you_contribute_exactly_the_401k_limit/)
 
-**Author:** u/fungus_among_us_art | **Upvotes:** 217 | **Comments:** 95 | **Date:** 2026-01-13
+**Author:** u/fungus_among_us_art | **Upvotes:** 214 | **Comments:** 95 | **Date:** 2026-01-13
 
-**Summary:** The post discusses strategies for contributing exactly the 401K limit of $24,500, considering employer matching and variable bonuses. The author seeks advice on how to avoid missing out on matching contributions due to overshooting the limit.
-
-**Key Points:**
-- Employer contributions do not count toward the $24,500 limit.
-- Some employers offer 'true up' to cover missed matching contributions.
-- Without 'true up,' periodic adjustments to contributions are necessary.
-- After-tax contributions can be rolled over into a Roth for additional retirement planning.
-- Payroll systems typically cap contributions at the federal limit.
-
-**Discussion Highlights:** The discussion highlights that employer contributions are separate from the federal limit and suggests strategies like overshooting contributions if 'true up' is available. Without 'true up,' periodic recalculations are recommended. The consensus is to aim for close to the limit and adjust as needed.
+**Summary:** The post discusses strategies for contributing exactly the 401K limit of $24,500, considering employer matching and variable bonuses. The author shares their solution after receiving advice from the community. Key points include: Employer contributions do not count toward the $24,500 limit; employers may offer 'true up' to cover missed matching contributions if you overshoot the limit; without 'true up,' periodic adjustments to contributions are necessary to hit the limit accurately; some 401K plans offer an 'After Tax' option that can be rolled over into a Roth; and payroll systems typically cap contributions at the federal limit. The discussion highlights the importance of understanding employer policies like 'true up' and the distinction between employee and employer contribution limits. The consensus suggests setting contributions slightly higher and adjusting periodically if 'true up' is not available.
 
 ---
 
 ## 3. [does it bother anyone else that the emergency fund just slowly loses value to inflation?](https://reddit.com/r/Bogleheads/comments/1qbnqbs/does_it_bother_anyone_else_that_the_emergency/)
 
-**Author:** u/Designer-Jacket-5111 | **Upvotes:** 436 | **Comments:** 436 | **Date:** 2026-01-13
+**Author:** u/Designer-Jacket-5111 | **Upvotes:** 435 | **Comments:** 437 | **Date:** 2026-01-13
 
-**Summary:** The author expresses frustration about their emergency fund losing value to inflation despite understanding its purpose as insurance rather than an investment. They question whether others strictly follow the 'cash only' approach or use alternatives like treasury bills or I-bonds to mitigate inflation.
+**Summary:** The post discusses concerns about emergency funds losing value to inflation when kept in a HYSA, questioning the strict 'cash only' approach and exploring alternatives like treasury bills or I-bonds.
 
 **Key Points:**
-- Emergency funds are meant for liquidity, not growth.
-- The author feels unsatisfied with the standard advice to accept the inflation drag.
-- Some commenters suggest alternatives like treasury bills or I-bonds for part of the emergency fund.
-- The consensus is that emergency funds are optimized for liquidity and safety, not returns.
-- Over time, investments grow to outsize the emergency fund, making the inflation concern less significant.
+- Emergency funds in HYSA may lose value to inflation despite earning interest.
+- The standard advice is to prioritize liquidity over growth for emergency funds.
+- Alternatives like treasury bills or I-bonds are mentioned but not universally recommended.
+- The community generally accepts the 'cash only' approach for liquidity and peace of mind.
+- Over time, investments grow to outsize the emergency fund, reducing its relative importance.
 
-**Discussion Highlights:** The discussion highlights a consensus that emergency funds are optimized for liquidity and safety, not returns. While some users suggest alternatives like treasury bills or I-bonds for part of the fund, the majority emphasize the importance of having readily accessible cash for emergencies. The top comments reinforce the idea that the emergency fund's purpose is not to maximize returns but to provide financial security.
+**Discussion Highlights:** The discussion highlights a consensus that emergency funds are optimized for liquidity, not growth. While alternatives exist, most users prioritize accessibility and stability over inflation protection.
 
 ---
 
 ## 4. [Simplified Portfolio Plan](https://reddit.com/r/Bogleheads/comments/1qbde4q/simplified_portfolio_plan/)
 
-**Author:** u/Particular-Area-4259 | **Upvotes:** 125 | **Comments:** 38 | **Date:** 2026-01-12
+**Author:** u/Particular-Area-4259 | **Upvotes:** 118 | **Comments:** 38 | **Date:** 2026-01-12
 
-**Summary:** A 38-year-old individual seeks feedback on their simplified investment portfolio, which includes a significant cash position for a future home down payment. The discussion focuses on optimizing the cash holdings and adjusting the bond and international stock allocations.
+**Summary:** A 38-year-old individual seeks feedback on their simplified investment portfolio, which includes a significant cash position for a future home down payment. The community provides advice on optimizing the cash holdings and adjusting the bond and international stock allocations.
 
 **Key Points:**
-- Significant cash position for home down payment in 2-3 years
-- Suggestions to move cash to higher-yield options like Brokerage Money Market
-- Recommendations to adjust bond (BND) and international stock (VXUS) allocations
-- Positive feedback on having no debt and a simplified portfolio
-- Current portfolio is roughly 82% stocks (1/3 international) and 18% bonds
+- The author has a significant cash position earmarked for a home down payment in the next 2-3 years.
+- The community suggests moving the High-Yield Savings Account (HYSA) funds to a Brokerage Money Market for potentially higher yields and tax benefits.
+- There is a recommendation to reduce the bond allocation (BND) and increase international stock exposure (VXUS).
+- The portfolio is praised for being debt-free and having a reasonable stock-to-bond ratio.
+- The author is congratulated for reaching a significant financial milestone (the 'two comma club').
 
-**Discussion Highlights:** The discussion highlights the importance of optimizing cash holdings for better yields and suggests adjustments to the bond and international stock allocations. There is a consensus that the portfolio is well-structured, with praise for the lack of debt and simplified approach.
+**Discussion Highlights:** The discussion highlights the importance of optimizing cash holdings for better yields and tax efficiency. There is a consensus on the need to adjust the bond and international stock allocations for a more balanced portfolio. The community also acknowledges the author's financial discipline and debt-free status.
 
 ---
 
@@ -78,16 +69,16 @@
 
 **Author:** u/OrgasmicMusicYoutube | **Upvotes:** 163 | **Comments:** 47 | **Date:** 2026-01-12
 
-**Summary:** A 26-year-old seeks feedback on their Roth IRA portfolio, which is currently 80% VOO (US) and 20% VXUS (International). The community generally approves but suggests replacing VOO with VTI for broader US market exposure.
+**Summary:** A 26-year-old Reddit user shares their Roth IRA portfolio, which is composed of 80% VOO (US) and 20% VXUS (International), seeking feedback from the r/Bogleheads community.
 
 **Key Points:**
-- Portfolio is 80% VOO (US) and 20% VXUS (International)
-- Suggestion to replace VOO with VTI for broader US market exposure
-- General consensus that 80/20 US/International split is reasonable
-- Some suggestions to increase international exposure
-- Savings rate is emphasized as more important than exact allocation
+- The portfolio follows an 80/20 split between US and International stocks.
+- Suggestions include reallocating VOO to VTI for broader US market exposure.
+- Comments highlight the lack of small and mid-cap exposure in the current portfolio.
+- Some users recommend increasing the allocation to VXUS.
+- Overall, the portfolio is considered fine, with emphasis on the importance of savings rate.
 
-**Discussion Highlights:** The discussion highlights a general approval of the 80/20 US/International split, with a strong recommendation to replace VOO with VTI for better diversification. Some commenters suggest increasing international exposure, while others emphasize the importance of savings rate over exact allocation.
+**Discussion Highlights:** The discussion generally supports the 80/20 US/International split but suggests improvements like using VTI instead of VOO for broader US market coverage and considering additional small/mid-cap exposure. There is also a consensus that the savings rate is more critical than the exact asset allocation.
 
 ---
 
@@ -95,49 +86,41 @@
 
 **Author:** u/candidka | **Upvotes:** 144 | **Comments:** 46 | **Date:** 2026-01-12
 
-**Summary:** The author commits to Boglehead investing by purchasing 12 books by John Bogle and plans to read them all this year. The community responds with a mix of support, humor, and additional insights.
-
-**Key Points:**
-- Author bought 12 John Bogle books to deepen understanding of Boglehead investing.
-- Community offers humorous and supportive responses, including a parody book title.
-- Discussion highlights simplicity of Boglehead approach and potential overkill of reading 12 books.
-- Some comments critique aspects of Boglehead philosophy, suggesting alternative strategies.
-- Community appreciates the author's thriftiness in buying used books.
-
-**Discussion Highlights:** The discussion reflects a supportive community with a mix of humor and serious advice. While most agree on the simplicity of Boglehead investing, some critiques and alternative strategies are also presented.
+**Summary:** The author committed to Boglehead investing by purchasing 12 books by John Bogle and plans to read them this year. The community responded with a mix of support, humor, and additional insights. Key points include the author's extensive reading plan, community support, and discussions on the simplicity and depth of Boglehead principles. The discussion highlighted a generally supportive community with some humorous takes on the extensive reading plan, consensus on the value of Boglehead principles, and alternative viewpoints on Boglehead strategies.
 
 ---
 
 ## 7. [Historical returns by decade from the 1930s to the 2020s for stocks, bonds, cash, housing &amp; gold by Ben Carlson](https://reddit.com/r/Bogleheads/comments/1qazipr/historical_returns_by_decade_from_the_1930s_to/)
 
-**Author:** u/ac106 | **Upvotes:** 663 | **Comments:** 99 | **Date:** 2026-01-12
+**Author:** u/ac106 | **Upvotes:** 671 | **Comments:** 99 | **Date:** 2026-01-12
 
-**Summary:** The post highlights the unpredictable nature of markets, noting that gold had two consecutive decades of negative returns but overall performed second best with a 5.6% CAGR. The discussion emphasizes the need for inflation-adjusted returns and clarifies the metrics used in the chart.
+**Summary:** The Reddit post discusses historical returns of various asset classes (stocks, bonds, cash, housing, and gold) from the 1930s to the 2020s, highlighting the unpredictable nature of markets. Gold is noted for having two consecutive decades of negative returns but still achieving the second-best overall performance with a 5.6% CAGR.
 
 **Key Points:**
-- Gold had two consecutive decades of negative returns but overall performed second best with a 5.6% CAGR.
-- The unpredictability of markets is a key theme.
-- Inflation-adjusted returns are important for accurate interpretation.
-- Clarification on return metrics (cumulative, average, CAGR) is needed.
-- Historical context shows varying market performance across decades.
+- Gold had two consecutive decades of negative returns but performed second-best overall with a 5.6% CAGR.
+- The post emphasizes the unpredictable nature of financial markets.
+- Top comments suggest adjusting returns for inflation and clarify the meaning of the numbers (e.g., CAGR).
+- Stocks performed worse in the 2000s than during the Great Depression.
+- Younger investors entered the market during a period of lower bond returns.
 
-**Discussion Highlights:** The discussion highlights the importance of adjusting returns for inflation and clarifying the metrics used. It also provides historical context, noting that stocks performed worse in the 2008 financial crisis than during the Great Depression. Younger investors are noted to have entered the market at a lower point for bonds.
+**Discussion Highlights:** The discussion highlights the need for inflation-adjusted returns and clarifies the metrics used in the post. Commenters also note the relative performance of stocks during different crises and the impact of timing on bond investments.
 
 ---
 
 ## 8. [Performance of Global Equity ETFs for 2025](https://reddit.com/r/Bogleheads/comments/1qa8fqd/performance_of_global_equity_etfs_for_2025/)
 
-**Author:** u/zafirios | **Upvotes:** 348 | **Comments:** 46 | **Date:** 2026-01-11
+**Author:** u/zafirios | **Upvotes:** 347 | **Comments:** 46 | **Date:** 2026-01-11
 
 **Summary:** The Reddit post discusses the performance of global equity ETFs for 2025, highlighting the significant influence of US market performance on global ETFs like VT. The discussion also touches on the choice between SPY and VTI, the valuation of South Korea's equity market, and the impact of currency fluctuations on USD-denominated global ETFs.
 
 **Key Points:**
 - US performance heavily influences global ETFs like VT
-- Discussion on the choice between SPY and VTI
-- South Korea's equity market valuation and domestic issues
-- Impact of currency fluctuations on USD-denominated global ETFs
+- Debate on the choice between SPY and VTI for US equity exposure
+- South Korea's equity market is noted for its valuation and domestic challenges
+- Currency fluctuations, such as the dollar's performance against the euro and pound, impact global ETF returns
+- Discussion on deep value countries beyond South Korea
 
-**Discussion Highlights:** The discussion highlights the significant role of US market performance in global ETFs, with some users pointing out the influence of currency fluctuations. There is also a focus on the valuation of South Korea's equity market and the choice between different ETFs like SPY and VTI.
+**Discussion Highlights:** The discussion highlights the dominance of US market performance in global ETFs and the nuances of selecting between different US equity ETFs. There is also a focus on the valuation and challenges of South Korea's market, as well as the broader impact of currency movements on investment returns.
 
 ---
 
@@ -145,134 +128,141 @@
 
 **Author:** u/Stock_Choice7936 | **Upvotes:** 122 | **Comments:** 62 | **Date:** 2026-01-11
 
-**Summary:** The author has achieved a $1M portfolio by investing 100% in VOO (S&P 500) over 15 years and now seeks diversification advice. All investments are in tax-advantaged accounts, allowing for tax-free reallocation.
-
-**Key Points:**
-- Portfolio is entirely in tax-advantaged accounts (401k, Roth IRA, Trad IRA, HSA)
-- Current allocation: 100% VOO (S&P 500), totaling $1M
-- Goal: Diversify without tax consequences
-- Suggestions include VT (total world market) or VXUS (ex-US) for diversification
-- Some commenters advocate for maintaining VOO due to past success
-
-**Discussion Highlights:** The discussion highlights a consensus on leveraging tax-advantaged accounts to diversify into broader market funds like VT or VXUS. Some commenters suggest maintaining VOO, while others recommend adjusting asset allocation based on risk tolerance and account type.
+**Summary:** The Reddit post discusses a user who followed Warren Buffett's advice to invest 100% in VOO (S&P 500 ETF) for 15 years, resulting in a $1M portfolio. The user now seeks advice on diversifying their investments across different accounts. Key points include the user's portfolio spread across tax-advantaged accounts, the desire to diversify without tax consequences, and suggestions from commenters to transition to a three-fund portfolio or maintain the current strategy. The discussion highlights a consensus on the feasibility of diversifying within tax-advantaged accounts and the importance of aligning diversification with the user's risk tolerance and financial goals.
 
 ---
 
 ## 10. [Should my investments be so diversified after dumping financial advisor?](https://reddit.com/r/Bogleheads/comments/1q9n2f6/should_my_investments_be_so_diversified_after/)
 
-**Author:** u/gtdl1 | **Upvotes:** 431 | **Comments:** 233 | **Date:** 2026-01-10
+**Author:** u/gtdl1 | **Upvotes:** 433 | **Comments:** 233 | **Date:** 2026-01-10
 
-**Summary:** The author, a 40-year-old with a long-term investment horizon, questions the necessity of a highly diversified 401k portfolio after leaving a financial advisor. The discussion emphasizes simplifying investments and highlights the potential inefficiencies of the current setup.
+**Summary:** The author, a 40-year-old with a long-term investment horizon, questions the necessity of a highly diversified 401k after leaving a financial advisor. The discussion criticizes the advisor's approach and recommends consolidating into a few broad, low-cost funds for simplicity and effective diversification.
 
 **Key Points:**
-- The financial advisor's approach is criticized for being overly complex and potentially ineffective.
-- Recommendations include consolidating into a few broad funds (e.g., FZROX, FZILX, FXNAX) or even a single global fund.
-- True diversification can be achieved with fewer funds, making the portfolio easier to manage.
-- The current setup may not be as diversified as it appears due to overlapping or redundant holdings.
-- Simplification is advised, with a focus on long-term growth and ease of management.
+- Author seeks advice on consolidating investments after leaving a financial advisor.
+- Current portfolio is highly diversified but may lack simplicity and clarity.
+- Top comments recommend consolidating into a few broad funds (e.g., FZROX, FZILX, FXNAX).
+- Consensus highlights that excessive holdings do not equate to better diversification.
+- Simplification is advised, with a focus on global diversification and low-cost funds.
 
-**Discussion Highlights:** The consensus in the discussion is that the author's current investment portfolio is unnecessarily complex and may not be optimally diversified. Commenters recommend simplifying the portfolio by consolidating into a few broad, low-cost index funds or even a single global fund. The emphasis is on achieving true diversification with fewer funds, making the portfolio easier to manage and more aligned with the author's long-term investment goals.
+**Discussion Highlights:** The discussion consensus criticizes the financial advisor's overly complex approach and strongly recommends simplifying the portfolio. Key recommendations include consolidating into a few broad, low-cost index funds to achieve effective global diversification without unnecessary complexity.
 
 ---
 
 ## 11. [100% VOO at age 36](https://reddit.com/r/Bogleheads/comments/1q9m69q/100_voo_at_age_36/)
 
-**Author:** u/Ok_Suggestion_2003 | **Upvotes:** 167 | **Comments:** 109 | **Date:** 2026-01-10
+**Author:** u/Ok_Suggestion_2003 | **Upvotes:** 166 | **Comments:** 109 | **Date:** 2026-01-10
 
-**Summary:** A 36-year-old with a 100% allocation in VOO seeks advice on diversifying their retirement portfolio. The discussion suggests adding international stocks like VXUS for better diversification.
+**Summary:** A 36-year-old investor with a 100% VOO portfolio in a retirement account seeks advice on diversification. The discussion suggests adding international exposure, with recommendations for VXUS or VT.
 
 **Key Points:**
-- User is 100% invested in VOO at age 36
-- Concerns about being too heavily weighted in US stocks
-- Suggestions to add VXUS for international diversification
-- Market weight for international stocks is about 37%
-- Alternative suggestions include VT and other ETFs
+- Investor is 100% in VOO at age 36
+- Concerns about being too heavy in US stocks
+- Recommendations to add VXUS for international exposure
+- Suggestions to consider VT for a more balanced approach
+- Discussion on market weight for international stocks (around 37%)
 
-**Discussion Highlights:** The consensus among commenters is to diversify by adding international stocks, with VXUS being the most recommended option. Some users share their own allocation strategies, such as 80% VOO and 20% VXUS, while others suggest using VT for a more balanced approach.
+**Discussion Highlights:** The consensus in the discussion is that the investor should consider adding international exposure to their portfolio. Top comments recommend adding VXUS or VT to achieve a more balanced and diversified portfolio. Some users share their own allocations, such as 80% VOO and 20% VXUS, as examples.
 
 ---
 
 ## 12. [How I recently explained bogleheads theory to “trader“ friend](https://reddit.com/r/Bogleheads/comments/1q9bv0l/how_i_recently_explained_bogleheads_theory_to/)
 
-**Author:** u/groovinup | **Upvotes:** 516 | **Comments:** 128 | **Date:** 2026-01-10
+**Author:** u/groovinup | **Upvotes:** 513 | **Comments:** 128 | **Date:** 2026-01-10
 
-**Summary:** The post uses an analogy comparing investment trading to rolling dice for height changes, arguing that frequent trading is akin to gambling rather than sticking with a steady, average approach. The discussion highlights the Bogleheads philosophy of passive investing and the risks of active trading.
+**Summary:** The post uses an analogy comparing investment fiddling to rolling dice for height changes, arguing that active trading is akin to gambling rather than achieving consistent, average returns. The discussion highlights the Bogleheads philosophy of passive investing and the risks of active trading.
 
 **Key Points:**
-- The analogy compares trading to rolling dice for height changes, emphasizing the risk of deviating from the average.
-- Active trading is likened to gambling, with the post suggesting it's better to be content with average returns.
-- Comments emphasize the benefits of passive investing and the risks of active trading, including fees and tax drag.
-- Some commenters suggest setting aside a small portion for active trading if desired, but caution against fiddling with the entire portfolio.
-- The discussion highlights the consensus that frequent trading is often foolish and unlikely to beat the market consistently.
+- Active trading is compared to gambling with uncertain outcomes.
+- Passive investing (buying the haystack) is preferred over active trading (searching for needles).
+- Fees and tax drag make active investing less favorable.
+- Traders often believe they can beat the odds, unlike the dice analogy.
+- Setting aside a small portion for active trading is suggested as a compromise.
 
-**Discussion Highlights:** The discussion largely supports the Bogleheads philosophy of passive investing, with many commenters agreeing that active trading is risky and often unproductive. Key points include the analogy's effectiveness, the importance of minimizing fees and taxes, and the consensus that trying to beat the market is generally unwise.
+**Discussion Highlights:** The discussion largely supports the Bogleheads philosophy, emphasizing the benefits of passive investing and the risks of active trading. Many commenters agree with the analogy and suggest that active trading is foolish unless done with a small portion of the portfolio.
 
 ---
 
-## 13. [The Callan Periodic Table of Investment Returns: Year-End 2025](https://reddit.com/r/Bogleheads/comments/1q8h5uv/the_callan_periodic_table_of_investment_returns/)
+## 13. [Schwab bogleheads, what's your brokerage portfolio?](https://reddit.com/r/Bogleheads/comments/1q95h6k/schwab_bogleheads_whats_your_brokerage_portfolio/)
+
+**Author:** u/DailyInEternity | **Upvotes:** 100 | **Comments:** 116 | **Date:** 2026-01-10
+
+**Summary:** The Reddit post discusses common investment portfolios among Schwab users in the Bogleheads community, highlighting popular fund choices and strategies.
+
+**Key Points:**
+- Popular funds include VTI, VXUS, BND, SWTSX, and others.
+- Some users prefer target-date funds (TDF) for retirement accounts.
+- Diversification and low-cost index funds are common themes.
+
+**Discussion Highlights:** The discussion shows a consensus around low-cost, diversified index funds, with variations in specific fund choices and strategies.
+
+---
+
+## 14. [The Callan Periodic Table of Investment Returns: Year-End 2025](https://reddit.com/r/Bogleheads/comments/1q8h5uv/the_callan_periodic_table_of_investment_returns/)
 
 **Author:** u/thewarrior71 | **Upvotes:** 232 | **Comments:** 38 | **Date:** 2026-01-09
 
-**Summary:** The Reddit post discusses the Callan Periodic Table of Investment Returns for 2025, highlighting the randomness and unpredictability of investment returns. The visualization emphasizes the importance of diversification and the volatility of different asset classes.
+**Summary:** The Reddit post discusses the Callan Periodic Table of Investment Returns for 2025, highlighting its visual appeal and the importance of diversification in investment strategies.
 
 **Key Points:**
-- The chart visually demonstrates the randomness of investment returns.
-- Diversification is strongly recommended due to the unpredictability of returns.
-- Real estate is noted as more volatile than some users expected.
-- The periodic table analogy is appreciated for its visual appeal.
+- The chart visually demonstrates the randomness and unpredictability of investment returns.
+- Diversification is emphasized as a key takeaway from the chart.
+- The visual presentation of the data is highly satisfying and informative.
+- Real estate is noted to be more volatile than some users expected.
+- The periodic table analogy is humorously critiqued for not being predictive.
 
-**Discussion Highlights:** The discussion consensus emphasizes the importance of diversification and taking action with investments rather than keeping money idle. Users also appreciate the visual satisfaction of the chart and note the volatility of real estate.
+**Discussion Highlights:** The discussion highlights a consensus on the importance of diversification and the visual appeal of the chart. Users also noted the unpredictability of investment returns and the volatility of real estate.
 
 ---
 
-## 14. [Advice for a 50 year-old with no investment experience?](https://reddit.com/r/Bogleheads/comments/1q8f6ut/advice_for_a_50_yearold_with_no_investment/)
+## 15. [Advice for a 50 year-old with no investment experience?](https://reddit.com/r/Bogleheads/comments/1q8f6ut/advice_for_a_50_yearold_with_no_investment/)
 
 **Author:** u/Round_Breakfast_5312 | **Upvotes:** 140 | **Comments:** 40 | **Date:** 2026-01-09
 
-**Summary:** A 50-year-old with no investment experience seeks advice on how to invest $30K saved in a savings account, given a low income of $35K/year. The post discusses the need for financial planning and potential strategies for investment.
+**Summary:** A 50-year-old with no investment experience seeks advice on how to start investing with $30K in savings, given a modest income of $35K/year. The community suggests educating oneself, considering tax-advantaged accounts, and potentially consulting a financial advisor.
 
 **Key Points:**
 - Determine the timeline for needing the money before investing.
-- Consider reading the Bogleheads getting started wiki for investment guidance.
-- Self-education and selecting ETFs are suggested over hiring an advisor.
-- Explore tax advantages like the Savers Tax Credit through a Roth IRA.
-- Increasing income is crucial for better financial stability at this age.
+- Educate oneself using resources like the Bogleheads wiki and personal finance flowcharts.
+- Consider opening a Roth IRA to take advantage of the Savers Tax Credit.
+- Focus on increasing income to better prepare for retirement.
+- Avoid using a financial advisor unless necessary, and consider self-education and ETFs.
 
-**Discussion Highlights:** The discussion emphasizes the importance of financial planning, self-education, and exploring tax-advantaged accounts. There is a consensus on the need to increase income and consider low-cost investment options like ETFs.
+**Discussion Highlights:** The consensus emphasizes self-education and starting with tax-advantaged accounts like a Roth IRA. Many suggest avoiding financial advisors and instead focusing on low-cost ETFs. There is also a strong recommendation to increase income to better prepare for retirement.
 
 ---
 
-## 15. [Should I add a small % of bonds at 35 years old?](https://reddit.com/r/Bogleheads/comments/1q7jymr/should_i_add_a_small_of_bonds_at_35_years_old/)
+## 16. [Should I add a small % of bonds at 35 years old?](https://reddit.com/r/Bogleheads/comments/1q7jymr/should_i_add_a_small_of_bonds_at_35_years_old/)
 
-**Author:** u/According-Willow-238 | **Upvotes:** 132 | **Comments:** 115 | **Date:** 2026-01-08
+**Author:** u/According-Willow-238 | **Upvotes:** 136 | **Comments:** 115 | **Date:** 2026-01-08
 
-**Summary:** A 35-year-old investor seeks advice on whether to include a small percentage of bonds in their portfolio. The discussion highlights varying perspectives on bond allocation, with some advocating for early inclusion and others emphasizing the minimal impact on returns.
+**Summary:** A 35-year-old investor seeks advice on whether to add a small percentage of bonds to their portfolio. The discussion includes perspectives on portfolio size, target retirement goals, and different approaches to bond allocation.
 
 **Key Points:**
-- Consider current portfolio size vs. target portfolio size for bond allocation.
-- Vanguard's model portfolio allocation suggests a gradual increase in bonds.
-- Two schools of thought: early bond ramp-up vs. later inclusion.
-- Minimal difference in yield between 100% stocks and 90/10 stock/bond portfolios.
+- Consider current portfolio size vs. target retirement portfolio size when deciding bond allocation.
+- Vanguard's model portfolio allocation is referenced as a guide for bond allocation.
+- Two schools of thought exist: early bond ramp-up vs. later bond allocation.
+- A 120 - age approach for stock allocation is suggested, implying some bond allocation.
 - Target-date funds typically include 10-15% bonds at age 35.
 
-**Discussion Highlights:** The discussion presents a range of opinions, with some favoring early bond inclusion for stability and others suggesting minimal impact on returns. A common recommendation is to consider a small bond allocation, such as 10-15%, at this age.
+**Discussion Highlights:** The discussion highlights differing opinions on bond allocation strategies, with some favoring early inclusion for stability and others suggesting a gradual increase. There is a consensus that a small percentage of bonds can be beneficial for risk management.
 
 ---
 
-## 16. [Should I change my 401k contributions from Roth to traditional?](https://reddit.com/r/Bogleheads/comments/1q7hz0l/should_i_change_my_401k_contributions_from_roth/)
+## 17. [Should I change my 401k contributions from Roth to traditional?](https://reddit.com/r/Bogleheads/comments/1q7hz0l/should_i_change_my_401k_contributions_from_roth/)
 
-**Author:** u/EvinKay7 | **Upvotes:** 113 | **Comments:** 98 | **Date:** 2026-01-08
+**Author:** u/EvinKay7 | **Upvotes:** 115 | **Comments:** 98 | **Date:** 2026-01-08
 
-**Summary:** The author is considering switching their 401k contributions from Roth to traditional due to potential tax benefits in retirement. They are currently in the 22% tax bracket and plan to convert traditional 401k funds to Roth in retirement at a lower tax rate.
+**Summary:** The author is considering switching their 401k contributions from Roth to traditional due to potential tax benefits in retirement. They are currently in the 22% tax bracket and plan to convert traditional 401k funds to Roth in lower tax brackets during retirement.
 
 **Key Points:**
 - Author's current investments are all in Roth accounts (401k, IRA, HSA).
 - Author is in the 22% tax bracket and nearing retirement.
-- Proposed strategy involves converting traditional 401k funds to Roth in retirement at a lower tax rate.
-- Discussion highlights potential benefits of traditional 401k contributions over Roth in the 22% tax bracket.
-- Consensus suggests a mix of traditional 401k and Roth IRA may be optimal.
+- Proposed strategy involves converting traditional 401k funds to Roth in lower tax brackets during retirement.
+- Discussion highlights potential tax benefits of traditional 401k contributions over Roth.
+- Consensus suggests traditional 401k may be more beneficial in the author's current tax situation.
 
-**Discussion Highlights:** The discussion generally supports the idea of switching to traditional 401k contributions, citing potential tax savings and flexibility in retirement. Key points include the benefits of tax-deferred growth and the ability to manage tax brackets in retirement through strategic conversions.
+**Discussion Highlights:** The discussion generally supports the idea of switching to traditional 401k contributions, citing potential tax savings and flexibility in managing tax brackets during retirement. Several commenters agree that traditional 401k contributions can be more advantageous in the author's current tax situation.
 
 ---
 
