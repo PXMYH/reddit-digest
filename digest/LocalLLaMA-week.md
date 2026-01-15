@@ -1,24 +1,33 @@
 # r/LocalLLaMA Reading Digest
 
 **Period:** 2026-01-14 to 2026-01-14
-**Posts Summarized:** 40
-**Total Posts Analyzed:** 40
+**Posts Summarized:** 39
+**Total Posts Analyzed:** 39
 
 ---
 
 ## 1. [Which are the top LLMs under 8B right now?](https://reddit.com/r/LocalLLaMA/comments/1qcl543/which_are_the_top_llms_under_8b_right_now/)
 
-**Author:** u/Additional_Secret_75 | **Upvotes:** 127 | **Comments:** 94 | **Date:** 2026-01-14
+**Author:** u/Additional_Secret_75 | **Upvotes:** 141 | **Comments:** 95 | **Date:** 2026-01-14
 
-**Summary:** The post discusses the best local LLMs under 8B for general chat, research, and coding, with a focus on models that are not overly censored and run efficiently on limited VRAM. Users share their experiences and recommendations for top-performing models in this category. Key points include the highlights of Qwen3 4B and Qwen3 8B models for their performance and capabilities, praise for Gemma-3n-E4B for its reasoning and multimodal abilities, and the importance of balancing performance with resource constraints. The discussion highlights a consensus around Qwen3 and Gemma-3n-E4B as top performers under 8B, with users appreciating their balance of capability and efficiency.
+**Summary:** The post discusses the best LLMs under 8B parameters for local use, focusing on models suitable for chat, research, and coding with low VRAM requirements. Users share their experiences and recommendations for various models.
+
+**Key Points:**
+- Qwen3 4B is highlighted as a top performer in its size range.
+- Qwen3 VL 8B is noted for its vision capabilities.
+- Gemma-3n-E4B is praised for reasoning and multimodal abilities.
+- Users discuss models that run well with limited VRAM.
+- The discussion includes a link to a GPU-poor LLM arena for further comparison.
+
+**Discussion Highlights:** The discussion highlights Qwen3 and Gemma-3n-E4B as strong contenders in the under 8B category, with a focus on performance, multimodal capabilities, and efficiency in low-VRAM environments. Users share practical experiences and recommendations, and a resource for further comparison is provided.
 
 ---
 
 ## 2. [GLM-Image is released!](https://reddit.com/r/LocalLLaMA/comments/1qc9m6x/glmimage_is_released/)
 
-**Author:** u/foldl-li | **Upvotes:** 560 | **Comments:** 83 | **Date:** 2026-01-13
+**Author:** u/foldl-li | **Upvotes:** 567 | **Comments:** 83 | **Date:** 2026-01-13
 
-**Summary:** GLM-Image is a new image generation model with a hybrid autoregressive + diffusion decoder architecture. It excels in text-rendering and knowledge-intensive tasks while maintaining high-fidelity image generation capabilities. The model supports various image-to-image tasks and is released under an MIT license.
+**Summary:** GLM-Image is a new image generation model with a hybrid autoregressive + diffusion decoder architecture. It excels in text-rendering and knowledge-intensive tasks while maintaining high-fidelity image generation capabilities. The model supports various image-to-image tasks and has been released under an MIT license.
 
 **Key Points:**
 - Hybrid autoregressive + diffusion decoder architecture
@@ -33,167 +42,169 @@
 
 ## 3. [Soprano TTS training code released: Create your own 2000x realtime on-device text-to-speech model with Soprano-Factory!](https://reddit.com/r/LocalLLaMA/comments/1qc5nml/soprano_tts_training_code_released_create_your/)
 
-**Author:** u/eugenekwek | **Upvotes:** 292 | **Comments:** 32 | **Date:** 2026-01-13
+**Author:** u/eugenekwek | **Upvotes:** 297 | **Comments:** 32 | **Date:** 2026-01-13
 
-**Summary:** The post introduces Soprano-Factory, a tool for training custom text-to-speech models with high performance metrics (up to 2000x realtime on GPU). It provides resources for training and encoding, enabling users to create models with their own data.
-
-**Key Points:**
-- Soprano-Factory allows training custom TTS models with user-provided data.
-- The model supports high performance (2000x realtime on GPU) and low latency (15 ms).
-- Users can add new voices, styles, and languages to Soprano.
-- The repository is concise (600 lines of code) and customizable.
-- Users express interest in features like pause insertion and appreciate the lightweight, high-quality output.
-
-**Discussion Highlights:** Users are enthusiastic about the tool's performance and customization options. Key requests include the ability to insert pauses and support for calm, natural-sounding speech. Overall, the community appreciates the lightweight, high-quality nature of Soprano.
+**Summary:** The Reddit post introduces Soprano-Factory, a tool for training lightweight, high-quality text-to-speech models with low latency. It allows users to create custom voices, styles, and languages using their own data and hardware. Key points include the model's speed (up to 2000x realtime on GPU), low latency (15 ms), and user appreciation for its streaming capabilities. Discussion highlights praise for the model's performance and interest in further training, with a noted desire for pause insertion features.
 
 ---
 
 ## 4. [My wishes for 2026](https://reddit.com/r/LocalLLaMA/comments/1qbw325/my_wishes_for_2026/)
 
-**Author:** u/jacek2023 | **Upvotes:** 594 | **Comments:** 177 | **Date:** 2026-01-13
+**Author:** u/jacek2023 | **Upvotes:** 606 | **Comments:** 179 | **Date:** 2026-01-13
 
-**Summary:** The Reddit post discusses predictions for 2026, focusing on the feasibility of affordable GPUs with more than 32GB memory. The comments reflect skepticism and humor about the likelihood of such advancements happening soon.
+**Summary:** The Reddit post discusses predictions for 2026, focusing on the possibility of affordable GPUs with more than 32GB memory. The community expresses skepticism and humor about the feasibility of such advancements.
 
 **Key Points:**
-- Discussion about predictions for 2026
-- Focus on affordable GPUs with >32GB memory
-- Skepticism and humor in comments about feasibility
-- Mentions of AI models like Qwen 4 and Mistral as more realistic advancements
+- The post asks which predictions for 2026 are likely to happen first.
+- A top comment highlights the desire for affordable GPUs with more than 32GB memory.
+- The community reacts with humor and skepticism about the feasibility of affordable GPUs.
+- Other comments mention specific AI models like Qwen 4 and Mistral.
 
-**Discussion Highlights:** The discussion highlights a consensus that affordable high-end GPUs are unlikely in 2026, with comments expressing humor and skepticism. Some users mention AI models like Qwen 4 and Mistral as more plausible advancements.
+**Discussion Highlights:** The discussion is marked by a mix of humor and skepticism regarding the possibility of affordable GPUs with more than 32GB memory in 2026. The community engages in light-hearted banter while also mentioning specific AI models they find promising.
 
 ---
 
 ## 5. [kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required](https://reddit.com/r/LocalLLaMA/comments/1qbpz5l/kyutai_just_introduced_pocket_tts_a_100mparameter/)
 
-**Author:** u/Nunki08 | **Upvotes:** 377 | **Comments:** 79 | **Date:** 2026-01-13
+**Author:** u/Nunki08 | **Upvotes:** 380 | **Comments:** 79 | **Date:** 2026-01-13
 
-**Summary:** Kyutai introduced Pocket TTS, a 100M-parameter text-to-speech model with high-quality voice cloning that runs on a laptop without requiring a GPU. The model is designed for local use and offers efficient performance.
+**Summary:** Kyutai introduced Pocket TTS, a 100M-parameter text-to-speech model with high-quality voice cloning that runs on a laptop without requiring a GPU. The model is open-source and available on GitHub and Hugging Face.
 
 **Key Points:**
-- Pocket TTS is a 100M-parameter text-to-speech model.
-- It supports high-quality voice cloning.
-- The model runs on a laptop without needing a GPU.
-- Links to the blog post, GitHub repository, Hugging Face model card, and arXiv paper are provided.
-- Discussion includes concerns about memory usage and potential for fine-tuning in different languages.
+- Pocket TTS is a 100M-parameter model for high-quality voice cloning.
+- It runs on a laptop without needing a GPU.
+- The model is open-source with resources available on GitHub and Hugging Face.
+- Community discussion includes questions about language support and memory usage.
+- A warning about memory usage during generation was highlighted.
 
-**Discussion Highlights:** The discussion highlights concerns about memory usage during generation and interest in fine-tuning the model for different languages. Some users suggest that smaller models may not be as effective as larger, more established alternatives.
+**Discussion Highlights:** The community showed interest in language support and potential fine-tuning. A notable warning about memory usage during generation was raised, with one user reporting memory usage ballooning to 32 GB.
 
 ---
 
 ## 6. [baichuan-inc/Baichuan-M3-235B · Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1qbjbrf/baichuanincbaichuanm3235b_hugging_face/)
 
-**Author:** u/jacek2023 | **Upvotes:** 122 | **Comments:** 33 | **Date:** 2026-01-12
+**Author:** u/jacek2023 | **Upvotes:** 121 | **Comments:** 33 | **Date:** 2026-01-12
 
-**Summary:** Baichuan-M3-235B is a new medical-enhanced large language model by Baichuan AI, surpassing GPT-5.2 in performance and focusing on clinical decision-making processes. It achieves high-fidelity clinical inquiry, low hallucination rates, and efficient deployment.
+**Summary:** Baichuan-M3 is a new-generation medical-enhanced large language model by Baichuan AI, designed to improve clinical decision-making and reduce hallucinations. It outperforms GPT-5.2 in medical benchmarks and offers efficient deployment options.
 
 **Key Points:**
-- Surpasses GPT-5.2 in medical AI benchmarks
-- High-fidelity clinical inquiry and low hallucination rates
-- Efficient deployment with W4 quantization and speculative decoding
-- Community interest in hardware requirements and potential use cases
-- Positive feedback on its capabilities for private medical opinions
+- Baichuan-M3 focuses on clinical decision-making and reduces hallucinations.
+- It surpasses GPT-5.2 in medical benchmarks like HealthBench and BCOSCE.
+- The model achieves high efficiency with W4 quantization and speculative decoding.
+- Users express interest in hardware upgrades and potential use cases like private medical opinions.
+- Some users mention limitations, such as the lack of vision capabilities.
 
-**Discussion Highlights:** The community shows strong interest in the model's capabilities, with discussions ranging from hardware requirements (RTX 6000 pro) to practical use cases like private medical opinions. Some users express a desire for additional features like vision capabilities.
+**Discussion Highlights:** Users show enthusiasm for the model's capabilities, with some joking about hardware upgrades and others discussing practical applications like private medical opinions. There is also mention of limitations, such as the absence of vision features.
 
 ---
 
 ## 7. [How do people even afford these expensive graphic cards...?...](https://reddit.com/r/LocalLLaMA/comments/1qb1w7a/how_do_people_even_afford_these_expensive_graphic/)
 
-**Author:** u/boisheep | **Upvotes:** 105 | **Comments:** 268 | **Date:** 2026-01-12
+**Author:** u/boisheep | **Upvotes:** 103 | **Comments:** 268 | **Date:** 2026-01-12
 
-**Summary:** The post discusses the high cost of advanced GPUs like the RTX 3090 and RTX 6000 Blackwell, questioning how individuals afford them for ML/LLM tasks and game development. The author highlights performance limitations and financial concerns, while comments suggest these expenses are often justified as business costs or personal investments.
+**Summary:** The Reddit post discusses the financial and technical challenges of using high-end GPUs for ML/LLM tasks, highlighting the limitations of a single RTX 3090 and the high cost of more powerful cards. The comments emphasize that such expenses are often justified as business costs or by individuals with significant disposable income.
 
 **Key Points:**
-- High-end GPUs like RTX 3090 are expensive but necessary for ML/LLM tasks and complex game development.
-- Performance bottlenecks arise with tasks like diffusion models and parallel processing.
-- Financial justification includes business expenses or personal wealth, with some users spending $10k on GPUs despite limited financial returns.
-- Alternatives like cloud rentals or specialized hardware (e.g., Gmktec Evo-X2) are considered but may not always be cost-effective.
+- The author struggles with the performance of an RTX 3090 for ML/LLM tasks, especially with diffusion models and LLMs.
+- Upgrading to more powerful GPUs is expensive, with costs reaching up to $10,000.
+- Businesses often justify these expenses as necessary for their operations.
+- Some individuals have the financial means to afford such high-end equipment despite the lack of financial sense.
+- Alternative solutions like cloud renting or specialized mini PCs are mentioned as potential options.
 
-**Discussion Highlights:** The discussion consensus emphasizes that high-end GPUs are often treated as business expenses or personal luxuries. Users acknowledge the financial impracticality for some but highlight the necessity for specific workloads like ML/LLM and game development.
+**Discussion Highlights:** The discussion highlights that high-end GPUs are often considered business expenses rather than personal investments. Some users mention having the financial means to afford such equipment, while others explore alternative solutions like cloud services or specialized hardware.
 
 ---
 
 ## 8. [GitHub - deepseek-ai/Engram: Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://reddit.com/r/LocalLLaMA/comments/1qb034t/github_deepseekaiengram_conditional_memory_via/)
 
-**Author:** u/TKGaming_11 | **Upvotes:** 316 | **Comments:** 75 | **Date:** 2026-01-12
+**Author:** u/TKGaming_11 | **Upvotes:** 318 | **Comments:** 75 | **Date:** 2026-01-12
 
-**Summary:** The Reddit post highlights a new paper by DeepSeek introducing 'Engram', a method for conditional memory in LLMs using scalable lookup, praised for its originality and technical approach.
+**Summary:** The Reddit post highlights a new GitHub repository by DeepSeek-AI called 'Engram,' which introduces a novel approach to memory in large language models using scalable lookup and n-gram embeddings. The discussion praises the originality and potential impact of this work.
 
 **Key Points:**
-- DeepSeek's paper introduces 'Engram', a novel approach to memory in LLMs
-- The method uses n-gram embedding and mHC (M=4) for ablations
-- It combines static memory with neural computation (MoE)
-- The approach is noted for its O(1) lookup efficiency
-- Discussion compares it to biological memory processes
+- DeepSeek-AI's 'Engram' introduces a new memory approach for LLMs
+- Uses n-gram embeddings and scalable lookup for memory
+- Discussion highlights the originality and potential of the work
+- Comparisons drawn to biological memory systems
+- Technical details include use of mHC (M=4) for ablations
 
-**Discussion Highlights:** The community appreciates the originality of DeepSeek's work, noting its potential to complement existing MoE approaches with static memory, and draws parallels to biological memory systems.
+**Discussion Highlights:** The community consensus is highly positive, with users praising DeepSeek's consistent innovation. Key technical aspects like the n-gram embedding approach and O(1) lookup were highlighted as particularly interesting. Some users drew parallels to biological memory systems, suggesting this approach might be a natural evolution in LLM architecture.
 
 ---
 
 ## 9. [We fine-tuned a 4B Text2SQL model that matches a 685B teacher - query your CSV data in plain English, locally](https://reddit.com/r/LocalLLaMA/comments/1qaz4je/we_finetuned_a_4b_text2sql_model_that_matches_a/)
 
-**Author:** u/party-horse | **Upvotes:** 169 | **Comments:** 34 | **Date:** 2026-01-12
+**Author:** u/party-horse | **Upvotes:** 171 | **Comments:** 34 | **Date:** 2026-01-12
 
-**Summary:** A 4B parameter Text2SQL model was fine-tuned to match the accuracy of a 685B model, enabling local execution for converting plain English queries into SQL. The model runs locally, ensuring data privacy and fast responses, with examples demonstrating its capability to handle various SQL queries.
+**Summary:** A 4B parameter Text2SQL model was fine-tuned to match the accuracy of a 685B model, enabling local execution of SQL queries from plain English. The model runs locally, ensuring data privacy and fast responses, with examples demonstrating its capability to generate complex SQL queries.
 
 **Key Points:**
 - 4B Text2SQL model matches 685B model accuracy
 - Runs locally with fast responses and data privacy
-- Examples show handling of complex SQL queries
-- Community questions about SQL dialect and error rates
-- Discussion on the use of LLM as a judge for results
+- Generates SQLite-compatible SQL queries
+- Discussion highlights need for details on error rates and licensing
+- Results verified using LLM-as-a-Judge methodology
 
-**Discussion Highlights:** The community raised questions about the SQL dialect used, linting error rates, and the rationale behind using an LLM as a judge for evaluating results. There was also feedback on the complexity of the examples provided.
+**Discussion Highlights:** The discussion focused on the model's SQL dialect (SQLite), the need for clarity on linting error rates and licensing, and the use of an LLM as a judge for result verification. Some users found the examples tricky and suggested the need for verifiable results.
 
 ---
 
 ## 10. [[Release] Eva-4B: Specialized Financial Evasion Detection (Based on Qwen3-4B). Outperforms GPT-5.2 on domain benchmarks.](https://reddit.com/r/LocalLLaMA/comments/1qautxm/release_eva4b_specialized_financial_evasion/)
 
-**Author:** u/Awkward_Run_9982 | **Upvotes:** 180 | **Comments:** 35 | **Date:** 2026-01-12
+**Author:** u/Awkward_Run_9982 | **Upvotes:** 176 | **Comments:** 35 | **Date:** 2026-01-12
 
-**Summary:** The post introduces Eva-4B, a specialized 4B parameter model designed to detect evasive answers in corporate earnings call Q&A sessions. It outperforms GPT-5.2 on domain benchmarks and is efficient to run locally. The model is fine-tuned on a large dataset and is available on Hugging Face. Key points include its classification capabilities, performance metrics, efficiency, and fine-tuning process. The discussion highlights include praise for specialized models, humorous comments about their applications, and a notable comment about the future of mixture of models. Some users expressed interest in seeing more clarity on how to use and prompt the model effectively.
+**Summary:** The post introduces Eva-4B, a specialized 4B parameter model designed to detect evasive answers in corporate earnings calls. It outperforms GPT-5.2 on domain benchmarks and is efficient for local or production use. Key points include its classification capabilities, high accuracy, and fine-tuning process. The discussion highlights praise for specialized models and a notable comment on the future of mixture of dense models.
 
 ---
 
 ## 11. [Local LLM + Internet Search Capability = WOW](https://reddit.com/r/LocalLLaMA/comments/1qajxrg/local_llm_internet_search_capability_wow/)
 
-**Author:** u/alex_godspeed | **Upvotes:** 235 | **Comments:** 90 | **Date:** 2026-01-11
+**Author:** u/alex_godspeed | **Upvotes:** 230 | **Comments:** 90 | **Date:** 2026-01-11
 
-**Summary:** The post discusses a user's experience with enhancing a local LLM (Qwen 3) by integrating internet search capabilities, highlighting the ease of setting up tool calling and the potential for 'agentic-AI' even for non-experts. The discussion explores various methods to improve local LLM functionality and privacy. Key points include successful integration of internet search with a local LLM using LM Studio and DuckDuckGo plugin, the setup providing a similar interface to ChatGPT, suggestions for front-end design, using Brave Leo for memory and context, and tools like Harbor for TTS/STT integration. Privacy concerns were addressed with recommendations to use Tor and searxng for anonymous searches. The community shared various workflows and tools to enhance local LLM capabilities while maintaining privacy. The discussion consensus emphasizes the growing accessibility of advanced AI features for non-experts, with a focus on privacy and customization.
+**Summary:** The post discusses a user's positive experience with integrating internet search capabilities into a local LLM (Qwen 3), highlighting the ease of setup and the powerful results achieved. The user reflects on the accessibility of advanced AI features for non-experts and asks about others' experiences and workflows for enhancing local LLM performance and privacy.
+
+**Key Points:**
+- User successfully integrated internet search (via LM Studio and DuckDuckGo plugin) with a local LLM (Qwen 3), achieving results comparable to ChatGPT.
+- The user expresses surprise at the accessibility of advanced AI features like tool calling for non-experts.
+- Discussion highlights include suggestions for improving context (e.g., sending current time), using Brave Leo for privacy, and leveraging tools like Harbor for streamlined setup.
+- Privacy concerns are addressed, with recommendations to use Tor or other anonymizing tools for searches.
+- The community shares workflows and tools to enhance local LLM functionality and privacy.
+
+**Discussion Highlights:** The discussion emphasizes the growing accessibility of advanced AI features for local use, with a focus on privacy and workflow optimization. Key suggestions include using front-end tools to provide context (e.g., current time), leveraging privacy-focused browsers like Brave Leo, and exploring open-source tools like Harbor for easier setup. There is a consensus on the importance of privacy, with recommendations to route searches through Tor or similar tools to avoid tracking by search providers.
 
 ---
 
 ## 12. [Qwen cutoff date makes our current reality too dystopian to be credible](https://reddit.com/r/LocalLLaMA/comments/1qagaaq/qwen_cutoff_date_makes_our_current_reality_too/)
 
-**Author:** u/Swimming_Cover_9686 | **Upvotes:** 298 | **Comments:** 151 | **Date:** 2026-01-11
+**Author:** u/Swimming_Cover_9686 | **Upvotes:** 292 | **Comments:** 151 | **Date:** 2026-01-11
 
-**Summary:** The Reddit post discusses Qwen's inability to accept recent news due to its cutoff date, leading to dystopian interpretations of current events. Users highlight the model's lack of geopolitical understanding and suggest using internet access for grounding.
+**Summary:** The post highlights the limitations of the Qwen-3-80B model in accepting recent news due to its cutoff date, leading to dystopian interpretations of current events. The community discusses the model's lack of geopolitical understanding and suggests using internet access for grounding.
 
 **Key Points:**
-- Qwen rejects recent news articles, interpreting them as dystopian.
-- Specific events like Elon Musk's Nazi salute and U.S. actions are deemed implausible by Qwen.
-- Community suggests using internet access and system prompts to improve Qwen's accuracy.
-- Critiques focus on Qwen's lack of geopolitical understanding.
-- Discussion emphasizes the need for better grounding tools.
+- Qwen-3-80B model struggles with recent news due to cutoff date
+- Model interprets recent events as dystopian and implausible
+- Examples include Elon Musk's Nazi salute and U.S. actions against Venezuela and Russia
+- Community suggests using internet access for grounding
+- Model lacks understanding of geopolitical realities
 
-**Discussion Highlights:** The discussion highlights the importance of using internet access for grounding and critiques Qwen's geopolitical understanding. Users suggest system prompts to address Qwen's skeptical behavior and emphasize the need for better accuracy in interpreting current events.
+**Discussion Highlights:** The discussion emphasizes the importance of using internet access for grounding the model's responses. There is a consensus that the model's lack of geopolitical understanding leads to implausible interpretations of current events. Some users suggest updating the system prompt to include the current year for better context.
 
 ---
 
 ## 13. [LLM trained from scratch on 1800s London texts (1.2B params, 90GB dataset)](https://reddit.com/r/LocalLLaMA/comments/1qaawts/llm_trained_from_scratch_on_1800s_london_texts/)
 
-**Author:** u/Remarkable-Trick-177 | **Upvotes:** 994 | **Comments:** 110 | **Date:** 2026-01-11
+**Author:** u/Remarkable-Trick-177 | **Upvotes:** 1005 | **Comments:** 110 | **Date:** 2026-01-11
 
-**Summary:** The post introduces TimeCapsuleLLM, a 1.2B parameter language model trained exclusively on 1800-1875 London texts to minimize modern bias. The model demonstrates period-specific knowledge and behaviors, such as unfamiliarity with post-1875 concepts like telephones. Future work includes creating synthetic Q&A pairs from the dataset.
+**Summary:** The post introduces TimeCapsuleLLM, a 1.2B parameter language model trained exclusively on 1800-1875 London texts to minimize modern bias. The model demonstrates period-specific knowledge and behaviors, such as unfamiliarity with post-1875 concepts like telephones. The project is open-source and available on GitHub and Hugging Face.
 
 **Key Points:**
 - TimeCapsuleLLM is trained on 90GB of 1800-1875 London texts with no modern data or fine-tuning.
-- The model exhibits period-appropriate responses, like arguing against the Roman Catholic Church and misunderstanding telephones.
-- The project is open-source with links to GitHub and Hugging Face.
-- Future plans include generating synthetic Q&A pairs from the dataset.
+- The model exhibits period-specific behaviors, such as generating arguments relevant to the Catholic Emancipation Act of 1829.
+- The model is unfamiliar with concepts post-1875, like telephones, treating them as unknown terms.
+- Future steps include creating synthetic Q&A pairs from the dataset.
+- The project has garnered significant community interest and support.
 
-**Discussion Highlights:** The community shows strong support for the project, with comments praising its uniqueness and offering ideas for expansion, such as training on broader historical datasets.
+**Discussion Highlights:** The community shows strong support for the project, with users expressing interest in similar historical language models. Some users shared their own experiences with training models on historical datasets, highlighting the novelty and potential of such approaches.
 
 ---
 
@@ -201,48 +212,66 @@
 
 **Author:** u/Zyj | **Upvotes:** 104 | **Comments:** 45 | **Date:** 2026-01-11
 
-**Summary:** The post discusses a dual Strix Halo setup for running large language models (LLMs) efficiently, highlighting its cost-effectiveness and performance. The setup uses Thunderbolt networking and leverages iGPUs with 256GB of DDR5 memory, achieving high token speeds for models like GPT-OSS-120B. However, prompt preprocessing is noted as a bottleneck.
+**Summary:** The post discusses a dual Strix Halo setup for running large language models (LLMs) efficiently and cost-effectively. The setup leverages Thunderbolt networking and quad-channel DDR5 memory, achieving high token speeds for models like GPT-OSS-120B. Despite a bottleneck in prompt preprocessing, the setup is praised for its performance and affordability.
 
 **Key Points:**
-- Dual Strix Halo setup with Thunderbolt networking enables efficient LLM inference.
-- Achieves >50 tokens/s for GPT-OSS-120B and supports large models like Minimax-M2.1 and GLM 4.7.
-- Total cost is around 3440€, making it a cost-effective solution for large LLMs.
-- Prompt preprocessing is slow and identified as a bottleneck.
-- Future improvements may include leveraging NPUs for prompt processing.
+- Dual Strix Halo setup with Thunderbolt networking enables efficient LLMs processing.
+- High token speeds achieved (e.g., GPT-OSS-120B at >50 tokens/s).
+- Prompt preprocessing is a bottleneck but performance is solid for the price.
+- Total cost around 3440€ including shipping and cables.
+- Future experiments planned with vLLM and DeepSeek-V3.2-REAP-345B-A37B.
 
-**Discussion Highlights:** The discussion highlights the setup's strengths for large MoE models but notes limitations for agentic coding tasks due to slow prompt processing. There is consensus on the cost-effectiveness and performance, with anticipation for future improvements like NPU utilization.
+**Discussion Highlights:** The discussion highlights the efficiency of the dual setup for large MoE models but notes limitations for agentic coding with large prompts. Users express interest in leveraging NPUs for prompt processing and discuss potential improvements in memory allocation and latency.
 
 ---
 
 ## 15. [I bought a €9k GH200 “desktop” to save $1.27 on Claude Code (vLLM tuning notes)](https://reddit.com/r/LocalLLaMA/comments/1qa1guo/i_bought_a_9k_gh200_desktop_to_save_127_on_claude/)
 
-**Author:** u/Reddactor | **Upvotes:** 680 | **Comments:** 175 | **Date:** 2026-01-11
+**Author:** u/Reddactor | **Upvotes:** 678 | **Comments:** 175 | **Date:** 2026-01-11
 
-**Summary:** The author built a €9k dual GH200 96GB system to run Claude Code locally, achieving better performance than cloud-based solutions and sharing vLLM tuning notes for optimal setup. Key points include the high-end system setup, performance improvements, and humorous discussion about cost-effectiveness. The discussion highlighted technical queries and appreciation for the detailed tuning notes.
+**Summary:** The author built a high-end GH200 desktop setup costing €9k to run Claude Code locally, achieving better speeds and results than the cloud version. They shared optimized vLLM settings for dual 96GB systems and highlighted the fun and cost of the project.
+
+**Key Points:**
+- Author spent €9k on a GH200 desktop setup to run Claude Code locally.
+- Achieved better speeds and results than cloud-based Claude Code with Sonnet.
+- Shared optimized vLLM settings for dual 96GB systems, including tensor parallel size and context settings.
+- Highlighted the humorous cost comparison to cloud subscription fees.
+- Community praised the setup and shared jokes about cost and energy consumption.
+
+**Discussion Highlights:** The community responded with humor and admiration, joking about the cost and energy consumption while praising the setup and the fun of the project.
 
 ---
 
 ## 16. [It works! Abliteration can reduce slop without training](https://reddit.com/r/LocalLLaMA/comments/1qa0w6c/it_works_abliteration_can_reduce_slop_without/)
 
-**Author:** u/-p-e-w- | **Upvotes:** 392 | **Comments:** 122 | **Date:** 2026-01-11
+**Author:** u/-p-e-w- | **Upvotes:** 385 | **Comments:** 122 | **Date:** 2026-01-11
 
-**Summary:** The Reddit post discusses the use of abliteration to reduce 'slop' (flowery, cliched language) in LLM outputs without training. The author successfully applied this technique to the Mistral Nemo model, creating a slop-reduced version using Heretic, a tool originally designed for censorship removal. Key points include: Abliteration can reduce slop in LLM outputs without training; the author used Heretic to create a slop-reduced version of the Mistral Nemo model; the process took 2.5 hours on an A6000 but could be faster with quantization or reduced parameters; the technique shows promise but may result in drier prose, as noted in the comments; and community members have created GGUF versions of the slop-reduced model. The discussion highlights mixed opinions on the effectiveness of slop reduction, with some users appreciating the reduction in cliched language, while others feel the output lacks imagination or becomes too dry. There is also interest in whether this technique could be applied to other overused patterns in writing.
+**Summary:** The post discusses the use of abliteration to reduce 'slop' (flowery, cliched language) in LLM outputs without training. The author modified the Heretic tool to apply this technique to the Mistral Nemo model, resulting in a slop-reduced version of the model.
+
+**Key Points:**
+- Abliteration can reduce slop in LLM outputs without training.
+- Heretic tool was modified to support prompt injection for slop reduction.
+- Mistral Nemo model was used to test the technique, showing clear semantic separation.
+- The process took 2.5 hours on an A6000 but can be optimized with quantization.
+- Mixed opinions in comments: some praise the reduction in slop, others note potential loss of creativity.
+
+**Discussion Highlights:** The discussion highlights mixed opinions on the effectiveness of the technique. Some users appreciate the reduction in slop, while others feel it makes the prose too dry or lacks imagination. There is also interest in whether this technique can be applied to other overused patterns.
 
 ---
 
 ## 17. [Leader of Qwen team says Chinese companies severely constrained on compute for large scale research experiments](https://reddit.com/r/LocalLLaMA/comments/1qa0ph9/leader_of_qwen_team_says_chinese_companies/)
 
-**Author:** u/Old-School8916 | **Upvotes:** 303 | **Comments:** 104 | **Date:** 2026-01-11
+**Author:** u/Old-School8916 | **Upvotes:** 306 | **Comments:** 104 | **Date:** 2026-01-11
 
-**Summary:** The Reddit post discusses the constraints on compute resources faced by Chinese companies for large-scale AI research, highlighting potential innovative solutions and competitive implications.
+**Summary:** The Reddit post discusses constraints on compute resources faced by Chinese AI research teams, highlighting potential innovative solutions and future competitiveness despite current limitations.
 
 **Key Points:**
-- Chinese companies face severe constraints on compute resources for AI research.
-- Necessity may drive innovation in extracting maximum performance from available hardware.
-- Some commenters suggest this could be a strategy to secure more funding.
-- Availability of hardware like the Atlas 300i DUO on Alibaba is noted.
+- Chinese companies face severe compute constraints for large-scale AI research.
+- Necessity may drive innovation, leading to novel ways of optimizing hardware usage.
+- Skepticism exists about the severity of constraints, with mentions of available hardware like the Atlas 300i DUO.
+- Discussion includes speculation about leveraging current AI developments for funding.
 
-**Discussion Highlights:** The discussion highlights a mix of opinions, with some seeing the constraints as a driver for innovation and others viewing it as a funding strategy. There is no clear consensus, but the potential for future competition is acknowledged.
+**Discussion Highlights:** The discussion highlights a consensus that constraints may drive innovation, with some users expressing skepticism about the severity of the compute limitations and others pointing to available hardware solutions.
 
 ---
 
@@ -250,30 +279,30 @@
 
 **Author:** u/GoodSamaritan333 | **Upvotes:** 169 | **Comments:** 40 | **Date:** 2026-01-11
 
-**Summary:** Gigabyte announced support for 256GB of DDR5-7200 CQDIMMs at CES 2026, sparking discussions about its usefulness and performance compared to older systems.
+**Summary:** Gigabyte announced support for 256GB of DDR5-7200 CQDIMMs at CES 2026, sparking a discussion on its usefulness and performance implications.
 
 **Key Points:**
 - Gigabyte's announcement of 256GB DDR5-7200 CQDIMMs support
-- Discussion on the potential usefulness and performance of the new memory configuration
-- Comparisons to older systems like Threadripper with quad-channel DDR4-3200
-- Mixed opinions on the practicality of the new memory setup for AI purposes
+- Concerns about DDR5 shortage and dual-channel limitations
+- Performance comparison with older Threadripper systems
+- Mixed opinions on the usefulness for AI purposes
 
-**Discussion Highlights:** The discussion highlights mixed opinions on the usefulness of the new memory configuration, with some users pointing out its potential advantages over older systems, while others express concerns about its limitations for specific use cases like AI.
+**Discussion Highlights:** The discussion highlights mixed opinions on the usefulness of the announcement, with some users pointing out potential performance benefits compared to older systems, while others express concerns about limitations for AI applications.
 
 ---
 
 ## 19. [Announcing Kreuzberg v4 (Open Source)](https://reddit.com/r/LocalLLaMA/comments/1q9t9op/announcing_kreuzberg_v4_open_source/)
 
-**Author:** u/Eastern-Surround7763 | **Upvotes:** 119 | **Comments:** 25 | **Date:** 2026-01-11
+**Author:** u/Eastern-Surround7763 | **Upvotes:** 121 | **Comments:** 26 | **Date:** 2026-01-11
 
-**Summary:** Kreuzberg v4 is a ground-up rewrite in Rust of a document intelligence library that extracts structured data from 56+ formats, offering multi-language support, improved performance, and production-ready features like OCR, semantic chunking, and embeddings.
+**Summary:** Kreuzberg v4 is a ground-up rewrite in Rust of a document intelligence library that extracts structured data from 56+ formats, offering multi-language support and production-ready features like OCR, semantic chunking, and embeddings.
 
 **Key Points:**
-- Kreuzberg v4 is a Rust rewrite with significant performance improvements and lower memory usage.
-- Supports 10 language bindings with identical APIs and behavior.
-- Features include OCR, semantic chunking, embeddings, and a plugin system for customization.
-- Production-ready with REST API, Docker images, and async-first design.
-- MIT-licensed and open-source.
+- Kreuzberg v4 is a Rust rewrite with improved performance and lower memory usage.
+- Supports 10 language bindings including Python, TypeScript, Java, and Go.
+- Features include OCR, semantic chunking, embeddings, and a plugin system.
+- Open-source under MIT license.
+- Users inquired about Docling integration, chunking support, and diagram interpretation.
 
 **Discussion Highlights:** Users expressed interest in integrations (e.g., Docling), chunking capabilities, and support for graph/diagram-rich documents. Positive sentiment was noted, especially from users familiar with the name 'Kreuzberg'.
 
@@ -281,51 +310,42 @@
 
 ## 20. [Model: cerebras/GLM-4.7-REAP-268B-A32B incoming!](https://reddit.com/r/LocalLLaMA/comments/1q9io50/model_cerebrasglm47reap268ba32b_incoming/)
 
-**Author:** u/LegacyRemaster | **Upvotes:** 192 | **Comments:** 45 | **Date:** 2026-01-10
+**Author:** u/LegacyRemaster | **Upvotes:** 193 | **Comments:** 45 | **Date:** 2026-01-10
 
 **Summary:** The post announces the upcoming release of the cerebras/GLM-4.7-REAP-268B-A32B model, generating excitement and discussion about its performance and capabilities.
 
 **Key Points:**
 - Excited anticipation for the new model release
 - Concerns about benchmark improvements being a potential red flag
-- Performance comparisons with other models
-- Issues with multilingual capabilities and Chinese language support
+- Discussion about multilingual capabilities and Chinese language performance
+- Community engagement with Discord features and special flair for the author
 
-**Discussion Highlights:** The discussion highlights mixed reactions, with some users excited about the new model while others raise concerns about benchmark calibration and multilingual performance.
+**Discussion Highlights:** The community shows mixed reactions, with excitement about the new model but also concerns about its benchmark performance and multilingual capabilities, particularly in Chinese.
 
 ---
 
 ## 21. [I made a website to turn any confusing UI into a step-by-step guide via screen sharing (open source)](https://reddit.com/r/LocalLLaMA/comments/1q9bj5j/i_made_a_website_to_turn_any_confusing_ui_into_a/)
 
-**Author:** u/bullmeza | **Upvotes:** 112 | **Comments:** 25 | **Date:** 2026-01-10
+**Author:** u/bullmeza | **Upvotes:** 115 | **Comments:** 25 | **Date:** 2026-01-10
 
-**Summary:** Screen Vision is an open-source website that guides users through tasks via screen sharing with AI, emphasizing privacy and local LLM support. It uses advanced models like GPT-5.2 and Qwen 3VL for instruction and visual verification, ensuring steps are completed successfully.
-
-**Key Points:**
-- Open-source website for task guidance via screen sharing
-- Privacy-focused with no data storage or model training
-- Supports local LLM mode for enhanced privacy
-- Uses GPT-5.2 for instruction and Qwen 3VL for screen coordinate identification
-- Concerns about model hallucinations and destructive actions
-
-**Discussion Highlights:** The discussion highlights positive feedback on the project's concept but raises concerns about potential model hallucinations and the need for clearer user guidance. Some users suggest showing a full list of actions to mitigate risks.
+**Summary:** The post introduces Screen Vision, an open-source website that guides users through tasks via screen sharing with AI, emphasizing privacy and local LLM support. It uses advanced AI models to provide step-by-step instructions and verify actions. Users appreciate the idea but express concerns about AI accuracy and potential hallucinations. Suggestions include showing a full list of actions and improving the model's ability to handle loading states.
 
 ---
 
 ## 22. [Visualizing RAG, PART 2- visualizing retrieval](https://reddit.com/r/LocalLLaMA/comments/1q998is/visualizing_rag_part_2_visualizing_retrieval/)
 
-**Author:** u/Fear_ltself | **Upvotes:** 224 | **Comments:** 42 | **Date:** 2026-01-10
+**Author:** u/Fear_ltself | **Upvotes:** 225 | **Comments:** 42 | **Date:** 2026-01-10
 
-**Summary:** The post discusses a project that visualizes RAG (Retrieval-Augmented Generation) using UMAP to reduce a 768D vector space to 3D, showing how RAG retrieves context chunks. The project is available on GitHub and has gained popularity in the community.
+**Summary:** The post discusses a project visualizing RAG using UMAP to reduce 768D vectors to 3D, with code available on GitHub. The author invites questions and shares insights on how RAG retrieves context chunks.
 
 **Key Points:**
-- Project visualizes RAG using UMAP for dimensionality reduction
-- Code is live on GitHub with instructions for setup
-- Visualization shows how RAG retrieves relevant context chunks
-- Community appreciates the brain-like visualization
-- Interest in integrating similar visualizations into other projects
+- Uses UMAP to visualize 768D vector space of EmbeddingGemma:300m in 3D
+- Code is available on GitHub at https://github.com/CyberMagician/Project_Golem
+- Author invites questions and provides details on RAG retrieval
+- Visualization resembles a brain and is appreciated by users
+- Users express interest in connecting with Qdrant
 
-**Discussion Highlights:** The community finds the visualization impressive and brain-like, with interest in integrating similar visualizations into other RAG projects. Some users also inquire about compatibility with other tools like Qdrant.
+**Discussion Highlights:** The post is popular and appreciated for its visual appeal and insights into RAG. Users are interested in integrating similar visualizations into their projects and connecting with other tools like Qdrant.
 
 ---
 
@@ -333,190 +353,183 @@
 
 **Author:** u/Nunki08 | **Upvotes:** 178 | **Comments:** 87 | **Date:** 2026-01-10
 
-**Summary:** Jensen Huang of NVIDIA discussed at CES how open AI models have revolutionized the field by proliferating everywhere. The Reddit post shares his statement and includes mixed reactions from the community, with some criticizing NVIDIA's pricing and accessibility issues.
+**Summary:** Jensen Huang of NVIDIA discussed at CES how open AI models have revolutionized the field by proliferating everywhere. The post includes a link to NVIDIA's official statement on X (formerly Twitter).
 
 **Key Points:**
 - Open AI models have significantly impacted the proliferation of AI technology.
-- Criticism of NVIDIA's high GPU prices and restricted access to open models.
-- Mixed community reactions, with some praising the statement and others criticizing NVIDIA's practices.
-- Discussion highlights the tension between open AI ideals and commercial interests.
+- Jensen Huang's statement highlights the importance of open models in AI development.
+- The community's reaction includes criticism of NVIDIA's pricing and perceived greed.
+- Some comments suggest that NVIDIA's actions may be slowing down AI development.
+- There is a mix of sarcastic and critical responses to Huang's statement.
 
-**Discussion Highlights:** The discussion reflects a divide in the community, with some appreciating the recognition of open AI's impact, while others criticize NVIDIA's role in limiting accessibility and affordability of AI hardware.
+**Discussion Highlights:** The discussion highlights a critical view of NVIDIA's pricing and business practices, with many users expressing frustration over the cost of NVIDIA GPUs and the company's role in AI development. Some users also question the sincerity of Huang's statement about open models, given NVIDIA's business strategies.
 
 ---
 
 ## 24. [GLM 5 Is Being Trained!](https://reddit.com/r/LocalLLaMA/comments/1q8wv24/glm_5_is_being_trained/)
 
-**Author:** u/Few_Painter_5588 | **Upvotes:** 224 | **Comments:** 68 | **Date:** 2026-01-10
+**Author:** u/Few_Painter_5588 | **Upvotes:** 222 | **Comments:** 68 | **Date:** 2026-01-10
 
-**Summary:** The Reddit post announces that GLM 5 is being trained after their IPO, with users expressing hopes for various model sizes and concerns about potential changes due to shareholder influence.
+**Summary:** The Reddit post announces that GLM 5 is currently being trained, following the company's IPO. The community expresses excitement and hopes for various model sizes and continued open-source availability.
 
 **Key Points:**
 - GLM 5 is being trained after the company's IPO
-- Users hope for a ~100B 'Air' model and a diverse model family
-- Concerns about potential negative changes due to shareholder influence
-- Excited anticipation for GLM 5
-- Speculation about the GLM series becoming less open source
+- Community hopes for a ~100B 'Air' model
+- Desire for GLM 5 to be a model family with sizes like 9B and 32B
+- Concerns about potential negative impact from shareholders
+- Speculation about GLM series becoming less open-source
 
-**Discussion Highlights:** The discussion highlights a mix of excitement and concern, with users hoping for a variety of model sizes and expressing worries about the impact of shareholders on the project's direction. There is also speculation about the future of the GLM series in terms of open-source availability.
+**Discussion Highlights:** The discussion shows strong community interest in GLM 5, with hopes for multiple model sizes and continued quality. There are concerns about shareholder influence and potential reduction in open-source availability, but overall excitement for the new model.
 
 ---
 
 ## 25. [I clustered 3 DGX Sparks that NVIDIA said couldn't be clustered yet...took 1500 lines of C to make it work](https://reddit.com/r/LocalLLaMA/comments/1q8hqgd/i_clustered_3_dgx_sparks_that_nvidia_said_couldnt/)
 
-**Author:** u/Ok-Pomegranate1314 | **Upvotes:** 865 | **Comments:** 143 | **Date:** 2026-01-09
+**Author:** u/Ok-Pomegranate1314 | **Upvotes:** 867 | **Comments:** 143 | **Date:** 2026-01-09
 
-**Summary:** The author successfully clustered three NVIDIA DGX Sparks, overcoming networking limitations by writing a custom NCCL plugin. This achievement allows distributed inference across all three nodes at high speeds, despite NVIDIA's official support only covering two-node clusters.
+**Summary:** The author successfully clustered three NVIDIA DGX Sparks, overcoming networking limitations by writing a custom NCCL plugin. This achievement allows distributed inference across all three nodes at high speeds, despite NVIDIA's official support for only two-node clustering.
 
 **Key Points:**
-- Author clustered three DGX Sparks, exceeding NVIDIA's official support for two-node clusters.
-- Developed a custom NCCL network plugin to handle subnet-aware NIC selection and RDMA implementation.
-- Achieved distributed inference at 8+ GB/s over RDMA, showcasing significant performance.
+- Author clustered three DGX Sparks, exceeding NVIDIA's official support for two-node clustering.
+- Developed a custom NCCL network plugin to handle subnet-aware NIC selection and raw RDMA implementation.
+- Achieved distributed inference at 8+ GB/s over RDMA across all three nodes.
 - The solution involved extensive low-level debugging and custom protocol implementation.
-- The GitHub repository for the plugin is available for further exploration.
+- Community response highlights the technical difficulty and potential significance of the achievement.
 
-**Discussion Highlights:** The community praised the technical achievement, noting the complexity of working with NCCL and the potential significance of the solution. Questions were raised about scalability and performance improvements with additional nodes.
+**Discussion Highlights:** The community praised the technical achievement, noting the difficulty of working with NCCL and the potential impact of the solution. Questions were raised about scalability and performance improvements with additional nodes.
 
 ---
 
 ## 26. [RTX Blackwell Pro 6000 wholesale pricing has dropped by $150-200](https://reddit.com/r/LocalLLaMA/comments/1q8fagh/rtx_blackwell_pro_6000_wholesale_pricing_has/)
 
-**Author:** u/TastesLikeOwlbear | **Upvotes:** 221 | **Comments:** 89 | **Date:** 2026-01-09
+**Author:** u/TastesLikeOwlbear | **Upvotes:** 220 | **Comments:** 89 | **Date:** 2026-01-09
 
-**Summary:** The Reddit post discusses a significant drop in the wholesale pricing of RTX Blackwell Pro 6000 cards by $150-200 from December to January. The author, who has insider access to wholesale pricing, also advises against buying the 72GiB 5000 Pro due to its higher price relative to the 6000 Pro.
+**Summary:** The Reddit post discusses a recent drop in wholesale pricing for the RTX Blackwell Pro 6000 cards by $150-200, highlighting a significant price difference compared to the RTX 5000 Pro. The author shares insider information to help the community make informed purchasing decisions.
 
 **Key Points:**
 - Wholesale price of RTX Blackwell Pro 6000 dropped by ~$150-200 from December to January.
-- The 6000 Pro is only about $600 more expensive than the 72GiB 5000 Pro at wholesale, making the latter a less attractive option.
-- The author emphasizes that this is not a marketing post and they cannot sell the cards.
+- The wholesale price for the 6000 Pro is only about $600 higher than the new 72GiB 5000 Pro.
+- The author emphasizes that the post is not marketing but aims to provide transparency.
 - Community reactions include appreciation for the insider info and discussions about potential upgrades or purchases.
 
-**Discussion Highlights:** The top comments express gratitude for the insider information, discuss potential upgrades to the RTX Pro 6000 due to supply issues with other models, and share personal experiences with high-end GPU purchases.
+**Discussion Highlights:** The community appreciates the insider information and discusses potential upgrades or purchases based on the price drop. Some users mention high prices for other models and consider the RTX Pro 6000 as a viable option.
 
 ---
 
 ## 27. [The reason why RAM has become so expensive](https://reddit.com/r/LocalLLaMA/comments/1q8ckz0/the_reason_why_ram_has_become_so_expensive/)
 
-**Author:** u/InvadersMustLive | **Upvotes:** 4340 | **Comments:** 366 | **Date:** 2026-01-09
+**Author:** u/InvadersMustLive | **Upvotes:** 4341 | **Comments:** 367 | **Date:** 2026-01-09
 
-**Summary:** The Reddit post discusses the significant increase in RAM prices, with comments suggesting strategic monopolization by certain entities to control future demand and economic viability of competitors.
+**Summary:** The Reddit post discusses the significant increase in RAM prices, with users suggesting that this may be a strategic move to monopolize resources and create future demand. The discussion highlights concerns about economic viability and potential market manipulation.
 
 **Key Points:**
 - RAM prices have increased dramatically, with some users reporting a 10x increase.
-- There are accusations of monopolization of RAM resources to control future demand.
-- The economic viability of competing AI data centers, particularly in China, is being affected.
-- The price surge is seen as a potential bubble by some commentators.
+- There are concerns about monopolization of key resources like RAM by major players like OpenAI.
+- The price hike may be making AI data centers, particularly in China, economically unviable.
+- Users speculate about potential market manipulation and bubbles.
+- The post gained significant traction, indicating widespread interest in the topic.
 
-**Discussion Highlights:** The discussion highlights concerns about monopolistic practices and the economic impact on competitors, with some users sharing personal experiences of the price surge.
+**Discussion Highlights:** The discussion is centered around the economic implications of rising RAM prices, with a consensus that this could be a strategic move to control the market. Users express concerns about the feasibility of AI development in certain regions due to these cost increases.
 
 ---
 
 ## 28. [DeepSeek V4 Coming](https://reddit.com/r/LocalLLaMA/comments/1q89g1i/deepseek_v4_coming/)
 
-**Author:** u/External_Mood4719 | **Upvotes:** 493 | **Comments:** 104 | **Date:** 2026-01-09
+**Author:** u/External_Mood4719 | **Upvotes:** 494 | **Comments:** 104 | **Date:** 2026-01-09
 
-**Summary:** DeepSeek is expected to release V4, a next-generation AI model with strong code-generation capabilities, outperforming mainstream models like Claude and GPT. The model shows improvements in handling long code prompts and data patterns, with enhanced reasoning and reliability.
+**Summary:** DeepSeek is expected to release V4, a next-generation AI model with strong code-generation capabilities, outperforming mainstream models like Claude and GPT. The model shows improvements in handling long code prompts and overall reasoning ability.
 
 **Key Points:**
 - DeepSeek V4 focuses on strong code-generation capabilities
 - Outperforms existing models like Claude and GPT in code generation
 - Improved handling of long code prompts and data patterns
-- Enhanced reasoning and reliability for complex tasks
-- Users appreciate DeepSeek's cost-effectiveness and local API options
+- Enhanced reasoning ability and reliability for complex tasks
+- Users appreciate DeepSeek's cost-effectiveness and performance
 
-**Discussion Highlights:** Users express excitement and anticipation for V4, with positive feedback on DeepSeek's performance and affordability. Some speculate on potential delays due to extensive pre-training and post-training processes.
+**Discussion Highlights:** Users express excitement and anticipation for V4, with some noting its potential disruption in the AI space. Positive feedback on DeepSeek's affordability and performance, with expectations of significant improvements in V4.
 
 ---
 
 ## 29. [(The Information): DeepSeek To Release Next Flagship AI Model With Strong Coding Ability](https://reddit.com/r/LocalLLaMA/comments/1q88hdc/the_information_deepseek_to_release_next_flagship/)
 
-**Author:** u/Nunki08 | **Upvotes:** 478 | **Comments:** 100 | **Date:** 2026-01-09
+**Author:** u/Nunki08 | **Upvotes:** 483 | **Comments:** 100 | **Date:** 2026-01-09
 
-**Summary:** DeepSeek is set to release a new flagship AI model with strong coding capabilities, generating significant interest and discussion in the community.
+**Summary:** DeepSeek is set to release a new flagship AI model with strong coding capabilities, generating excitement and discussion in the community.
 
 **Key Points:**
-- DeepSeek's upcoming AI model focuses on strong coding abilities
-- The announcement has sparked excitement and anticipation in the community
-- Users are looking forward to more details and benchmarks
-- There is a consensus that more models benefit the AI ecosystem
-- Some users express concerns about potential limitations in role-playing abilities
+- DeepSeek's upcoming model focuses on strong coding abilities
+- Community reactions include excitement and anticipation
+- Discussion highlights skepticism about performance claims
+- Positive sentiment towards increased competition in AI models
+- Concerns about potential limitations in role-playing abilities
 
-**Discussion Highlights:** The community is largely excited about the new model, with many users expressing anticipation for its release and potential capabilities. There is a general consensus that more models are beneficial for the AI ecosystem. However, some users have concerns about potential limitations in role-playing abilities.
+**Discussion Highlights:** The community shows a mix of excitement and skepticism, with some users anticipating strong performance while others express concerns about overhyped claims and potential limitations.
 
 ---
 
 ## 30. [Big tech companies, now "DRAM beggars," are staying in Pangyo and Pyeongtaek, demanding "give us some supplies."](https://reddit.com/r/LocalLLaMA/comments/1q84u82/big_tech_companies_now_dram_beggars_are_staying/)
 
-**Author:** u/FullstackSensei | **Upvotes:** 295 | **Comments:** 93 | **Date:** 2026-01-09
+**Author:** u/FullstackSensei | **Upvotes:** 299 | **Comments:** 93 | **Date:** 2026-01-09
 
-**Summary:** The Reddit post discusses a significant surge in DRAM prices and a shortage in supply, with major tech companies scrambling to secure inventory. Prices for DDR4 have risen dramatically, and further increases are expected, impacting the cost of memory for servers and AI infrastructure.
+**Summary:** The post discusses a significant surge in DRAM prices and a supply shortage, with major tech companies scrambling to secure supplies. Prices for DDR4 have risen dramatically, and further increases are expected, impacting the cost of server memory.
 
 **Key Points:**
 - DRAM prices, particularly DDR4, have surged from $1.40/GB in January to $9.30/GB in December, with expectations of further increases.
-- Major suppliers like Samsung and SK Hynix are demanding a 50-60% price increase for server DRAM in Q1 negotiations.
-- Tech companies are fiercely competing to secure DRAM inventory, leading to a shortage and increased prices.
-- The DRAM shortage is expected to continue through the end of the year, driven by AI and server demand.
-- The cost of 1TB of DDR4-3200 could exceed $14,000 by Q2 if the price trend continues.
+- Major suppliers like Samsung and SK Hynix are demanding a 50-60% increase in server DRAM supply prices.
+- Tech companies are fiercely competing to secure remaining DRAM inventory, leading to a shortage.
+- The demand for DRAM is spreading beyond HBM to server DRAM due to the AI boom.
+- The shortage and price hikes are expected to continue through the end of the year.
 
-**Discussion Highlights:** The discussion highlights the shock and concern over rising DRAM prices, with users joking about auctioning old RAM sticks and expressing frustration over the financial impact. There is a consensus that the situation will worsen, affecting the cost of running local LLMs and other memory-intensive applications.
+**Discussion Highlights:** The discussion highlights the shock over the dramatic price increases, with users joking about auctioning old RAM sticks and expressing concern over the high costs of new memory. There is also confusion over downvoting patterns on relevant posts.
 
 ---
 
 ## 31. [Minimax also live on Hong Kong Stock Exchange](https://reddit.com/r/LocalLLaMA/comments/1q82zdm/minimax_also_live_on_hong_kong_stock_exchange/)
 
-**Author:** u/No_Conversation9561 | **Upvotes:** 122 | **Comments:** 20 | **Date:** 2026-01-09
+**Author:** u/No_Conversation9561 | **Upvotes:** 124 | **Comments:** 20 | **Date:** 2026-01-09
 
-**Summary:** The post discusses Minimax's presence on the Hong Kong Stock Exchange, with comments highlighting a new addition to their M2.1 Collection and mixed reactions to their accessibility principles.
+**Summary:** The post discusses Minimax's presence on the Hong Kong Stock Exchange, with a focus on their M2.1 Collection and a new invisible item. The discussion includes mixed reactions and references to other AI models like Qwen.
 
 **Key Points:**
 - Minimax is listed on the Hong Kong Stock Exchange
-- New addition to the M2.1 Collection mentioned
-- Mixed reactions to Minimax's accessibility principles
-- Trust in Qwen suggested unless Alibaba spins it off
+- A new invisible item has been added to their M2.1 Collection
+- Mixed reactions in the comments regarding trust and accessibility of advanced AI
+- Reference to Qwen as a potentially more trustworthy alternative
 
-**Discussion Highlights:** The discussion includes a focus on Minimax's new product addition and skepticism about their stated principles, with some users expressing trust in Qwen as an alternative.
+**Discussion Highlights:** The discussion highlights skepticism about Minimax's accessibility claims and suggests Qwen as a more reliable option, with some users expressing concerns about the company's transparency.
 
 ---
 
 ## 32. [OK I get it, now I love llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1q7uuxo/ok_i_get_it_now_i_love_llamacpp/)
 
-**Author:** u/vulcan4d | **Upvotes:** 234 | **Comments:** 49 | **Date:** 2026-01-08
+**Author:** u/vulcan4d | **Upvotes:** 232 | **Comments:** 49 | **Date:** 2026-01-08
 
-**Summary:** The user switched from Ollama to llama.cpp for better performance and control, achieving significant speed improvements through tuning. They shared their hardware setup and two command configurations with different performance outcomes.
+**Summary:** The author switched from Ollama to llama.cpp and found it more efficient for their specific hardware setup, achieving significant performance improvements with optimized settings. They highlight the importance of understanding llama.cpp commands for optimal performance, especially with uneven VRAM.
 
 **Key Points:**
-- User transitioned from Ollama to llama.cpp for advanced usage
-- Hardware includes a 3060 12GB GPU, three P102-100 GPUs, 96GB RAM, and an Intel i7-9800x
-- Two command configurations were shared, with one achieving 21t/s vs 11t/s
-- Discussion includes suggestions for further optimization and critiques of the commands
-- Mentions of alternative tools like Koboldcpp and the role of CUDA_UNIFIED_MEMORY
+- Switching from Ollama to llama.cpp for better performance
+- Hardware setup includes a 3060 12GB GPU and three P102-100 GPUs with 96GB system RAM
+- Optimized settings can significantly improve performance
+- Understanding llama.cpp commands is crucial for optimal performance
+- Community suggestions include increasing batch-size and ubatch-size for better performance
 
-**Discussion Highlights:** The discussion highlights suggestions for increasing batch and ubatch sizes for better performance, critiques of the commands used, and mentions of alternative tools like Koboldcpp. There is also a debate about the use of sudo and the role of CUDA_UNIFIED_MEMORY in performance tuning.
+**Discussion Highlights:** The discussion highlights the importance of understanding and optimizing llama.cpp settings for better performance. Some users suggest increasing batch-size and ubatch-size, while others point out potential issues with the commands provided. There is also a mention of alternative tools like koboldcpp.
 
 ---
 
 ## 33. [The NO FAKES Act has a "Fingerprinting" Trap that kills Open Source. We need to lobby for a Safe Harbor.](https://reddit.com/r/LocalLLaMA/comments/1q7qcux/the_no_fakes_act_has_a_fingerprinting_trap_that/)
 
-**Author:** u/PostEasy7183 | **Upvotes:** 603 | **Comments:** 87 | **Date:** 2026-01-08
+**Author:** u/PostEasy7183 | **Upvotes:** 604 | **Comments:** 87 | **Date:** 2026-01-08
 
-**Summary:** The Reddit post discusses the NO FAKES Act, highlighting its potential negative impact on open-source AI development due to liability concerns for developers hosting AI models. The author urges the community to lobby for a Safe Harbor provision to protect open-source developers.
-
-**Key Points:**
-- The NO FAKES Act creates a 'digital replica right' that could hold developers liable for misuse of their AI models.
-- Developers hosting AI models on platforms like HuggingFace could face statutory damages if their models are used to create deepfakes.
-- The post calls for a 'Safe Harbor' provision to protect open-source developers from liability.
-- The community is encouraged to contact their representatives to oppose the bill unless it includes protections for open-source developers.
-- There is concern that the bill could lead to a monopoly by big tech companies due to the legal risks for smaller developers.
-
-**Discussion Highlights:** The discussion highlights strong opposition to the bill's potential impact on open-source development, with many users expressing concern that it could stifle innovation and favor large corporations. Some users also question whether politicians understand the technical implications of the bill.
+**Summary:** The Reddit post discusses the NO FAKES Act, highlighting its potential negative impact on open-source AI development by imposing liability on developers for tools used to create digital replicas. The author urges the community to lobby for a Safe Harbor provision to protect open-source projects. Key points include the creation of a 'digital replica right', potential statutory damages for developers, the call for a 'Safe Harbor' provision, encouragement to contact representatives, and concerns about Big Tech monopolies. The discussion highlights concerns about innovation and the role of Big Tech in lobbying, with skepticism about politicians' understanding of technology.
 
 ---
 
 ## 34. [Z.ai  (the AI lab behind GLM) has officially IPO'd on the Hong Kong Stock Exchange](https://reddit.com/r/LocalLLaMA/comments/1q7mvuf/zai_the_ai_lab_behind_glm_has_officially_ipod_on/)
 
-**Author:** u/Old-School8916 | **Upvotes:** 256 | **Comments:** 29 | **Date:** 2026-01-08
+**Author:** u/Old-School8916 | **Upvotes:** 263 | **Comments:** 29 | **Date:** 2026-01-08
 
-**Summary:** Z.ai, the AI lab behind GLM, has officially IPO'd on the Hong Kong Stock Exchange, with its stock price rising by 13.17% on the first day. The community is hopeful about the open-weight release of GLM 5 and celebrates the company's success.
+**Summary:** Z.ai, the AI lab behind GLM, has officially IPO'd on the Hong Kong Stock Exchange, with its stock price rising by 13.17% on the first day. The community is hopeful for the open-weight release of GLM 5 and celebrates the company's success.
 
 **Key Points:**
 - Z.ai IPO'd on the Hong Kong Stock Exchange with a 13.17% increase in stock price on the first day.
@@ -524,109 +537,83 @@
 - Community reactions include celebration and anticipation for future developments.
 - Minimax is set to IPO a day later, on January 9th.
 
-**Discussion Highlights:** The community is optimistic about Z.ai's IPO and the potential open-weight release of GLM 5. There is also excitement about Minimax's upcoming IPO and the overall growth in the AI sector.
+**Discussion Highlights:** The community is optimistic about Z.ai's IPO and the potential for open-weight releases of their models. There is also excitement about the upcoming Minimax IPO and the overall growth in the AI sector.
 
 ---
 
 ## 35. [LFM2.5 1.2B Instruct is amazing](https://reddit.com/r/LocalLLaMA/comments/1q7jd1a/lfm25_12b_instruct_is_amazing/)
 
-**Author:** u/Paramecium_caudatum_ | **Upvotes:** 161 | **Comments:** 38 | **Date:** 2026-01-08
+**Author:** u/Paramecium_caudatum_ | **Upvotes:** 160 | **Comments:** 38 | **Date:** 2026-01-08
 
 **Summary:** The Reddit post highlights the LFM2.5 1.2B Instruct model as an exceptional small model that outperforms others in its size range, running smoothly on various hardware. It is recommended for agentic tasks, data extraction, and RAG, but not for knowledge-intensive tasks or programming.
 
 **Key Points:**
 - LFM2.5 1.2B Instruct is highly efficient and performs well on basic hardware.
-- It excels in agentic tasks, data extraction, and RAG.
+- It is ideal for agentic tasks, data extraction, and RAG.
 - Not recommended for knowledge-intensive tasks or programming.
 - Users appreciate its speed and effectiveness for tasks like creating tags and chat headlines.
 - Recent updates include tool use capabilities, enhancing its functionality.
 
-**Discussion Highlights:** Users in the discussion emphasize the model's speed and efficiency for lightweight tasks, noting its effectiveness in Open WebUI for creating tags and chat headlines. There is also appreciation for its recent tool use capabilities, which have improved its performance. However, some users caution about its limitations in more complex or knowledge-intensive tasks.
+**Discussion Highlights:** The discussion highlights the model's efficiency and versatility, with users praising its performance in various tasks. There is a consensus on its suitability for specific use cases, while acknowledging its limitations in more complex tasks.
 
 ---
 
 ## 36. [Qwen3-VL-Reranker - a Qwen Collection](https://reddit.com/r/LocalLLaMA/comments/1q7dlkn/qwen3vlreranker_a_qwen_collection/)
 
-**Author:** u/LinkSea8324 | **Upvotes:** 114 | **Comments:** 41 | **Date:** 2026-01-08
+**Author:** u/LinkSea8324 | **Upvotes:** 119 | **Comments:** 41 | **Date:** 2026-01-08
 
-**Summary:** The Reddit post discusses the release of Qwen3-VL-Reranker, a multimodal reranker, and related models like Qwen3-VL Embeddings. The community shows enthusiasm for multimodal RAG applications and shares resources like notebooks and links to tech reports.
+**Summary:** The Reddit post introduces Qwen3-VL-Reranker, a multimodal reranker model, and related Qwen3-VL Embeddings. The discussion highlights enthusiasm for multimodal RAG applications and practical implementations.
 
 **Key Points:**
-- Introduction of Qwen3-VL-Reranker, a multimodal reranker
+- Introduction of Qwen3-VL-Reranker, a multimodal reranker model
 - Release of Qwen3-VL Embeddings alongside the reranker
-- Community interest in multimodal RAG applications
+- Enthusiasm for multimodal RAG applications in home labs
 - Availability of an end-to-end notebook for chaining these models
-- Discussion about integration with OpenWebUI
+- Interest in compatibility with OpenWebUI
 
-**Discussion Highlights:** The community is excited about the potential of multimodal RAG applications in home labs. There is a shared notebook for integrating these models, and discussions include practical use cases and compatibility with tools like OpenWebUI.
+**Discussion Highlights:** The discussion shows strong interest in multimodal RAG applications, with users sharing practical implementations and resources. There is also curiosity about the models' compatibility with existing tools like OpenWebUI.
 
 ---
 
 ## 37. [Jensen Huang saying "AI" 121 times during the NVIDIA CES keynote - cut with one prompt](https://reddit.com/r/LocalLLaMA/comments/1q7d8bj/jensen_huang_saying_ai_121_times_during_the/)
 
-**Author:** u/Prior-Arm-6705 | **Upvotes:** 912 | **Comments:** 145 | **Date:** 2026-01-08
+**Author:** u/Prior-Arm-6705 | **Upvotes:** 920 | **Comments:** 146 | **Date:** 2026-01-08
 
-**Summary:** The post describes a project where someone counted Jensen Huang saying 'AI' 121 times during his CES 2025 keynote and created a compilation video using open-source tools like Dive, yt-dlp-mcp, and ffmpeg-mcp-lite. The process involved downloading the video, parsing subtitles, cutting clips, and merging them into a final video.
-
-**Key Points:**
-- Jensen Huang said 'AI' 121 times during his CES 2025 keynote.
-- The project used open-source tools (Dive, yt-dlp-mcp, ffmpeg-mcp-lite) to create a compilation video.
-- The process involved downloading, parsing subtitles, cutting clips, and merging them.
-- The result was described as hypnotic.
-- The post gained popularity and received a special flair on Discord.
-
-**Discussion Highlights:** The discussion included humorous remarks about Jensen Huang's attire and influence on pricing, as well as appreciation for the technical achievement. The post was featured on Discord, and the author received a special flair.
+**Summary:** The post describes a project where someone counted and compiled every instance of Jensen Huang saying 'AI' (121 times) during his NVIDIA CES 2025 keynote using open-source tools. The process involved downloading the video, parsing subtitles, and editing clips to create a compilation video. Key points include the use of open-source tools, local execution without cloud services, and the hypnotic result. Discussion highlights include reactions to the project's popularity, comments on the cost of AI, references to tech content creators like Gamers Nexus, and humor about Jensen Huang's attire.
 
 ---
 
 ## 38. [AI21 Labs releases Jamba2](https://reddit.com/r/LocalLLaMA/comments/1q7a62a/ai21_labs_releases_jamba2/)
 
-**Author:** u/jacek2023 | **Upvotes:** 131 | **Comments:** 44 | **Date:** 2026-01-08
+**Author:** u/jacek2023 | **Upvotes:** 135 | **Comments:** 44 | **Date:** 2026-01-08
 
-**Summary:** AI21 Labs has released Jamba2, including Jamba2 Mini (12B active parameters, 52B total) and Jamba2 3B (3B parameters), both designed for enterprise reliability and efficiency. Jamba2 Mini offers a superior reliability-to-throughput ratio and a 256K context window, while Jamba2 3B is optimized for on-device deployments.
+**Summary:** AI21 Labs has released Jamba2, including a 52B parameter 'Mini' model and a 3B parameter model. The Jamba2 Mini is designed for enterprise reliability with a 256K context window and Apache 2.0 License, while the 3B model targets on-device deployments.
 
 **Key Points:**
-- Jamba2 Mini has 12B active parameters (52B total) and is optimized for enterprise reliability with a 256K context window.
-- Jamba2 3B is a compact model designed for on-device deployments with 3B parameters.
-- Both models are released under Apache 2.0 License and excel in benchmarks like IFBench and IFEval.
-- The models are praised for their memory efficiency and production-optimized performance.
-- Some users express skepticism based on previous Jamba models' performance.
+- Jamba2 Mini has 12B active parameters (52B total) and is optimized for enterprise use with a 256K context window.
+- The model uses an SSM-Transformer architecture for memory efficiency and high performance.
+- Jamba2 3B is designed for on-device deployments with 3B parameters.
+- Community reactions are mixed, with some users skeptical about performance improvements over previous Jamba models.
+- The 3B model's Hugging Face repository lacks detailed information.
 
-**Discussion Highlights:** Users discussed the naming of the 52B model as 'Mini' and expressed curiosity about improvements over previous Jamba models. Some noted the lack of information on the 3B model's Hugging Face repository and shared insights about the models' pre-training weights.
+**Discussion Highlights:** The community discussion highlights skepticism about the performance of previous Jamba models and curiosity about improvements in Jamba2. Some users noted the irony of a 52B model being labeled 'Mini' and pointed out the lack of information for the 3B model on its repository.
 
 ---
 
 ## 39. [Z-image base model is being prepared for release](https://reddit.com/r/LocalLLaMA/comments/1q77rxh/zimage_base_model_is_being_prepared_for_release/)
 
-**Author:** u/Ravencloud007 | **Upvotes:** 170 | **Comments:** 26 | **Date:** 2026-01-08
+**Author:** u/Ravencloud007 | **Upvotes:** 166 | **Comments:** 26 | **Date:** 2026-01-08
 
-**Summary:** The Reddit post announces the upcoming release of the Z-image base model, with a link to recent GitHub commits. The community expresses a mix of anticipation and skepticism, with some users eager for the release and others questioning the timeline and scope of the release.
-
-**Key Points:**
-- The Z-image base model is being prepared for release, as indicated by recent GitHub commits.
-- The community is eagerly awaiting the release, with some expressing frustration over the prolonged anticipation.
-- There is speculation about whether the release will include open weights or be limited to a specific platform.
-- The model is expected to support both text-to-image (T2I) and image editing capabilities.
-- Comparisons are made to other models like Qwen Edit and Flux 2, indicating high expectations for performance.
-
-**Discussion Highlights:** The discussion highlights a mix of excitement and skepticism. Many users are eagerly awaiting the release, while others express frustration over the prolonged anticipation and uncertainty about the scope of the release. There is a consensus that the model should support both text-to-image and image editing, with high expectations for its performance compared to existing models.
-
----
-
-## 40. [Dialogue Tree Search - MCTS-style tree search to find optimal dialogue paths (so you don't have to trial-and-error it yourself)](https://reddit.com/r/LocalLLaMA/comments/1q71sbe/dialogue_tree_search_mctsstyle_tree_search_to/)
-
-**Author:** u/ManavTheWorld | **Upvotes:** 339 | **Comments:** 21 | **Date:** 2026-01-07
-
-**Summary:** The Reddit post introduces an updated version of a project called Dialogue Tree Search (DTS), which uses parallel beam search to explore conversation trees and find optimal dialogue paths. The tool is designed to help with research directions and can be used for various applications.
+**Summary:** The Reddit post announces the upcoming release of the Z-image base model, with the community expressing a mix of anticipation and skepticism. Some users are eager for the release, while others are frustrated by the prolonged teasing.
 
 **Key Points:**
-- DTS uses parallel beam search instead of MCTS for dialogue exploration.
-- The tool generates diverse strategies and forks them into different user intent variants.
-- It includes deep research integration and visualization features.
-- The project is open-source and available on GitHub.
-- The discussion highlights the clever use of beam search and potential applications like optimizing role-play responses.
+- The Z-image base model is being prepared for release.
+- The community is eagerly awaiting the release, with some expressing frustration over delays.
+- There is speculation about the model's capabilities, including potential image editing features.
+- Some users hope for open weights to be released alongside the model.
+- The release is expected to be on a specific platform, but details remain unclear.
 
-**Discussion Highlights:** The discussion highlights the clever use of beam search over MCTS for dialogue exploration, with users appreciating the tool's potential for various applications, including optimizing role-play responses. Some comments also mention the cost of similar tools and suggest implementing alternatives.
+**Discussion Highlights:** The discussion highlights a mix of excitement and impatience within the community. Top comments reflect frustration over the prolonged teasing and anticipation for the model's capabilities, particularly its potential for image editing. There is also a desire for open weights to be released alongside the model.
 
 ---
 
