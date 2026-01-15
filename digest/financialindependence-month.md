@@ -8,52 +8,52 @@
 
 ## 1. [I'm 46yo (47 in a few months), been a teacher since the early 00s. Thanks to all of your advice, i put in my notice today that i will be leaving the school at the completion of this school year and retiring early.](https://reddit.com/r/financialindependence/comments/1q65weh/im_46yo_47_in_a_few_months_been_a_teacher_since/)
 
-**Author:** u/temp_worker | **Upvotes:** 844 | **Comments:** 136 | **Date:** 2026-01-06
+**Author:** u/temp_worker | **Upvotes:** 846 | **Comments:** 136 | **Date:** 2026-01-06
 
-**Summary:** A 46-year-old teacher announces early retirement after careful financial planning and multiple confirmations from various sources, including financial advisors and retirement calculators. They have a $1.5MM nest egg, $45k yearly expenses, and a pension available at 55.
+**Summary:** A 46-year-old teacher announces their decision to retire early after receiving multiple confirmations of financial readiness. They express gratitude for the advice received and share their mixed emotions about the transition.
 
 **Key Points:**
-- Teacher retiring early at 46 with a $1.5MM nest egg
-- Yearly expenses estimated at $45k, including ACA costs
-- Pension available at 55
-- Multiple sources confirmed financial readiness
-- Community support and congratulations in comments
+- Author is retiring early at 46 with a $1.5MM nest egg and $45k yearly expenses
+- Received confirmation from multiple sources (Reddit, calculators, financial advisors) to retire
+- Expresses gratitude and mixed emotions about the decision
+- Discussion highlights include congratulations and suggestions for part-time work post-retirement
+- Consensus in comments is supportive and encouraging
 
-**Discussion Highlights:** The community overwhelmingly supports the decision, with many congratulating the teacher and sharing similar experiences or advice for post-retirement activities.
+**Discussion Highlights:** The discussion is overwhelmingly supportive, with many users congratulating the author and sharing their own experiences or suggestions for post-retirement activities. Some commenters suggest part-time work as a way to stay engaged and supplement income.
 
 ---
 
 ## 2. [FIRE Update: One Year Ago I Quit My Job With a 935K NW - Here's How It's Going](https://reddit.com/r/financialindependence/comments/1q3xyuv/fire_update_one_year_ago_i_quit_my_job_with_a/)
 
-**Author:** u/Hero_Ryan | **Upvotes:** 544 | **Comments:** 108 | **Date:** 2026-01-04
+**Author:** u/Hero_Ryan | **Upvotes:** 545 | **Comments:** 109 | **Date:** 2026-01-04
 
-**Summary:** The author quit their job at 32 with a $935K net worth and took a sabbatical, which included renovating a camper, traveling internationally, and experiencing a slight decline in net worth due to a conservative investment strategy.
+**Summary:** The author quit their job at 32 with a $935K net worth and embarked on a sabbatical, which included renovating a camper, traveling internationally, and renovating their parents' bathroom. Despite a slight decline in net worth, they found the experience rewarding and encouraged others to consider taking a sabbatical.
 
 **Key Points:**
 - Author quit job at 32 with $935K net worth
-- Experienced a slight decline in net worth due to conservative investments
-- Spent first 6 months renovating a camper and traveling domestically
-- Embarked on a year-long international trip with spouse
-- Positive feedback on credit card tips and travel experiences
+- Engaged in various activities including camper renovation and international travel
+- Net worth slightly declined but found the experience rewarding
+- Encouraged others to consider taking a sabbatical
+- Discussion focused on credit card tips and positive feedback on activities
 
-**Discussion Highlights:** The discussion highlights include positive feedback on the author's achievements, interest in credit card tips, and appreciation for the detailed update on their sabbatical experiences.
+**Discussion Highlights:** The discussion highlighted positive feedback on the author's activities, with a focus on credit card tips and encouragement for others to take a sabbatical. Some comments also discussed the value of minimalism and the benefits of travel.
 
 ---
 
 ## 3. [Handing in my resignation on Monday.](https://reddit.com/r/financialindependence/comments/1q2wqi1/handing_in_my_resignation_on_monday/)
 
-**Author:** u/Yellow_Apple_1971 | **Upvotes:** 309 | **Comments:** 104 | **Date:** 2026-01-03
+**Author:** u/Yellow_Apple_1971 | **Upvotes:** 306 | **Comments:** 104 | **Date:** 2026-01-03
 
-**Summary:** The author, u/Yellow_Apple_1971, is resigning from their job to achieve financial independence after years of saving and investing. They reflect on their journey from a challenging childhood to financial security, despite lingering anxieties. The community celebrates their decision and offers supportive advice.
+**Summary:** The author, in their mid/late 50s, has decided to resign from their job after achieving financial independence, despite initial anxieties. They reflect on their journey from a challenging childhood to financial security and the emotional process of feeling ready to retire.
 
 **Key Points:**
-- Author is resigning to achieve financial independence after years of saving and investing.
-- Reflects on overcoming childhood financial anxieties through therapy and financial planning.
-- Community celebrates the decision with supportive and encouraging comments.
-- Suggestions for part-time work or managing healthcare are discussed in the comments.
-- The post highlights the emotional journey alongside financial planning.
+- Author is resigning after achieving financial independence despite initial anxieties
+- Reflects on journey from challenging childhood to financial security
+- Emotional readiness for retirement took time to develop
+- Community support and encouragement in comments
+- Suggestions for part-time work during transition
 
-**Discussion Highlights:** The discussion is overwhelmingly positive, with users congratulating the author and sharing similar experiences. Key themes include the importance of financial independence, overcoming emotional barriers, and practical advice for transitioning to retirement.
+**Discussion Highlights:** The community overwhelmingly supports the author's decision, with many sharing similar experiences and offering encouragement. Some suggest part-time work for a smoother transition, and there is curiosity about healthcare arrangements post-retirement.
 
 ---
 
@@ -61,33 +61,15 @@
 
 **Author:** u/anonymous_1983 | **Upvotes:** 364 | **Comments:** 131 | **Date:** 2025-12-27
 
-**Summary:** The author, who was involuntarily retired from a Big Tech job in 2024, shares a one-year update on their retirement. They traveled extensively, taught a college course, and saw significant financial growth, with their net worth increasing by $1.3M.
-
-**Key Points:**
-- Author taught a college course and enjoyed the experience despite administrative challenges.
-- Traveled overseas for 3 months and took domestic trips, including a group tour to Chicago.
-- Net worth grew by $1.3M, with income higher and expenses lower than planned.
-- Sold RSUs, realizing capital gains, and took up a new hobby of buying items for free.
-- Discussion highlights include curiosity about the 'buying stuff for free' hobby and praise for the author's lifestyle.
-
-**Discussion Highlights:** The discussion focused on the author's new hobby of buying items for free, their lifestyle, and financial strategies. Some commenters expressed admiration for the author's experiences and financial growth.
+**Summary:** The author, involuntarily retired from Big Tech, shares a one-year update on their experiences, including travel, teaching, and financial growth. Their net worth increased by $1.3M, and they enjoyed new social and travel opportunities. Key points include financial growth, teaching, travel, and managing healthcare. Discussion highlights include curiosity about the author's hobby of buying stuff for free and praise for their lifestyle.
 
 ---
 
 ## 5. [We have the money to retire, but we don't have the "Tribe." Scared to quit my job because it's my only social structure.](https://reddit.com/r/financialindependence/comments/1ppcerf/we_have_the_money_to_retire_but_we_dont_have_the/)
 
-**Author:** u/dust_e1 | **Upvotes:** 262 | **Comments:** 91 | **Date:** 2025-12-17
+**Author:** u/dust_e1 | **Upvotes:** 261 | **Comments:** 91 | **Date:** 2025-12-17
 
-**Summary:** The author and their spouse have achieved financial independence but are hesitant to retire due to a lack of social connections and structure outside of work. They seek advice on building a community and finding purpose post-retirement.
-
-**Key Points:**
-- Financial independence achieved but social isolation is a concern
-- Work provides structure and social interaction
-- Building a community requires consistent effort and engagement
-- Volunteering and shared hobbies can help in forming connections
-- Proactive engagement and prioritizing social activities are crucial
-
-**Discussion Highlights:** The discussion emphasizes the importance of consistent effort in building a social circle. Many suggest volunteering, engaging in hobbies, and prioritizing social activities to form meaningful connections. There is a consensus that building a community requires proactive engagement and showing up consistently.
+**Summary:** The author and their spouse have achieved financial independence but are hesitant to retire due to fears of loneliness and lack of social structure. They seek advice on building a community post-retirement. Key points include the author's indifference towards their job but fear of losing social interaction, challenges in building a community in a new location, and the need for a roadmap to replace work structure with genuine connections. The discussion highlights the importance of consistent participation in activities, volunteering, and prioritizing social interactions to build friendships, with some commenters noting the difficulty of making friends after 30 but emphasizing the importance of repeated interactions.
 
 ---
 
