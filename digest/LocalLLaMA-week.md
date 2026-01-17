@@ -1,641 +1,666 @@
 # r/LocalLLaMA Reading Digest
 
 **Period:** 2026-01-17 to 2026-01-17
-**Posts Summarized:** 42
-**Total Posts Analyzed:** 42
+**Posts Summarized:** 41
+**Total Posts Analyzed:** 41
 
 ---
 
 ## 1. [Maxsun joins Sparkle in making Intel Arc B60 Pro GPUs available to regular consumers, with up to 48GB VRAM](https://reddit.com/r/LocalLLaMA/comments/1qehf0p/maxsun_joins_sparkle_in_making_intel_arc_b60_pro/)
 
-**Author:** u/reps_up | **Upvotes:** 124 | **Comments:** 46 | **Date:** 2026-01-16
+**Author:** u/reps_up | **Upvotes:** 127 | **Comments:** 48 | **Date:** 2026-01-16
 
-**Summary:** Maxsun and Sparkle are making Intel Arc B60 Pro GPUs available to regular consumers, offering up to 48GB VRAM. The Reddit post highlights interest in high VRAM capacity and inquiries about software support and availability in Europe.
+**Summary:** Maxsun and Sparkle are making Intel Arc B60 Pro GPUs available to regular consumers, featuring up to 48GB VRAM. The Reddit discussion highlights interest in higher VRAM options and inquiries about software support and availability in Europe.
 
 **Key Points:**
-- Intel Arc B60 Pro GPUs with up to 48GB VRAM are becoming available to consumers.
-- Users express strong interest in high VRAM capacity (e.g., 128GB).
-- Questions about software support (torch/JAX/ONNX) and comparison to RoCm.
-- Inquiries about purchasing options in Europe.
+- Intel Arc B60 Pro GPUs now available to consumers via Maxsun and Sparkle
+- GPUs offer up to 48GB VRAM
+- Community interest in higher VRAM options (e.g., 128GB)
+- Questions about software support (torch/JAX/ONNX) and availability in Europe
+- Limited discussion on actual usage of Arc GPUs in AI/ML workflows
 
-**Discussion Highlights:** The discussion highlights a strong demand for high VRAM GPUs and concerns about software ecosystem support. Users are eager for alternatives to CUDA and inquire about availability in specific regions like Europe.
+**Discussion Highlights:** The discussion shows strong interest in high VRAM configurations for AI/ML workloads, with users expressing willingness to switch from CUDA if sufficient VRAM is available. There are concerns about software ecosystem support (torch/JAX/ONNX) and limited evidence of actual adoption. Some users are seeking purchase options in Europe.
 
 ---
 
 ## 2. [GPT-5.2 xhigh, GLM-4.7, Kimi K2 Thinking, DeepSeek v3.2 on Fresh SWE-rebench (December 2025)](https://reddit.com/r/LocalLLaMA/comments/1qefa7q/gpt52_xhigh_glm47_kimi_k2_thinking_deepseek_v32/)
 
-**Author:** u/CuriousPlatypus1881 | **Upvotes:** 343 | **Comments:** 82 | **Date:** 2026-01-16
+**Author:** u/CuriousPlatypus1881 | **Upvotes:** 348 | **Comments:** 87 | **Date:** 2026-01-16
 
-**Summary:** The post discusses the updated SWE-bench leaderboard results from December 2025, highlighting the performance of various AI models on GitHub PR tasks. Claude Opus 4.5 leads with a 63.3% resolved rate, followed closely by GPT-5.2 (extra high effort) at 61.5%. The post also notes the strong performance of open-source models like GLM-4.7 and GPT-OSS-120B.
-
-**Key Points:**
-- Claude Opus 4.5 leads the leaderboard with a 63.3% resolved rate.
-- GPT-5.2 (extra high effort) follows closely at 61.5%.
-- Gemini 3 Flash Preview outperforms Gemini 3 Pro Preview (60.0% vs 58.9%).
-- GLM-4.7 is the strongest open-source model, ranking alongside closed models like GPT-5.1-codex.
-- GPT-OSS-120B shows significant performance improvement in high-effort reasoning mode.
-
-**Discussion Highlights:** The discussion highlights the surprising performance of Gemini Flash and the strong showing of open-source models like GLM-4.7. Users appreciate the benchmark's credibility and express interest in contributing to the effort.
+**Summary:** The Reddit post discusses the updated SWE-bench leaderboard results from December 2025, highlighting the performance of various AI models on GitHub PR tasks. Claude Opus 4.5 leads with a 63.3% resolved rate, followed closely by GPT-5.2 (extra high effort) at 61.5%. The post also notes the strong performance of open-source models like GLM-4.7. Key points include: Claude Opus 4.5 leads the SWE-bench leaderboard with a 63.3% resolved rate, GPT-5.2 (extra high effort) follows closely at 61.5%, Gemini 3 Flash Preview outperforms Gemini 3 Pro Preview despite being smaller and cheaper, GLM-4.7 is the strongest open-source model, ranking alongside closed models like GPT-5.1-codex, and GPT-OSS-120B shows significant performance improvement in high-effort reasoning mode. The discussion highlights the surprising performance of Gemini Flash and the achievement of GLM-4.7 as a top open-source model. Users also express interest in contributing to the benchmarking effort.
 
 ---
 
 ## 3. [I fucking love this community](https://reddit.com/r/LocalLLaMA/comments/1qee2de/i_fucking_love_this_community/)
 
-**Author:** u/alhinai_03 | **Upvotes:** 438 | **Comments:** 51 | **Date:** 2026-01-16
+**Author:** u/alhinai_03 | **Upvotes:** 449 | **Comments:** 51 | **Date:** 2026-01-16
 
-**Summary:** The post expresses gratitude towards the open-source community for enabling the user to run large language models on older hardware, highlighting the efficiency of MoE architectures and system memory.
+**Summary:** The post expresses gratitude towards the open-source community for enabling the user to run large language models on older hardware, highlighting impressive performance metrics and the importance of system memory and MoE architecture.
 
 **Key Points:**
-- Gratitude towards the open-source community for their contributions
 - User runs large models on a 10-year-old PC with 4GB VRAM
-- Achieves 14-13.5 tokens per second with nemotron-3-nano-30B-a3b-iq4_nl
-- MoE architecture and system memory are key for performance
-- Community optimization efforts are highly praised
+- Achieves 14-13.5 tokens/second with nemotron-3-nano-30B-a3b-iq4_nl
+- System memory and MoE architecture are key for performance
+- Community contributions are highly valued
+- Optimization efforts in the community are praised
 
-**Discussion Highlights:** The discussion highlights the impressive optimization achievements of the community, the practicality of using system RAM with MoE models, and requests for more information on running large models on limited hardware.
-
----
-
-## 4. [New FLUX.2 [Klein] 9B is INSANELY Fast](https://reddit.com/r/LocalLLaMA/comments/1qe9xfi/new_flux2_klein_9b_is_insanely_fast/)
-
-**Author:** u/Lopsided_Dot_4557 | **Upvotes:** 100 | **Comments:** 24 | **Date:** 2026-01-16
-
-**Summary:** The Reddit post highlights the impressive performance of the new FLUX.2 [Klein] 9B model, which offers sub-second inference on RTX 4090 hardware and matches the performance of larger models with 9B parameters. The model features step-distillation and unified text-to-image capabilities, making it highly efficient and versatile. Key points include sub-second inference, 9B parameters matching larger models, step-distillation from 50 to 4 steps with zero quality loss, unified text-to-image and multi-reference editing, and efficient GPU usage with decent image quality. The discussion highlights the model's efficiency and speed, with users appreciating its ability to produce decent images without overloading the GPU. Some users compared it favorably to other models like zimage turbo, while others noted minor issues like occasional anatomical inaccuracies (e.g., six fingers).
+**Discussion Highlights:** The discussion highlights the impressive optimization achievements of the community, the practicality of using system RAM with MoE models, and a request for more information on running large models on limited hardware.
 
 ---
 
-## 5. [Dang, M2 drives are the new DDR5 apparently.](https://reddit.com/r/LocalLLaMA/comments/1qe4so5/dang_m2_drives_are_the_new_ddr5_apparently/)
+## 4. [Dang, M2 drives are the new DDR5 apparently.](https://reddit.com/r/LocalLLaMA/comments/1qe4so5/dang_m2_drives_are_the_new_ddr5_apparently/)
 
-**Author:** u/Porespellar | **Upvotes:** 199 | **Comments:** 92 | **Date:** 2026-01-15
+**Author:** u/Porespellar | **Upvotes:** 201 | **Comments:** 93 | **Date:** 2026-01-15
 
 **Summary:** The Reddit post discusses the significant increase in prices of M2 drives, with users expressing frustration and sharing personal experiences of price hikes.
 
 **Key Points:**
-- Moores law now refers to prices, indicating a shift in the trend of technology pricing.
-- Users are frustrated with the sudden increase in prices.
-- Personal experiences show drives purchased at lower prices have now doubled in cost.
-- Some users are holding onto old PCs as a backup due to the high prices.
-- The price increase is described as 'insane' and unexpected.
+- M2 drive prices have increased dramatically, with some users reporting prices nearly doubling in a short period.
+- Users are frustrated with the rapid price increases and the impact on their budgets.
+- Some users are holding onto older hardware as a precaution against further price hikes.
+- The discussion highlights a sense of uncertainty about when the price increases will stabilize.
 
-**Discussion Highlights:** The discussion highlights a consensus of frustration and concern over the rapid and significant increase in M2 drive prices, with users sharing personal experiences and expressing uncertainty about when the price hikes will end.
+**Discussion Highlights:** The consensus among users is one of frustration and concern over the rapid and significant price increases of M2 drives, with many sharing personal anecdotes of how the price hikes have affected them. There is a general sense of uncertainty about the future of hardware prices.
 
 ---
 
-## 6. [My story of underestimating /r/LocalLLaMA's thirst for VRAM](https://reddit.com/r/LocalLLaMA/comments/1qe2i88/my_story_of_underestimating_rlocalllamas_thirst/)
+## 5. [My story of underestimating /r/LocalLLaMA's thirst for VRAM](https://reddit.com/r/LocalLLaMA/comments/1qe2i88/my_story_of_underestimating_rlocalllamas_thirst/)
 
-**Author:** u/EmPips | **Upvotes:** 1170 | **Comments:** 82 | **Date:** 2026-01-15
+**Author:** u/EmPips | **Upvotes:** 1192 | **Comments:** 84 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post highlights the high demand for VRAM in local LLaMA models, sparking a discussion about hardware recommendations and community engagement.
+**Summary:** The post highlights the author's underestimation of the subreddit's demand for VRAM, with discussions focusing on hardware recommendations and community engagement.
 
 **Key Points:**
-- The post gained significant traction, as indicated by upvotes and comments.
-- A gold rush analogy was used to describe the demand for VRAM.
-- Hardware recommendations included GPUs like the 3090 or R9700 for optimal performance.
-- The community is actively engaged, with discussions about selling hardware after use.
+- Author underestimated VRAM demand in r/LocalLLaMA
+- Post was featured on Discord with special flair
+- Discussion includes hardware advice (e.g., 3090s or R9700)
+- Gold rush analogy used to describe the situation
+- Community engagement and recognition highlighted
 
-**Discussion Highlights:** The discussion revolves around hardware recommendations for running local LLaMA models efficiently, with a focus on GPUs and community engagement.
+**Discussion Highlights:** The discussion revolves around hardware recommendations (e.g., 3090s or R9700) and community engagement, with a notable analogy comparing the situation to a gold rush.
 
 ---
 
-## 7. [Latest upgrade…A100 40 GB](https://reddit.com/r/LocalLLaMA/comments/1qe0cxc/latest_upgradea100_40_gb/)
+## 6. [Latest upgrade…A100 40 GB](https://reddit.com/r/LocalLLaMA/comments/1qe0cxc/latest_upgradea100_40_gb/)
 
-**Author:** u/inserterikhere | **Upvotes:** 381 | **Comments:** 48 | **Date:** 2026-01-15
+**Author:** u/inserterikhere | **Upvotes:** 389 | **Comments:** 48 | **Date:** 2026-01-15
 
-**Summary:** The user upgraded their gaming rig to an AI rig by purchasing a faulty A100 GPU for $1000, which worked perfectly upon installation. The post gained significant attention in the r/LocalLLaMA community.
+**Summary:** The author upgraded their gaming rig to an AI-focused setup by acquiring a used A100 GPU for $1000, despite it being listed as faulty. The GPU worked perfectly, allowing them to run and train larger AI models effectively.
 
 **Key Points:**
-- User transitioned from a gaming rig to an AI rig using existing parts.
-- Purchased an A100 GPU listed as faulty for $1000, which worked upon installation.
-- The post received 381 upvotes and 48 comments, indicating strong community interest.
-- Top comments included a Discord feature announcement and humorous reactions to the successful gamble on the GPU.
-- The community consensus was a mix of admiration and humor regarding the risky purchase.
+- The author transitioned from a gaming rig to an AI-focused setup.
+- They purchased a faulty A100 GPU for $1000, which turned out to work flawlessly.
+- The upgrade enabled them to run and train larger AI models.
+- The community reacted with a mix of admiration and humor, highlighting the risk and success of the purchase.
 
-**Discussion Highlights:** The discussion highlighted the community's appreciation for the user's successful gamble on the A100 GPU, with humorous reactions and a notable mention of the post being featured on Discord.
+**Discussion Highlights:** The community celebrated the author's successful gamble on a faulty GPU, with reactions ranging from humorous memes to expressions of admiration for the upgrade.
 
 ---
 
-## 8. [Not as impressive as most here, but really happy I made it in time!](https://reddit.com/r/LocalLLaMA/comments/1qdtvgs/not_as_impressive_as_most_here_but_really_happy_i/)
+## 7. [Not as impressive as most here, but really happy I made it in time!](https://reddit.com/r/LocalLLaMA/comments/1qdtvgs/not_as_impressive_as_most_here_but_really_happy_i/)
 
-**Author:** u/Kahvana | **Upvotes:** 137 | **Comments:** 42 | **Date:** 2026-01-15
+**Author:** u/Kahvana | **Upvotes:** 144 | **Comments:** 42 | **Date:** 2026-01-15
 
-**Summary:** The user shares their experience building a PC in the Netherlands, highlighting challenges with GPU availability and their successful setup with dual RTX 5060 Ti GPUs. They recommend checking stock availability directly with stores due to inaccurate online listings.
+**Summary:** The Reddit post discusses the author's successful acquisition of an RTX 5060 Ti GPU in the Netherlands despite supply issues, detailing their system specs and offering advice on checking stock availability. The discussion includes questions about CPU upgrades, comments on build aesthetics, and discussions about GPU performance and motherboard recommendations.
 
 **Key Points:**
-- GPU availability in the Netherlands is challenging, with inaccurate online stock listings.
-- The user's build includes dual RTX 5060 Ti GPUs, a Ryzen 5 9600X CPU, and 96GB of DDR5 RAM.
-- The motherboard was chosen for its PCI-E 5.0 splitting to optimize GPU performance.
-- Discussion includes questions about CPU upgrades for inference speed and comments on build aesthetics.
-- Consensus highlights the build's cost-effectiveness and performance for running large models.
+- The author managed to secure an RTX 5060 Ti GPU despite supply issues by checking stock availability directly with the store.
+- The build includes an AMD Ryzen 5 9600X, 96GB DDR5 RAM, and dual RTX 5060 Ti GPUs.
+- The discussion highlights questions about CPU upgrades for inference speed and recommendations for motherboards that optimize dual GPU performance.
+- Comments also touch on build aesthetics and cooling solutions for dual GPU setups.
 
-**Discussion Highlights:** The discussion includes questions about potential CPU upgrades for better inference performance, humorous comments about the build's tidiness, and consensus on the build's effectiveness for running large models like GPT-OSS 120B.
+**Discussion Highlights:** The discussion primarily revolves around optimizing the build for performance, with a focus on CPU upgrades for inference tasks and motherboard choices for dual GPU setups. There is also a lighthearted comment about build aesthetics and practical advice on cooling solutions for dual GPUs.
 
 ---
 
-## 9. [Nemotron-3-nano:30b is a spectacular general purpose local LLM](https://reddit.com/r/LocalLLaMA/comments/1qdrf3o/nemotron3nano30b_is_a_spectacular_general_purpose/)
+## 8. [Nemotron-3-nano:30b is a spectacular general purpose local LLM](https://reddit.com/r/LocalLLaMA/comments/1qdrf3o/nemotron3nano30b_is_a_spectacular_general_purpose/)
 
-**Author:** u/DrewGrgich | **Upvotes:** 198 | **Comments:** 118 | **Date:** 2026-01-15
+**Author:** u/DrewGrgich | **Upvotes:** 203 | **Comments:** 123 | **Date:** 2026-01-15
 
-**Summary:** The post praises Nemotron-3-nano:30b for its exceptional performance as a general-purpose local LLM, noting its intelligence and superior reasoning quality compared to larger models like Llama 3.3:70b. Users highlight its effectiveness for research and analysis, despite its robotic tone.
+**Summary:** The Reddit post praises Nemotron-3-nano:30b for its exceptional performance as a general-purpose local LLM, noting its intelligence and superior reasoning quality compared to larger models like Llama 3.3:70b, despite its robotic tone. Users highlight its effectiveness for research and analysis tasks.
 
 **Key Points:**
 - Nemotron-3-nano:30b is highly intelligent and performs well for general-purpose tasks.
 - It outperforms larger models like Llama 3.3:70b in reasoning quality.
 - The robotic tone is seen as a feature for research and analysis purposes.
 - Users are looking forward to the upcoming Nemotron 3 super (100b) model.
-- Some users prefer Qwen3-vl-30b for its vision-language capabilities.
+- Some users prefer other models like qwen3-vl-30b-a3b-instruct for their specific capabilities.
 
-**Discussion Highlights:** The discussion highlights the model's impressive reasoning capabilities and its suitability for research and analysis tasks. Users also express anticipation for future models and compare it with other LLMs like Qwen3-vl-30b.
+**Discussion Highlights:** The discussion highlights the model's impressive reasoning capabilities and its suitability for research and analysis tasks. Users also express anticipation for future models and compare Nemotron with other LLMs like qwen3-vl-30b-a3b-instruct.
 
 ---
 
-## 10. [Thanks to you guys, Soprano TTS now supports OpenAI-compatible endpoint, ONNX, ComfyUI, WebUI, and CLI on CUDA, MPS, ROCm, and CPU!](https://reddit.com/r/LocalLLaMA/comments/1qdpb2v/thanks_to_you_guys_soprano_tts_now_supports/)
+## 9. [Thanks to you guys, Soprano TTS now supports OpenAI-compatible endpoint, ONNX, ComfyUI, WebUI, and CLI on CUDA, MPS, ROCm, and CPU!](https://reddit.com/r/LocalLLaMA/comments/1qdpb2v/thanks_to_you_guys_soprano_tts_now_supports/)
 
-**Author:** u/eugenekwek | **Upvotes:** 106 | **Comments:** 24 | **Date:** 2026-01-15
+**Author:** u/eugenekwek | **Upvotes:** 108 | **Comments:** 25 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post announces updates to Soprano TTS, including support for OpenAI-compatible endpoints, ONNX, ComfyUI, WebUI, and CLI on various devices like CUDA, MPS, ROCm, and CPU. The author thanks the community for their contributions and highlights several new features and improvements.
+**Summary:** The Reddit post announces major updates to Soprano TTS, including support for OpenAI-compatible endpoints, ONNX, ComfyUI, WebUI, and CLI across various hardware platforms like CUDA, MPS, ROCm, and CPU. The author thanks the community for contributions that expanded Soprano's capabilities.
 
 **Key Points:**
-- Soprano TTS now supports OpenAI-compatible endpoints, ONNX, ComfyUI, WebUI, and CLI.
-- The tool is compatible with CUDA, MPS, ROCm, and CPU devices.
-- Community contributions include WebUI, CLI, OpenAI-compatible endpoint, ONNX, and ComfyUI support.
-- Additional features include an automatic hallucination detector and transformers streaming support.
-- The author expresses gratitude for community contributions and seeks help for testing ROCm support.
+- Soprano TTS now supports multiple inference methods and hardware platforms.
+- Community contributions added WebUI, CLI, OpenAI-compatible endpoints, ONNX, and ComfyUI support.
+- Additional features include automatic hallucination detection and transformers streaming support.
+- The post highlights the importance of community collaboration in improving the project.
+- Discussion includes questions about comparison with other TTS models and future plans for finetuning.
 
-**Discussion Highlights:** The discussion includes comparisons to other tools like Kokoro, inquiries about finetuning support, and the importance of local TTS for accessibility and privacy. Some users also discuss hardware compatibility and testing.
+**Discussion Highlights:** The discussion focuses on comparisons with other TTS models like Kokoro, interest in finetuning support, and appreciation for local TTS solutions for accessibility and privacy.
 
 ---
 
-## 11. [google/translategemma](https://reddit.com/r/LocalLLaMA/comments/1qdok2i/googletranslategemma/)
+## 10. [google/translategemma](https://reddit.com/r/LocalLLaMA/comments/1qdok2i/googletranslategemma/)
 
 **Author:** u/BreakfastFriendly728 | **Upvotes:** 168 | **Comments:** 47 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post discusses Google's TranslateGemma model, highlighting its technical report and Hugging Face collection. The discussion focuses on the model's training data, context limitations, and availability of GGUF format. Key points include the model's use of 4.3 billion tokens during SFT and 10.2 million tokens during reinforcement learning, a total input context of 2K tokens, requests for GGUF format availability and comparisons to other models, and questions about setting language codes for chat completions. The discussion highlights concerns about the model's context limitations and the lack of certain formats and comparisons, with users interested in practical implementation details and performance benchmarks.
+**Summary:** The Reddit post discusses Google's TranslateGemma model, highlighting its technical report and Hugging Face collection. The discussion focuses on the model's training data, context limitations, and availability of GGUF format.
+
+**Key Points:**
+- TranslateGemma used 4.3 billion tokens during SFT and 10.2 million tokens during reinforcement learning.
+- The model has a total input context of 2K tokens, which some users find limiting.
+- Users express interest in GGUF format availability and comparisons with other models like tencent/HY-MT1.5 and Gemma 4.
+- Questions about setting language codes for chat completions using Koboldcpp or llama.cpp server.
+
+**Discussion Highlights:** The discussion highlights concerns about the model's context limitations and the lack of comparisons with other models. Users also express interest in the GGUF format and seek guidance on using the model with specific tools like Koboldcpp and llama.cpp server.
 
 ---
 
-## 12. [7x Longer Context Reinforcement Learning in Unsloth](https://reddit.com/r/LocalLLaMA/comments/1qdna3t/7x_longer_context_reinforcement_learning_in/)
+## 11. [7x Longer Context Reinforcement Learning in Unsloth](https://reddit.com/r/LocalLLaMA/comments/1qdna3t/7x_longer_context_reinforcement_learning_in/)
 
 **Author:** u/danielhanchen | **Upvotes:** 241 | **Comments:** 27 | **Date:** 2026-01-15
 
-**Summary:** Unsloth introduces advancements enabling 7x longer context lengths for Reinforcement Learning, supporting training on 24GB cards with no accuracy loss and compatibility with various models like Llama and Gemma.
+**Summary:** Unsloth introduces 7x longer context lengths for Reinforcement Learning, enabling training of large models like gpt-oss 20b QLoRA with up to 20K context on a 24GB card without accuracy loss. The update includes support for various models and features like weight-sharing, Flex Attention, and Float8 training.
 
 **Key Points:**
 - 7x longer context lengths (up to 12x) for Reinforcement Learning
-- Training on 24GB cards with no accuracy degradation
-- Support for models like Llama, Gemma, and Qwen3-8B
-- Features like weight-sharing, Flex Attention, and Float8 training
-- Community recognition and questions about training data and model compatibility
+- Supports training gpt-oss 20b QLoRA with 20K context on a 24GB card
+- Features include weight-sharing, Flex Attention, and Float8 training
+- Compatible with models like Llama, Gemma, and Qwen3
+- Free fine-tuning notebooks available for implementation
 
-**Discussion Highlights:** The community appreciates the advancements, with questions about training data for long contexts and compatibility with specific models like Qwen3 30B-3A.
+**Discussion Highlights:** The community praised the rapid progress (e.g., 'road to 10X moves fast!!') and inquired about training data sources for long contexts and compatibility with specific models like Qwen3 30B-3A.
 
 ---
 
-## 13. [RTX 5070 Ti and RTX 5060 Ti 16 GB no longer manufactured](https://reddit.com/r/LocalLLaMA/comments/1qdh28f/rtx_5070_ti_and_rtx_5060_ti_16_gb_no_longer/)
+## 12. [RTX 5070 Ti and RTX 5060 Ti 16 GB no longer manufactured](https://reddit.com/r/LocalLLaMA/comments/1qdh28f/rtx_5070_ti_and_rtx_5060_ti_16_gb_no_longer/)
 
-**Author:** u/Paramecium_caudatum_ | **Upvotes:** 227 | **Comments:** 93 | **Date:** 2026-01-15
+**Author:** u/Paramecium_caudatum_ | **Upvotes:** 229 | **Comments:** 94 | **Date:** 2026-01-15
 
 **Summary:** Nvidia has reduced supply for the RTX 5070 Ti and RTX 5060 Ti 16 GB due to memory shortages, leading to price increases and limited availability. The 8 GB configuration of the RTX 5060 Ti remains unaffected.
 
 **Key Points:**
-- Nvidia has killed off supply for the RTX 5070 Ti and reduced supply for the RTX 5060 Ti 16 GB
-- Prices for the RTX 5070 Ti have risen ~$100 over MSRP
-- The 8 GB configuration of the RTX 5060 Ti is unaffected
-- Users express disappointment and share their experiences with the GPUs
+- Nvidia has killed off supply for the RTX 5070 Ti and reduced supply for the RTX 5060 Ti 16 GB.
+- Prices for the RTX 5070 Ti have risen ~$100 over MSRP, with further hikes expected.
+- The 8 GB configuration of the RTX 5060 Ti is unaffected by these changes.
+- Users express frustration and share their experiences with purchasing these GPUs.
+- Some users report securing GPUs before the price hikes and supply issues.
 
-**Discussion Highlights:** Users express frustration over the supply issues and price hikes, with some sharing their recent purchases and experiences. There is a consensus that the situation has disrupted upgrade plans for many.
+**Discussion Highlights:** The community expresses disappointment over the supply issues and price hikes, with some users sharing their successful purchases before the changes. There is a consensus that the situation has disrupted upgrade plans for many.
 
 ---
 
-## 14. [LFM 2.5 is insanely good](https://reddit.com/r/LocalLLaMA/comments/1qdax6z/lfm_25_is_insanely_good/)
+## 13. [LFM 2.5 is insanely good](https://reddit.com/r/LocalLLaMA/comments/1qdax6z/lfm_25_is_insanely_good/)
 
 **Author:** u/guiopen | **Upvotes:** 102 | **Comments:** 32 | **Date:** 2026-01-14
 
-**Summary:** The Reddit post highlights the impressive performance of the LFM 2.5 model, noting its effectiveness in basic QA and summarization tasks, despite its small size. The author compares its performance favorably to larger models and expresses excitement about future developments.
+**Summary:** The Reddit post highlights the impressive performance of LFM 2.5, a ~1B parameter model that rivals larger models in usefulness and accuracy, particularly in Portuguese. The author notes its effectiveness in basic QA and summarization tasks, and expresses excitement for future models.
 
 **Key Points:**
-- LFM 2.5 is noted for its strong performance in basic QA and summarization tasks.
-- The model performs well in Portuguese, despite not being officially supported.
-- The author compares its performance to larger models like Llama 2 7b and Llama 3 8b.
-- Some users report mixed experiences with the model's summarization capabilities.
-- The post expresses excitement about the potential of an 8b-a1b MoE model.
+- LFM 2.5 is praised for its performance despite its small size (~1B parameters)
+- It performs well in basic QA and summarization tasks, especially in Portuguese
+- The model is compared favorably to larger models like Llama 2 7B and Llama 3 8B
+- Some users note limitations in basic QA without retrieval systems and mixed experiences with summarization
+- The author is excited about the potential of future 8B MoE models
 
-**Discussion Highlights:** The discussion includes mixed feedback on the model's performance, with some users praising its capabilities in basic QA and summarization, while others report issues with summarization and data extraction tasks. Overall, there is a consensus on the model's impressive performance for its size.
-
----
-
-## 15. [I trained a model to 'unslop' AI prose](https://reddit.com/r/LocalLLaMA/comments/1qd88v2/i_trained_a_model_to_unslop_ai_prose/)
-
-**Author:** u/N8Karma | **Upvotes:** 203 | **Comments:** 70 | **Date:** 2026-01-14
-
-**Summary:** The author trained a model to reverse the 'enslopping' effect of AI-generated prose, creating a tool that can restore human-like quality to text. The model, named 'Unslopper,' is open-source and has shown promising results in making AI-generated text more readable and human-sounding. The community response has been largely positive, with users praising the innovation and effectiveness of the model. Some users have drawn parallels to diffusion models, while others have expressed skepticism about the training data size.
+**Discussion Highlights:** The discussion highlights a consensus on the model's impressive performance for its size, with some users noting limitations in specific tasks like basic QA and summarization. Overall, the sentiment is positive, with excitement for future developments.
 
 ---
 
-## 16. [Zhipu AI breaks US chip reliance with first major model trained on Huawei stack (GLM-Image)](https://reddit.com/r/LocalLLaMA/comments/1qd6nho/zhipu_ai_breaks_us_chip_reliance_with_first_major/)
+## 14. [I trained a model to 'unslop' AI prose](https://reddit.com/r/LocalLLaMA/comments/1qd88v2/i_trained_a_model_to_unslop_ai_prose/)
 
-**Author:** u/fallingdowndizzyvr | **Upvotes:** 413 | **Comments:** 46 | **Date:** 2026-01-14
+**Author:** u/N8Karma | **Upvotes:** 205 | **Comments:** 70 | **Date:** 2026-01-14
 
-**Summary:** Zhipu AI has developed the GLM-Image model using Huawei hardware, marking a significant step in reducing reliance on US chips. The Reddit discussion highlights the impact of the Chinese ban on Nvidia and the progression of AI model development.
+**Summary:** The author trained a model to reverse the 'enslopping' effect of AI-generated prose by using GPT-4o-mini to enhance literary passages and then training a model to revert them back to their original form. The resulting model, Unslopper-30B, can produce more human-like prose, as evidenced by its ability to fool AI detectors like Pangram, with minimal quality loss.
 
 **Key Points:**
-- Zhipu AI's GLM-Image model is trained on Huawei hardware, reducing US chip reliance
-- The Chinese ban on Nvidia is driving innovation in alternative hardware
-- Model sizes have significantly increased over time, with GLM-Image 9B being a notable example
-- Current outputs of the GLM-Image model are not highly regarded, suggesting it is more of a tech demo
+- The model was trained to reverse AI-generated 'slop' and restore original prose quality.
+- Unslopper-30B can fool AI detectors like Pangram, indicating improved human-like prose.
+- The model is open-source and available on Hugging Face.
+- The goal is to improve readability of AI-generated text, not to deceive.
+- Community feedback highlights the model's effectiveness and potential applications.
 
-**Discussion Highlights:** The discussion emphasizes the strategic importance of Zhipu AI's achievement in using Huawei hardware, despite the current limitations of the GLM-Image model. There is a consensus that this development is a significant step towards reducing dependence on US chips, with expectations for future improvements.
-
----
-
-## 17. [Popularity of DDR3 motherboards is growing rapidly - VideoCardz.com](https://reddit.com/r/LocalLLaMA/comments/1qcvk9n/popularity_of_ddr3_motherboards_is_growing/)
-
-**Author:** u/FullstackSensei | **Upvotes:** 144 | **Comments:** 68 | **Date:** 2026-01-14
-
-**Summary:** The author expresses frustration over rising DDR4 RAM prices and the potential impact on DDR3 prices, which could affect homelabbing and local LLM setups. The discussion highlights concerns about hardware recycling, past experiences with RAM pricing cycles, and the overall stagnation in consumer hardware evolution. Key points include the author's frustration with rising DDR4 prices, concerns about the future of homelabbing due to increasing hardware costs, discussion on hardware recycling and stagnation, past experiences with RAM pricing cycles, and mixed feelings about upgrading from DDR3 to newer hardware. The discussion highlights a consensus on the stagnation of consumer hardware and the importance of recycling and reusing older hardware, with general agreement on the cyclical nature of RAM prices and potential future fluctuations.
+**Discussion Highlights:** The community praised the model for its ability to produce more natural-sounding prose and compared the training process to diffusion models. Some users expressed skepticism about the training data size but acknowledged the model's potential for improving AI-generated text.
 
 ---
 
-## 18. [NeuTTS Nano: 120M Parameter On-Device TTS based on Llama3](https://reddit.com/r/LocalLLaMA/comments/1qcv304/neutts_nano_120m_parameter_ondevice_tts_based_on/)
+## 15. [Zhipu AI breaks US chip reliance with first major model trained on Huawei stack (GLM-Image)](https://reddit.com/r/LocalLLaMA/comments/1qd6nho/zhipu_ai_breaks_us_chip_reliance_with_first_major/)
 
-**Author:** u/TeamNeuphonic | **Upvotes:** 201 | **Comments:** 44 | **Date:** 2026-01-14
+**Author:** u/fallingdowndizzyvr | **Upvotes:** 408 | **Comments:** 46 | **Date:** 2026-01-14
 
-**Summary:** Neuphonic has released NeuTTS Nano, a 120M parameter on-device TTS model based on Llama3, designed for resource-constrained environments like robotics and embedded systems. It offers instant voice cloning and realistic prosody in a lightweight package.
+**Summary:** Zhipu AI has developed the GLM-Image model using Huawei hardware, marking a significant step in reducing reliance on US chips. The post highlights the rapid advancement of AI models and the impact of the Chinese ban on Nvidia.
 
 **Key Points:**
-- NeuTTS Nano is a 120M parameter TTS model, 3x smaller than NeuTTS Air.
-- Built on Llama3 with a simple LM + codec architecture, provided in GGML format.
-- Designed for deployment on mobile, Jetson, and Raspberry Pi devices.
-- Features include instant voice cloning (3s sample) and ultra-realistic prosody.
-- Community interest in multilingual support and performance benchmarks.
+- Zhipu AI's GLM-Image model is trained on Huawei hardware, breaking US chip reliance.
+- The Chinese ban on Nvidia is driving innovation in alternative hardware.
+- Rapid advancements in AI models are noted, with GLM-Image being a 9B model.
+- Mixed reception on the model's performance, with some viewing it as a tech demo.
 
-**Discussion Highlights:** The community shows strong interest in multilingual support, particularly for European languages, and performance benchmarks on various hardware. Some users express concerns about voice quality, while others appreciate the lightweight design for embedded systems.
+**Discussion Highlights:** The discussion highlights the significance of the Chinese ban on Nvidia and the rapid progress in AI model development. While the GLM-Image model is seen as a technological milestone, there are concerns about its performance, with some users viewing it as a tech demo rather than a fully functional model.
 
 ---
 
-## 19. [Soprano 1.1-80M released: 95% fewer hallucinations and 63% preference rate over Soprano-80M](https://reddit.com/r/LocalLLaMA/comments/1qcusnt/soprano_1180m_released_95_fewer_hallucinations/)
+## 16. [Popularity of DDR3 motherboards is growing rapidly - VideoCardz.com](https://reddit.com/r/LocalLLaMA/comments/1qcvk9n/popularity_of_ddr3_motherboards_is_growing/)
 
-**Author:** u/eugenekwek | **Upvotes:** 310 | **Comments:** 54 | **Date:** 2026-01-14
+**Author:** u/FullstackSensei | **Upvotes:** 146 | **Comments:** 68 | **Date:** 2026-01-14
 
-**Summary:** The post announces Soprano 1.1, an improved version of the Soprano TTS model with significant reductions in hallucinations and audio artifacts, along with better stability and support for longer sentences. The community response is overwhelmingly positive, highlighting the model's usability and performance for its size.
+**Summary:** The author expresses frustration over rising DDR4 RAM prices and fears that DDR3 prices may also skyrocket, making it difficult to maintain or upgrade homelab setups. The discussion highlights a shift towards reusing and recycling older hardware due to stagnant consumer hardware evolution. Key points include the author's frustration with rising DDR4 prices, the impact on homelabbing, a shift towards reusing older hardware, historical context of RAM price cycles, and personal experiences with older hardware still being functional. The discussion reflects a consensus on the growing trend of reusing older hardware due to stagnant consumer hardware evolution and high costs of newer components.
+
+---
+
+## 17. [NeuTTS Nano: 120M Parameter On-Device TTS based on Llama3](https://reddit.com/r/LocalLLaMA/comments/1qcv304/neutts_nano_120m_parameter_ondevice_tts_based_on/)
+
+**Author:** u/TeamNeuphonic | **Upvotes:** 207 | **Comments:** 44 | **Date:** 2026-01-14
+
+**Summary:** Neuphonic has released NeuTTS Nano, a 120M parameter on-device TTS model based on Llama3, designed for embedded and mobile applications with ultra-realistic prosody and instant voice cloning capabilities.
 
 **Key Points:**
-- Soprano 1.1 reduces hallucinations by 95% and lowers WER by 50% compared to the previous version.
-- The model now supports sentences up to 30 seconds long, doubling the previous limit.
-- Community feedback praises the model's usability and performance, with requests for additional features like ONNX support.
-- The developer conducted a blind study showing a 63% preference rate for Soprano 1.1.
-- The post includes links to the model, a demo, and the GitHub repository.
+- NeuTTS Nano is a 120M parameter TTS model, 3x smaller than NeuTTS Air, designed for tight VRAM/RAM constraints.
+- It features a simple LM + codec architecture built off Llama3 and is provided in GGML format for easy deployment.
+- The model supports instant voice cloning with a 3-second sample and is optimized for smart home devices, robotics, and mobile apps.
+- Community interest includes finetuning for other languages and benchmarks for different hardware.
+- Some users express concerns about the naturalness and emotional quality of the generated voices.
 
-**Discussion Highlights:** The community response is highly positive, with users expressing surprise at the model's quality given its small size (80M parameters). There are requests for additional features like ONNX support, and praise for the developer's work. Some users also noted minor inconsistencies, such as the handling of em-dashes.
+**Discussion Highlights:** The community shows strong interest in multilingual support and benchmarks for various hardware, with mixed feedback on voice quality.
 
 ---
 
-## 20. [NVIDIA's new 8B model is Orchestrator-8B, a specialized 8-billion-parameter AI designed not to answer everything itself, but to intelligently manage and route complex tasks to different tools (like web search, code execution, other LLMs) for greater efficiency](https://reddit.com/r/LocalLLaMA/comments/1qcuerc/nvidias_new_8b_model_is_orchestrator8b_a/)
+## 18. [Soprano 1.1-80M released: 95% fewer hallucinations and 63% preference rate over Soprano-80M](https://reddit.com/r/LocalLLaMA/comments/1qcusnt/soprano_1180m_released_95_fewer_hallucinations/)
 
-**Author:** u/Fear_ltself | **Upvotes:** 684 | **Comments:** 126 | **Date:** 2026-01-14
+**Author:** u/eugenekwek | **Upvotes:** 311 | **Comments:** 54 | **Date:** 2026-01-14
 
-**Summary:** NVIDIA's new 8B model, Orchestrator-8B, is designed to intelligently manage and route complex tasks to different tools for greater efficiency. The post discusses the potential of integrating separate AI components to achieve functional systems, with comments highlighting its managerial role and comparisons to existing frameworks.
+**Summary:** The post announces the release of Soprano 1.1, an improved version of the Soprano TTS model with 95% fewer hallucinations and a 63% preference rate over the original. It features better audio quality, reduced artifacts, and support for longer sentences.
 
 **Key Points:**
-- Orchestrator-8B is an 8-billion-parameter AI designed to route tasks to various tools.
-- The model emphasizes efficiency through task delegation rather than direct problem-solving.
-- The post suggests that integrating separate AI components could lead to advanced functional systems.
-- Comments compare the model to a 'middle manager' and discuss its role in managing other models.
-- The concept is not entirely new, with references to existing agentic frameworks.
+- Soprano 1.1 reduces hallucinations by 95% and has a 63% preference rate over Soprano-80M
+- Improved audio quality with 50% lower WER and reduced artifacts
+- Supports sentences up to 30 seconds long
+- Positive user feedback highlighting its usability and impressiveness for an 80M model
 
-**Discussion Highlights:** The discussion highlights the model's role as a task manager, with comparisons to existing frameworks like Claude's agentic systems. There is a consensus on the potential of such models to enhance AI functionality through delegation and integration.
+**Discussion Highlights:** Users expressed admiration for the model's quality and usability, with some inquiring about future features like ONNX support. Overall, the consensus is highly positive, praising the improvements and the developer's efforts.
 
 ---
 
-## 21. [Which are the top LLMs under 8B right now?](https://reddit.com/r/LocalLLaMA/comments/1qcl543/which_are_the_top_llms_under_8b_right_now/)
+## 19. [NVIDIA's new 8B model is Orchestrator-8B, a specialized 8-billion-parameter AI designed not to answer everything itself, but to intelligently manage and route complex tasks to different tools (like web search, code execution, other LLMs) for greater efficiency](https://reddit.com/r/LocalLLaMA/comments/1qcuerc/nvidias_new_8b_model_is_orchestrator8b_a/)
+
+**Author:** u/Fear_ltself | **Upvotes:** 683 | **Comments:** 126 | **Date:** 2026-01-14
+
+**Summary:** NVIDIA's Orchestrator-8B is an 8-billion-parameter AI designed to manage and route complex tasks to various tools for greater efficiency. The post discusses its potential as a step towards AGI by integrating different models and tools effectively.
+
+**Key Points:**
+- Orchestrator-8B is a specialized 8B model for task management and routing.
+- It aims to integrate different tools and models for efficient task handling.
+- The post suggests this approach could be a step towards AGI.
+- Comments highlight its role as a 'middle manager' LLM and its potential in agentic frameworks.
+- Some users note that similar concepts have been explored before.
+
+**Discussion Highlights:** The discussion highlights the model's potential in managing tasks and integrating various tools, with some users drawing parallels to existing concepts and frameworks. The consensus leans towards the importance of such models in advancing AI capabilities.
+
+---
+
+## 20. [Which are the top LLMs under 8B right now?](https://reddit.com/r/LocalLLaMA/comments/1qcl543/which_are_the_top_llms_under_8b_right_now/)
 
 **Author:** u/Additional_Secret_75 | **Upvotes:** 173 | **Comments:** 108 | **Date:** 2026-01-14
 
-**Summary:** The post discusses the best LLMs under 8B parameters for local use, focusing on models suitable for chat, research, and coding with low VRAM requirements. Users share their experiences and recommendations for various models.
+**Summary:** The post discusses recommendations for top LLMs under 8B parameters for chat, research, and coding, with a focus on models that perform well without requiring excessive VRAM.
 
 **Key Points:**
-- Qwen3 4B and Qwen3 8B are highlighted for their performance in the 4B and 8B ranges, respectively.
-- Gemma-3n-E4B is praised for its reasoning capabilities and multimodal features.
-- Models like Nanbeige3B are mentioned as alternatives.
-- Users emphasize the importance of low VRAM usage and lack of heavy censorship.
+- User seeks recommendations for local LLMs under 8B for general use cases.
+- Qwen3 4B and Qwen3 8B are highlighted for their performance and efficiency.
+- Gemma 3n e4b and nanbeige3b are also mentioned as strong contenders.
+- Discussion includes considerations for VRAM usage and model capabilities.
 
-**Discussion Highlights:** The discussion highlights Qwen3 and Gemma-3n-E4B as top performers in their respective categories. Users appreciate models that balance performance with low resource requirements and minimal censorship.
+**Discussion Highlights:** The discussion highlights Qwen3 4B and Qwen3 8B as top performers in their respective categories, with Gemma 3n e4b noted for its reasoning and multimodal capabilities. The consensus leans towards these models for their balance of performance and resource efficiency.
 
 ---
 
-## 22. [GLM-Image is released!](https://reddit.com/r/LocalLLaMA/comments/1qc9m6x/glmimage_is_released/)
+## 21. [GLM-Image is released!](https://reddit.com/r/LocalLLaMA/comments/1qc9m6x/glmimage_is_released/)
 
-**Author:** u/foldl-li | **Upvotes:** 591 | **Comments:** 83 | **Date:** 2026-01-13
+**Author:** u/foldl-li | **Upvotes:** 590 | **Comments:** 83 | **Date:** 2026-01-13
 
-**Summary:** GLM-Image is a new image generation model with a hybrid autoregressive + diffusion decoder architecture. It excels in text-rendering and knowledge-intensive tasks while supporting various image-to-image tasks.
+**Summary:** GLM-Image is a new image generation model with a hybrid autoregressive + diffusion decoder architecture. It excels in text-rendering and knowledge-intensive tasks while supporting various image-to-image tasks like editing and style transfer.
 
 **Key Points:**
 - Hybrid autoregressive + diffusion decoder architecture
 - Excels in text-rendering and knowledge-intensive generation
-- Supports image editing, style transfer, and multi-subject consistency
+- Supports image-to-image tasks like editing and style transfer
 - MIT license with no restrictions
-- High model size (13GB diffusion + 20GB text encoder)
+- Model size: 13GB diffusion model + 20GB text encoder
 
 **Discussion Highlights:** The community appreciates the MIT license and the model's capabilities. There is interest in quantizing the model for easier use and discussions about its performance compared to other models.
 
 ---
 
-## 23. [Soprano TTS training code released: Create your own 2000x realtime on-device text-to-speech model with Soprano-Factory!](https://reddit.com/r/LocalLLaMA/comments/1qc5nml/soprano_tts_training_code_released_create_your/)
+## 22. [Soprano TTS training code released: Create your own 2000x realtime on-device text-to-speech model with Soprano-Factory!](https://reddit.com/r/LocalLLaMA/comments/1qc5nml/soprano_tts_training_code_released_create_your/)
 
-**Author:** u/eugenekwek | **Upvotes:** 312 | **Comments:** 34 | **Date:** 2026-01-13
+**Author:** u/eugenekwek | **Upvotes:** 311 | **Comments:** 34 | **Date:** 2026-01-13
 
-**Summary:** The post introduces Soprano-Factory, a tool for training custom text-to-speech models with high performance metrics (up to 2000x realtime on GPU). It includes Soprano-Encoder for audio token conversion and emphasizes ease of customization.
+**Summary:** The post introduces Soprano-Factory, a tool for training custom text-to-speech models with high performance metrics (up to 2000x realtime on GPU) and low latency (15 ms). It allows users to create models with their own data and supports new voices, styles, and languages.
 
 **Key Points:**
-- Soprano-Factory allows training custom TTS models with user data.
-- Performance metrics include up to 2000x realtime on GPU and 15 ms latency.
-- Users express interest in features like pause insertion and multi-language support.
-- Positive feedback on the lightweight and fast nature of the model.
-- Requests for additional features like pause control and style customization.
+- Soprano-Factory enables training of custom TTS models with user-provided data.
+- The model supports high performance (up to 2000x realtime on GPU) and low latency (15 ms).
+- Users can add new voices, styles, and languages to the model.
+- The repository is lightweight (600 lines of code) and customizable.
+- Users expressed enthusiasm for the tool's speed, streaming capabilities, and potential for further training.
 
-**Discussion Highlights:** Users appreciate the lightweight and fast performance of Soprano but express a strong desire for features like pause insertion and multi-language support. The overall sentiment is positive, with users looking forward to further developments.
+**Discussion Highlights:** Users praised the tool's speed, streaming capabilities, and potential for further training. Some expressed interest in features like pause insertion and compared it favorably to other lightweight TTS models.
 
 ---
 
-## 24. [My wishes for 2026](https://reddit.com/r/LocalLLaMA/comments/1qbw325/my_wishes_for_2026/)
+## 23. [My wishes for 2026](https://reddit.com/r/LocalLLaMA/comments/1qbw325/my_wishes_for_2026/)
 
-**Author:** u/jacek2023 | **Upvotes:** 632 | **Comments:** 178 | **Date:** 2026-01-13
+**Author:** u/jacek2023 | **Upvotes:** 634 | **Comments:** 178 | **Date:** 2026-01-13
 
-**Summary:** The Reddit post discusses predictions for 2026, focusing on the possibility of affordable GPUs with more than 32GB of memory. The community expresses skepticism and humor about the feasibility of such advancements.
+**Summary:** The Reddit post discusses predictions for 2026, focusing on the feasibility of affordable GPUs with more than 32GB memory. The community expresses skepticism and humor about the likelihood of such advancements.
 
 **Key Points:**
 - The post asks which predictions for 2026 are likely to happen first.
 - A top comment humorously doubts the possibility of affordable GPUs with >32GB memory.
-- Other comments joke about the unrealistic nature of the prediction.
-- Some users mention specific AI models like Qwen 4 and Mistral as more plausible advancements.
+- Other comments joke about the feasibility of such technological advancements.
+- Mentions of specific AI models like Qwen 4 and Mistral as potential advancements.
 
-**Discussion Highlights:** The discussion is marked by skepticism and humor regarding the feasibility of affordable high-memory GPUs in 2026. There is a consensus that such advancements are unlikely, with some users suggesting that progress in AI models is more plausible.
-
----
-
-## 25. [kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required](https://reddit.com/r/LocalLLaMA/comments/1qbpz5l/kyutai_just_introduced_pocket_tts_a_100mparameter/)
-
-**Author:** u/Nunki08 | **Upvotes:** 392 | **Comments:** 81 | **Date:** 2026-01-13
-
-**Summary:** Kyutai introduced Pocket TTS, a 100M-parameter text-to-speech model with high-quality voice cloning that runs on a laptop without requiring a GPU. The model is available on GitHub and Hugging Face, with additional details provided in a blog post and arXiv paper.
-
-**Key Points:**
-- Pocket TTS is a 100M-parameter model
-- High-quality voice cloning capabilities
-- Runs on a laptop without GPU
-- Available on GitHub and Hugging Face
-- Community feedback includes concerns about memory usage and language support
-
-**Discussion Highlights:** The community discussion highlights concerns about memory usage during generation and inquiries about language support and fine-tuning capabilities.
+**Discussion Highlights:** The discussion is marked by skepticism and humor regarding the possibility of affordable high-memory GPUs in 2026. The community seems to agree that such advancements are unlikely, with some comments joking about the feasibility and others mentioning specific AI models as more plausible developments.
 
 ---
 
-## 26. [baichuan-inc/Baichuan-M3-235B · Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1qbjbrf/baichuanincbaichuanm3235b_hugging_face/)
+## 24. [kyutai just introduced Pocket TTS: a 100M-parameter text-to-speech model with high-quality voice cloning that runs on your laptop—no GPU required](https://reddit.com/r/LocalLLaMA/comments/1qbpz5l/kyutai_just_introduced_pocket_tts_a_100mparameter/)
 
-**Author:** u/jacek2023 | **Upvotes:** 123 | **Comments:** 33 | **Date:** 2026-01-12
+**Author:** u/Nunki08 | **Upvotes:** 392 | **Comments:** 82 | **Date:** 2026-01-13
 
-**Summary:** Baichuan-M3-235B is a new-generation medical-enhanced large language model by Baichuan AI, designed to improve clinical decision-making and reduce hallucinations. It outperforms GPT-5.2 in medical benchmarks and offers efficient deployment options.
+**Summary:** Kyutai introduced Pocket TTS, a 100M-parameter text-to-speech model with high-quality voice cloning that runs on a laptop without requiring a GPU. The model is available on GitHub and Hugging Face, with a blog post and arXiv paper providing more details.
 
 **Key Points:**
-- Baichuan-M3 focuses on clinical decision-making and reduces hallucinations.
-- It surpasses GPT-5.2 in medical benchmarks like HealthBench and BCOSCE.
-- The model achieves high efficiency with W4 quantization and speculative decoding.
-- Users discuss hardware requirements and potential use cases for the model.
-- Some users express interest in fine-tuning or vision capabilities.
+- Pocket TTS is a 100M-parameter model for high-quality voice cloning.
+- It runs on a laptop without needing a GPU.
+- Available on GitHub, Hugging Face, and detailed in a blog post and arXiv paper.
+- Memory usage can balloon during generation, reaching up to 32 GB.
+- Discussion includes inquiries about language support and comparisons with other small models.
 
-**Discussion Highlights:** The discussion highlights user interest in hardware requirements (e.g., RTX 6000 pro) and practical applications, such as private medical opinions. Some users also express interest in fine-tuning and vision capabilities for the model.
+**Discussion Highlights:** The discussion highlights concerns about memory usage during generation, inquiries about language support, and comparisons with other small models. Users also noted the potential limitations of models under a certain size.
 
 ---
 
-## 27. [How do people even afford these expensive graphic cards...?...](https://reddit.com/r/LocalLLaMA/comments/1qb1w7a/how_do_people_even_afford_these_expensive_graphic/)
+## 25. [baichuan-inc/Baichuan-M3-235B · Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1qbjbrf/baichuanincbaichuanm3235b_hugging_face/)
 
-**Author:** u/boisheep | **Upvotes:** 107 | **Comments:** 263 | **Date:** 2026-01-12
+**Author:** u/jacek2023 | **Upvotes:** 122 | **Comments:** 33 | **Date:** 2026-01-12
 
-**Summary:** The Reddit post discusses the financial and technical challenges of using high-end graphics cards for machine learning and game development. The author expresses frustration with the cost and performance limitations of their current setup, while comments highlight that such expenses are often justified as business investments or personal luxuries.
+**Summary:** Baichuan-M3-235B is a new medical-enhanced large language model by Baichuan AI, surpassing GPT-5.2 in performance and focusing on clinical decision-making processes. It achieves high-fidelity clinical inquiry, low hallucination rates, and efficient deployment.
 
 **Key Points:**
-- High-end graphics cards like the RTX 3090 are expensive and may not provide the expected performance for certain tasks like diffusion models and LLMs.
-- The cost of high-end GPUs can be justified as business expenses or personal luxuries, similar to other expensive hobbies or equipment.
-- Some users invest heavily in GPUs despite the lack of financial sense, often for personal enjoyment or specific use cases.
-- Optimizing code and using quantized models can help mitigate performance issues, but there are still significant limitations with current hardware.
-- The discussion highlights a mix of practical considerations and personal preferences when it comes to investing in high-end GPUs.
+- Surpasses GPT-5.2 in medical AI benchmarks
+- High-fidelity clinical inquiry and low hallucination rates
+- Efficient deployment with W4 quantization and Gated Eagle3 decoding
+- Community interest in hardware requirements and potential fine-tuning
+- Positive feedback on practical medical use cases
 
-**Discussion Highlights:** The discussion highlights a consensus that high-end GPUs are often seen as business expenses or personal luxuries. Users share their experiences and justifications for investing in expensive hardware, despite the lack of financial sense in some cases. The conversation also touches on the practical challenges and optimizations involved in using such hardware for machine learning and game development.
+**Discussion Highlights:** The community shows strong interest in the model's capabilities, with discussions on hardware requirements, potential fine-tuning, and practical applications in medical contexts. Some users express enthusiasm for local deployment and vision capabilities.
 
 ---
 
-## 28. [GitHub - deepseek-ai/Engram: Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://reddit.com/r/LocalLLaMA/comments/1qb034t/github_deepseekaiengram_conditional_memory_via/)
+## 26. [How do people even afford these expensive graphic cards...?...](https://reddit.com/r/LocalLLaMA/comments/1qb1w7a/how_do_people_even_afford_these_expensive_graphic/)
 
-**Author:** u/TKGaming_11 | **Upvotes:** 350 | **Comments:** 83 | **Date:** 2026-01-12
+**Author:** u/boisheep | **Upvotes:** 107 | **Comments:** 264 | **Date:** 2026-01-12
 
-**Summary:** The Reddit post highlights a new GitHub project by DeepSeek-AI called 'Engram,' which introduces a novel approach to conditional memory in large language models using scalable lookup. The discussion praises the originality and potential impact of this work.
+**Summary:** The post discusses the financial and technical challenges of using high-end GPUs for ML/LLM tasks, highlighting the limitations of a single RTX 3090 and the high cost of upgrading. The author expresses frustration with the performance constraints and questions the financial viability of investing in expensive GPUs.
 
 **Key Points:**
-- DeepSeek-AI's 'Engram' project introduces a new axis of sparsity for large language models via conditional memory.
-- The approach uses n-gram embeddings and O(1) lookup, complementing existing MoE methods.
-- The community appreciates the originality and potential of this work, comparing it to biological memory systems.
-- Technical details include the use of mHC (M=4) for ablations, suggesting derisking of multi-head configurations.
+- The author uses an RTX 3090 for ML/LLM tasks but finds it insufficient for diffusion models and LLM processes.
+- Upgrading to more powerful GPUs is expensive, with costs reaching up to $10,000.
+- The author is developing a game engine that requires significant GPU resources, leading to performance issues.
+- Comments suggest that high-end GPUs are often considered business expenses rather than personal investments.
+- Some users mention that while expensive, these GPUs are relatively cheap compared to other high-end hobbies or equipment.
 
-**Discussion Highlights:** The discussion highlights strong community interest and praise for DeepSeek's innovative approach. Key points include the technical novelty of n-gram embeddings, comparisons to biological memory, and the potential for this work to complement existing methods like MoE. The consensus is that this is a significant and original contribution to the field.
+**Discussion Highlights:** The discussion highlights that high-end GPUs are often justified as business expenses. Some users acknowledge the high cost but note that it is comparable to other expensive hobbies or equipment. There is a consensus that while the investment may not always make financial sense, it is driven by necessity for certain tasks or personal interest.
 
 ---
 
-## 29. [We fine-tuned a 4B Text2SQL model that matches a 685B teacher - query your CSV data in plain English, locally](https://reddit.com/r/LocalLLaMA/comments/1qaz4je/we_finetuned_a_4b_text2sql_model_that_matches_a/)
+## 27. [GitHub - deepseek-ai/Engram: Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://reddit.com/r/LocalLLaMA/comments/1qb034t/github_deepseekaiengram_conditional_memory_via/)
 
-**Author:** u/party-horse | **Upvotes:** 173 | **Comments:** 34 | **Date:** 2026-01-12
+**Author:** u/TKGaming_11 | **Upvotes:** 353 | **Comments:** 85 | **Date:** 2026-01-12
 
-**Summary:** A 4B parameter Text2SQL model was fine-tuned to match the accuracy of a 685B model, enabling local execution of SQL queries from plain English. The model runs locally, ensuring data privacy and fast responses, with examples demonstrating its capability to generate accurate SQL queries.
+**Summary:** The post highlights DeepSeek-AI's 'Engram,' a novel method for conditional memory in LLMs using scalable lookup, praised for its originality and potential to complement existing sparsity techniques.
 
 **Key Points:**
-- 4B parameter model matches 685B model accuracy in Text2SQL tasks
+- DeepSeek-AI introduces 'Engram' for conditional memory via scalable lookup in LLMs
+- The method uses n-gram embedding and mHC (M=4) for ablations, adding static memory as a complementary sparsity axis
+- Community appreciates the originality and potential of the approach
+- Comparisons drawn to biological memory processes in animals and humans
+
+**Discussion Highlights:** The discussion emphasizes the innovation of the n-gram embedding approach and its potential to work alongside existing MoE methods, with consensus on its originality and practicality.
+
+---
+
+## 28. [We fine-tuned a 4B Text2SQL model that matches a 685B teacher - query your CSV data in plain English, locally](https://reddit.com/r/LocalLLaMA/comments/1qaz4je/we_finetuned_a_4b_text2sql_model_that_matches_a/)
+
+**Author:** u/party-horse | **Upvotes:** 174 | **Comments:** 34 | **Date:** 2026-01-12
+
+**Summary:** A 4B parameter Text2SQL model was fine-tuned to match the accuracy of a 685B LLM, enabling local execution of SQL queries from plain English questions. The model runs locally, ensuring data privacy and fast responses, with results comparable to larger models.
+
+**Key Points:**
+- 4B model matches 685B LLM accuracy in Text2SQL tasks
 - Runs locally with fast responses and data privacy
-- Generates SQLite-compatible SQL queries
-- Achieves 80% LLM-as-a-Judge accuracy and 60% exact match
-- Discussion highlights include questions about dialect, linting errors, and licensing
+- Examples show complex SQL generation from plain English
+- Discussion highlights concerns about SQL dialect, linting errors, and verification methods
+- Model achieves 80% LLM-as-a-Judge and 60% exact match accuracy
 
-**Discussion Highlights:** The discussion focused on the model's compatibility with SQLite, the need for Ollama, and questions about linting error rates and licensing. Some users also questioned the use of an LLM as a judge for accuracy verification.
+**Discussion Highlights:** The discussion focuses on technical details like SQL dialect compatibility, error rates, and the use of LLM-as-a-Judge for evaluation. Some users question the need for specific tools like Ollama and the reliability of the results.
 
 ---
 
-## 30. [[Release] Eva-4B: Specialized Financial Evasion Detection (Based on Qwen3-4B). Outperforms GPT-5.2 on domain benchmarks.](https://reddit.com/r/LocalLLaMA/comments/1qautxm/release_eva4b_specialized_financial_evasion/)
+## 29. [[Release] Eva-4B: Specialized Financial Evasion Detection (Based on Qwen3-4B). Outperforms GPT-5.2 on domain benchmarks.](https://reddit.com/r/LocalLLaMA/comments/1qautxm/release_eva4b_specialized_financial_evasion/)
 
-**Author:** u/Awkward_Run_9982 | **Upvotes:** 179 | **Comments:** 35 | **Date:** 2026-01-12
+**Author:** u/Awkward_Run_9982 | **Upvotes:** 182 | **Comments:** 35 | **Date:** 2026-01-12
 
-**Summary:** The post introduces Eva-4B, a specialized 4B parameter model designed to detect evasive answers in corporate earnings call Q&A sessions. It outperforms GPT-5.2 on domain benchmarks and is efficient to run locally. The model is fine-tuned on a large dataset and achieves high accuracy in classifying answers.
+**Summary:** The post introduces Eva-4B, a specialized 4B parameter model designed to detect evasive answers in corporate earnings call Q&A sessions. It outperforms GPT-5.2 on domain benchmarks and is efficient to run locally.
 
 **Key Points:**
-- Eva-4B is a specialized model for detecting evasive answers in financial contexts.
-- It achieves 81.3% accuracy, outperforming GPT-5.2 and is efficient to run locally.
-- The model is fine-tuned on 30k samples using a multi-model consensus pipeline.
-- Discussion highlights include praise for specialized models and humor about their applications.
-- Some users express interest in understanding the model's boundaries and best use cases.
+- Eva-4B classifies answers into 'direct', 'intermediate', or 'fully_evasive' using the Rasiah framework.
+- It achieves 81.3% accuracy on a 1,000-sample test set, outperforming GPT-5.2.
+- The model is efficient and cost-effective, being a 4B model based on Qwen3.
+- It was fine-tuned on 30k samples constructed via a multi-model consensus pipeline.
+- The discussion highlights include praise for specialized models and humorous comments about their applications.
 
-**Discussion Highlights:** The discussion includes humor about the model's potential applications, praise for specialized models, and interest in understanding the model's limitations and best practices for use.
-
----
-
-## 31. [Local LLM + Internet Search Capability = WOW](https://reddit.com/r/LocalLLaMA/comments/1qajxrg/local_llm_internet_search_capability_wow/)
-
-**Author:** u/alex_godspeed | **Upvotes:** 236 | **Comments:** 91 | **Date:** 2026-01-11
-
-**Summary:** The Reddit post discusses a user's experience with a local LLM (Qwen 3) and the integration of internet search capabilities, highlighting the ease of use and potential for enhanced functionality. The user expresses excitement about the 'agentic-AI' experience and seeks insights on optimizing local LLM workflows for better performance and privacy. Key points include the user's experience with Qwen 3 and its limitations, integration of internet search capabilities via LM Studio and DuckDuckGo plugin, excitement about achieving 'agentic-AI' capabilities with local LLMs, discussion on enhancing local LLM workflows with front-end designs, voice conversation, and privacy measures, and suggestions for using tools like Brave Leo, Harbor, and routing searches via Tor for improved privacy. The discussion highlights the growing accessibility of advanced AI capabilities for non-experts, with a focus on enhancing local LLM functionality through internet search integration and privacy measures.
+**Discussion Highlights:** The discussion includes a mix of praise for specialized models, humorous comments about their potential applications, and a notable comment about the future of mixture of models.
 
 ---
 
-## 32. [Qwen cutoff date makes our current reality too dystopian to be credible](https://reddit.com/r/LocalLLaMA/comments/1qagaaq/qwen_cutoff_date_makes_our_current_reality_too/)
+## 30. [Local LLM + Internet Search Capability = WOW](https://reddit.com/r/LocalLLaMA/comments/1qajxrg/local_llm_internet_search_capability_wow/)
 
-**Author:** u/Swimming_Cover_9686 | **Upvotes:** 297 | **Comments:** 155 | **Date:** 2026-01-11
+**Author:** u/alex_godspeed | **Upvotes:** 240 | **Comments:** 91 | **Date:** 2026-01-11
 
-**Summary:** The Reddit post discusses the limitations of the Qwen-3-80B model in accepting recent news articles and claims, highlighting its inability to process certain geopolitical events as credible. The discussion emphasizes the need for better grounding tools and understanding of global realities. Key points include the model's refusal to believe recent news, its inability to process geopolitical events, and suggestions for using internet access and updating the model's knowledge cutoff date. The discussion consensus emphasizes the importance of using internet access for grounding and updating the model's knowledge to reflect current realities.
+**Summary:** The post discusses the integration of local LLM (Qwen 3) with internet search capabilities, highlighting the ease of setting up web searches and the potential for 'agentic-AI' functionality. Users share their experiences and tools to enhance local LLM performance and privacy. Key points include the use of plugins like LM Studio with DuckDuckGo, the importance of grounding local AI with current context, and recommendations for tools like Brave Leo and Harbor. The discussion highlights a consensus on the growing accessibility of advanced AI functionalities for non-experts, with a strong focus on privacy and customization.
 
 ---
 
-## 33. [LLM trained from scratch on 1800s London texts (1.2B params, 90GB dataset)](https://reddit.com/r/LocalLLaMA/comments/1qaawts/llm_trained_from_scratch_on_1800s_london_texts/)
+## 31. [Qwen cutoff date makes our current reality too dystopian to be credible](https://reddit.com/r/LocalLLaMA/comments/1qagaaq/qwen_cutoff_date_makes_our_current_reality_too/)
 
-**Author:** u/Remarkable-Trick-177 | **Upvotes:** 1024 | **Comments:** 110 | **Date:** 2026-01-11
+**Author:** u/Swimming_Cover_9686 | **Upvotes:** 294 | **Comments:** 155 | **Date:** 2026-01-11
 
-**Summary:** The post introduces TimeCapsuleLLM, a 1.2B parameter language model trained exclusively on 1800-1875 London texts to minimize modern bias. The model demonstrates period-specific knowledge and limitations, such as unfamiliarity with post-1875 concepts like telephones. The project is open-source and available on GitHub and Hugging Face.
+**Summary:** The post highlights Qwen-3-80B's inability to accept recent news due to its cutoff date, leading to dystopian interpretations of plausible events. Users discuss the need for internet grounding and updating the model's knowledge.
 
 **Key Points:**
-- TimeCapsuleLLM is trained on 90GB of 1800-1875 London texts with no modern data or fine-tuning.
-- The model shows period-specific behaviors, like generating arguments relevant to the Catholic Emancipation Act of 1829.
-- The model treats post-1875 concepts (e.g., telephones) as unfamiliar, reflecting its training data cutoff.
-- Future work includes creating synthetic Q&A pairs from the dataset.
-- The project has garnered significant community interest and support.
+- Qwen-3-80B rejects recent news as implausible due to outdated knowledge.
+- Examples include Elon Musk's actions, U.S. kidnapping Maduro, and seizing a Russian tanker.
+- Users suggest using internet access for grounding and updating the model's cutoff date.
+- Criticism of the model's lack of geopolitical understanding.
 
-**Discussion Highlights:** The community expressed strong enthusiasm for the project, with comments highlighting its uniqueness and potential. Some users shared similar projects or ideas, while others humorously noted the model's temporal limitations (e.g., 'I'm sorry but my cutoff date is 1875'). The overall consensus was positive, praising the innovative approach to reducing modern bias in language models.
+**Discussion Highlights:** Users emphasize the importance of internet access for grounding and suggest updating the model's knowledge cutoff to 2026. Some criticize the model's geopolitical understanding, while others clarify the post's intent.
 
 ---
 
-## 34. [Dual Strix Halo: No Frankenstein setup, no huge power bill, big LLMs](https://reddit.com/r/LocalLLaMA/comments/1qa9dha/dual_strix_halo_no_frankenstein_setup_no_huge/)
+## 32. [LLM trained from scratch on 1800s London texts (1.2B params, 90GB dataset)](https://reddit.com/r/LocalLLaMA/comments/1qaawts/llm_trained_from_scratch_on_1800s_london_texts/)
 
-**Author:** u/Zyj | **Upvotes:** 100 | **Comments:** 46 | **Date:** 2026-01-11
+**Author:** u/Remarkable-Trick-177 | **Upvotes:** 1024 | **Comments:** 111 | **Date:** 2026-01-11
 
-**Summary:** The post discusses a dual Strix Halo setup for running large language models (LLMs) efficiently, highlighting its cost-effectiveness and performance. The setup uses Thunderbolt networking and can achieve high token speeds for models like GPT-OSS-120B. However, prompt preprocessing is noted as a bottleneck.
+**Summary:** The post introduces TimeCapsuleLLM, a 1.2B parameter language model trained exclusively on 1800-1875 London texts to minimize modern bias. The model demonstrates period-specific knowledge and limitations, such as unfamiliarity with post-1875 concepts like telephones.
 
 **Key Points:**
-- Dual Strix Halo setup with Thunderbolt networking enables efficient LLM inference.
-- Achieves >50 tokens/s for GPT-OSS-120B on a single PC and supports larger models with dual PCs.
-- Total cost is around 3440€, offering good value for performance.
-- Prompt preprocessing is slow and identified as a key limitation.
+- Model trained on 90GB of 1800-1875 London texts with no modern data or fine-tuning
+- Uses custom tokenizer and has been trained for 182k steps on an H100 SXM
+- Shows period-specific behaviors like anti-Catholic arguments and unfamiliarity with later inventions
+- Future plans include creating synthetic Q&A pairs from the dataset
+- Community shows strong interest and engagement with the project
+
+**Discussion Highlights:** The community response is overwhelmingly positive, with users expressing admiration for the project's uniqueness and historical focus. Some commenters share similar interests in training models on historical datasets, while others make humorous references to the model's temporal limitations.
+
+---
+
+## 33. [Dual Strix Halo: No Frankenstein setup, no huge power bill, big LLMs](https://reddit.com/r/LocalLLaMA/comments/1qa9dha/dual_strix_halo_no_frankenstein_setup_no_huge/)
+
+**Author:** u/Zyj | **Upvotes:** 101 | **Comments:** 46 | **Date:** 2026-01-11
+
+**Summary:** The post discusses a cost-effective dual Strix Halo setup for running large language models (LLMs) efficiently, highlighting its performance and affordability. The setup uses Thunderbolt networking and leverages iGPUs and DDR5 memory, achieving high token speeds for models like GPT-OSS-120B. However, prompt preprocessing is noted as a bottleneck.
+
+**Key Points:**
+- Dual Strix Halo setup offers high performance for LLMs at a reasonable cost (around 3440€).
+- Achieves over 50 tokens/s for GPT-OSS-120B on a single PC and supports larger models with dual PCs.
+- Prompt preprocessing is slow and identified as a bottleneck.
+- The setup is praised for its affordability and performance, especially for large MoE models.
 - Future improvements may include leveraging NPUs for prompt processing.
 
-**Discussion Highlights:** The discussion highlights the setup's value for money and its suitability for large Mixture of Experts (MoE) models. However, users note limitations for agentic coding tasks due to slow prompt preprocessing. There is also interest in future optimizations, such as using NPUs for prompt processing.
+**Discussion Highlights:** The discussion highlights the setup's affordability and performance, with users acknowledging the prompt preprocessing bottleneck. There is consensus on the setup's effectiveness for large MoE models, but concerns about its suitability for agentic coding tasks with large prompts. Users also express interest in future improvements, such as utilizing NPUs for prompt processing.
 
 ---
 
-## 35. [I bought a €9k GH200 “desktop” to save $1.27 on Claude Code (vLLM tuning notes)](https://reddit.com/r/LocalLLaMA/comments/1qa1guo/i_bought_a_9k_gh200_desktop_to_save_127_on_claude/)
+## 34. [I bought a €9k GH200 “desktop” to save $1.27 on Claude Code (vLLM tuning notes)](https://reddit.com/r/LocalLLaMA/comments/1qa1guo/i_bought_a_9k_gh200_desktop_to_save_127_on_claude/)
 
-**Author:** u/Reddactor | **Upvotes:** 680 | **Comments:** 178 | **Date:** 2026-01-11
+**Author:** u/Reddactor | **Upvotes:** 679 | **Comments:** 178 | **Date:** 2026-01-11
 
-**Summary:** The author built a high-end €9k GH200 desktop with 192GB VRAM to run Claude Code locally, achieving better speeds than the cloud version and sharing optimized vLLM settings for dual 96GB systems. The setup includes blocking telemetry and unnecessary traffic, and the author humorously notes the cost is 321X the yearly subscription fee for MiniMax.
+**Summary:** The author built a high-end 'desktop' with dual GH200 GPUs costing €9k to run Claude Code locally, achieving better speeds and results than the cloud version. They shared optimized vLLM settings for this setup and highlighted the cost savings and performance benefits.
 
 **Key Points:**
-- Built a €9k GH200 desktop with 192GB VRAM to run Claude Code locally.
-- Achieved better speeds than Claude Code with Sonnet and shared optimized vLLM settings.
-- Setup includes blocking telemetry and unnecessary traffic for full offline coding.
-- Cost is humorously noted as 321X the yearly subscription fee for MiniMax.
-- Community reactions include humor about cost, appreciation for the setup, and discussions about specific model details.
+- Built a 2× GH200 96GB 'desktop' for €9k to run Claude Code locally.
+- Achieved better speeds and results than Claude Code with Sonnet.
+- Shared optimized vLLM settings for dual 96GB systems.
+- Highlighted cost savings and performance benefits of local setup.
+- Mentioned the humorous accounting aspect of the investment.
 
-**Discussion Highlights:** The community reacted with humor about the cost, appreciation for the setup, and discussions about specific model details like MiniMax-M2.1 FP8+INT4 AWQ. Some users expressed regret about missing out on similar deals.
+**Discussion Highlights:** The community appreciated the setup and shared humorous comments about the cost and value of the project. Some users expressed envy over missing out on similar deals, while others confirmed the technical details and shared related resources.
 
 ---
 
-## 36. [It works! Abliteration can reduce slop without training](https://reddit.com/r/LocalLLaMA/comments/1qa0w6c/it_works_abliteration_can_reduce_slop_without/)
+## 35. [It works! Abliteration can reduce slop without training](https://reddit.com/r/LocalLLaMA/comments/1qa0w6c/it_works_abliteration_can_reduce_slop_without/)
 
 **Author:** u/-p-e-w- | **Upvotes:** 398 | **Comments:** 123 | **Date:** 2026-01-11
 
-**Summary:** The post discusses the use of abliteration to reduce 'slop' (flowery, cliched language) in LLM outputs without training. The author successfully applied this technique to the Mistral Nemo model, creating a slop-reduced version using the Heretic tool. Key points include the technique's application to Mistral Nemo, the process duration, and the availability of the slop-reduced model on Hugging Face. The discussion highlights mixed opinions on the effectiveness and impact on creativity.
-
----
-
-## 37. [Leader of Qwen team says Chinese companies severely constrained on compute for large scale research experiments](https://reddit.com/r/LocalLLaMA/comments/1qa0ph9/leader_of_qwen_team_says_chinese_companies/)
-
-**Author:** u/Old-School8916 | **Upvotes:** 310 | **Comments:** 104 | **Date:** 2026-01-11
-
-**Summary:** The Reddit post discusses constraints on compute resources for Chinese AI research, highlighting potential innovative solutions and future competition. The discussion includes skepticism about the claims and mentions of available hardware.
+**Summary:** The post discusses using abliteration to reduce 'slop' (flowery, cliched language) in LLM outputs without training. The author applied this technique to Mistral Nemo, creating a slop-reduced model using Heretic, and shared results and community feedback.
 
 **Key Points:**
-- Chinese companies face severe compute constraints for large-scale AI research
-- Necessity may drive innovation and future competitiveness
-- Skepticism about the claims and potential motives
-- Mention of available hardware like Atlas 300i DUO
+- Abliteration can reduce slop in LLM outputs without finetuning.
+- The technique was applied to Mistral Nemo, creating a slop-reduced model.
+- The process took 2.5 hours on an A6000 but can be faster with quantization.
+- Community feedback is mixed, with some preferring the reduced slop and others finding it too dry.
+- GGUF versions of the model are available for download.
 
-**Discussion Highlights:** The discussion highlights a mix of optimism about innovation driven by necessity and skepticism about the motives behind the claims. There is also mention of available hardware, suggesting the constraints may not be as severe as portrayed.
+**Discussion Highlights:** The community is divided on the effectiveness of slop reduction. Some appreciate the cleaner output, while others feel it lacks imagination or becomes too dry. There is also interest in applying this technique to other patterns beyond slop.
 
 ---
 
-## 38. [Gigabyte Announces Support for 256GB of DDR5-7200 CQDIMMs at CES 2026](https://reddit.com/r/LocalLLaMA/comments/1q9xn78/gigabyte_announces_support_for_256gb_of_ddr57200/)
+## 36. [Leader of Qwen team says Chinese companies severely constrained on compute for large scale research experiments](https://reddit.com/r/LocalLLaMA/comments/1qa0ph9/leader_of_qwen_team_says_chinese_companies/)
 
-**Author:** u/GoodSamaritan333 | **Upvotes:** 164 | **Comments:** 40 | **Date:** 2026-01-11
+**Author:** u/Old-School8916 | **Upvotes:** 309 | **Comments:** 104 | **Date:** 2026-01-11
+
+**Summary:** The Reddit post discusses constraints on compute resources for Chinese AI research, highlighting potential innovation and future competition. The discussion includes skepticism about claims and notes on hardware availability.
+
+**Key Points:**
+- Chinese companies face compute constraints for AI research
+- Necessity may drive innovation and future competition
+- Skepticism about claims of resource scarcity
+- Hardware like Atlas 300i is available at competitive prices
+
+**Discussion Highlights:** The discussion highlights a consensus on the potential for innovation despite constraints, with some skepticism about the severity of the compute limitations.
+
+---
+
+## 37. [Gigabyte Announces Support for 256GB of DDR5-7200 CQDIMMs at CES 2026](https://reddit.com/r/LocalLLaMA/comments/1q9xn78/gigabyte_announces_support_for_256gb_of_ddr57200/)
+
+**Author:** u/GoodSamaritan333 | **Upvotes:** 165 | **Comments:** 40 | **Date:** 2026-01-11
 
 **Summary:** Gigabyte announced support for 256GB of DDR5-7200 CQDIMMs at CES 2026, sparking discussions about its usefulness and performance implications.
 
 **Key Points:**
 - Gigabyte's announcement of 256GB DDR5-7200 CQDIMMs support
-- Discussion on the timing of the announcement amid DDR5 shortages
+- Discussion on the timing of the announcement during a DDR5 shortage
 - Debate on the usefulness of dual-channel configuration for high memory capacity
-- Comparison with older Threadripper systems using quad-channel DDR4-3200
-- Mixed opinions on the suitability for AI purposes due to memory and channel limitations
+- Comparison with older Threadripper builds in terms of performance
+- Mixed opinions on the practicality for AI purposes
 
-**Discussion Highlights:** The discussion highlights mixed opinions on the usefulness of the announced configuration, with some users pointing out potential performance benefits over older systems, while others express concerns about limitations for AI applications and the timing of the announcement during a DDR5 shortage.
+**Discussion Highlights:** The community had mixed reactions, with some questioning the usefulness of dual-channel configuration for high memory capacity, while others defended its performance benefits compared to older systems.
 
 ---
 
-## 39. [Announcing Kreuzberg v4 (Open Source)](https://reddit.com/r/LocalLLaMA/comments/1q9t9op/announcing_kreuzberg_v4_open_source/)
+## 38. [Announcing Kreuzberg v4 (Open Source)](https://reddit.com/r/LocalLLaMA/comments/1q9t9op/announcing_kreuzberg_v4_open_source/)
 
-**Author:** u/Eastern-Surround7763 | **Upvotes:** 120 | **Comments:** 28 | **Date:** 2026-01-11
+**Author:** u/Eastern-Surround7763 | **Upvotes:** 123 | **Comments:** 28 | **Date:** 2026-01-11
 
-**Summary:** Kreuzberg v4 is a ground-up rewrite in Rust of a document intelligence library that extracts structured data from 56+ formats. It offers multi-language support, a plugin system, and production-ready features like REST API and ONNX embeddings.
+**Summary:** Kreuzberg v4 is an open-source document intelligence library rewritten in Rust, offering faster extraction, multi-language support, and production-ready features like OCR and embeddings. The announcement highlights its polyglot capabilities and Rust rewrite benefits.
 
 **Key Points:**
-- Kreuzberg v4 is a Rust rewrite with improved performance and lower memory usage.
-- Supports 10 language bindings with identical APIs.
-- Includes a plugin system for custom extractors, OCR backends, and post-processors.
-- Production-ready with REST API, Docker images, and async support.
-- Open-source under MIT license.
+- Kreuzberg v4 is a ground-up rewrite in Rust for improved performance and multi-language support.
+- Supports 56+ document formats with features like OCR, semantic chunking, and embeddings.
+- Offers bindings for 10 languages, ensuring consistent behavior across different tech stacks.
+- Community feedback includes interest in integrations, chunking support, and diagram interpretation.
 
-**Discussion Highlights:** The community shows interest in integrations (e.g., Docling), chunking support, and compatibility with diagram-rich documents. Positive sentiment about the project's origins and multi-language support.
+**Discussion Highlights:** The community shows enthusiasm for the project, with questions about integrations, chunking capabilities, and support for complex document types like diagrams and tables.
 
 ---
 
-## 40. [Model: cerebras/GLM-4.7-REAP-268B-A32B incoming!](https://reddit.com/r/LocalLLaMA/comments/1q9io50/model_cerebrasglm47reap268ba32b_incoming/)
+## 39. [Model: cerebras/GLM-4.7-REAP-268B-A32B incoming!](https://reddit.com/r/LocalLLaMA/comments/1q9io50/model_cerebrasglm47reap268ba32b_incoming/)
 
-**Author:** u/LegacyRemaster | **Upvotes:** 198 | **Comments:** 48 | **Date:** 2026-01-10
+**Author:** u/LegacyRemaster | **Upvotes:** 197 | **Comments:** 48 | **Date:** 2026-01-10
 
-**Summary:** The post announces the upcoming release of the cerebras/GLM-4.7-REAP-268B-A32B model, generating excitement and discussion among users. Key points include concerns about benchmark improvements, comparisons with other models, and issues with multilingual capabilities.
+**Summary:** The post announces the upcoming release of the cerebras/GLM-4.7-REAP-268B-A32B model, generating excitement and discussion about its performance and capabilities.
 
 **Key Points:**
-- Excited anticipation for the new model
-- Concerns about benchmark improvements being a red flag
-- Comparison with other GLM-4.7 models
-- Issues with multilingual capabilities and Chinese language support
+- New model cerebras/GLM-4.7-REAP-268B-A32B is incoming
+- Model shows improvements on HumanEval and MBPP benchmarks
+- Concerns about multilingual capabilities and Chinese language performance
+- Benchmark comparisons provided for different model versions
+- Community engagement and recognition for the post author
 
-**Discussion Highlights:** The post gained significant attention with 198 upvotes and 48 comments. The community showed mixed reactions, with some celebrating the announcement and others raising concerns about the model's performance and capabilities.
+**Discussion Highlights:** The discussion highlights both excitement about the new model's performance improvements and concerns about its multilingual capabilities, particularly in Chinese. Benchmark comparisons are shared, and the community shows appreciation for the post author's contribution.
 
 ---
 
-## 41. [I made a website to turn any confusing UI into a step-by-step guide via screen sharing (open source)](https://reddit.com/r/LocalLLaMA/comments/1q9bj5j/i_made_a_website_to_turn_any_confusing_ui_into_a/)
+## 40. [I made a website to turn any confusing UI into a step-by-step guide via screen sharing (open source)](https://reddit.com/r/LocalLLaMA/comments/1q9bj5j/i_made_a_website_to_turn_any_confusing_ui_into_a/)
 
 **Author:** u/bullmeza | **Upvotes:** 115 | **Comments:** 25 | **Date:** 2026-01-10
 
-**Summary:** The Reddit post introduces Screen Vision, an open-source website that guides users through tasks via screen sharing with AI. It emphasizes privacy, local LLM support, and web-native functionality. The discussion highlights both appreciation for the idea and concerns about potential AI hallucinations and user control. Key points include: Screen Vision is an open-source tool for step-by-step task guidance via screen sharing; Features include privacy focus, local LLM support, and web-native operation; The system uses GPT-5.2 for instruction and Qwen 3VL for screen coordinate identification; Users express concerns about AI hallucinations and suggest showing full action lists; Feedback includes appreciation for the concept but skepticism about practical implementation. The discussion reflects a mix of enthusiasm for the innovative approach and caution regarding AI reliability. Key concerns include potential hallucinations, destructive actions, and the need for user visibility into the full action list. Some users also question the feasibility of the model's accuracy without extensive training data.
+**Summary:** The post introduces Screen Vision, an open-source tool that guides users through tasks via screen sharing with AI, emphasizing privacy and local LLM support. It uses advanced models like GPT-5.2 and Qwen 3VL for step-by-step guidance and visual verification.
+
+**Key Points:**
+- Screen Vision is an open-source, privacy-focused tool for task guidance via screen sharing.
+- Supports local LLM mode for users who prefer not to use cloud APIs.
+- Uses GPT-5.2 for instruction and Qwen 3VL for visual verification of actions.
+- Concerns raised about potential AI hallucinations and destructive actions.
+- Suggestions for showing users a full list of actions to mitigate risks.
+
+**Discussion Highlights:** Users appreciate the concept but express concerns about AI reliability, suggesting improvements like displaying full action lists to users and addressing potential hallucinations.
 
 ---
 
-## 42. [Visualizing RAG, PART 2- visualizing retrieval](https://reddit.com/r/LocalLLaMA/comments/1q998is/visualizing_rag_part_2_visualizing_retrieval/)
+## 41. [Visualizing RAG, PART 2- visualizing retrieval](https://reddit.com/r/LocalLLaMA/comments/1q998is/visualizing_rag_part_2_visualizing_retrieval/)
 
-**Author:** u/Fear_ltself | **Upvotes:** 229 | **Comments:** 42 | **Date:** 2026-01-10
+**Author:** u/Fear_ltself | **Upvotes:** 230 | **Comments:** 42 | **Date:** 2026-01-10
 
-**Summary:** The post discusses a project visualizing RAG using UMAP to reduce a 768D vector space to 3D, showing how context chunks are retrieved. The code is available on GitHub, and the visualization resembles brain activity.
+**Summary:** The post discusses a project visualizing RAG retrieval using UMAP to reduce 768D embeddings to 3D, with a focus on how context chunks are retrieved. The project is available on GitHub and uses LanceDB for storage.
 
 **Key Points:**
-- Project visualizes RAG retrieval in 3D using UMAP
-- Code available on GitHub (Project_Golem)
-- Visualization shows activated nodes during queries
-- Comparisons drawn to brain function
-- Interest in integrating with Qdrant
+- Project visualizes RAG retrieval using UMAP for dimensionality reduction
+- Uses EmbeddingGemma:300m and LanceDB for storage
+- Code available on GitHub with instructions for setup
+- Positive feedback on the visualization and its brain-like appearance
+- Interest in integrating with other tools like Qdrant
 
-**Discussion Highlights:** Users expressed interest in connecting with Qdrant, noted the visualization's resemblance to brain activity, and praised the aesthetic appeal of the visualization.
+**Discussion Highlights:** The discussion highlights positive feedback on the visualization, with users comparing it to brain-like structures and expressing interest in integrating it with other tools like Qdrant. The post was also featured on Discord, indicating its popularity.
 
 ---
 
