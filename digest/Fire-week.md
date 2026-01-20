@@ -1,455 +1,460 @@
 # r/Fire Reading Digest
 
 **Period:** 2026-01-20 to 2026-01-20
-**Posts Summarized:** 29
-**Total Posts Analyzed:** 29
+**Posts Summarized:** 32
+**Total Posts Analyzed:** 32
 
 ---
 
-## 1. [How do people reach those numbers so early?!](https://reddit.com/r/Fire/comments/1qhfauq/how_do_people_reach_those_numbers_so_early/)
+## 1. [What's the clear point in dollars where more money stops changing your life in any meaningful way. After that, it’s just numbers, ego, or legacy.](https://reddit.com/r/Fire/comments/1qi1d4l/whats_the_clear_point_in_dollars_where_more_money/)
 
-**Author:** u/Glittering-Cloud1002 | **Upvotes:** 197 | **Comments:** 254 | **Date:** 2026-01-19
+**Author:** u/dont_downvote_SPECIL | **Upvotes:** 136 | **Comments:** 269 | **Date:** 2026-01-20
 
-**Summary:** A 27-year-old married couple in Germany, saving 60k annually, questions how others achieve financial independence earlier, given their projections of reaching 1M by 38 and FIRE by 48. The discussion highlights differences in compensation, lifestyle, and the skewed nature of FIRE subreddit posts.
+**Summary:** The post discusses the financial threshold where additional money stops meaningfully impacting lifestyle or happiness, with the author suggesting $10 million as a potential benchmark. The discussion highlights varying perspectives on this threshold, emphasizing its subjective nature.
 
 **Key Points:**
-- The couple saves 60k annually but feels their FIRE timeline is long compared to others.
-- US compensation is generally higher, contributing to faster FIRE timelines.
-- FIRE subreddit posts often represent a skewed, high-earning minority.
-- A decade to reach 1M invested is considered a strong achievement.
-- The discussion emphasizes the unrealistic expectations set by top earners in the FIRE community.
+- The author suggests $10 million as a point where more money doesn't significantly change lifestyle or happiness.
+- There is always something more one could afford with additional wealth, such as luxury assets or businesses.
+- The threshold varies greatly depending on individual circumstances and financial needs.
+- References to financial literature, such as Morgan Housel's books, are mentioned as relevant resources.
+- The discussion emphasizes the lack of a universal threshold, though $10 million is a commonly cited figure.
 
-**Discussion Highlights:** The consensus is that the couple's progress is strong, but comparisons to FIRE subreddit posts are misleading due to the high-earning, skewed nature of those posts. Key factors include higher US salaries, unrealistic expectations, and the fact that the FIRE community represents a small, top-performing percentage of savers.
-
----
-
-## 2. [Jobs for fun when money isn't an issue](https://reddit.com/r/Fire/comments/1qh9wxj/jobs_for_fun_when_money_isnt_an_issue/)
-
-**Author:** u/Moon_Shakerz | **Upvotes:** 574 | **Comments:** 574 | **Date:** 2026-01-19
-
-**Summary:** The post discusses the author's upcoming early retirement at 47 and seeks suggestions for fun part-time jobs to stay mentally active. The discussion highlights various job ideas and personal experiences from others who have retired early. Key points include the author's financial stability, current plans for volunteering and officiating sports, and suggestions like rock climbing gym instructor, wildland firefighting, and golf course ranger. The discussion highlights a mix of job suggestions and personal anecdotes about early retirement, with some emphasizing the joy of not working and others suggesting part-time jobs to stay engaged.
+**Discussion Highlights:** The discussion reveals a consensus that while $10 million is often seen as a benchmark for financial independence, the actual threshold varies widely. Many commenters highlight the subjective nature of financial needs and the diminishing returns of additional wealth beyond meeting basic needs and securing financial freedom.
 
 ---
 
-## 3. [Life after FIRE](https://reddit.com/r/Fire/comments/1qh4yw7/life_after_fire/)
+## 2. [Insane to think that FIRE isn’t the final goal for literally everyone](https://reddit.com/r/Fire/comments/1qhosjn/insane_to_think_that_fire_isnt_the_final_goal_for/)
 
-**Author:** u/midwestmillionare | **Upvotes:** 355 | **Comments:** 142 | **Date:** 2026-01-19
+**Author:** u/fap-free90 | **Upvotes:** 1215 | **Comments:** 485 | **Date:** 2026-01-19
 
-**Summary:** A 45-year-old widow with significant financial assets seeks advice on life after her husband's passing, expressing concerns about loneliness and future relationships while considering early retirement.
+**Summary:** The author argues that achieving Financial Independence, Retire Early (FIRE) should be the ultimate goal for everyone, emphasizing the benefits of freedom, time for hobbies, and reduced stress. The post highlights the author's personal journey and contrasts it with colleagues who prioritize career advancement.
+
+**Key Points:**
+- FIRE is presented as the ultimate goal for personal freedom and stress reduction.
+- The author plans to retire early and not pursue a partnership at their firm.
+- Different perspectives on career goals and financial independence are discussed in the comments.
+- Some commenters caution about sharing retirement plans openly.
+- The discussion highlights varying priorities, such as status, power, and meaningful careers.
+
+**Discussion Highlights:** The discussion reveals a mix of agreement and differing viewpoints. Many support the idea of FIRE but caution about openly discussing retirement plans. Others highlight the importance of status, power, and meaningful careers over financial independence. The consensus leans towards recognizing FIRE as a desirable goal but acknowledges that individual priorities vary.
+
+---
+
+## 3. [Husband just quit at 44!](https://reddit.com/r/Fire/comments/1qho3ld/husband_just_quit_at_44/)
+
+**Author:** u/PBnPickleSandwich | **Upvotes:** 484 | **Comments:** 64 | **Date:** 2026-01-19
+
+**Summary:** A couple celebrates early retirement at 44, planning small private celebrations and seeking advice on how to spend their newfound free time. Key points include their plans to celebrate with fish and chips on the floor and a big breakfast with mimosas, winding down their work, and the importance of finding activities to stay busy and enjoy retirement. The discussion highlights emphasize the joy of early retirement and the importance of planning activities to make the most of the newfound freedom.
+
+---
+
+## 4. [How do people reach those numbers so early?!](https://reddit.com/r/Fire/comments/1qhfauq/how_do_people_reach_those_numbers_so_early/)
+
+**Author:** u/Glittering-Cloud1002 | **Upvotes:** 209 | **Comments:** 268 | **Date:** 2026-01-19
+
+**Summary:** A 27-year-old married couple in Germany, saving 5k a month, questions how others in the FIRE community reach financial independence earlier, given their own projections of reaching 1M by 38 and FIRE by 48. The discussion highlights differences in compensation, particularly between the US and Germany, and the skewed representation of high earners in the FIRE community.
+
+**Key Points:**
+- The couple saves 5k a month and projects reaching 1M by 38 and FIRE by 48.
+- US compensation is generally higher, contributing to earlier FIRE achievements.
+- The FIRE subreddit often represents a skewed sample of high earners, particularly in tech.
+- A decade to reach $1M invested is considered a significant achievement.
+- The FIRE community represents a small percentage of top savers.
+
+**Discussion Highlights:** The discussion consensus is that the couple's progress is commendable, and the perceived earlier FIRE achievements by others are often due to higher US salaries and the overrepresentation of high earners in the FIRE community. The couple's frugal lifestyle and high savings rate are acknowledged as significant sacrifices.
+
+---
+
+## 5. [Jobs for fun when money isn't an issue](https://reddit.com/r/Fire/comments/1qh9wxj/jobs_for_fun_when_money_isnt_an_issue/)
+
+**Author:** u/Moon_Shakerz | **Upvotes:** 608 | **Comments:** 599 | **Date:** 2026-01-19
+
+**Summary:** The post discusses the author's upcoming early retirement at 47 and seeks suggestions for fun part-time jobs to stay mentally active and avoid boredom. The author plans to volunteer at animal shelters and officiate youth sports but is open to other ideas. Key points include the author's financial security, the desire for fun part-time jobs, and current plans for volunteering and officiating. The discussion highlights a variety of fun part-time job suggestions, with some commenters emphasizing that retirement can be exciting and fulfilling. Popular suggestions include roles in rock climbing gyms, wildland firefighting, and positions at golf courses or zoos.
+
+---
+
+## 6. [Life after FIRE](https://reddit.com/r/Fire/comments/1qh4yw7/life_after_fire/)
+
+**Author:** u/midwestmillionare | **Upvotes:** 371 | **Comments:** 143 | **Date:** 2026-01-19
+
+**Summary:** A 45-year-old widow with significant financial assets seeks advice on life after FIRE, expressing concerns about loneliness and future relationships following the loss of her husband.
 
 **Key Points:**
 - The author has substantial financial assets (2M in stocks, 1.5M in Roth, 3M in 401k) and a paid-off home.
-- She is grieving her husband's loss and feels disillusioned with her teaching career.
-- She seeks advice on finding future relationships and explaining her career change.
-- The community offers empathy and suggests focusing on hobbies and family.
-- Recommendations include joining support groups like r/widowers.
+- She is emotionally struggling with the loss of her husband and fears a lonely future.
+- The community offers sympathy and suggests focusing on hobbies, family, and taking time before dating.
+- Recommendations include joining support groups like r/widowers for shared experiences.
+- The author is considering leaving her teaching job to pursue personal interests and spend time with her children.
 
-**Discussion Highlights:** The community expresses deep empathy for the author's loss and encourages her to take time for herself, focus on her passions, and not rush into dating. Practical advice includes joining support groups and living life authentically.
+**Discussion Highlights:** The community expresses sympathy and encourages the author to focus on her passions, family, and personal growth. There is a consensus on taking time to heal and not rushing into new relationships. Some suggest joining support groups for widows/widowers to find understanding and companionship.
 
 ---
 
-## 4. [My father says I need 4m at my current situation to FIRE comfortably. How right (or wrong) is he? (My original goal was 3m)](https://reddit.com/r/Fire/comments/1qgwywe/my_father_says_i_need_4m_at_my_current_situation/)
+## 7. [My father says I need 4m at my current situation to FIRE comfortably. How right (or wrong) is he? (My original goal was 3m)](https://reddit.com/r/Fire/comments/1qgwywe/my_father_says_i_need_4m_at_my_current_situation/)
 
-**Author:** u/upside_win222 | **Upvotes:** 176 | **Comments:** 182 | **Date:** 2026-01-19
+**Author:** u/upside_win222 | **Upvotes:** 171 | **Comments:** 185 | **Date:** 2026-01-19
 
-**Summary:** A 38-year-old single individual in a VHCOL area seeks advice on whether $4M is necessary for comfortable FIRE, as suggested by their father, compared to their original goal of $3M. The post includes details on their assets, spending, and potential inheritance, with community feedback offering varied perspectives on the required savings.
+**Summary:** A 38-year-old single individual in a VHCOL area with $2.07M in brokerage, $450K in retirement accounts, and a $1M home is questioning their father's advice that they need $4M to FIRE comfortably, instead of their original $3M goal. The post explores factors like future insurance costs, social security, and potential inheritance.
 
 **Key Points:**
-- Author's current assets include $2.07M in brokerage, $450K in retirement accounts, and a $1M home.
-- Monthly spending averages $3K, with potential to scale down if needed.
-- Father suggests $4M as a comfortable FIRE number, citing increased insurance premiums and lower social security payments.
-- Community feedback varies, with some suggesting $2M is sufficient using a 4% withdrawal rate, while others emphasize flexibility due to lack of dependents.
-- Inheritance of $1.5M is considered 75% likely, adding complexity to the decision.
+- The user's current assets and spending habits suggest they may already be close to FIRE with $3M, but their father advises $4M for comfort.
+- Comments suggest that a 3-4% withdrawal rate could be sufficient, with some recommending a conservative 3% due to the long-term nature of FIRE.
+- Being single and childfree provides flexibility, but lifestyle inflation and potential inheritance uncertainty are factors to consider.
+- The user's low monthly spend ($3K) is noted as unusually low for a VHCOL area.
+- The father's perspective may be influenced by traditional provider roles and higher expected costs.
 
-**Discussion Highlights:** The discussion highlights a range of opinions, with some users advocating for a lower savings target due to the author's flexibility and lack of dependents, while others caution about lifestyle inflation and the uncertainty of inheritance. The consensus leans towards the author being close to their goal but suggests building in some buffer for long-term security.
-
----
-
-## 5. [Why do you rent instead of buying?](https://reddit.com/r/Fire/comments/1qgqfrr/why_do_you_rent_instead_of_buying/)
-
-**Author:** u/Short-Bonus276 | **Upvotes:** 114 | **Comments:** 351 | **Date:** 2026-01-18
-
-**Summary:** The Reddit post discusses why high-net-worth individuals (with portfolios over $3 million) prefer renting over buying homes, highlighting flexibility, lower costs, and avoidance of maintenance as key reasons. Key points include flexibility, lower costs in high-cost areas, avoiding large financial commitments, stability for kids as a pro of buying, and renting allowing access to premium locations. The discussion consensus leans towards renting being more advantageous in high-cost areas due to financial flexibility, lower maintenance burdens, and the ability to live in desirable locations without significant financial strain.
+**Discussion Highlights:** The consensus in the comments leans toward the user being closer to FIRE than they think, with many suggesting that $3M could be sufficient, especially given their low spending and flexibility. However, some caution about lifestyle inflation and the uncertainty of inheritance. The discussion also highlights generational differences in financial planning perspectives.
 
 ---
 
-## 6. [How quickly things can change](https://reddit.com/r/Fire/comments/1qgqf0i/how_quickly_things_can_change/)
+## 8. [Why do you rent instead of buying?](https://reddit.com/r/Fire/comments/1qgqfrr/why_do_you_rent_instead_of_buying/)
 
-**Author:** u/ToTheSpaceship001 | **Upvotes:** 515 | **Comments:** 83 | **Date:** 2026-01-18
+**Author:** u/Short-Bonus276 | **Upvotes:** 122 | **Comments:** 351 | **Date:** 2026-01-18
 
-**Summary:** The Reddit post discusses the author's sudden financial downturn after losing their job, despite having a well-planned financial strategy. The comments offer support and reminders about the importance of emergency funds and resilience. Key points include the author's detailed financial plan being disrupted by job loss, their struggle to find employment, the emphasis on emergency funds and resilience in the comments, community support, and the rapid change in financial situations. The discussion highlights the importance of emergency funds and resilience, with the community offering support and encouragement.
+**Summary:** The Reddit post discusses why high-net-worth individuals (with portfolios over $3 million) choose to rent instead of buying homes, highlighting flexibility, lower costs, and avoidance of maintenance as key reasons. Key points include flexibility and ease of relocation, avoidance of maintenance and liability, lower costs in high-cost areas, opportunity cost of tying up wealth in a home, and stability for kids and avoiding landlord issues as pros of buying. The discussion highlights a consensus that renting is often more favorable in high-cost areas due to flexibility, lower costs, and avoidance of maintenance, though some acknowledge the benefits of stability for families.
 
 ---
 
-## 7. [Doubling savings rate only accelerates FIRE by 2 years. Anyone else find that depressing?](https://reddit.com/r/Fire/comments/1qgbxnu/doubling_savings_rate_only_accelerates_fire_by_2/)
+## 9. [How quickly things can change](https://reddit.com/r/Fire/comments/1qgqf0i/how_quickly_things_can_change/)
 
-**Author:** u/JSExperts | **Upvotes:** 779 | **Comments:** 211 | **Date:** 2026-01-18
+**Author:** u/ToTheSpaceship001 | **Upvotes:** 516 | **Comments:** 84 | **Date:** 2026-01-18
 
-**Summary:** The post discusses how doubling savings rate has minimal impact on FIRE timeline due to compound interest, suggesting a lower-stress job with reduced savings may be preferable. The discussion highlights the importance of early savings and the dominance of compound interest in later years.
+**Summary:** The Reddit post discusses the author's sudden financial downturn after losing their job, despite having a well-planned financial strategy. The comments offer support and reminders about the importance of emergency funds and resilience.
+
+**Key Points:**
+- The author had a detailed financial plan but lost their job, leading to financial struggles.
+- The post highlights the unpredictability of financial trajectories.
+- Comments emphasize the importance of emergency funds and resilience.
+- Supportive messages from the community encourage the author to bounce back.
+- Personal stories from commenters relate to the author's situation.
+
+**Discussion Highlights:** The discussion highlights the importance of having an emergency fund and the resilience needed to bounce back from financial setbacks. Commenters share personal experiences and offer supportive messages, emphasizing that financial literacy and discipline can help in recovery.
+
+---
+
+## 10. [Doubling savings rate only accelerates FIRE by 2 years. Anyone else find that depressing?](https://reddit.com/r/Fire/comments/1qgbxnu/doubling_savings_rate_only_accelerates_fire_by_2/)
+
+**Author:** u/JSExperts | **Upvotes:** 783 | **Comments:** 212 | **Date:** 2026-01-18
+
+**Summary:** The post discusses how doubling savings rate has minimal impact on FIRE timeline due to compound interest, with the author considering a lower-stress job with reduced savings. The discussion highlights the importance of early savings and the dominance of compound interest in later years.
 
 **Key Points:**
 - Doubling savings rate accelerates FIRE by only 2 years due to compound interest.
 - Early savings have a more significant impact on FIRE timeline.
 - Reducing savings allows for a lower-stress job with minimal impact on retirement age.
-- Investments compounding outweighs contributions as retirement nears.
+- Investments start contributing more than savings as retirement approaches.
 - Flexibility in income sources is feasible without compromising FIRE goals.
 
-**Discussion Highlights:** The discussion emphasizes the power of compound interest, especially in later years, and the feasibility of reducing savings without significantly delaying retirement. Consensus suggests that early savings are crucial, and later contributions have diminishing returns.
+**Discussion Highlights:** The discussion emphasizes the power of compound interest, especially in later years, and the feasibility of reducing savings or changing jobs without significantly delaying retirement. Consensus highlights the importance of early savings and the flexibility afforded by reaching 'escape velocity' in investments.
 
 ---
 
-## 8. [FIRE because AI Future](https://reddit.com/r/Fire/comments/1qg8f23/fire_because_ai_future/)
+## 11. [Barely 2 weeks into 2026, all I want is to watch TV](https://reddit.com/r/Fire/comments/1qgbaw1/barely_2_weeks_into_2026_all_i_want_is_to_watch_tv/)
 
-**Author:** u/Practical_Monk9084 | **Upvotes:** 260 | **Comments:** 257 | **Date:** 2026-01-18
+**Author:** u/EquipmentUnlikely895 | **Upvotes:** 100 | **Comments:** 40 | **Date:** 2026-01-18
 
-**Summary:** The post discusses the author's motivation to achieve FIRE due to concerns about AI disrupting their career field, noting a declining job market and the need to invest more and reduce expenses. The discussion includes varied perspectives on preparing for AI's impact on careers and investments.
+**Summary:** The author expresses a desire to relax and enjoy leisure activities like reading and watching TV, but feels burdened by work obligations. The comments reflect similar sentiments, with some discussing seasonal depression and others sharing their own experiences of unemployment.
 
 **Key Points:**
-- Author is pursuing FIRE due to AI risks in their field
-- Job market is declining with fewer hires and increased AI adoption
-- Author aims to reduce expenses and invest more before potential layoffs
-- Discussion includes perspectives on investing for children's future and working longer due to AI
-- Copywriters and other professionals are pivoting to AI-related roles to stay relevant
+- Author's desire to relax and enjoy leisure activities
+- Feeling burdened by work obligations
+- Comments reflect similar sentiments and experiences
+- Discussion on seasonal depression and unemployment
+- Encouragement to take a break and enjoy the weekend
 
-**Discussion Highlights:** The discussion highlights a mix of strategies for dealing with AI's impact, including investing for future generations, considering extended work periods, and pivoting to AI-related roles. There is a consensus on the need to adapt to AI's growing influence in various career fields.
+**Discussion Highlights:** The discussion highlights a shared sentiment of wanting to relax and enjoy leisure activities, with some users discussing seasonal depression and others sharing their experiences of unemployment. There is a general consensus on the importance of taking breaks and enjoying downtime.
 
 ---
 
-## 9. [You're retiring on $100k/year dividend income. Where do you go?](https://reddit.com/r/Fire/comments/1qg45ye/youre_retiring_on_100kyear_dividend_income_where/)
+## 12. [FIRE because AI Future](https://reddit.com/r/Fire/comments/1qg8f23/fire_because_ai_future/)
 
-**Author:** u/Material_Soft1380 | **Upvotes:** 157 | **Comments:** 318 | **Date:** 2026-01-18
+**Author:** u/Practical_Monk9084 | **Upvotes:** 261 | **Comments:** 257 | **Date:** 2026-01-18
 
-**Summary:** The post discusses where to retire with a $100k/year dividend income, focusing on maximizing quality of life and stretching dollars. The discussion includes both international and domestic options, with a mix of preferences for staying put or exploring new locations.
+**Summary:** The Reddit post discusses the author's motivation to pursue FIRE due to concerns about AI disrupting their career field. They observe a declining job market and aim to increase investments and reduce expenses to prepare for potential layoffs. Key points include the author's pursuit of FIRE due to AI risks, a declining job market, and strategies to reduce expenses and invest more. The discussion highlights a consensus on the potential impact of AI on careers, with varying strategies to prepare, including pursuing FIRE, investing for children's future, and considering longer work periods to secure financial independence.
+
+---
+
+## 13. [You're retiring on $100k/year dividend income. Where do you go?](https://reddit.com/r/Fire/comments/1qg45ye/youre_retiring_on_100kyear_dividend_income_where/)
+
+**Author:** u/Material_Soft1380 | **Upvotes:** 154 | **Comments:** 318 | **Date:** 2026-01-18
+
+**Summary:** The Reddit post discusses where to retire on a $100k/year dividend income, focusing on maximizing quality of life and stretching dollars. The discussion includes both international and domestic options, with a mix of preferences for staying put or exploring new locations. Key points include: Many prefer to stay where they are due to family and friends. International locations like China, Japan, Vietnam, Thailand, and Malaysia are suggested for cost-effectiveness. Some recommend traveling to multiple places before deciding on a favorite. The portfolio size needed for $100k dividend income is questioned. Domestic options in the US are also considered viable. The discussion highlights a divide between those who prefer to stay in their current location for personal reasons and those who are open to exploring new, potentially more cost-effective locations. There is a consensus that visiting multiple places is a good strategy before making a final decision.
+
+---
+
+## 14. [Ready to FIRE but wife wants to work for a long time](https://reddit.com/r/Fire/comments/1qflc4g/ready_to_fire_but_wife_wants_to_work_for_a_long/)
+
+**Author:** u/mathfool | **Upvotes:** 215 | **Comments:** 254 | **Date:** 2026-01-17
+
+**Summary:** A 47-year-old man with $2.2M in assets wants to retire early (FIRE) but feels uncomfortable not working while his wife continues her career. His wife is supportive and encourages him to take a year off. The Reddit discussion largely supports his decision and highlights the shared nature of finances in marriage.
 
 **Key Points:**
-- Many prefer to stay where they are due to family and friends.
-- International locations like Vietnam, Thailand, Malaysia, Japan, China are suggested for cost-effectiveness.
-- Some recommend traveling to multiple places before deciding on a favorite.
-- The portfolio size needed for $100k dividend income is questioned.
-- Domestic options in the US are also considered viable.
+- The author has $2.2M in assets and wants to retire early due to burnout from high-stress C-level roles.
+- His wife supports his decision and encourages him to take a year off before deciding on future work.
+- The couple splits finances 50/50, but the discussion emphasizes that marriage typically means shared finances.
+- The author plans to explore part-time consulting or fractional executive roles in the future.
+- The Reddit community overwhelmingly supports his decision and encourages him to prioritize his well-being.
 
-**Discussion Highlights:** The discussion highlights a divide between those who prefer to stay in their current location for personal reasons and those who suggest exploring international or domestic options for better cost of living and experiences. There is no clear consensus, but traveling to multiple places before deciding is a common recommendation.
+**Discussion Highlights:** The discussion highlights a strong consensus that the author should feel comfortable retiring, as his wife supports the decision. Many commenters emphasize that finances in marriage are inherently shared, regardless of how they are split. There is also encouragement for the author to explore part-time work or consulting if he desires to stay engaged professionally.
 
 ---
 
-## 10. [Ready to FIRE but wife wants to work for a long time](https://reddit.com/r/Fire/comments/1qflc4g/ready_to_fire_but_wife_wants_to_work_for_a_long/)
+## 15. [The thread in Millennials subreddit right not about 401k is incredibly depressing. Thank you FIRE community. I would be one of them if I didn’t find you all a decade ago.](https://reddit.com/r/Fire/comments/1qfh4dy/the_thread_in_millennials_subreddit_right_not/)
 
-**Author:** u/mathfool | **Upvotes:** 209 | **Comments:** 254 | **Date:** 2026-01-17
+**Author:** u/BarkBarkBitches1 | **Upvotes:** 1235 | **Comments:** 699 | **Date:** 2026-01-17
 
-**Summary:** A 47-year-old man with $2.2M in assets wants to retire early (FIRE) but feels uncomfortable not working while his wife, who has $0.4M in assets, continues her new high-paying job. The wife is supportive of his decision to take a year off and reassess.
+**Summary:** The post contrasts the financial awareness of the FIRE community with the perceived financial struggles and lack of planning in the r/Millennials subreddit. The author expresses gratitude to the FIRE community for guiding them towards financial independence and encourages others to take control of their financial future.
 
 **Key Points:**
-- The husband wants to retire early due to burnout from high-stress C-level roles.
-- The wife supports his decision and plans to continue working to catch up financially.
-- The couple has combined assets of $2.6M but maintains separate finances.
-- The husband plans to potentially work part-time as a consultant or fractional executive.
-- Community comments highlight the privilege of their situation and the practicality of their financial arrangement.
+- The r/Millennials subreddit is perceived as a place where many users struggle financially and lack long-term planning.
+- The author credits the FIRE community and personal finance resources for helping them achieve financial awareness and independence.
+- The post encourages others to take control of their financial future by learning about budgeting, saving, and FIRE principles.
+- The discussion highlights a generational divide in financial attitudes, with some commenting on the reckless spending habits of Millennials and Gen Z.
+- The top comments suggest that the r/Millennials subreddit may not reflect the broader population and can be an echo chamber for negative financial behaviors.
 
-**Discussion Highlights:** The discussion emphasizes the couple's financial privilege and the practicality of their arrangement. Some commenters point out the legal implications of separate finances in marriage, while others encourage the husband to take the opportunity to retire if he can afford it.
+**Discussion Highlights:** The discussion highlights a consensus that financial literacy and long-term planning are crucial for financial independence. Many commenters agree that the r/Millennials subreddit can be an echo chamber for negative financial behaviors and does not necessarily reflect the broader population. There is also a shared sentiment that taking control of one's financial future is empowering and necessary.
 
 ---
 
-## 11. [The thread in Millennials subreddit right not about 401k is incredibly depressing. Thank you FIRE community. I would be one of them if I didn’t find you all a decade ago.](https://reddit.com/r/Fire/comments/1qfh4dy/the_thread_in_millennials_subreddit_right_not/)
+## 16. [Buying a house before 2021 was better than winning the lottery!](https://reddit.com/r/Fire/comments/1qfdyrm/buying_a_house_before_2021_was_better_than/)
 
-**Author:** u/BarkBarkBitches1 | **Upvotes:** 1228 | **Comments:** 695 | **Date:** 2026-01-17
+**Author:** u/Fun-Cranberry-487 | **Upvotes:** 408 | **Comments:** 171 | **Date:** 2026-01-17
 
-**Summary:** The post contrasts the financial struggles discussed in r/Millennials with the financial independence and early retirement (FIRE) community's approach to financial planning. The author expresses gratitude to the FIRE community for helping them avoid financial pitfalls and encourages others to take control of their financial future.
+**Summary:** The post highlights the financial benefits of buying a house before 2021, emphasizing significant monthly savings and potential long-term investment gains. The author contrasts their low mortgage payments with current market rates and discusses the impact on financial independence.
 
 **Key Points:**
-- The r/Millennials thread highlights widespread financial struggles and reckless spending among millennials.
-- The author credits the FIRE community for helping them transition from financial ignorance to a path of financial independence.
-- The post emphasizes the importance of financial education and planning, regardless of income level.
-- The author provides a flowchart and resources to help others start their financial journey.
-- Comments suggest that generational subreddits often focus on trauma and struggles rather than solutions.
+- Buying a house before 2021 resulted in significantly lower mortgage payments compared to current rates.
+- The author estimates lifetime savings of over $546,000 due to lower mortgage costs.
+- Investing the monthly savings could yield substantial long-term returns, potentially over $2 million.
+- The post sparks a discussion on the K-shaped economy and the role of timing in financial success.
+- Some commenters argue that houses may not be as good an investment as index funds over the long term.
 
-**Discussion Highlights:** The discussion highlights a consensus that many millennials and Gen Z individuals struggle with financial planning and reckless spending. The FIRE community is seen as a positive influence, offering practical advice and resources for financial independence. Some comments critique generational subreddits for fostering a negative, echo-chamber environment.
+**Discussion Highlights:** The discussion includes a mix of agreement and dissent, with some users highlighting the benefits of low-interest mortgages and others pointing out the potential drawbacks of real estate as an investment compared to index funds. The consensus leans towards the advantages of locking in low mortgage rates when possible.
 
 ---
 
-## 12. [Buying a house before 2021 was better than winning the lottery!](https://reddit.com/r/Fire/comments/1qfdyrm/buying_a_house_before_2021_was_better_than/)
+## 17. [I found a loophole in the company.](https://reddit.com/r/Fire/comments/1qfdlea/i_found_a_loophole_in_the_company/)
 
-**Author:** u/Fun-Cranberry-487 | **Upvotes:** 406 | **Comments:** 171 | **Date:** 2026-01-17
+**Author:** u/dic_wagner | **Upvotes:** 261 | **Comments:** 36 | **Date:** 2026-01-17
 
-**Summary:** The post highlights the financial benefits of buying a house before 2021, emphasizing lower mortgage rates and significant savings over time. The author calculates substantial lifetime savings and potential investment growth from these savings.
+**Summary:** The author discovered a job-sharing policy that allows them to work 2 weeks on and 6 weeks off, maintaining full benefits and insurance. This arrangement is supported by their supervisor and aligns with their personal goals of transitioning to retirement while managing a farm, rental property, and family responsibilities.
 
 **Key Points:**
-- Lower mortgage rates before 2021 resulted in significant monthly and lifetime savings.
-- Home appreciation has doubled the value of the author's house.
-- Investing the monthly savings could lead to substantial long-term wealth.
-- The discussion includes differing opinions on the comparison to lottery winnings and the impact of the K-shaped economy.
-- Consensus on the importance of locking in low interest rates for long-term financial benefits.
+- Job-sharing policy allows 2 weeks on, 6 weeks off with full benefits
+- Supervisor supports the arrangement to retain the employee part-time
+- Author has personal projects and family responsibilities to manage
+- Concerns about HR's reaction and potential policy changes
+- Positive feedback and congratulations from the community
 
-**Discussion Highlights:** The discussion highlights varying perspectives on the financial advantages of early homeownership, with some emphasizing the importance of low interest rates and others pointing out regional differences in home appreciation. There is a general consensus on the long-term financial benefits of securing a low mortgage rate.
+**Discussion Highlights:** The discussion highlights concerns about whether benefits remain full or are pro-rated, skepticism about HR's potential reaction to close the 'loophole,' and overall support for the author's plan. Some commenters share similar experiences with part-time benefits and offer congratulations.
 
 ---
 
-## 13. [I found a loophole in the company.](https://reddit.com/r/Fire/comments/1qfdlea/i_found_a_loophole_in_the_company/)
+## 18. [Had THE talk with my boss](https://reddit.com/r/Fire/comments/1qfc64f/had_the_talk_with_my_boss/)
 
-**Author:** u/dic_wagner | **Upvotes:** 263 | **Comments:** 36 | **Date:** 2026-01-17
+**Author:** u/Amlikaq | **Upvotes:** 502 | **Comments:** 241 | **Date:** 2026-01-17
 
-**Summary:** The author, working in the Gulf on an oil and gas platform, discovered a job-sharing policy that would allow them to work 2 weeks on and 6 weeks off, maintaining full benefits. This arrangement would serve as a transition to full retirement, allowing them to spend more time on personal projects and family.
+**Summary:** The author shares their experience of quitting their job at 44 to pursue FIRE (Financial Independence, Retire Early), describing mixed emotions and relief after having 'the talk' with their boss. The post highlights the internal conflict between societal expectations and personal fulfillment, with commenters sharing similar experiences and offering support.
 
 **Key Points:**
-- Author works 2 weeks on/2 weeks off and found a job-sharing policy for 2 weeks on/6 weeks off
-- Policy allows maintaining full benefits and insurance during the transition to retirement
-- Supervisor supports the arrangement to retain the author part-time
-- Author has personal projects and family commitments to occupy their time off
-- Discussion includes questions about benefits, concerns about HR's response, and congratulatory remarks
+- Author felt nervous but relieved after discussing their decision to quit with their boss.
+- The author acknowledges the privilege of retiring at 44 but struggles with societal expectations and immigrant mindset.
+- Commenters share similar experiences, emphasizing the awkwardness of such conversations and the relief of leaving corporate life.
+- The discussion highlights the emotional complexity of quitting a stable job for early retirement.
 
-**Discussion Highlights:** The discussion highlights concerns about whether benefits remain full or are pro-rated, skepticism about HR's potential response to close the loophole, and general support for the author's plan. Some commenters share similar experiences with part-time work and benefits.
+**Discussion Highlights:** The discussion consensus revolves around the emotional challenges and societal pressures of quitting a stable job for early retirement. Commenters validate the author's feelings and share their own experiences, emphasizing the relief and freedom that comes with leaving corporate life.
 
 ---
 
-## 14. [Had THE talk with my boss](https://reddit.com/r/Fire/comments/1qfc64f/had_the_talk_with_my_boss/)
+## 19. [No one to talk to](https://reddit.com/r/Fire/comments/1qf5bbv/no_one_to_talk_to/)
 
-**Author:** u/Amlikaq | **Upvotes:** 496 | **Comments:** 241 | **Date:** 2026-01-17
+**Author:** u/shungeon | **Upvotes:** 229 | **Comments:** 151 | **Date:** 2026-01-16
 
-**Summary:** The author shares their experience of quitting their job to pursue FIRE at 44, describing mixed feelings of relief and confusion. The discussion includes similar stories and supportive comments from others.
+**Summary:** The author, in their late 50s, is financially independent and ready to retire but feels isolated due to a lack of support network to discuss their situation. They seek advice on how to communicate their retirement plans with their non-financially savvy spouse. Key points include the author's financial independence, the need to communicate retirement plans with their spouse, and suggestions to engage a financial planner for third-party advice. The discussion highlights the importance of seeking professional financial advice and finding ways to communicate effectively with a spouse who may not be financially savvy.
+
+---
+
+## 20. [150k at 25, but tired of following the rules](https://reddit.com/r/Fire/comments/1qete5x/150k_at_25_but_tired_of_following_the_rules/)
+
+**Author:** u/Admirable-Ad9302 | **Upvotes:** 113 | **Comments:** 177 | **Date:** 2026-01-16
+
+**Summary:** A 25-year-old engineer with $150k in savings and a $100k income feels unfulfilled despite financial success and plans to quit their job to pursue a more social and adventurous lifestyle. The post explores themes of burnout, life purpose, and the balance between financial independence and personal happiness.
 
 **Key Points:**
-- Author felt nervous but relieved after quitting their job
-- Boss was understanding and supportive
-- Author acknowledges the privilege of pursuing FIRE at 44
-- Comments include similar experiences and congratulatory messages
-- Discussion highlights the emotional and practical aspects of quitting a job for FIRE
+- The author feels unfulfilled despite financial success and a high savings rate.
+- They plan to quit their job to pursue a more social and adventurous lifestyle.
+- The post highlights a struggle between financial independence and personal happiness.
+- Comments suggest taking a break to avoid burnout and explore new experiences.
+- Some comments emphasize the importance of balancing saving with enjoying life.
 
-**Discussion Highlights:** The discussion reflects a consensus of support and shared experiences among those pursuing FIRE, with many commenting on the emotional and practical aspects of quitting a job.
+**Discussion Highlights:** The discussion highlights a consensus on the importance of balancing financial goals with personal well-being. Many commenters encourage the author to take a break and explore new experiences to avoid burnout and find fulfillment. There is also a recognition of the author's strong financial position and the potential to achieve financial independence at a relatively young age.
 
 ---
 
-## 15. [No one to talk to](https://reddit.com/r/Fire/comments/1qf5bbv/no_one_to_talk_to/)
+## 21. [There’s no way I can do this…](https://reddit.com/r/Fire/comments/1qelh4y/theres_no_way_i_can_do_this/)
 
-**Author:** u/shungeon | **Upvotes:** 231 | **Comments:** 150 | **Date:** 2026-01-16
+**Author:** u/Firm-Jellyfish-7743 | **Upvotes:** 118 | **Comments:** 301 | **Date:** 2026-01-16
 
-**Summary:** The author, in their late 50s, is financially secure and ready to retire but feels isolated due to a lack of people to discuss their situation with. They seek advice on how to communicate their retirement plans with their financially unsavvy wife and find support for their decision.
+**Summary:** The Reddit post discusses the author's financial situation and their desire to start the FIRE (Financial Independence, Retire Early) journey. The author feels overwhelmed by the financial achievements of others in the community and seeks advice on how to begin. Key points include the author being 27 years old, married, and having recently paid off student loans, with $6k in checking and $32k in retirement accounts. The discussion highlights the importance of starting early, staying consistent, and maxing out employer matches on retirement accounts.
+
+---
+
+## 22. [How did you find your partner?](https://reddit.com/r/Fire/comments/1qehsx6/how_did_you_find_your_partner/)
+
+**Author:** u/hooman-number-1 | **Upvotes:** 119 | **Comments:** 220 | **Date:** 2026-01-16
+
+**Summary:** The Reddit post discusses the difficulty of finding a partner with similar values, particularly in the context of financial independence and early retirement (FIRE). Users share various ways they met their partners, highlighting that shared values can develop over time. Key points include the challenge of finding aligned values, the possibility of values developing over time, and the variety of ways people meet their partners. The discussion highlights that while finding a partner with similar values can be difficult, it's not necessary for both partners to be fully aligned on FIRE from the beginning.
+
+---
+
+## 23. [Divorce took most my wealth, FIRE materially set back now (28M)](https://reddit.com/r/Fire/comments/1qe2rbo/divorce_took_most_my_wealth_fire_materially_set/)
+
+**Author:** u/Oracle7111 | **Upvotes:** 244 | **Comments:** 376 | **Date:** 2026-01-15
+
+**Summary:** A 28-year-old Reddit user shares their financial setback after a divorce, which reduced their brokerage account from $320k to $120k and left them with $170k in a 401k. They are seeking advice on how many years they have been set back and what a realistic goal for financial independence (FI) would be, aiming for $4 million with a current salary of $220k.
 
 **Key Points:**
-- Author is financially independent and ready to retire
-- Lacks support system to discuss retirement plans
-- Struggles to communicate financial plans with spouse
-- Seeks advice on engaging a financial planner for spouse communication
-- Plans to have a direct conversation with wife and engage a third-party financial advisor if needed
+- Divorce significantly reduced the user's wealth, leaving them with $120k in brokerage and $170k in 401k.
+- The user is 28 years old with a current salary of $220k.
+- They aim to achieve financial independence with a goal of $4 million.
+- The community generally views the situation as recoverable, emphasizing the advantage of addressing the issue at a young age.
+- Encouragement to focus on the positive aspects of the situation, such as being single with a high salary and a solid net worth.
 
-**Discussion Highlights:** The discussion highlights the importance of seeking professional financial advice and finding ways to effectively communicate financial plans with a spouse. Many commenters suggest engaging a financial planner to help bridge the communication gap and provide expert guidance.
-
----
-
-## 16. [150k at 25, but tired of following the rules](https://reddit.com/r/Fire/comments/1qete5x/150k_at_25_but_tired_of_following_the_rules/)
-
-**Author:** u/Admirable-Ad9302 | **Upvotes:** 116 | **Comments:** 177 | **Date:** 2026-01-16
-
-**Summary:** A 25-year-old engineer with $150k in savings and a $100k income feels unfulfilled despite financial success. They plan to quit their job to pursue a more social and adventurous lifestyle, seeking advice on whether this is a wise decision.
-
-**Key Points:**
-- Author feels unfulfilled despite financial success and high savings rate
-- Plans to quit job to pursue a more social and adventurous lifestyle
-- Seeks advice on whether this career shift is wise
-- Community suggests taking time off to explore and find fulfillment
-- Some commenters highlight the potential of current financial trajectory
-
-**Discussion Highlights:** The discussion highlights a mix of support for the author's desire to explore a more fulfilling lifestyle and reminders of their strong financial position. Many commenters encourage taking a break to avoid burnout and find personal happiness, while others emphasize the long-term benefits of their current financial trajectory.
+**Discussion Highlights:** The community consensus is optimistic, highlighting the benefits of resolving the divorce early in life. Many commenters emphasize the user's strong financial position despite the setback, noting the high salary and existing net worth as significant advantages. There is a general encouragement to focus on rebuilding and leveraging the current financial situation to achieve long-term goals.
 
 ---
 
-## 17. [There’s no way I can do this…](https://reddit.com/r/Fire/comments/1qelh4y/theres_no_way_i_can_do_this/)
+## 24. [44 and Done](https://reddit.com/r/Fire/comments/1qdxzfd/44_and_done/)
 
-**Author:** u/Firm-Jellyfish-7743 | **Upvotes:** 117 | **Comments:** 300 | **Date:** 2026-01-16
-
-**Summary:** The post discusses the author's financial situation and their desire to start the FIRE (Financial Independence, Retire Early) journey. The author feels overwhelmed by the financial achievements of others in the community and seeks advice on how to begin.
-
-**Key Points:**
-- The author is 27 years old, married, and has recently paid off student loans.
-- They have $6k in checking and $32k in retirement accounts.
-- The author feels behind compared to others in the FIRE community.
-- Top comments emphasize starting early, the significance of paying off student loans, and the steps to begin the FIRE journey.
-- Consensus highlights the importance of maxing out employer matches on retirement accounts and starting a high-yield savings account.
-
-**Discussion Highlights:** The discussion emphasizes the importance of starting early and taking small, consistent steps towards financial independence. Key advice includes maxing out employer matches on retirement accounts, starting a high-yield savings account, and staying the course.
-
----
-
-## 18. [How did you find your partner?](https://reddit.com/r/Fire/comments/1qehsx6/how_did_you_find_your_partner/)
-
-**Author:** u/hooman-number-1 | **Upvotes:** 121 | **Comments:** 220 | **Date:** 2026-01-16
-
-**Summary:** The Reddit post discusses the difficulty of finding a partner with similar values, particularly in the context of financial independence and early retirement (FIRE). Users share various ways they met their partners, highlighting that shared values can develop over time. Key points include the challenge of finding aligned values, the possibility of values developing over time, and the variety of settings where partners can be met. The discussion highlights that while finding a partner with similar values can be difficult, it's not impossible, and being open to different experiences can increase the chances of meeting someone compatible.
-
----
-
-## 19. [Divorce took most my wealth, FIRE materially set back now (28M)](https://reddit.com/r/Fire/comments/1qe2rbo/divorce_took_most_my_wealth_fire_materially_set/)
-
-**Author:** u/Oracle7111 | **Upvotes:** 240 | **Comments:** 375 | **Date:** 2026-01-15
-
-**Summary:** A 28-year-old Reddit user shares their financial setback after a divorce, which reduced their brokerage account from $320k to $120k, leaving them with a total net worth of $290k. They express concern about the impact on their FIRE (Financial Independence, Retire Early) goals and ask for advice on how many years they've been set back and a realistic age to achieve a $4 million net worth with a $220k salary.
-
-**Key Points:**
-- Divorce significantly reduced the user's net worth from $320k to $120k in brokerage and left them with $170k in a 401k.
-- The user feels a sense of loss due to years of saving and grinding being impacted.
-- The user's current salary is $220k, and they aim to achieve a $4 million net worth.
-- The community generally views the situation as a positive outcome given the early age and potential for recovery.
-- Encouragement to focus on the future and the advantages of being single with a high salary at a young age.
-
-**Discussion Highlights:** The community consensus is overwhelmingly positive, emphasizing the benefits of resolving the divorce early in life. Many commenters highlight the user's strong financial position despite the setback, noting the high salary and relatively young age as significant advantages. The discussion focuses on resilience, future potential, and the importance of moving forward without dwelling on the past.
-
----
-
-## 20. [44 and Done](https://reddit.com/r/Fire/comments/1qdxzfd/44_and_done/)
-
-**Author:** u/oilflo | **Upvotes:** 2183 | **Comments:** 168 | **Date:** 2026-01-15
+**Author:** u/oilflo | **Upvotes:** 2195 | **Comments:** 168 | **Date:** 2026-01-15
 
 **Summary:** The author, a corporate middle manager, achieved financial independence and retired early (FIRE) after experiencing increased workload and lack of recognition following mass layoffs. They plan to spend time with their aging dog and later travel before deciding on their next steps.
 
 **Key Points:**
-- Author achieved FIRE after 18 months of frugal living and increased workload post-layoffs
+- Author achieved FIRE after recognizing signs of corporate instability and increased workload
 - Decision validated by management's lack of awareness about their workload
 - Plans to spend time with their 13.5-year-old dog and travel after retirement
-- Community praised the author's focus on their dog and early retirement
+- Community praised the author's focus on their senior dog and early retirement
 - Discussion highlighted benefits of FIRE, such as freedom from alarm clocks and obnoxious bosses
 
-**Discussion Highlights:** The community celebrated the author's retirement, emphasizing the importance of spending time with loved ones and the freedom that comes with FIRE. Notable comments included praise for the author's dedication to their dog and the benefits of life without work-related stress.
+**Discussion Highlights:** The community celebrated the author's retirement, emphasizing the importance of spending time with loved ones and the benefits of financial independence. Notable comments included praise for the author's plans to spend time with their senior dog and the freedom that comes with early retirement.
 
 ---
 
-## 21. [Fired, But Honestly, I’m Okay with It](https://reddit.com/r/Fire/comments/1qdutnr/fired_but_honestly_im_okay_with_it/)
+## 25. [Fired, But Honestly, I’m Okay with It](https://reddit.com/r/Fire/comments/1qdutnr/fired_but_honestly_im_okay_with_it/)
 
-**Author:** u/Haunting-Chemist- | **Upvotes:** 259 | **Comments:** 79 | **Date:** 2026-01-15
+**Author:** u/Haunting-Chemist- | **Upvotes:** 265 | **Comments:** 80 | **Date:** 2026-01-15
 
-**Summary:** The author, u/Haunting-Chemist-, shares their positive outlook on being laid off, viewing it as an early retirement due to their savings and low living expenses. They plan to enjoy life without the stress of a 9-to-5 job, doing odd jobs for fun. The post sparks a discussion about financial independence and the feasibility of their plan.
-
-**Key Points:**
-- Author views layoff as early retirement
-- Saved $200k with low living expenses
-- Plans to do odd jobs and enjoy life
-- Comments highlight lack of financial independence
-- Suggestions to reconsider long-term financial planning
-
-**Discussion Highlights:** The discussion highlights a consensus that the author's situation does not meet the criteria for financial independence (FIRE) due to insufficient savings. Commenters suggest taking a break but eventually returning to work to ensure long-term financial stability.
+**Summary:** The author shares their positive outlook on being laid off, viewing it as an early retirement due to their low expenses and savings of $200k. They plan to enjoy life without the stress of a 9-to-5 job, though commenters express concerns about their financial independence and long-term sustainability. Key points include the author's view of layoff as early retirement, their savings and lifestyle, and commenters' mixed reactions. The discussion highlights a divide between the author's optimism and commenters' concerns about financial independence.
 
 ---
 
-## 22. [Hit 1 million at age 45!](https://reddit.com/r/Fire/comments/1qdskdf/hit_1_million_at_age_45/)
+## 26. [Hit 1 million at age 45!](https://reddit.com/r/Fire/comments/1qdskdf/hit_1_million_at_age_45/)
 
-**Author:** u/AdHonest7357 | **Upvotes:** 366 | **Comments:** 45 | **Date:** 2026-01-15
+**Author:** u/AdHonest7357 | **Upvotes:** 365 | **Comments:** 45 | **Date:** 2026-01-15
 
-**Summary:** The author celebrates reaching a $1 million net worth at age 45, highlighting their journey from financial struggles to achieving this milestone with the help of their husband. They aim to double their net worth in the next five years to retire from their stressful job.
+**Summary:** The author celebrates reaching a $1 million net worth at age 45, highlighting their journey from financial struggles to achieving this milestone with the help of their husband. They aim to double their net worth in the next five years and retire from their stressful job.
 
 **Key Points:**
 - Author reached $1 million net worth at age 45
 - Background of financial struggles and growth with husband's help
 - Home worth $900K, fully paid off, no debt
 - Goal to double net worth in 5 years and retire
-- Discussion includes congratulations and clarifications on net worth calculations
+- Discussion includes congratulations and clarifications on net worth calculation
 
 **Discussion Highlights:** The discussion primarily consists of congratulatory messages, with some users clarifying the inclusion of home equity in net worth calculations. Overall, the consensus is positive and supportive of the author's achievement.
 
 ---
 
-## 23. [What do u think of tech CEOs saying saving for retirement will be pointless in 10 to 20 years ?](https://reddit.com/r/Fire/comments/1qdl5wh/what_do_u_think_of_tech_ceos_saying_saving_for/)
+## 27. [What do u think of tech CEOs saying saving for retirement will be pointless in 10 to 20 years ?](https://reddit.com/r/Fire/comments/1qdl5wh/what_do_u_think_of_tech_ceos_saying_saving_for/)
 
-**Author:** u/Technical-Truth-2073 | **Upvotes:** 953 | **Comments:** 1197 | **Date:** 2026-01-15
+**Author:** u/Technical-Truth-2073 | **Upvotes:** 959 | **Comments:** 1197 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post discusses tech CEOs' claims that traditional retirement savings will become obsolete due to AI and automation, with the author expressing concern about the validity of these claims. The discussion highlights skepticism towards these predictions, with commenters questioning the motives of billionaires making such statements.
-
-**Key Points:**
-- Tech CEOs claim AI and automation will make traditional retirement savings obsolete in 10-20 years.
-- The author is concerned about the impact of these claims on FIRE strategies.
-- Commenters express skepticism, noting the irony of billionaires suggesting money will be meaningless.
-- The consensus is that these claims are likely overhyped and not trustworthy.
-- No evidence of tech CEOs divesting their own wealth based on these predictions.
-
-**Discussion Highlights:** The discussion is largely skeptical of the tech CEOs' claims, with many commenters viewing the statements as self-serving or overly optimistic. The consensus is to continue with traditional saving and investing strategies.
+**Summary:** The Reddit post discusses tech CEOs' claims that traditional retirement savings will be worthless in 10-20 years due to AI and automation, sparking a debate on the validity of these claims and their impact on financial planning. Key points include skepticism towards these predictions, with commenters advising to continue with traditional financial planning strategies. The discussion highlights a general skepticism towards the tech CEOs' predictions, with many users advising to continue with traditional financial planning strategies.
 
 ---
 
-## 24. [How do you deal with "the grind"?](https://reddit.com/r/Fire/comments/1qd9yhz/how_do_you_deal_with_the_grind/)
+## 28. [How do you deal with "the grind"?](https://reddit.com/r/Fire/comments/1qd9yhz/how_do_you_deal_with_the_grind/)
 
-**Author:** u/Possible-Magazine23 | **Upvotes:** 171 | **Comments:** 102 | **Date:** 2026-01-14
+**Author:** u/Possible-Magazine23 | **Upvotes:** 170 | **Comments:** 102 | **Date:** 2026-01-14
 
-**Summary:** The post discusses the challenge of dealing with the daily grind of work when one is not yet financially independent enough to retire early (FIRE) but also lacks the motivation to push harder at work. The author seeks advice on how to stay motivated and keep their spirits up during this phase.
+**Summary:** The post discusses the challenge of dealing with the monotony of work when one is not financially independent enough to retire early but also lacks motivation to push harder at work. The author seeks advice on how to stay motivated and occupied during this phase.
 
 **Key Points:**
-- The author feels stuck in a repetitive, low-effort job with 3-5 years left until potential FIRE.
-- Many commenters share similar feelings of being close to FIRE but struggling with the remaining grind.
-- Some suggest making the most of the current years rather than just waiting for FIRE.
-- Others express a desire for severance or early retirement.
-- There is a consensus on giving the bare minimum at work while maintaining expected performance.
+- The grind of work can feel like life slipping by, prompting a focus on making the best of the present.
+- Some cope by hoping for a severance package or other unexpected financial relief.
+- Many feel stuck in a long-term routine with years left before achieving financial independence.
+- Some struggle with maintaining motivation and giving minimal effort at work.
+- The discussion highlights a mix of resignation and proactive strategies to improve daily life.
 
-**Discussion Highlights:** The discussion highlights a common sentiment among those nearing FIRE but not yet there, with many feeling demotivated and seeking ways to cope. Some advocate for making the most of the present, while others express frustration or a desire for early exit strategies.
+**Discussion Highlights:** The discussion reveals a consensus around the difficulty of maintaining motivation in a long-term work routine without the immediate prospect of financial independence. While some express resignation or hope for external solutions like severance, others emphasize making the best of the present by focusing on life outside of work and finding small ways to improve daily experiences.
 
 ---
 
-## 25. [Hot take: spending money to create “memory dividends” is the single most groundbreaking aspect of Die with Zero](https://reddit.com/r/Fire/comments/1qcxeoa/hot_take_spending_money_to_create_memory/)
+## 29. [Hot take: spending money to create “memory dividends” is the single most groundbreaking aspect of Die with Zero](https://reddit.com/r/Fire/comments/1qcxeoa/hot_take_spending_money_to_create_memory/)
 
-**Author:** u/OTFlawyer | **Upvotes:** 283 | **Comments:** 109 | **Date:** 2026-01-14
+**Author:** u/OTFlawyer | **Upvotes:** 280 | **Comments:** 109 | **Date:** 2026-01-14
 
-**Summary:** The post discusses the concept of 'memory dividends' from the book 'Die with Zero', emphasizing the value of spending money on memorable experiences, especially in one's 20s and 30s. The discussion includes varying perspectives on balancing financial prudence with creating meaningful memories.
+**Summary:** The post discusses the concept of 'memory dividends' from the book 'Die with Zero,' emphasizing the value of life experiences and memories over financial savings. The discussion highlights differing opinions on financial planning and the importance of experiences at various life stages.
 
 **Key Points:**
 - The concept of 'memory dividends' is central to the book 'Die with Zero'.
-- Spending money on experiences in youth can provide lifelong value.
-- Balancing financial planning with creating memories is a key theme.
-- Different age groups have varying perspectives on the importance of early-life experiences.
-- The book's advice on financial planning and end-of-life comfort is controversial.
+- Experiences and memories are valued over financial savings.
+- Differing opinions on financial planning and life experiences.
+- The importance of experiences at various life stages is emphasized.
+- The book's advice on dying with zero is controversial.
 
-**Discussion Highlights:** The discussion highlights a consensus on the importance of memorable experiences but also includes differing views on financial planning and the timing of these experiences. Some commenters emphasize the value of early-life memories, while others argue for a more balanced approach throughout life.
-
----
-
-## 26. [I only recently found FIRE. All these posts with people so young and incredible wealth. I regret not saving more. How old were you when you “turned it on”?](https://reddit.com/r/Fire/comments/1qccug1/i_only_recently_found_fire_all_these_posts_with/)
-
-**Author:** u/Basic_Sense_5987 | **Upvotes:** 309 | **Comments:** 285 | **Date:** 2026-01-13
-
-**Summary:** The post discusses feelings of regret and jealousy from a 40-year-old who recently discovered the FIRE (Financial Independence, Retire Early) movement and feels behind compared to younger, wealthier individuals. The author shares their financial status and asks about others' experiences with saving. Key points include the author's feelings of being behind, their net worth of $1 million, and the discussion highlights reassurance and humor, with a consensus that comparison can be detrimental and that the author's financial status is still commendable.
+**Discussion Highlights:** The discussion highlights a consensus on the value of life experiences and memories, with differing opinions on financial planning and the importance of experiences at various life stages. Some commenters agree with the book's advice, while others express regret over not saving more in their youth.
 
 ---
 
-## 27. [42% savings in 2025](https://reddit.com/r/Fire/comments/1qc85k5/42_savings_in_2025/)
+## 30. [I only recently found FIRE. All these posts with people so young and incredible wealth. I regret not saving more. How old were you when you “turned it on”?](https://reddit.com/r/Fire/comments/1qccug1/i_only_recently_found_fire_all_these_posts_with/)
 
-**Author:** u/cmberns | **Upvotes:** 701 | **Comments:** 77 | **Date:** 2026-01-13
+**Author:** u/Basic_Sense_5987 | **Upvotes:** 306 | **Comments:** 285 | **Date:** 2026-01-13
 
-**Summary:** The author, a federal employee earning $230K, managed to save $103K in 2025 despite financial stress and job instability. They achieved this by cutting back on expenses and are proud of their accomplishment.
+**Summary:** The Reddit post expresses feelings of regret and jealousy from a 40-year-old who recently discovered the FIRE (Financial Independence, Retire Early) movement and feels behind compared to younger, wealthier individuals. The author, with a net worth of $1M, seeks reassurance and shares their financial journey.
 
 **Key Points:**
-- Author saved $103K on a $230K salary in 2025
-- Significant lifestyle changes were made to reduce expenses
-- Emergency savings now cover almost 10 months of expenses
-- Author feels unappreciated by their spouse for their financial efforts
-- Top comments focus on curiosity about the author's job and advice on balancing saving with living life
+- The author feels behind and jealous of younger, successful individuals in the FIRE community.
+- The author has a net worth of $1M at age 40 and owns a paid-off house.
+- Top comments highlight that the author is in the top 10% of households and caution against comparison.
+- Discussion includes survivorship bias and the rapid growth of wealth after hitting $1M.
+- Encouragement to focus on personal progress rather than comparing to others.
 
-**Discussion Highlights:** The discussion highlights curiosity about the author's high-paying government job and offers congratulations on their savings achievement. Some commenters advise finding a balance between saving and enjoying life to avoid financial trauma.
-
----
-
-## 28. [37F need advice](https://reddit.com/r/Fire/comments/1qc3x9e/37f_need_advice/)
-
-**Author:** u/Tiny_Specialist123 | **Upvotes:** 103 | **Comments:** 89 | **Date:** 2026-01-13
-
-**Summary:** A 37-year-old FAANG employee with significant savings and investments is considering quitting due to burnout and wants to travel, possibly renting out their house and taking a low-stress job for health insurance.
-
-**Key Points:**
-- The author has substantial financial assets, including $1.2M in company stock, $400k in ETFs, $450k in retirement accounts, and a house worth $800k with a $120k mortgage.
-- Monthly expenses are around $3k (excluding mortgage), and the author plans to travel and rent out rooms in their house.
-- The author is considering quitting their high-stress job and possibly taking a low-stress job for health insurance.
-- Commenters generally agree that the author is financially secure enough to quit and suggest a 'soft landing' by securing a low-stress job first.
-
-**Discussion Highlights:** The discussion consensus is that the author is financially capable of quitting their job immediately, with some suggesting a transition to a low-stress job to ease the change.
+**Discussion Highlights:** The discussion emphasizes that the author's financial position is strong and advises against comparing oneself to others due to survivorship bias. Many commenters share their own experiences and encourage the author to focus on their progress and future growth.
 
 ---
 
-## 29. [I'm working all the time but not getting ahead](https://reddit.com/r/Fire/comments/1qbz1aa/im_working_all_the_time_but_not_getting_ahead/)
+## 31. [42% savings in 2025](https://reddit.com/r/Fire/comments/1qc85k5/42_savings_in_2025/)
 
-**Author:** u/Global-Cash8316 | **Upvotes:** 125 | **Comments:** 38 | **Date:** 2026-01-13
+**Author:** u/cmberns | **Upvotes:** 703 | **Comments:** 77 | **Date:** 2026-01-13
 
-**Summary:** The author is struggling with burnout from a full-time job and side hustle, unsure if the extra income justifies the effort due to lack of profit tracking. The discussion emphasizes the need for financial clarity and self-assessment.
+**Summary:** The author, a federal employee, shares their achievement of saving $103K on a $230K salary in 2025 despite financial stress and job instability. They detail significant lifestyle changes and express pride in their financial progress.
 
 **Key Points:**
-- Author feels burnt out from excessive work
-- Lack of profit margin tracking for the side hustle
-- Uncertainty about continuing the side hustle
-- Need for financial clarity and self-assessment
-- Importance of tracking expenses and profits
+- Saved $103K on a $230K salary through strict budgeting and lifestyle changes.
+- Faced job instability and financial stress but managed to build a 10-month emergency fund.
+- Reduced expenses by cutting back on services like aftercare, summer camps, takeout, and online shopping.
+- Spouse's lack of understanding about the significance of the savings achievement.
+- Comments highlight curiosity about the author's job, congratulations on savings, and advice to balance saving with living life.
 
-**Discussion Highlights:** The discussion highlights the necessity of tracking financials and assessing personal well-being before making decisions about continuing the side hustle.
+**Discussion Highlights:** The discussion includes curiosity about the author's high-paying government job, congratulations on their savings achievement, and advice to maintain a balance between saving and enjoying life.
+
+---
+
+## 32. [37F need advice](https://reddit.com/r/Fire/comments/1qc3x9e/37f_need_advice/)
+
+**Author:** u/Tiny_Specialist123 | **Upvotes:** 106 | **Comments:** 89 | **Date:** 2026-01-13
+
+**Summary:** A 37-year-old FAANG employee with significant savings and investments is considering quitting due to burnout and wants to travel, possibly renting out their home and taking a low-stress job for health insurance.
+
+**Key Points:**
+- The user has substantial financial assets including $1.2M in company stock, $400k in ETFs, $450k in retirement accounts, and a home worth $800k with a $120k mortgage.
+- Monthly expenses are around $3k (excluding mortgage), and the user plans to travel and rent out their home.
+- The user is considering quitting their high-stress job and potentially taking a low-stress job for health insurance.
+- Comments suggest the user is financially ready to retire or take a break, with some recommending a gradual transition.
+
+**Discussion Highlights:** The consensus among commenters is that the user is financially prepared to quit their job, with some suggesting a gradual transition to a lower-stress job instead of immediate unemployment.
 
 ---
 
