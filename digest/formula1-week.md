@@ -6,134 +6,166 @@
 
 ---
 
-## 1. [[haasf1team] Bold and dynamic, Our latest challenger has arrived](https://reddit.com/r/formula1/comments/1qh3z04/haasf1team_bold_and_dynamic_our_latest_challenger/)
+## 1. [[Autosport] Helmut Marko expects the 2026 F1 World Champion to come from Mercedes, McLaren, Williams or Alpine](https://reddit.com/r/formula1/comments/1qhckvq/autosport_helmut_marko_expects_the_2026_f1_world/)
 
-**Author:** u/ElectionMoney3911 | **Upvotes:** 1740 | **Comments:** 89 | **Date:** 2026-01-19
+**Author:** u/Maximum-Room-3999 | **Upvotes:** 2291 | **Comments:** 343 | **Date:** 2026-01-19
 
-**Summary:** Haas F1 team unveiled their new car livery, receiving positive feedback for its unique design and Toyota Gazoo Racing vibe. The discussion highlighted observations about the car's features and historical context.
+**Summary:** Helmut Marko predicts that the 2026 F1 World Champion will come from Mercedes, McLaren, Williams, or Alpine. The Reddit community reacts with skepticism and humor, particularly about Alpine's inclusion.
 
 **Key Points:**
-- Unique sidepods noted in the livery reveal
-- Positive reception with comments praising the design
-- Observations about the front wheel size possibly being incorrect
+- Helmut Marko's prediction for 2026 F1 World Champion
+- Teams mentioned: Mercedes, McLaren, Williams, Alpine
+- Community skepticism about Alpine's inclusion
+- Nostalgia for McLaren vs Williams title battles
+- Enthusiasm for a potential Williams WDC
+
+**Discussion Highlights:** The discussion highlights skepticism about Alpine's inclusion in the prediction, nostalgia for past McLaren vs Williams battles, and enthusiasm for a potential Williams World Championship.
+
+---
+
+## 2. [[haasf1team] Bold and dynamic, Our latest challenger has arrived](https://reddit.com/r/formula1/comments/1qh3z04/haasf1team_bold_and_dynamic_our_latest_challenger/)
+
+**Author:** u/ElectionMoney3911 | **Upvotes:** 2470 | **Comments:** 101 | **Date:** 2026-01-19
+
+**Summary:** Haas F1 team unveiled their new car livery, featuring unique sidepods and a design reminiscent of Toyota Gazoo Racing. The reveal has garnered positive reactions from fans.
+
+**Key Points:**
+- Unique sidepod design noted in the livery reveal
+- Positive reception from fans with no immediate criticism
+- Observations about the front wheel size appearing larger than expected
 - Historical context mentioning past sponsorship issues
-- Comparison to Toyota Gazoo Racing design
+- Design comparisons to Toyota Gazoo Racing
 
-**Discussion Highlights:** The discussion was generally positive, with users appreciating the new design and noting specific details like the sidepods and wheel size. Some comments provided historical context and comparisons to other racing teams.
-
----
-
-## 2. [[The Race] When the Haas printer runs out of ink](https://reddit.com/r/formula1/comments/1qh3xmg/the_race_when_the_haas_printer_runs_out_of_ink/)
-
-**Author:** u/PrimeyXE | **Upvotes:** 4222 | **Comments:** 89 | **Date:** 2026-01-19
-
-**Summary:** The Reddit post discusses the Haas F1 team's livery changes, focusing on the removal of MoneyGram sponsorship and the shift to Toyota Gazoo Racing. The community generally approves of the new livery and the removal of the black color scheme.
-
-**Key Points:**
-- Community prefers non-black liveries
-- Shift from MoneyGram to Toyota Gazoo Racing sponsorship
-- General approval of the new livery
-- Surprise at the complete removal of MoneyGram sponsorship
-
-**Discussion Highlights:** The discussion highlights a consensus on the positive reception of the new livery and the removal of MoneyGram sponsorship, with some surprise at the complete removal of the latter.
+**Discussion Highlights:** The discussion highlights a generally positive reception of the new livery, with fans appreciating the design and noting its unique features. Some technical observations about wheel sizes were made, and historical context was provided regarding the team's past sponsorship challenges.
 
 ---
 
-## 3. [TGR Haas’s 2026 VF-26](https://reddit.com/r/formula1/comments/1qh3isr/tgr_haass_2026_vf26/)
+## 3. [[The Race] When the Haas printer runs out of ink](https://reddit.com/r/formula1/comments/1qh3xmg/the_race_when_the_haas_printer_runs_out_of_ink/)
 
-**Author:** u/FerrariStrategisttt | **Upvotes:** 11611 | **Comments:** 495 | **Date:** 2026-01-19
+**Author:** u/PrimeyXE | **Upvotes:** 5981 | **Comments:** 108 | **Date:** 2026-01-19
 
-**Summary:** The Reddit post showcases the TGR Haas’s 2026 VF-26 car, which has received praise for its glossy paint, clean design, and visible rims. Commenters express admiration for the car's aesthetic appeal and humorously suggest that Ferrari take note of the logo placement.
+**Summary:** The Reddit post discusses the Haas F1 team's livery changes, with comments highlighting reactions to the new design and sponsor updates.
 
 **Key Points:**
-- The car features a glossy paint and clean design.
-- Visible rims are a notable feature.
-- Commenters appreciate the refreshing livery.
-- Interest in obtaining a scale model of the car.
-- Humorous suggestion about Ferrari's logo placement.
+- The Haas livery has undergone changes, possibly due to sponsor updates.
+- Community reactions include mixed opinions on the new design and sponsor placements.
+- MoneyGram appears to have been replaced by Toyota Gazoo Racing as a major sponsor.
+- Some users appreciate the new livery, while others express surprise at the sponsor changes.
 
-**Discussion Highlights:** The discussion highlights a consensus on the car's attractive design, with specific mentions of the glossy paint, visible rims, and overall clean aesthetic. There is also a lighthearted comment about Ferrari's logo placement.
+**Discussion Highlights:** The discussion highlights a general appreciation for the new livery design, with specific mentions of the replacement of MoneyGram by Toyota Gazoo Racing as a notable change.
 
 ---
 
-## 4. [Audi F1 team revealed its 2026 collection](https://reddit.com/r/formula1/comments/1qh1b60/audi_f1_team_revealed_its_2026_collection/)
+## 4. [TGR Haas’s 2026 VF-26](https://reddit.com/r/formula1/comments/1qh3isr/tgr_haass_2026_vf26/)
 
-**Author:** u/Fast-Bumblebee-2108 | **Upvotes:** 1839 | **Comments:** 161 | **Date:** 2026-01-19
+**Author:** u/FerrariStrategisttt | **Upvotes:** 14172 | **Comments:** 560 | **Date:** 2026-01-19
 
-**Summary:** Audi F1 team revealed its 2026 collection, featuring a clean and understated design that users appreciate for its wearability and minimalist branding.
-
-**Key Points:**
-- Audi F1 team revealed its 2026 collection
-- Design is clean and understated
-- Users appreciate the wearability and minimalist branding
-- Positive consensus on the design
-
-**Discussion Highlights:** Users generally like the design for its clean look and practicality, with comments highlighting its wearability and alignment with Audi's brand aesthetic.
+**Summary:** The Reddit post showcases the TGR Haas’s 2026 VF-26 car, which has received positive feedback for its glossy paint and overall design. Users are particularly impressed with the visible rims and the clean livery. Key points include the appealing glossy paint job, the highlight of visible rims, the clean and refreshing livery, excitement about scale models, and the effective incorporation of large logos. The discussion is overwhelmingly positive, with users praising the car's aesthetics, particularly the glossy paint and visible rims, and showing excitement about scale models and appreciation for the clean livery design.
 
 ---
 
-## 5. [Nico Hülkenberg’s helmet for the 2026 season](https://reddit.com/r/formula1/comments/1qggedn/nico_hülkenbergs_helmet_for_the_2026_season/)
+## 5. [[The Race] Aston Martin's F1 safety car deal ends](https://reddit.com/r/formula1/comments/1qh2h8d/the_race_aston_martins_f1_safety_car_deal_ends/)
 
-**Author:** u/ICumCoffee | **Upvotes:** 5957 | **Comments:** 188 | **Date:** 2026-01-18
+**Author:** u/krzysiek_aleks | **Upvotes:** 1613 | **Comments:** 291 | **Date:** 2026-01-19
 
-**Summary:** The Reddit post discusses Nico Hülkenberg’s helmet design for the 2026 Formula 1 season, highlighting its sponsor logos and the excitement around Audi's entry into F1. The comments reflect appreciation for the design and comparisons with other teams.
+**Summary:** Aston Martin's deal to provide the F1 safety car has ended, leading to discussions about the return of Mercedes as the safety car provider and humorous suggestions for alternative vehicles.
 
 **Key Points:**
-- The helmet features a significant number of sponsor logos.
-- Audi's entry into F1 is met with excitement and enthusiasm.
+- Aston Martin's F1 safety car deal has concluded
+- Mercedes is expected to resume as the safety car provider
+- Community suggestions include using a Volkswagen Golf Variant or local taxis as safety cars
+- The previous Mercedes safety car was the AMG GT Black Series, not the current model
+
+**Discussion Highlights:** The discussion highlights a mix of nostalgia for the Mercedes safety car and playful suggestions for unconventional alternatives, with a general consensus that Mercedes will likely return as the official safety car provider.
+
+---
+
+## 6. [Audi F1 team revealed its 2026 collection](https://reddit.com/r/formula1/comments/1qh1b60/audi_f1_team_revealed_its_2026_collection/)
+
+**Author:** u/Fast-Bumblebee-2108 | **Upvotes:** 2735 | **Comments:** 204 | **Date:** 2026-01-19
+
+**Summary:** Audi F1 team revealed its 2026 collection, which received positive feedback for its wearable and understated design compared to previous seasons.
+
+**Key Points:**
+- The collection is considered wearable for day-to-day life.
+- The design features less distracting logos and colors compared to other teams like Red Bull.
+- The understated and clean look aligns with Audi's brand identity.
+- The design is appreciated for not being overly colorful or sponsor-heavy.
+
+**Discussion Highlights:** The discussion highlights a general consensus that the collection's design is clean, understated, and more wearable compared to previous seasons, with many appreciating its alignment with Audi's brand identity.
+
+---
+
+## 7. [In April 2019, McLaren had a very short-lived Spanish duo.](https://reddit.com/r/formula1/comments/1qh041x/in_april_2019_mclaren_had_a_very_shortlived/)
+
+**Author:** u/UserWithoutDoritos | **Upvotes:** 1653 | **Comments:** 38 | **Date:** 2026-01-19
+
+**Summary:** In April 2019, McLaren briefly had a Spanish driver lineup, which sparked discussions about Alonso's potential return and the strengths of the duo.
+
+**Key Points:**
+- Alonso was already considering a return to F1 in 2019.
+- The duo of Alonso and Sainz could have been a strong lineup.
+- Sainz is skilled at car development and consistent performance.
+- Alonso is adept at extracting maximum performance from a car.
+
+**Discussion Highlights:** The discussion highlights the potential of the Spanish duo and speculates on alternate scenarios where Alonso did not leave F1 in 2018.
+
+---
+
+## 8. [Nico Hülkenberg’s helmet for the 2026 season](https://reddit.com/r/formula1/comments/1qggedn/nico_hülkenbergs_helmet_for_the_2026_season/)
+
+**Author:** u/ICumCoffee | **Upvotes:** 6133 | **Comments:** 193 | **Date:** 2026-01-18
+
+**Summary:** The Reddit post discusses Nico Hülkenberg’s helmet design for the 2026 F1 season, highlighting its sponsor-heavy design and the excitement around Audi's entry into Formula 1.
+
+**Key Points:**
+- The helmet features a large number of sponsor logos.
+- The design is described as elegant and sophisticated.
+- There is significant excitement about Audi's involvement in F1.
 - Hülkenberg's helmet designs are consistently praised.
-- Comparisons are made between Audi and other teams like Kick Sauber.
-- The design is described as elegant and well-received.
+- Audi's presence is seen as a positive change compared to Kick Sauber.
 
-**Discussion Highlights:** The discussion highlights the excitement around Audi's involvement in F1 and the appreciation for Hülkenberg's helmet designs. There is a consensus that the helmet is well-designed and features a notable amount of sponsor logos.
+**Discussion Highlights:** The discussion highlights a positive reception of Hülkenberg's helmet design, with particular emphasis on the excitement around Audi's entry into Formula 1 and the perceived improvement over previous sponsorships.
 
 ---
 
-## 6. [If only they could reduce the weight and size of these new cars, otherwise these new regs are on point](https://reddit.com/r/formula1/comments/1qgestq/if_only_they_could_reduce_the_weight_and_size_of/)
+## 9. [The added bright blue we saw in the Red Bull unveiling is a bit underwhelming in person](https://reddit.com/r/formula1/comments/1qgbms9/the_added_bright_blue_we_saw_in_the_red_bull/)
 
-**Author:** u/Initial_Umpire_9927 | **Upvotes:** 1408 | **Comments:** 215 | **Date:** 2026-01-18
+**Author:** u/Crafty_Substance_954 | **Upvotes:** 2796 | **Comments:** 151 | **Date:** 2026-01-18
 
-**Summary:** The Reddit post discusses the weight and size of new F1 cars, with users expressing nostalgia for older models from 2004-2008. The discussion highlights a preference for the design and aesthetics of past F1 cars, while acknowledging the advancements in safety features like the halo.
+**Summary:** The Reddit post discusses the underwhelming appearance of the bright blue color on the Red Bull car in person, with comments suggesting it may look better under natural lighting or on TV. Some users compare it to past livery issues and express hope for improvements.
 
 **Key Points:**
-- Nostalgia for F1 cars from 2004-2008
-- Criticism of the weight and size of new F1 cars
-- Mixed opinions on the halo safety feature
-- Preference for the design of older F1 cars
-- Acknowledgment of technological advancements in modern F1 cars
+- The bright blue color appears underwhelming in person.
+- The color may look better under natural lighting or on TV.
+- Comparisons to past livery issues are made.
+- Lighting plays a significant role in the appearance of the livery.
+- Some users express hope for improvements.
 
-**Discussion Highlights:** The discussion is marked by a sense of nostalgia, with many users expressing a preference for the design and aesthetics of F1 cars from the 2004-2008 era. There is a consensus that while modern cars have advanced safety features like the halo, their weight and size are seen as drawbacks. Some users humorously point out the absence of the halo in the posted image, indicating a mixed reception to this safety feature.
-
----
-
-## 7. [The added bright blue we saw in the Red Bull unveiling is a bit underwhelming in person](https://reddit.com/r/formula1/comments/1qgbms9/the_added_bright_blue_we_saw_in_the_red_bull/)
-
-**Author:** u/Crafty_Substance_954 | **Upvotes:** 2725 | **Comments:** 151 | **Date:** 2026-01-18
-
-**Summary:** The Red Bull livery's bright blue color appears underwhelming in person due to lighting conditions, but it is expected to look better under natural light or on TV cameras. Key points include the impact of lighting on the livery's appearance, expectations for better visibility in natural light or on TV, and a consensus that the current indoor lighting does not showcase the color effectively.
+**Discussion Highlights:** The discussion highlights that the bright blue color on the Red Bull car may not be as impressive in person as expected, but it could look better under different lighting conditions or on TV. Users also draw parallels to previous livery issues and express a desire for improvements.
 
 ---
 
-## 8. [Project Verstappen is already underway [autosport]](https://reddit.com/r/formula1/comments/1qg85ao/project_verstappen_is_already_underway_autosport/)
+## 10. [Project Verstappen is already underway [autosport]](https://reddit.com/r/formula1/comments/1qg85ao/project_verstappen_is_already_underway_autosport/)
 
-**Author:** u/Holytrishaw | **Upvotes:** 12305 | **Comments:** 226 | **Date:** 2026-01-18
+**Author:** u/Holytrishaw | **Upvotes:** 12483 | **Comments:** 226 | **Date:** 2026-01-18
 
-**Summary:** The Reddit post links to an article about 'Project Verstappen' and sparks discussions about Max Verstappen potentially training his child for racing, despite his public statements against it. The comments are a mix of humor and speculation about future racing careers.
+**Summary:** The Reddit post links to an article titled 'Project Verstappen is already underway' from autosport, sparking discussions about Max Verstappen's potential involvement in his child's future in racing. The comments speculate humorously and seriously about the child's future in Formula 1, despite Verstappen's stated disinterest in his child racing.
 
 **Key Points:**
-- Post links to an article titled 'Project Verstappen is already underway'
-- Discussion centers around Max Verstappen's potential involvement in training his child for racing
-- Humor and speculation dominate the comments, including jokes about future racing careers
-- References to Max Verstappen's past statements about not wanting his child to race
-- Top comments include playful scenarios and speculative future predictions
+- Speculation about Max Verstappen's child becoming a future racing driver
+- Humor about Verstappen's involvement in his child's racing career
+- References to Verstappen's stated disinterest in his child racing
+- Jokes about Verstappen's child being a future World Driver's Champion
+- Mentions of potential offers from teams like Mercedes
 
-**Discussion Highlights:** The discussion is lighthearted and speculative, with users joking about future racing scenarios and referencing Max Verstappen's past comments about his child's racing career.
+**Discussion Highlights:** The discussion is light-hearted and speculative, with a mix of humor and serious speculation about the future of Max Verstappen's child in racing. There is a consensus that despite Verstappen's stated disinterest, the community is already imagining his child's potential career in Formula 1.
 
 ---
 
-## 9. [Max admitted in a recent stream he shares the same building with Charles, Leclerc lives in another half of it](https://reddit.com/r/formula1/comments/1qg7p4f/max_admitted_in_a_recent_stream_he_shares_the/)
+## 11. [Max admitted in a recent stream he shares the same building with Charles, Leclerc lives in another half of it](https://reddit.com/r/formula1/comments/1qg7p4f/max_admitted_in_a_recent_stream_he_shares_the/)
 
-**Author:** u/KlutzyOcelot6831 | **Upvotes:** 7087 | **Comments:** 432 | **Date:** 2026-01-18
+**Author:** u/KlutzyOcelot6831 | **Upvotes:** 7115 | **Comments:** 436 | **Date:** 2026-01-18
 
 **Summary:** Max Verstappen admitted in a recent stream that he shares the same building with Charles Leclerc, who lives in another half of it. The post sparked humorous and imaginative discussions among Reddit users.
 
@@ -143,301 +175,284 @@
 - Users joked about a Le Mans start from their apartments and other creative scenarios.
 - The discussion highlights the lighthearted and imaginative nature of the F1 fan community.
 
-**Discussion Highlights:** The discussion was largely humorous, with users joking about the living arrangements and imagining creative scenarios involving the drivers. There was no serious consensus, but the post was well-received with over 7000 upvotes.
+**Discussion Highlights:** The discussion was largely humorous, with users joking about the living arrangements and imagining creative scenarios involving the drivers. There was no serious consensus, but the post was well-received with over 7,000 upvotes.
 
 ---
 
-## 10. [Met Nicholas Latifi last year in my B School](https://reddit.com/r/formula1/comments/1qg70ke/met_nicholas_latifi_last_year_in_my_b_school/)
+## 12. [Met Nicholas Latifi last year in my B School](https://reddit.com/r/formula1/comments/1qg70ke/met_nicholas_latifi_last_year_in_my_b_school/)
 
-**Author:** u/shauryadevil | **Upvotes:** 4010 | **Comments:** 80 | **Date:** 2026-01-18
+**Author:** u/shauryadevil | **Upvotes:** 4050 | **Comments:** 81 | **Date:** 2026-01-18
 
-**Summary:** The author met Nicholas Latifi during their MBA studies in London, where Latifi shared insights about his F1 career and post-retirement plans. The post highlights Latifi's friendly demeanor and includes humorous references to his role in the 2021 Abu Dhabi Grand Prix.
+**Summary:** The post describes a meeting with Nicholas Latifi, a former F1 driver, during his MBA studies at a Business School in London. The author shares their experience in a Sports Management elective with Latifi and mentions a humorous interaction about the Abu Dhabi crash. The comments highlight his height, humorous situations, and general positive sentiment towards Latifi.
 
 **Key Points:**
-- Latifi was pursuing an MBA after retiring from F1.
-- He was described as a friendly and approachable person.
-- The author thanked Latifi for his role in the 2021 Abu Dhabi Grand Prix.
-- Comments humorously discussed Latifi's height and unexpected presence in an MBA class.
-- The community expressed positive sentiments about Latifi's post-F1 life.
+- Meeting Nicholas Latifi in a Business School
+- Latifi pursuing an MBA after retiring from F1
+- Author's experience in a Sports Management elective with Latifi
+- Humorous interaction about the Abu Dhabi crash
+- Positive sentiment and humorous comments in the discussion
 
-**Discussion Highlights:** The discussion was light-hearted, with users joking about Latifi's height and the surreal experience of seeing him in an MBA class. Many comments expressed happiness for Latifi's post-F1 endeavors and shared amusing anecdotes about encounters with him.
+**Discussion Highlights:** The discussion includes humorous comments about Latifi's height and unexpected encounters with him. There is a general positive sentiment towards Latifi, with comments highlighting his presence in various settings and the amusement it brings.
 
 ---
 
-## 11. [Bottas on his future career (Instagram)](https://reddit.com/r/formula1/comments/1qg2jn0/bottas_on_his_future_career_instagram/)
+## 13. [Bottas on his future career (Instagram)](https://reddit.com/r/formula1/comments/1qg2jn0/bottas_on_his_future_career_instagram/)
 
-**Author:** u/moop-doop | **Upvotes:** 4597 | **Comments:** 80 | **Date:** 2026-01-18
+**Author:** u/moop-doop | **Upvotes:** 4652 | **Comments:** 80 | **Date:** 2026-01-18
 
-**Summary:** The Reddit post links to an Instagram post by Valtteri Bottas about his future career, sparking a humorous discussion among users.
+**Summary:** The Reddit post links to an Instagram post by Valtteri Bottas about his future career, sparking humorous comments about his name and appearance.
 
 **Key Points:**
-- The post is a link to Bottas' Instagram with no additional text.
-- Comments include playful references like 'OnlyF1' and 'Valtteri Buttass'.
-- Discussion highlights Bottas' appearance and linguistic humor.
-- The tone is light-hearted and humorous.
+- Post is a link to Bottas's Instagram about his future career
+- Comments humorously reference Bottas's name and appearance
+- Top comments include playful jokes about 'Buttass' and his mullet
+- Discussion highlights the playful and lighthearted nature of the community
 
-**Discussion Highlights:** The discussion is characterized by playful jokes and humorous references, with no serious analysis of Bottas' career.
+**Discussion Highlights:** The discussion is lighthearted and humorous, with comments focusing on playful jokes about Bottas's name and appearance, reflecting a positive and engaging community interaction.
 
 ---
 
-## 12. [A photo that shows how kiwi Liam Lawson is](https://reddit.com/r/formula1/comments/1qg23rz/a_photo_that_shows_how_kiwi_liam_lawson_is/)
+## 14. [A photo that shows how kiwi Liam Lawson is](https://reddit.com/r/formula1/comments/1qg23rz/a_photo_that_shows_how_kiwi_liam_lawson_is/)
 
-**Author:** u/icecold27 | **Upvotes:** 7503 | **Comments:** 275 | **Date:** 2026-01-18
+**Author:** u/icecold27 | **Upvotes:** 7554 | **Comments:** 276 | **Date:** 2026-01-18
 
-**Summary:** The Reddit post highlights Liam Lawson's Kiwi identity through a photo, sparking humorous and cultural discussions among users.
+**Summary:** The Reddit post highlights Liam Lawson's Kiwi identity through a photo, with comments humorously referencing Kiwi stereotypes and cultural nuances.
 
 **Key Points:**
-- Liam Lawson's transformation from casual attire to a professional setting
-- Humorous comments about Kiwi cultural references like being barefoot and wearing 'togs'
-- Discussion about Kiwi slang and cultural norms
-- Positive reception with high upvotes and engagement
+- Liam Lawson's Kiwi identity is the focus of the post.
+- Comments humorously reference Kiwi stereotypes like being barefoot and wearing specific clothing.
+- Cultural references such as 'Togs, Togs, Togs, undies' are mentioned, resonating with Kiwi audiences.
+- The discussion is light-hearted and celebratory of Lawson's background.
 
-**Discussion Highlights:** The discussion is light-hearted and cultural, with users making jokes about Kiwi stereotypes and slang. There is a consensus on the humor and relatability of the cultural references.
+**Discussion Highlights:** The comments reflect a playful and positive sentiment towards Liam Lawson's Kiwi heritage, with users engaging in cultural humor and references.
 
 ---
 
-## 13. [For their 2026 promo video, Red Bull used number 1 in the car](https://reddit.com/r/formula1/comments/1qfgnl4/for_their_2026_promo_video_red_bull_used_number_1/)
+## 15. [For their 2026 promo video, Red Bull used number 1 in the car](https://reddit.com/r/formula1/comments/1qfgnl4/for_their_2026_promo_video_red_bull_used_number_1/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 1888 | **Comments:** 113 | **Date:** 2026-01-17
+**Author:** u/FewCollar227 | **Upvotes:** 1891 | **Comments:** 113 | **Date:** 2026-01-17
 
-**Summary:** Red Bull's 2026 promo video features the number 1 on their car, sparking discussions about the design and potential driver changes.
+**Summary:** Red Bull's 2026 promo video features the number 1 on their car, sparking discussions about its design and potential implications. The community shares mixed opinions and observations about the car's details and livery.
 
 **Key Points:**
-- The number 1 on the car is a focal point of the promo video.
-- Observations about the number format and livery design.
-- Speculation about Norris potentially joining Red Bull.
-- Discussion on the varying sidepod intakes in different images.
+- The number 1 on the car is a focal point, with some noting it resembles 'ユ'.
+- Observations about varying sidepod intakes in different images of the RB22.
+- Mixed reactions to the new livery and number format.
+- Humorous speculation about Norris joining Red Bull.
 
-**Discussion Highlights:** The community is engaged in discussions about the car's design elements, particularly the number format and livery, with some speculative remarks about driver changes.
+**Discussion Highlights:** The discussion highlights a mix of technical observations, personal opinions, and humor, with a focus on the car's design details and the significance of the number 1.
 
 ---
 
-## 14. [Instagram profile pictures of active drivers](https://reddit.com/r/formula1/comments/1qffyep/instagram_profile_pictures_of_active_drivers/)
+## 16. [Instagram profile pictures of active drivers](https://reddit.com/r/formula1/comments/1qffyep/instagram_profile_pictures_of_active_drivers/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 4427 | **Comments:** 262 | **Date:** 2026-01-17
+**Author:** u/FewCollar227 | **Upvotes:** 4448 | **Comments:** 263 | **Date:** 2026-01-17
 
-**Summary:** The Reddit post discusses the Instagram profile pictures of active F1 drivers, highlighting their diverse styles and personalities. The comments reflect on the uniqueness of each driver's profile picture, with particular attention to Valtteri Bottas' casual vibe and other drivers' professional or personal choices.
+**Summary:** The Reddit post shares Instagram profile pictures of active F1 drivers, sparking discussions about their varied styles and personalities. Comments highlight the contrast between professional and casual photos, with specific mentions of drivers like Valtteri Bottas and Lewis Hamilton.
 
 **Key Points:**
-- Valtteri Bottas' profile picture stands out for its casual vibe
-- Some drivers use professional or modeling photos
-- Colapinto is still using a Williams outfit in his profile picture
-- Lewis Hamilton's absence from the discussion is noted
-- George Russell's profile picture includes Lewis Hamilton in the background
+- Profile pictures range from professional to casual, with Valtteri Bottas' vibe standing out.
+- Franco Colapinto is noted for still using a Williams outfit in his profile picture.
+- Lewis Hamilton's absence from the discussion evokes nostalgia.
+- George Russell's profile picture includes Lewis Hamilton in the background.
 
-**Discussion Highlights:** The discussion highlights the diversity in the drivers' profile pictures, with a consensus that Valtteri Bottas' casual approach is particularly notable. There is also a humorous observation about Colapinto's profile picture and a touch of nostalgia regarding Lewis Hamilton's absence.
+**Discussion Highlights:** The community appreciates the diversity in the drivers' profile pictures, with humor and nostalgia driving the conversation. Valtteri Bottas' casual vibe and George Russell's subtle nod to Hamilton are particularly noted.
 
 ---
 
-## 15. [[OT] [Autosport] Mercedes-AMG has made an official request to the NLS to postpone the opening race of the championship to boost Max Verstappen's chances of making a Nurburgring 24 hours appearance](https://reddit.com/r/formula1/comments/1qffr2p/ot_autosport_mercedesamg_has_made_an_official/)
+## 17. [[OT] [Autosport] Mercedes-AMG has made an official request to the NLS to postpone the opening race of the championship to boost Max Verstappen's chances of making a Nurburgring 24 hours appearance](https://reddit.com/r/formula1/comments/1qffr2p/ot_autosport_mercedesamg_has_made_an_official/)
 
-**Author:** u/FerrariStrategisttt | **Upvotes:** 10269 | **Comments:** 390 | **Date:** 2026-01-17
+**Author:** u/FerrariStrategisttt | **Upvotes:** 10286 | **Comments:** 390 | **Date:** 2026-01-17
 
-**Summary:** Mercedes-AMG has officially requested to postpone the opening race of the NLS championship to facilitate Max Verstappen's participation in the Nurburgring 24 hours event. The request was made by Mercedes-Benz boss Ola Kallenius and motorsport chief Toto Wolff, and it currently clashes with the Chinese Grand Prix.
+**Summary:** Mercedes-AMG has officially requested to postpone the opening race of the NLS championship to allow Max Verstappen to participate in the Nurburgring 24 hours event. This request has sparked discussions about the potential impact on viewership and the logistics of accommodating a high-profile driver.
 
 **Key Points:**
-- Mercedes-AMG requested postponement of NLS opening race
-- Request aims to allow Max Verstappen to participate in Nurburgring 24 hours
-- Mercedes-Benz boss Ola Kallenius and Toto Wolff lobbied for the postponement
-- Current clash with the Chinese Grand Prix
-- Potential significant increase in viewership if Max Verstappen races
+- Mercedes-AMG's request to postpone the NLS opening race
+- Potential clash with the Chinese Grand Prix
+- Expected increase in viewership if Max Verstappen participates
+- Discussion on making exceptions for top drivers
+- Mention of German logistics and scheduling challenges
 
-**Discussion Highlights:** The discussion highlights the significance of Max Verstappen's potential participation, with comments noting the potential doubling of viewership and the irony of postponing an entire race for the best driver in the world. There is also mention of the lobbying efforts by Mercedes-Benz executives.
+**Discussion Highlights:** The discussion highlights the significant interest in Max Verstappen's potential participation, with comments emphasizing the expected boost in viewership and the logistical challenges of rescheduling a major race. There is also a mix of humor and serious debate about the implications of making exceptions for top drivers.
 
 ---
 
-## 16. [Autoracer: Alpine A526 has already hit the minimum weight requirement of 768 kg.](https://reddit.com/r/formula1/comments/1qfbh0x/autoracer_alpine_a526_has_already_hit_the_minimum/)
+## 18. [Autoracer: Alpine A526 has already hit the minimum weight requirement of 768 kg.](https://reddit.com/r/formula1/comments/1qfbh0x/autoracer_alpine_a526_has_already_hit_the_minimum/)
 
 **Author:** u/ChaithuBB766 | **Upvotes:** 1649 | **Comments:** 171 | **Date:** 2026-01-17
 
-**Summary:** The Reddit post discusses Alpine's A526 car hitting the minimum weight requirement, sparking a conversation about the team's potential performance and challenges. Users express skepticism but also acknowledge possible improvements due to engine changes.
+**Summary:** The Reddit post discusses Alpine's A526 car hitting the minimum weight requirement, with mixed reactions from the community about the team's potential performance improvements and lingering skepticism.
 
 **Key Points:**
 - Alpine A526 has met the minimum weight requirement of 768 kg.
-- Discussion centers on Alpine's engine changes and historical midfield performance.
-- Skepticism about Alpine's ability to maintain strong performance throughout the season.
-- Comparisons to Alfa Romeo's 2022 season, suggesting a potential early-season strength followed by decline.
+- Skepticism about Alpine's performance due to past inconsistencies.
+- Engine improvements could boost Alpine's competitiveness.
+- Historical context of Enstone's midfield performance despite engine disadvantages.
+- Comparisons to Alfa Romeo's 2022 season trajectory.
 
-**Discussion Highlights:** The discussion highlights a mix of skepticism and cautious optimism about Alpine's performance. Key themes include the impact of engine improvements, historical midfield consistency despite a weak engine, and concerns about sustaining early-season success.
+**Discussion Highlights:** The discussion highlights a mix of cautious optimism and skepticism. While some users acknowledge potential improvements due to engine upgrades, others remain doubtful based on Alpine's past performance and organizational changes. There's a consensus that Alpine could start strong but may struggle as other teams catch up.
 
 ---
 
-## 17. [Red Bull Racing Pitwall 2026](https://reddit.com/r/formula1/comments/1qfasek/red_bull_racing_pitwall_2026/)
+## 19. [Red Bull Racing Pitwall 2026](https://reddit.com/r/formula1/comments/1qfasek/red_bull_racing_pitwall_2026/)
 
-**Author:** u/rishabh2996 | **Upvotes:** 6328 | **Comments:** 262 | **Date:** 2026-01-17
+**Author:** u/rishabh2996 | **Upvotes:** 6353 | **Comments:** 263 | **Date:** 2026-01-17
 
-**Summary:** The Reddit post discusses the Red Bull Racing Pitwall for 2026, highlighting the team's operational excellence and key personnel. The comments focus on the pitwall's composition, team members, and overall sentiment towards Red Bull's performance.
+**Summary:** The Reddit post showcases the Red Bull Racing Pitwall for 2026, highlighting the team's operational excellence and introducing key team members. The discussion reflects appreciation for the team's performance and the visibility of its members.
 
 **Key Points:**
-- The post is a link with no text content, focusing on the Red Bull Racing Pitwall 2026.
-- Top comments highlight the pitwall's composition and key team members like Hannah Schmitz and Stephen Knowles.
-- Discussion emphasizes Red Bull's operational superiority in Formula 1.
-- Comments also note the inclusion of more team members in the spotlight, not just the team principal.
-- General sentiment is positive, with appreciation for the team's performance and transparency.
+- Red Bull Racing Pitwall 2026 is the focus of the post.
+- The team is praised for its operational excellence.
+- Key team members are identified in the comments.
+- Positive sentiment towards the team's visibility and performance.
 
-**Discussion Highlights:** The discussion highlights the operational excellence of Red Bull Racing, with specific mentions of key team members and their roles. There is a consensus on Red Bull's superiority in pit operations, though some comments acknowledge occasional mistakes. The inclusion of more team members in the spotlight is seen as a positive step.
+**Discussion Highlights:** The discussion highlights the team's operational superiority, with comments appreciating the visibility of team members and the overall performance of Red Bull Racing.
 
 ---
 
-## 18. [Red bull name first engine 'DM01' in tribute to Mr Dietrich Mateschitz](https://reddit.com/r/formula1/comments/1qf18xh/red_bull_name_first_engine_dm01_in_tribute_to_mr/)
+## 20. [Red bull name first engine 'DM01' in tribute to Mr Dietrich Mateschitz](https://reddit.com/r/formula1/comments/1qf18xh/red_bull_name_first_engine_dm01_in_tribute_to_mr/)
 
-**Author:** u/Maximum-Room-3999 | **Upvotes:** 1852 | **Comments:** 82 | **Date:** 2026-01-16
+**Author:** u/Maximum-Room-3999 | **Upvotes:** 1851 | **Comments:** 82 | **Date:** 2026-01-16
 
-**Summary:** Red Bull named their first engine 'DM01' as a tribute to Dietrich Mateschitz. The community reacted positively, with some humorous remarks and appreciation for the gesture.
+**Summary:** Red Bull named their first engine 'DM01' as a tribute to Dietrich Mateschitz. The post includes a link with no text content, and the discussion features various interpretations and reactions from users.
 
 **Key Points:**
-- Red Bull named their first engine 'DM01' in tribute to Dietrich Mateschitz
-- Community reactions were generally positive and appreciative
-- Humorous comments included references to Detroit Michigan and Depeche Mode
-- Some users made light-hearted jokes about engine reliability and personal preferences
+- Red Bull's first engine is named 'DM01' in tribute to Dietrich Mateschitz.
+- The post is a link with no additional text content.
+- Top comments include humorous interpretations, appreciation for the tribute, and references to music and other cultural elements.
+- Some users expressed hope that the engine performs well, while others made light-hearted jokes about potential failures.
 
-**Discussion Highlights:** The discussion highlighted a mix of appreciation for the tribute, humorous remarks, and light-hearted jokes. The general consensus was positive, with users finding the gesture meaningful and cool.
+**Discussion Highlights:** The discussion highlights a mix of appreciation for the tribute, humorous interpretations, and light-hearted jokes about the engine's performance. There is no clear consensus, but the overall tone is positive and engaging.
 
 ---
 
-## 19. [“max, important question: how did you exactly convince daniel to hand over number 3?”
+## 21. [“max, important question: how did you exactly convince daniel to hand over number 3?”
 
 max: “a few drinks together, yeah, that always helps.”](https://reddit.com/r/formula1/comments/1qexpv3/max_important_question_how_did_you_exactly/)
 
-**Author:** u/One_Impressionism | **Upvotes:** 9562 | **Comments:** 192 | **Date:** 2026-01-16
+**Author:** u/One_Impressionism | **Upvotes:** 9569 | **Comments:** 192 | **Date:** 2026-01-16
 
-**Summary:** Max Verstappen humorously revealed that he convinced Daniel Ricciardo to hand over the number 3 with 'a few drinks together.' The post sparked discussions about the significance of the number and Ricciardo's future in F1.
-
-**Key Points:**
-- Max Verstappen used a casual approach to convince Daniel Ricciardo to give up the number 3.
-- The community speculated on Ricciardo's future and his potential return to F1.
-- A Dutch saying about drinks being a social lubricant was referenced in the comments.
-- Questions arose about Ricciardo's claim to the number 3 after leaving F1.
-
-**Discussion Highlights:** The discussion highlighted the lighthearted nature of the interaction between Verstappen and Ricciardo, with comments focusing on cultural references and Ricciardo's future in the sport.
+**Summary:** The Reddit post discusses Max Verstappen's humorous response about convincing Daniel Ricciardo to hand over the number 3 in Formula 1, involving a few drinks. The comments highlight the playful nature of the interaction and speculate on Ricciardo's future use of the number 33. Key points include: Max Verstappen mentioned using drinks to convince Daniel Ricciardo to hand over number 3, the interaction is seen as humorous and playful, speculation about Daniel Ricciardo potentially using the number 33 in the future, and discussion on whether Ricciardo still had a claim to the number 3. The discussion is light-hearted, with a consensus that the interaction between Verstappen and Ricciardo is friendly and humorous. There is also speculation about Ricciardo's future number choice in Formula 1.
 
 ---
 
-## 20. [Max Verstappen and Isack Hadjar in 2019 vs 2026](https://reddit.com/r/formula1/comments/1qepv9i/max_verstappen_and_isack_hadjar_in_2019_vs_2026/)
+## 22. [Max Verstappen and Isack Hadjar in 2019 vs 2026](https://reddit.com/r/formula1/comments/1qepv9i/max_verstappen_and_isack_hadjar_in_2019_vs_2026/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 5830 | **Comments:** 66 | **Date:** 2026-01-16
+**Author:** u/FewCollar227 | **Upvotes:** 5841 | **Comments:** 66 | **Date:** 2026-01-16
 
-**Summary:** The post compares Max Verstappen and Isack Hadjar in 2019 versus 2026, highlighting the passage of time and the contrast in their careers. The discussion focuses on Isack Hadjar's growth, the age difference, and the perception of Verstappen as a young prodigy who is now a veteran at 28.
+**Summary:** The Reddit post compares Max Verstappen and Isack Hadjar in 2019 versus 2026, highlighting the passage of time and the generational shift in Formula 1. The discussion focuses on the age difference and the impact of Verstappen's long career on newer drivers.
 
 **Key Points:**
 - Isack Hadjar's height has not changed in 7 years
-- Max Verstappen was a young prodigy when Isack was 10 years old
-- Isack Hadjar is now racing alongside Verstappen, who is still only 28
-- The discussion highlights the rapid passage of time in Formula 1
+- Newer drivers grew up watching Max Verstappen as a young prodigy
+- Verstappen is still only 28 years old despite his long career
+- Isack Hadjar was 10 years old when Verstappen was a rookie
+- Positive sentiment towards Isack Hadjar as a good kid
 
-**Discussion Highlights:** The discussion emphasizes the contrast between Verstappen's early career and his current status as a veteran, with Hadjar representing the new generation of drivers who grew up watching Verstappen race.
+**Discussion Highlights:** The discussion highlights the generational shift in Formula 1, with newer drivers like Isack Hadjar entering the sport after growing up watching Max Verstappen. The comments also note the relatively young age of Verstappen despite his long career and express positive sentiments towards Hadjar.
 
 ---
 
-## 21. [Some slightly higher quality images of the Cadillac](https://reddit.com/r/formula1/comments/1qemkb3/some_slightly_higher_quality_images_of_the/)
+## 23. [Some slightly higher quality images of the Cadillac](https://reddit.com/r/formula1/comments/1qemkb3/some_slightly_higher_quality_images_of_the/)
 
-**Author:** u/mac_attack09 | **Upvotes:** 5401 | **Comments:** 335 | **Date:** 2026-01-16
+**Author:** u/mac_attack09 | **Upvotes:** 5423 | **Comments:** 338 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post features higher quality images of the Cadillac Formula 1 car, sparking discussions about its design and development stage.
+**Summary:** The Reddit post shares higher quality images of the Cadillac Formula 1 car, sparking discussions about its aggressive new design and early development stage.
 
 **Key Points:**
-- The new regulations make the car look aggressive.
-- The large rear wheels give it a dragster-like appearance.
-- The images reveal more details compared to previous low-quality ones.
-- Both the Cadillac and Audi cars appear to be in early development stages.
+- The new regulations give the car a mean, aggressive look.
+- The large rear wheels make the car resemble a dragster.
+- The images show more details compared to previous low-quality leaks.
+- Both the Cadillac and Audi cars appear to be in early development, with final bodywork likely different for the Bahrain tests.
 
-**Discussion Highlights:** The community appreciates the improved image quality and notes the car's aggressive design, though some believe the final version may differ significantly.
+**Discussion Highlights:** The community consensus highlights excitement about the car's aggressive design under new regulations, while noting that the current images likely represent early development stages with significant changes expected before official testing.
 
 ---
 
-## 22. [[Alex Albon] I guess we're stuck with each other now](https://reddit.com/r/formula1/comments/1qemiii/alex_albon_i_guess_were_stuck_with_each_other_now/)
+## 24. [[Alex Albon] I guess we're stuck with each other now](https://reddit.com/r/formula1/comments/1qemiii/alex_albon_i_guess_were_stuck_with_each_other_now/)
 
-**Author:** u/FerrariStrategisttt | **Upvotes:** 24534 | **Comments:** 303 | **Date:** 2026-01-16
+**Author:** u/FerrariStrategisttt | **Upvotes:** 24556 | **Comments:** 303 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post humorously suggests that Alex Albon and another driver are 'stuck' together, with comments adding playful banter and highlighting their positive relationship.
+**Summary:** The Reddit post celebrates Alex Albon's new contract with Williams Racing, as indicated by the title and positive comments from the community.
 
 **Key Points:**
-- The post title humorously implies a close or unavoidable relationship between Alex Albon and another driver.
-- Comments reference other drivers like Leclerc and Alonso, adding to the playful tone.
-- The discussion highlights a wholesome and positive relationship between the drivers.
-- The community reacts positively, congratulating the drivers.
+- Alex Albon has signed a new contract with Williams Racing
+- The community is supportive and celebratory
+- Comments highlight the positive relationship between Albon and his teammates
+- There is a humorous tone in some comments about future teammate dynamics
 
-**Discussion Highlights:** The discussion is lighthearted and positive, with comments emphasizing the wholesome nature of the drivers' relationship and adding humorous banter.
+**Discussion Highlights:** The discussion is overwhelmingly positive, with users congratulating Albon and expressing support for his continued presence in Formula 1. Some comments humorously speculate about future teammate interactions, while others emphasize the wholesome nature of Albon's relationships within the sport.
 
 ---
 
-## 23. [| Ferrari’s 2026 power unit has been successfully fired up. @Auto_Racer_it](https://reddit.com/r/formula1/comments/1qem0xz/ferraris_2026_power_unit_has_been_successfully/)
+## 25. [| Ferrari’s 2026 power unit has been successfully fired up. @Auto_Racer_it](https://reddit.com/r/formula1/comments/1qem0xz/ferraris_2026_power_unit_has_been_successfully/)
 
-**Author:** u/Un_known70 | **Upvotes:** 1674 | **Comments:** 95 | **Date:** 2026-01-16
+**Author:** u/Un_known70 | **Upvotes:** 1671 | **Comments:** 95 | **Date:** 2026-01-16
 
-**Summary:** Ferrari's 2026 power unit has been successfully fired up, with discussions comparing it to Cadillac's progress and expressing expectations for Ferrari's performance.
+**Summary:** Ferrari's 2026 power unit has been successfully fired up, with discussions comparing it to Cadillac's already operational unit. The post highlights both excitement and skepticism about Ferrari's future performance.
 
 **Key Points:**
 - Ferrari's 2026 power unit has been successfully fired up.
-- Comparisons made to Cadillac's progress on track.
-- Expectations and hopes for Ferrari's performance in the upcoming season.
-- Historical context of Ferrari's performance in Formula 1.
+- Cadillac's power unit is already operational on track.
+- Discussion includes comparisons between Ferrari and Cadillac.
+- Mixed sentiments about Ferrari's future performance and historical context.
 
-**Discussion Highlights:** The discussion highlights a comparison between Ferrari's progress and Cadillac's on-track performance, with a mix of optimism and skepticism about Ferrari's future success in Formula 1.
+**Discussion Highlights:** The discussion highlights a mix of excitement and skepticism, with comparisons to Cadillac's progress and reflections on Ferrari's historical performance in Formula 1.
 
 ---
 
-## 24. [Ferrari confirms Hamilton will have a new race engineer for 2026](https://reddit.com/r/formula1/comments/1qelyzz/ferrari_confirms_hamilton_will_have_a_new_race/)
+## 26. [Ferrari confirms Hamilton will have a new race engineer for 2026](https://reddit.com/r/formula1/comments/1qelyzz/ferrari_confirms_hamilton_will_have_a_new_race/)
 
-**Author:** u/kcollantine | **Upvotes:** 10298 | **Comments:** 594 | **Date:** 2026-01-16
+**Author:** u/kcollantine | **Upvotes:** 10306 | **Comments:** 597 | **Date:** 2026-01-16
 
-**Summary:** Ferrari has confirmed that Lewis Hamilton will have a new race engineer for the 2026 season, a change that was widely expected due to reported communication issues.
+**Summary:** Ferrari has confirmed that Lewis Hamilton will have a new race engineer for the 2026 season, following reported communication issues and lack of chemistry with his current engineer.
 
 **Key Points:**
-- The change is not surprising due to lack of chemistry between Hamilton and his current engineer.
-- There were communication issues during races, as highlighted by the top comments.
-- The community has mixed reactions, with some finding humor in the situation and others relieved by the change.
-- The new engineer is expected to improve communication but may not address underlying decision-making issues.
+- Ferrari confirms Hamilton will have a new race engineer for 2026
+- Lack of chemistry and communication issues cited as reasons
+- Change seen as necessary for better performance and decision-making
+- Mixed reactions from fans, with some expressing relief and others nostalgia
 
-**Discussion Highlights:** The consensus is that the change is necessary due to poor communication and slow decision-making, but there is also a sense of nostalgia or humor around the memes generated from the situation.
+**Discussion Highlights:** The discussion highlights a consensus that the change is necessary due to poor communication and slow decision-making during races. Fans expressed mixed reactions, with some relieved by the change and others nostalgic about the current setup.
 
 ---
 
-## 25. [First videos of the Cadillac (and Ferrari engine)](https://reddit.com/r/formula1/comments/1qelbm1/first_videos_of_the_cadillac_and_ferrari_engine/)
+## 27. [First videos of the Cadillac (and Ferrari engine)](https://reddit.com/r/formula1/comments/1qelbm1/first_videos_of_the_cadillac_and_ferrari_engine/)
 
-**Author:** u/Schlapfel9 | **Upvotes:** 2889 | **Comments:** 256 | **Date:** 2026-01-16
+**Author:** u/Schlapfel9 | **Upvotes:** 2901 | **Comments:** 256 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post discusses the first videos of the new Cadillac Formula 1 car, which features a Ferrari engine. The community's reactions focus on the car's sound and engine specifications.
+**Summary:** The Reddit post features a video of the Cadillac with a Ferrari engine in Formula 1, sparking discussions about the car's sound and performance. The community shares mixed opinions on the new engine sounds but generally agrees they are an improvement over previous models.
 
 **Key Points:**
 - The car is off throttle for most of the video.
-- There is disappointment about the lack of a 170hp 7.0L pushrod V8 engine.
-- The new cars are perceived to sound better than previous models.
-- The community is accepting the shift away from naturally aspirated V8/V10 engines.
-- There is hope for more turbo sound and higher engine revs with the removal of the MGU-H.
+- No traditional 170hp 7.0L pushrod V8 engine for Cadillac.
+- New cars are perceived to sound better than previous models.
+- Hope for more turbo sound and higher revs with the removal of the MGU-H.
 
-**Discussion Highlights:** The discussion highlights a mix of disappointment and acceptance regarding the new engine specifications and sound. While some users miss the classic V8/V10 engines, others appreciate the improved sound of the new cars and look forward to potential enhancements in turbo sound and engine performance.
+**Discussion Highlights:** The community consensus leans toward appreciating the new engine sounds, despite the shift away from traditional V8/V10 engines. There is optimism about the potential for improved turbo sounds and higher revs in the future.
 
 ---
 
-## 26. [[CadillacF1] The first lap of something bigger.](https://reddit.com/r/formula1/comments/1qel4p9/cadillacf1_the_first_lap_of_something_bigger/)
+## 28. [The (historic) liveries of Racing Bulls/Alpha Tauri/Toro Rosso](https://reddit.com/r/formula1/comments/1qegl08/the_historic_liveries_of_racing_bullsalpha/)
 
-**Author:** u/Schlapfel9 | **Upvotes:** 1582 | **Comments:** 102 | **Date:** 2026-01-16
+**Author:** u/Jorrie90 | **Upvotes:** 2106 | **Comments:** 130 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post discusses Cadillac's entry into Formula 1, with comments focusing on Ferrari's engine performance and Cadillac's goals for the season.
+**Summary:** The Reddit post discusses the historic liveries of Racing Bulls/Alpha Tauri/Toro Rosso in Formula 1, with users sharing their favorite designs and opinions on the team's visual identity over the years.
 
 **Key Points:**
-- Ferrari engine can do at least 1 lap confirmed
-- Rumors about Ferrari not being able to start their PU in the bin
-- Cadillac aims to come 10th or better this year
-- Checo's return is highlighted
-- The engine sounds different
+- The 2017-19 Toro Rosso livery is highly praised and considered one of the best ever.
+- The side profile of the new cars is appreciated for its aesthetic appeal.
+- The 2007 livery and the 2024 design are also highlighted as standout favorites.
+- AlphaTauri liveries are regarded as some of the best in F1 history, alongside Alfa Romeo Sauber.
+- David Coulthard's helmet design is noted as a nostalgic element.
 
-**Discussion Highlights:** The discussion highlights humor and speculation around Ferrari's engine performance and Cadillac's ambitions for the season, with a focus on their goal to finish 10th or better.
-
----
-
-## 27. [The (historic) liveries of Racing Bulls/Alpha Tauri/Toro Rosso](https://reddit.com/r/formula1/comments/1qegl08/the_historic_liveries_of_racing_bullsalpha/)
-
-**Author:** u/Jorrie90 | **Upvotes:** 2104 | **Comments:** 130 | **Date:** 2026-01-16
-
-**Summary:** The Reddit post discusses the historic liveries of Racing Bulls/Alpha Tauri/Toro Rosso in Formula 1, with users sharing their favorite designs and appreciating the aesthetics of various liveries over the years. Key points include the praise for the 2017-19 Toro Rosso livery, appreciation for the side profile of new cars, and mentions of the 2007 and 2024 liveries as favorites. The discussion highlights a consensus on the aesthetic appeal of certain liveries, particularly the 2017-19 Toro Rosso and the 2007 livery, with users also appreciating the design elements of newer cars and the historical significance of AlphaTauri liveries.
+**Discussion Highlights:** The discussion highlights a strong consensus on the visual appeal of the 2017-19 Toro Rosso livery, with additional appreciation for the 2007 and 2024 designs. Users also praise the side profile of the newer cars and acknowledge the historical significance of AlphaTauri's liveries in F1.
 
 ---
 
-## 28. [[Erik Van Haren] Red Bull has filled the key positions in the team around Max Verstappen again. He won't need to get used to the face of his new first mechanic, at least, because that's Jon Caller—the twin brother of Matt Caller, who has moved to Audi.](https://reddit.com/r/formula1/comments/1qeezsp/erik_van_haren_red_bull_has_filled_the_key/)
+## 29. [[Erik Van Haren] Red Bull has filled the key positions in the team around Max Verstappen again. He won't need to get used to the face of his new first mechanic, at least, because that's Jon Caller—the twin brother of Matt Caller, who has moved to Audi.](https://reddit.com/r/formula1/comments/1qeezsp/erik_van_haren_red_bull_has_filled_the_key/)
 
-**Author:** u/just_holdme | **Upvotes:** 3584 | **Comments:** 101 | **Date:** 2026-01-16
+**Author:** u/just_holdme | **Upvotes:** 3602 | **Comments:** 100 | **Date:** 2026-01-16
 
 **Summary:** Red Bull has appointed Jon Caller, the twin brother of Matt Caller, as Max Verstappen's new first mechanic, ensuring continuity and familiarity within the team.
 
@@ -445,357 +460,349 @@ max: “a few drinks together, yeah, that always helps.”](https://reddit.com/r
 - Jon Caller is the twin brother of Matt Caller, who moved to Audi.
 - The appointment ensures Max Verstappen won't need to adjust to a new mechanic.
 - The Reddit community humorously commented on the cloning-like situation with the twins.
-- The twins' similar appearances caused confusion during COVID when masks were mandatory.
-- Both Caller brothers are praised for their mechanical skills.
+- Both Caller brothers are praised for their excellence as mechanics.
+- There were playful speculations about future cloning of key team members like Adrian Newey.
 
-**Discussion Highlights:** The Reddit community reacted with humor, likening the situation to a cloning program, and shared anecdotes about the challenges of distinguishing the twins, especially during COVID. The consensus highlights the brothers' excellence as mechanics.
+**Discussion Highlights:** The discussion was light-hearted, with users joking about Red Bull's 'cloning program' and the challenges of distinguishing between the twin mechanics. The consensus was positive, highlighting the brothers' skills and the seamless transition for Verstappen.
 
 ---
 
-## 29. [Before Anyone Gets Too Excited Analysing Launch Cars and Renders - Remember How Different the 2022 Launch Cars Were To Reality](https://reddit.com/r/formula1/comments/1qebbsq/before_anyone_gets_too_excited_analysing_launch/)
+## 30. [Before Anyone Gets Too Excited Analysing Launch Cars and Renders - Remember How Different the 2022 Launch Cars Were To Reality](https://reddit.com/r/formula1/comments/1qebbsq/before_anyone_gets_too_excited_analysing_launch/)
 
-**Author:** u/Stumpy493 | **Upvotes:** 1709 | **Comments:** 210 | **Date:** 2026-01-16
+**Author:** u/Stumpy493 | **Upvotes:** 1704 | **Comments:** 212 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post highlights the significant differences between the launch car renders and the actual cars in the 2022 Formula 1 season, using Haas as an example. It emphasizes that meaningful analysis should start from real-world testing rather than pre-season renders.
+**Summary:** The post highlights the significant differences between the 2022 Formula 1 launch car renders and the actual cars, emphasizing that little could be learned from the renders in terms of aerodynamics or mechanical concepts. The discussion includes humorous and critical comments about specific teams and their launch cars.
 
 **Key Points:**
 - Launch car renders often do not resemble the final cars.
-- The Haas car was a notable example of this discrepancy.
-- Meaningful analysis should begin with real-world testing.
-- The 2022 season saw several teams with significant differences between renders and actual cars.
-- The Haas car's render was particularly poor due to last-minute preparations.
+- Little can be learned from renders in terms of aerodynamics or mechanical concepts.
+- The Haas car was a notable example of a significant discrepancy between render and reality.
+- The discussion includes humorous and critical comments about specific teams and their launch cars.
+- The consensus is that analysis of designs should start from testing in reality.
 
-**Discussion Highlights:** The discussion consensus is that pre-season renders are often misleading and not indicative of the final car design. The Haas car was a prominent example, with its render being significantly different from the actual car used in testing and races. The community agrees that real-world testing provides more accurate insights into car performance and design.
+**Discussion Highlights:** The discussion includes humorous comments about the Haas car and its resemblance to the Russian flag, as well as critical remarks about the accuracy of launch car renders. The consensus is that analysis of designs should start from testing in reality.
 
 ---
 
-## 30. [Q: "Do you wanna spin to show us the whole kit? ". Max :" do u wanna see my a**?" :) fans :"oohh"](https://reddit.com/r/formula1/comments/1qea5wz/q_do_you_wanna_spin_to_show_us_the_whole_kit_max/)
+## 31. [Q: "Do you wanna spin to show us the whole kit? ". Max :" do u wanna see my a**?" :) fans :"oohh"](https://reddit.com/r/formula1/comments/1qea5wz/q_do_you_wanna_spin_to_show_us_the_whole_kit_max/)
 
 **Author:** u/Luffy710j | **Upvotes:** 2371 | **Comments:** 105 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post highlights a playful interaction between Max Verstappen and fans, where Max humorously responds to a request to see his car's kit. The community reacts positively, appreciating Max's wit and energy.
+**Summary:** The Reddit post highlights a playful interaction between Max Verstappen and fans, where Max humorously responds to a request to see his car's 'whole kit' by asking if they want to see his 'a**'. The fans react with excitement and amusement, showcasing Max's engaging personality and the lighthearted atmosphere in the Formula 1 community.
 
 **Key Points:**
-- Max Verstappen's humorous response to fans
-- Positive community reaction to Max's wit
-- Appreciation for Max's media energy
-- Playful and engaging interaction with fans
-- Community's enthusiasm for Max's personality
+- Max Verstappen's playful and humorous response to fans
+- Fans' enthusiastic and amused reactions
+- Max's continued engaging media presence in 2026
+- Community's appreciation for Max's personality
+- Lighthearted and fun atmosphere in the discussion
 
-**Discussion Highlights:** The discussion is filled with enthusiasm and humor, with fans expressing their appreciation for Max's playful and engaging personality. The consensus is overwhelmingly positive, highlighting the community's enjoyment of Max's interactions.
+**Discussion Highlights:** The discussion is filled with excitement and humor, with fans appreciating Max's playful personality and engaging media presence. The consensus is overwhelmingly positive, with fans loving Max's energy and the fun interaction.
 
 ---
 
-## 31. [Red Bull’s new livery was designed by Simon R, a designer who has been making fan concept liveries for years](https://reddit.com/r/formula1/comments/1qe8f1s/red_bulls_new_livery_was_designed_by_simon_r_a/)
+## 32. [Red Bull’s new livery was designed by Simon R, a designer who has been making fan concept liveries for years](https://reddit.com/r/formula1/comments/1qe8f1s/red_bulls_new_livery_was_designed_by_simon_r_a/)
 
-**Author:** u/PDX_WiN | **Upvotes:** 4968 | **Comments:** 129 | **Date:** 2026-01-16
+**Author:** u/PDX_WiN | **Upvotes:** 4971 | **Comments:** 129 | **Date:** 2026-01-16
 
-**Summary:** Red Bull's new livery was designed by Simon R, a long-time fan concept designer, marking a significant achievement in the F1 community. The design has received overwhelmingly positive reactions, highlighting Simon's journey from fan art to official team liveries.
+**Summary:** Red Bull's new livery was designed by Simon R, a fan concept designer who has previously worked on other F1 liveries, fulfilling a dream for many F1 fans.
 
 **Key Points:**
-- Simon R, a fan concept designer, created Red Bull's new livery.
-- Simon previously designed the VCARB Las Vegas livery and contributed to Red Bull's white livery last year.
-- The new livery has been met with overwhelmingly positive reactions.
-- Simon's story is seen as inspiring, fulfilling the dream of many F1 fans.
-- Fan-made liveries are often considered superior to official team designs.
+- Simon R, a fan concept designer, designed Red Bull's new livery.
+- He previously designed the VCARB Las Vegas livery and contributed to last year’s white Red Bull livery.
+- The design has received overwhelmingly positive reactions.
+- Fan liveries are often considered better than official team liveries.
 
-**Discussion Highlights:** The discussion highlights Simon R's inspiring journey from fan art to official F1 livery design, with overwhelmingly positive reactions to his work. Many commenters praised the quality of fan-made liveries and celebrated Simon's achievement as a dream come true for F1 enthusiasts.
+**Discussion Highlights:** The discussion highlights Simon R's inspiring journey from fan to professional designer, with many praising his work and the positive reception of the new livery.
 
 ---
 
-## 32. [Max on the RB22 livery: "I think it's much better! I've been asking for this for a while! I like the shine, I like the blue, it's my favorite color, i like the outlines on the logo as well, its back! I like it!"](https://reddit.com/r/formula1/comments/1qe6m1w/max_on_the_rb22_livery_i_think_its_much_better/)
+## 33. [Max on the RB22 livery: "I think it's much better! I've been asking for this for a while! I like the shine, I like the blue, it's my favorite color, i like the outlines on the logo as well, its back! I like it!"](https://reddit.com/r/formula1/comments/1qe6m1w/max_on_the_rb22_livery_i_think_its_much_better/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 2689 | **Comments:** 51 | **Date:** 2026-01-15
+**Author:** u/FewCollar227 | **Upvotes:** 2693 | **Comments:** 51 | **Date:** 2026-01-15
 
-**Summary:** Max Verstappen expressed his approval of the new RB22 livery, highlighting its shine, blue color, and logo outlines. The post and comments reflect a general preference for the new livery over the previous matte design.
+**Summary:** Max Verstappen expressed enthusiasm for the new RB22 livery, praising its shine, blue color, and logo outlines. The post and comments highlight comparisons with other teams' liveries and humorous reactions from other drivers.
 
 **Key Points:**
-- Max likes the new RB22 livery for its shine, blue color, and logo outlines
-- The new livery is preferred over the previous matte design
-- Comments suggest other teams might be influenced by Max's preference for blue
-- There was a humorous comparison with the VCARB car reveal
-- Some comments mention a meme livery from a past event
+- Max Verstappen likes the new RB22 livery, especially the shine, blue color, and logo outlines.
+- Comparisons were made with the VCARB car livery, which received a less enthusiastic response.
+- Comments suggest other teams might consider changing their liveries based on Max's preferences.
+- There was humor around the contrast in reactions between Max and other drivers.
+- Some comments referenced past liveries and events, like the mental health event meme livery.
 
-**Discussion Highlights:** The discussion highlights a general consensus that the new RB22 livery is an improvement over the previous design. There is also a humorous tone in the comments, with some suggesting that other teams might be influenced by Max's preference for blue. Additionally, there is a mention of a meme livery from a past event, indicating a sense of community and shared history among the commenters.
+**Discussion Highlights:** The discussion highlights a consensus that Max's enthusiasm for the RB22 livery contrasts with the more subdued reactions to other teams' liveries. There is a playful tone in the comments, with suggestions that other teams might follow suit in adopting similar designs.
 
 ---
 
-## 33. [[redbullracing] F1 2026. The next chapter starts here](https://reddit.com/r/formula1/comments/1qe6b6y/redbullracing_f1_2026_the_next_chapter_starts_here/)
+## 34. [[redbullracing] F1 2026. The next chapter starts here](https://reddit.com/r/formula1/comments/1qe6b6y/redbullracing_f1_2026_the_next_chapter_starts_here/)
 
-**Author:** u/FewCollar227 | **Upvotes:** 6285 | **Comments:** 120 | **Date:** 2026-01-15
+**Author:** u/FewCollar227 | **Upvotes:** 6281 | **Comments:** 120 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post from r/formula1 discusses the start of a new chapter for F1 in 2026, focusing on Red Bull Racing. The post is a link with no text content, but the comments provide various reactions and opinions.
+**Summary:** Red Bull Racing announced their F1 2026 plans, sparking discussions about the new livery and team changes. The community reacted with mixed opinions on the design and humor about the team's future.
 
 **Key Points:**
-- Max Verstappen is already in the air, having left Detroit immediately.
-- The blue color in the post is considered unflattering compared to the car livery.
-- There is concern for Hadjar's survival.
-- The outfits in the post resemble those of local Ford technicians.
+- Max Verstappen's immediate departure from Detroit
+- Mixed reactions to the new blue livery
+- Concerns about Hadjar's survival in the team
+- Comparisons to local Ford technicians
 
-**Discussion Highlights:** The discussion highlights a mix of humor, criticism, and concern. The community reacts to the new chapter for F1 2026 with varied opinions on the aesthetics and implications.
-
----
-
-## 34. [Red Bull's 2025 RB21 vs Red Bull's 2026 RB22](https://reddit.com/r/formula1/comments/1qe5xzi/red_bulls_2025_rb21_vs_red_bulls_2026_rb22/)
-
-**Author:** u/FewCollar227 | **Upvotes:** 10623 | **Comments:** 247 | **Date:** 2026-01-15
-
-**Summary:** The Reddit post discusses the new livery designs for Red Bull's 2025 RB21 and 2026 RB22 cars, with a focus on the community's positive reception of the updated aesthetics. Key points include the well-received crispy Ford blue color, the nostalgic and visually appealing design, the need to refresh the iconic matte red bull era, the impressive front wing design, and the overall consensus that the new design is an upgrade while maintaining the team's ethos. The community consensus is overwhelmingly positive, with users praising the new livery for its fresh yet nostalgic design, particularly the Ford blue color and front wing details.
+**Discussion Highlights:** The community expressed humor and skepticism about the new livery and team dynamics, with a focus on Max Verstappen's actions and the aesthetic changes.
 
 ---
 
-## 35. [[RedBull Racing] New season, new regs, new livery](https://reddit.com/r/formula1/comments/1qe5gez/redbull_racing_new_season_new_regs_new_livery/)
+## 35. [Red Bull's 2025 RB21 vs Red Bull's 2026 RB22](https://reddit.com/r/formula1/comments/1qe5xzi/red_bulls_2025_rb21_vs_red_bulls_2026_rb22/)
 
-**Author:** u/FerrariStrategisttt | **Upvotes:** 3715 | **Comments:** 67 | **Date:** 2026-01-15
+**Author:** u/FewCollar227 | **Upvotes:** 10634 | **Comments:** 249 | **Date:** 2026-01-15
 
-**Summary:** Red Bull Racing unveiled their new livery for the 2026 season, featuring a glossy blue design with a slight pattern, drawing mixed reactions from the community. The design includes notable elements like a rake behind the wheels and variations from the stage presentation.
+**Summary:** The Reddit post discusses the comparison between Red Bull's 2025 RB21 and 2026 RB22 cars, with a focus on their new liveries and designs. The community expresses enthusiasm for the aesthetic changes, particularly the new Ford blue color and the overall refreshed look.
 
 **Key Points:**
-- New livery features a glossy blue design with a slight pattern
-- Design includes a controversial rake behind the wheels
-- Variations noted between the unveiled design and the stage presentation
-- Community reactions range from admiration to skepticism about design elements
+- Appreciation for the new Ford blue color on the RB22
+- Positive feedback on the new car designs and their nostalgic appeal
+- Consensus that the matte red bull era needed refreshing
+- Praise for the design details, such as the front wings
+- General approval of the updated liveries and glossier finishes
 
-**Discussion Highlights:** The community appreciates the fresh design but expresses concerns about the practicality of certain elements, such as the rake behind the wheels. There is also discussion about the differences between the unveiled design and the one presented on stage.
+**Discussion Highlights:** The discussion highlights a strong preference for the new designs and liveries of the RB22, with many users praising the aesthetic improvements and the nostalgic feel of the cars. There is a general consensus that the matte red bull era had become stale and that the new designs are a welcome upgrade.
 
 ---
 
-## 36. [Racing Bulls livery for the 2026 season](https://reddit.com/r/formula1/comments/1qe4uje/racing_bulls_livery_for_the_2026_season/)
+## 36. [[RedBull Racing] New season, new regs, new livery](https://reddit.com/r/formula1/comments/1qe5gez/redbull_racing_new_season_new_regs_new_livery/)
+
+**Author:** u/FerrariStrategisttt | **Upvotes:** 3723 | **Comments:** 68 | **Date:** 2026-01-15
+
+**Summary:** Red Bull Racing unveiled their new livery for the 2026 season, featuring a glossy blue design with a slight pattern, drawing comparisons to a poison dart frog. The post includes a link to an image of the car, and the discussion focuses on the design details and potential performance implications.
+
+**Key Points:**
+- New livery design features a glossy blue with a slight pattern
+- Design resembles a poison dart frog
+- Concerns about the rake behind the wheels and its durability
+- Differences noted between the design shown on stage and the actual car
+- Positive reception of the new design overall
+
+**Discussion Highlights:** The discussion highlights a mix of admiration for the new design and concerns about specific design elements, such as the rake behind the wheels. There is also a note on the differences between the design shown on stage and the actual car, indicating potential last-minute changes or variations.
+
+---
+
+## 37. [Racing Bulls livery for the 2026 season](https://reddit.com/r/formula1/comments/1qe4uje/racing_bulls_livery_for_the_2026_season/)
 
 **Author:** u/ElectionMoney3911 | **Upvotes:** 10102 | **Comments:** 206 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post discusses the Racing Bulls livery for the 2026 season, with a focus on the return of white wheel covers. The community response is overwhelmingly positive, with many expressing excitement and approval. Key points include the notable white wheel covers, community excitement, surprise at seeing actual 2026 cars, praise for the white rims, and overall positive reception. The discussion highlights a strong consensus of approval and excitement, particularly around the white wheel covers.
-
----
-
-## 37. [RedBull Racing's RB22](https://reddit.com/r/formula1/comments/1qe3tuc/redbull_racings_rb22/)
-
-**Author:** u/FerrariStrategisttt | **Upvotes:** 26810 | **Comments:** 863 | **Date:** 2026-01-15
-
-**Summary:** The Reddit post discusses the new RB22 livery for RedBull Racing, highlighting its design changes and positive reception from the community. Users appreciate the balance between recent designs and classic elements, as well as the glossy finish and white outlines.
+**Summary:** The Reddit post discusses the Racing Bulls livery for the 2026 season, with a focus on the return of white wheel covers and the overall design of the new cars.
 
 **Key Points:**
-- The livery is seen as a great balance between recent years and Sebastian Vettel's era.
-- The glossy finish and white outlines are particularly praised.
-- The design is described as beautiful and cohesive.
-- The livery incorporates classic RedBull elements while introducing new features.
-- The overall reception is highly positive, with users calling it an upgrade to an iconic livery.
+- White wheel covers are back and highly praised
+- The 2026 cars are noted for their realistic design
+- Overall enthusiasm and excitement about the new livery
 
-**Discussion Highlights:** The discussion highlights a strong consensus on the livery's aesthetic appeal, with users emphasizing its cohesive design, glossy finish, and successful blend of classic and modern elements. The overall sentiment is overwhelmingly positive.
+**Discussion Highlights:** The discussion is overwhelmingly positive, with users expressing excitement about the white wheel covers and the overall design of the 2026 Racing Bulls livery.
 
 ---
 
-## 38. [Here's what seems to be the new Red Bull Racing livery](https://reddit.com/r/formula1/comments/1qe3888/heres_what_seems_to_be_the_new_red_bull_racing/)
+## 38. [RedBull Racing's RB22](https://reddit.com/r/formula1/comments/1qe3tuc/redbull_racings_rb22/)
 
-**Author:** u/YoloSums | **Upvotes:** 3696 | **Comments:** 163 | **Date:** 2026-01-15
+**Author:** u/FerrariStrategisttt | **Upvotes:** 26852 | **Comments:** 864 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post discusses the new Red Bull Racing livery, which has received positive feedback for its design, blending elements of the old livery with new features like a glossy finish and more blue. The community appreciates the change while acknowledging the legacy of the previous matte livery.
+**Summary:** The Reddit post discusses Red Bull Racing's RB22 car, with the community praising its design for balancing recent aesthetics with past elements, highlighting the glossy finish and white outlines as standout features.
 
 **Key Points:**
-- The new livery is well-received for its blend of old and new design elements.
-- The livery features a glossy finish and more blue, possibly due to the Ford partnership.
-- The design is reminiscent of the pre-Infinity sponsored livery from the early 2010s.
-- The community appreciates the change while recognizing the iconic status of the previous matte livery.
-- There is curiosity about why a floor model was shown before the official launch.
+- The RB22 design balances recent years' aesthetics with Sebastian Vettel's era
+- The glossy finish and white outlines are praised
+- The livery is seen as an upgrade to an iconic design
+- The car's design is well-received and visually appealing
 
-**Discussion Highlights:** The discussion highlights a general consensus of approval for the new livery, with many users praising its design and the return to a glossy finish. Some users noted the resemblance to past liveries and the potential influence of the Ford partnership. There was also curiosity about the timing of the floor model reveal.
+**Discussion Highlights:** The community consensus is overwhelmingly positive, with users appreciating the car's design and livery, particularly the glossy finish and the balance between recent and past aesthetics.
 
 ---
 
-## 39. [Looks like Red Bull's new team kit is going to be very blue!](https://reddit.com/r/formula1/comments/1qdxbtg/looks_like_red_bulls_new_team_kit_is_going_to_be/)
+## 39. [Here's what seems to be the new Red Bull Racing livery](https://reddit.com/r/formula1/comments/1qe3888/heres_what_seems_to_be_the_new_red_bull_racing/)
 
-**Author:** u/xxoeu | **Upvotes:** 2865 | **Comments:** 162 | **Date:** 2026-01-15
+**Author:** u/YoloSums | **Upvotes:** 3704 | **Comments:** 163 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post discusses Red Bull's new team kit, which is expected to feature a significant amount of blue, possibly influenced by Ford's involvement. The community speculates on design elements blending historical liveries with new branding.
+**Summary:** The Reddit post discusses the new Red Bull Racing livery, which has received positive feedback for its design, including a blend of old and new elements, a gloss finish, and a balance of paint and bare carbon. The community appreciates the change while acknowledging the legacy of past liveries.
 
 **Key Points:**
-- New team kit expected to be very blue
-- Possible influence from Ford's branding
-- Speculation about mixing historical livery elements
-- Community expectations about design continuity or change
+- The new livery is well-received for its design and gloss finish.
+- It features a 50% paint and 50% bare carbon design.
+- The livery blends elements from past designs, reminiscent of early 2010s liveries.
+- There is curiosity about the floor model being shown before the official launch.
+- The community acknowledges the legendary status of the previous matte livery but welcomes the change.
 
-**Discussion Highlights:** The discussion highlights a consensus that Ford's involvement is likely influencing the blue color scheme. There is speculation about blending historical design elements with new branding, and mixed expectations about whether the livery will be entirely new or retain some familiar elements.
+**Discussion Highlights:** The discussion highlights a consensus on the positive reception of the new livery, with users appreciating the blend of old and new design elements. There is also curiosity about the timing of the floor model reveal before the official launch.
 
 ---
 
-## 40. [[Audi Revolut F1 Team] Engineered for precision, in every curve. Welcome, Gillette.](https://reddit.com/r/formula1/comments/1qdk96v/audi_revolut_f1_team_engineered_for_precision_in/)
+## 40. [Looks like Red Bull's new team kit is going to be very blue!](https://reddit.com/r/formula1/comments/1qdxbtg/looks_like_red_bulls_new_team_kit_is_going_to_be/)
 
-**Author:** u/ChaithuBB766 | **Upvotes:** 2887 | **Comments:** 166 | **Date:** 2026-01-15
+**Author:** u/xxoeu | **Upvotes:** 2869 | **Comments:** 162 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post announces a partnership between the Audi Revolut F1 Team and Gillette, highlighting precision engineering. The discussion includes humorous and positive reactions to the collaboration.
+**Summary:** The Reddit post discusses Red Bull's new team kit, which is expected to be very blue, with speculation about Ford's influence on the design.
 
 **Key Points:**
-- Audi Revolut F1 Team partners with Gillette
-- The partnership is seen as a positive move involving an established company
-- Humorous comments about shaving and lap times
-- Mistaken identity of the post content as a rear wing of the 2026 car
-- Reference to Gillette's slogan in a different racing series
+- Red Bull's new team kit is expected to be very blue.
+- Ford is likely influencing the design, possibly incorporating Ford racing blue.
+- Speculation about a mix of old Vettel era livery and new Ford elements.
+- Uncertainty about whether the car's livery will change significantly.
+- Suggestions of Ford-blue with darker 'classic' RBR blue accents.
 
-**Discussion Highlights:** The discussion is largely positive and humorous, with users appreciating the partnership with a well-known company like Gillette. There are playful comments about shaving and lap times, as well as a humorous mistake about the post content being a rear wing.
+**Discussion Highlights:** The discussion highlights Ford's involvement and potential design changes, with a consensus around the influence of Ford racing blue and possible nods to past liveries.
 
 ---
 
-## 41. [Finally found a use for the extreme wets](https://reddit.com/r/formula1/comments/1qdeth8/finally_found_a_use_for_the_extreme_wets/)
+## 41. [[Audi Revolut F1 Team] Engineered for precision, in every curve. Welcome, Gillette.](https://reddit.com/r/formula1/comments/1qdk96v/audi_revolut_f1_team_engineered_for_precision_in/)
 
-**Author:** u/DBT85 | **Upvotes:** 5059 | **Comments:** 70 | **Date:** 2026-01-15
+**Author:** u/ChaithuBB766 | **Upvotes:** 2883 | **Comments:** 166 | **Date:** 2026-01-15
 
-**Summary:** A user 3D-printed F1 tire models, including extreme wets, to organize pens on their desk, humorously noting the rarity of their real-world use. The post includes a link to the 3D model and mentions using regular PLA filament for a shiny finish.
+**Summary:** Audi Revolut F1 Team announced a partnership with Gillette, sparking humorous and nostalgic reactions from the Formula 1 community.
 
 **Key Points:**
-- User created a 3D-printed F1 tire pen holder using extreme wet tire models.
-- The model includes slicks and intermediates, available on MakerWorld.
-- Regular PLA filament was used for a shiny, 'just out of the molds' look.
-- Top comments joke about the rarity of extreme wet tire usage and suggest other creative uses.
-- One user plans to print soft tires and experiment with TPU filament.
+- Audi Revolut F1 Team announced a partnership with Gillette.
+- The community reacted with humor, referencing shaving and lap times.
+- Some comments expressed nostalgia for established brands over newer, less-known sponsors.
+- A comment humorously referenced Le Mans, another motorsport series.
+- One user mistook the image for a rear wing of the 2026 car.
 
-**Discussion Highlights:** The discussion is lighthearted, with users appreciating the creativity and humor in using extreme wet tires for a desk organizer. Some suggest expanding the idea to larger prints or experimenting with different filaments.
+**Discussion Highlights:** The discussion was lighthearted and humorous, with a consensus appreciating the partnership with a well-known brand like Gillette. The community engaged in playful banter and references to motorsport culture.
 
 ---
 
-## 42. [Ferrari's F1 livery is 'not good design', says Audi's new title sponsor](https://reddit.com/r/formula1/comments/1qd4t0p/ferraris_f1_livery_is_not_good_design_says_audis/)
+## 42. [Finally found a use for the extreme wets](https://reddit.com/r/formula1/comments/1qdeth8/finally_found_a_use_for_the_extreme_wets/)
+
+**Author:** u/DBT85 | **Upvotes:** 5063 | **Comments:** 70 | **Date:** 2026-01-15
+
+**Summary:** A user 3D-printed F1 tire models, including extreme wets, to organize pens on their desk, humorously noting the rarity of their use in real races.
+
+**Key Points:**
+- User created a 3D-printed F1 tire model pen holder
+- Extreme wet tires were humorously repurposed for a practical use
+- The post includes a link to the 3D model on MakerWorld
+- Top comments joke about the rarity of extreme wet tire usage
+- Discussion includes suggestions for other 3D printing projects
+
+**Discussion Highlights:** The discussion revolves around humor about the rarity of extreme wet tire usage in F1, with users appreciating the creative repurposing and sharing additional 3D printing ideas.
+
+---
+
+## 43. [Ferrari's F1 livery is 'not good design', says Audi's new title sponsor](https://reddit.com/r/formula1/comments/1qd4t0p/ferraris_f1_livery_is_not_good_design_says_audis/)
 
 **Author:** u/ironfate9 | **Upvotes:** 2638 | **Comments:** 225 | **Date:** 2026-01-14
 
-**Summary:** Audi's new title sponsor criticized Ferrari's F1 livery design, sparking a discussion where many agreed with the criticism, particularly regarding the HP logo.
+**Summary:** Audi's new title sponsor criticized Ferrari's F1 livery design, sparking a discussion on Reddit. The post highlights the ongoing rivalry between sponsors and the mixed reactions to Ferrari's livery, particularly the blue HP branding.
 
 **Key Points:**
-- Audi's new title sponsor called Ferrari's F1 livery 'not good design'
-- Many commenters agreed with the criticism
-- Specific mention of the HP logo being jarring
-- Discussion of other brand rivalries in F1
-- General consensus that Ferrari's livery needs improvement
+- Audi's new title sponsor criticizes Ferrari's F1 livery as 'not good design'.
+- The criticism is part of a broader trend of sponsor rivalries in F1.
+- The blue HP branding on Ferrari's livery is a point of contention.
+- The discussion includes humorous comments about Ferrari 'catching strays'.
+- There is a consensus that Ferrari's livery could use improvement.
 
-**Discussion Highlights:** The discussion largely agreed with the criticism of Ferrari's livery, with many focusing on the HP logo as a particularly problematic element. There was also a lighthearted mention of increasing brand rivalries in F1.
+**Discussion Highlights:** The discussion is marked by a mix of agreement with the criticism and humorous remarks about the ongoing rivalries in F1. The consensus leans towards the need for Ferrari to improve their livery design, particularly the blue HP branding.
 
 ---
 
-## 43. [Max Verstappen knew exactly that he was three seconds off Arvid’s time.](https://reddit.com/r/formula1/comments/1qd0zw6/max_verstappen_knew_exactly_that_he_was_three/)
+## 44. [Max Verstappen knew exactly that he was three seconds off Arvid’s time.](https://reddit.com/r/formula1/comments/1qd0zw6/max_verstappen_knew_exactly_that_he_was_three/)
 
-**Author:** u/One_Impressionism | **Upvotes:** 2638 | **Comments:** 114 | **Date:** 2026-01-14
+**Author:** u/One_Impressionism | **Upvotes:** 2644 | **Comments:** 114 | **Date:** 2026-01-14
 
-**Summary:** The Reddit post discusses Max Verstappen's awareness of being three seconds off Arvid's time in a challenge, highlighting their different approaches to car selection and performance. The discussion includes reactions to the challenge and comparisons between the two drivers.
-
-**Key Points:**
-- Max Verstappen knew he was three seconds slower than Arvid.
-- Different approaches to car selection: Max aimed to win, Arvid wanted to try cool cars.
-- Discussion includes reactions to the challenge and comparisons between the drivers.
-- Mentions of other participants like Jeremiah Burton and Daniel's comments.
-
-**Discussion Highlights:** The discussion highlights the different strategies of Max and Arvid, with users appreciating both approaches. There are also mentions of other participants and reactions to the challenge format.
+**Summary:** The Reddit post discusses Max Verstappen's awareness of being three seconds off Arvid's time in a challenge. The comments highlight various opinions on the challenge, including car choices and performance comparisons. Key points include Max Verstappen knowing he was slower, the challenge involving car choices, and discussions on fairness and strategies. The discussion highlights a mix of opinions on the challenge's fairness and the strategies used by Max and Arvid.
 
 ---
 
-## 44. [[Redbull Racing] MV3 &amp; DR3](https://reddit.com/r/formula1/comments/1qcptx7/redbull_racing_mv3_dr3/)
+## 45. [[Redbull Racing] MV3 &amp; DR3](https://reddit.com/r/formula1/comments/1qcptx7/redbull_racing_mv3_dr3/)
 
-**Author:** u/FerrariStrategisttt | **Upvotes:** 10636 | **Comments:** 224 | **Date:** 2026-01-14
+**Author:** u/FerrariStrategisttt | **Upvotes:** 10652 | **Comments:** 224 | **Date:** 2026-01-14
 
 **Summary:** The Reddit post discusses Max Verstappen and Daniel Ricciardo, with comments focusing on Ricciardo's life away from the spotlight and hints about the new Red Bull livery being glossy.
 
 **Key Points:**
 - Daniel Ricciardo is enjoying life away from the spotlight
-- Ricciardo's personality is compared to Jason Mantzoukas
-- The new Red Bull livery is hinted to be glossy, not matte
-- Comments speculate about Ricciardo going bald
+- Comments reference Ricciardo's personality and humor
+- A hint about the new Red Bull livery being glossy is mentioned
+- Discussion includes lighthearted comments about Ricciardo's future appearance
 
-**Discussion Highlights:** The discussion highlights Ricciardo's personality and lifestyle, with a notable hint about the new Red Bull livery being glossy.
+**Discussion Highlights:** The discussion highlights Ricciardo's positive outlook and humor, with a notable hint about the new Red Bull livery being glossy, generating excitement among fans.
 
 ---
 
-## 45. [[AutoRacer IT] The Mercedes engine is the only one with the compression trick for 2026. Audi is the team pushing hardest for this to be declared illegal.](https://reddit.com/r/formula1/comments/1qcmhdj/autoracer_it_the_mercedes_engine_is_the_only_one/)
+## 46. [[AutoRacer IT] The Mercedes engine is the only one with the compression trick for 2026. Audi is the team pushing hardest for this to be declared illegal.](https://reddit.com/r/formula1/comments/1qcmhdj/autoracer_it_the_mercedes_engine_is_the_only_one/)
 
 **Author:** u/CW24x | **Upvotes:** 5650 | **Comments:** 827 | **Date:** 2026-01-14
 
-**Summary:** The Reddit post discusses Mercedes' unique engine compression trick for 2026, with Audi pushing for it to be declared illegal. The comments speculate on the competitive implications and compare it to past seasons.
+**Summary:** The Reddit post discusses Mercedes' unique engine compression trick for the 2026 Formula 1 season and Audi's efforts to have it declared illegal. The comments reflect anticipation and speculation about the upcoming season, with references to past controversies and predictions for future champions.
 
 **Key Points:**
 - Mercedes has a unique engine compression trick for 2026
-- Audi is pushing for this trick to be declared illegal
-- Comparisons to the 2014 season are made
+- Audi is pushing to have this trick declared illegal
+- The situation is compared to the 2014 season controversy
 - George Russell is predicted to be the 2026 World Driver's Champion
+- Anticipation and speculation about the upcoming season are high
 
-**Discussion Highlights:** The discussion highlights concerns about Mercedes' potential advantage and the impact on competition, with some users drawing parallels to past seasons and making predictions about the 2026 champion.
-
----
-
-## 46. [[motorsportcom] Isack Hadjar and Liam Lawson Suffering together with lip sync videos](https://reddit.com/r/formula1/comments/1qchw7g/motorsportcom_isack_hadjar_and_liam_lawson/)
-
-**Author:** u/FewCollar227 | **Upvotes:** 2203 | **Comments:** 56 | **Date:** 2026-01-14
-
-**Summary:** The Reddit post highlights a humorous moment involving Formula 1 drivers Isack Hadjar and Liam Lawson, who are shown in lip sync videos. The discussion revolves around the camaraderie and friendships among drivers, with comments reflecting on the lighter side of the sport.
-
-**Key Points:**
-- Isack Hadjar and Liam Lawson featured in lip sync videos
-- Discussion on the camaraderie and friendships among F1 drivers
-- Comments reflect on the lighter, humorous side of the sport
-- Mentions of historical context with Toro Rosso and Minardi
-- General consensus on the positive aspect of driver friendships
-
-**Discussion Highlights:** The discussion highlights the positive and humorous aspects of driver interactions, with comments emphasizing the camaraderie and friendships among drivers. There is a general consensus on the lighter side of the sport, with mentions of historical context and relief that current drivers have a more supportive environment.
+**Discussion Highlights:** The discussion highlights include comparisons to past controversies, anticipation for the upcoming season, and predictions for future champions. There is a consensus of excitement and speculation among the commenters.
 
 ---
 
-## 47. [[Giorgio Piola]Curious coincidences. The front wing of the 2026 car is very reminiscent of that of the 2006 McLaren MP4/21...](https://reddit.com/r/formula1/comments/1qc8ly5/giorgio_piolacurious_coincidences_the_front_wing/)
+## 47. [[motorsportcom] Isack Hadjar and Liam Lawson Suffering together with lip sync videos](https://reddit.com/r/formula1/comments/1qchw7g/motorsportcom_isack_hadjar_and_liam_lawson/)
 
-**Author:** u/XsStreamMonsterX | **Upvotes:** 1424 | **Comments:** 49 | **Date:** 2026-01-13
+**Author:** u/FewCollar227 | **Upvotes:** 2210 | **Comments:** 56 | **Date:** 2026-01-14
 
-**Summary:** The Reddit post discusses the similarity between the 2026 car front wing and the 2006 McLaren MP4/21 front wing, highlighting the efficiency of reusing proven designs and the aesthetic appeal of the era.
+**Summary:** The Reddit post highlights a humorous moment involving Formula 1 drivers Isack Hadjar and Liam Lawson, who are shown in lip sync videos. The discussion reflects on the challenges and camaraderie among drivers, with comments emphasizing the relief of avoiding such situations and the unexpected friendships that form in the sport.
 
 **Key Points:**
-- The 2026 car front wing resembles the 2006 McLaren MP4/21 front wing.
-- Reusing existing designs can save time and cost in R&D.
-- The 2006 era is considered visually appealing for F1 cars.
-- Leveraging past research and development is a practical approach.
+- The post features lip sync videos of Isack Hadjar and Liam Lawson.
+- Comments suggest that such activities might be challenging for drivers.
+- There is a humorous tone about the unexpected friendships among drivers.
+- The discussion highlights the camaraderie and relief among drivers in the sport.
 
-**Discussion Highlights:** The discussion emphasizes the practicality of reusing proven designs from the past, with many users agreeing that it makes sense to leverage existing research and development to save time and costs. There is also a consensus on the aesthetic appeal of the 2006 era F1 cars.
+**Discussion Highlights:** The top comments reflect a mix of humor and relief, with users joking about the challenges of such activities and the unexpected friendships that form among drivers. The consensus seems to be that while such moments can be lighthearted, they also highlight the pressures and camaraderie in Formula 1.
 
 ---
 
 ## 48. [[philippe_bianchi] Jules Bianchi’s kart has been found!](https://reddit.com/r/formula1/comments/1qbxhzd/philippe_bianchi_jules_bianchis_kart_has_been/)
 
-**Author:** u/aristhought | **Upvotes:** 9110 | **Comments:** 120 | **Date:** 2026-01-13
+**Author:** u/aristhought | **Upvotes:** 9113 | **Comments:** 120 | **Date:** 2026-01-13
 
-**Summary:** Jules Bianchi's kart has been found, bringing relief and positive sentiment to the r/formula1 community amid a challenging start to the new year.
+**Summary:** Jules Bianchi's kart has been found, bringing relief and positivity to the r/formula1 community after a challenging start to the year.
 
 **Key Points:**
 - Jules Bianchi's kart has been found after 13 days
-- The news is seen as uplifting and positive
-- The discovery brings relief to the community
-- The news contrasts with a difficult start to the new year
-- Suggestions for securing the kart in the future
+- The news is seen as a positive development in an otherwise difficult January
+- The community expresses relief and happiness at the discovery
+- Suggestions for securing the kart in the future are made humorously
+- The news provides a uplifting moment amidst a shambolic start to the new year
 
-**Discussion Highlights:** The community expresses relief and positivity over the discovery of Jules Bianchi's kart, with comments highlighting the contrast to a challenging start to the new year. There is a consensus on the uplifting nature of the news.
+**Discussion Highlights:** The discussion highlights a consensus of relief and positivity, with users expressing happiness at the discovery of Jules Bianchi's kart. The comments reflect a sense of community and shared emotion, with some users making humorous suggestions for securing the kart in the future.
 
 ---
 
 ## 49. [[Cadillac] The countdown to the grid continues introducing the Cadillac F1 Testing Livery](https://reddit.com/r/formula1/comments/1qbswk0/cadillac_the_countdown_to_the_grid_continues/)
 
-**Author:** u/ICumCoffee | **Upvotes:** 8254 | **Comments:** 240 | **Date:** 2026-01-13
+**Author:** u/ICumCoffee | **Upvotes:** 8258 | **Comments:** 240 | **Date:** 2026-01-13
 
-**Summary:** The Reddit post introduces the Cadillac F1 Testing Livery, highlighting its temporary design for development purposes and the inclusion of team members' names. The community appreciates the unique design and anticipates the final livery.
+**Summary:** The Reddit post introduces the Cadillac F1 Testing Livery, highlighting its temporary design for development purposes. The community appreciates the inclusion of team members' names and the unique design, expressing excitement for the final livery.
 
 **Key Points:**
-- The livery is a temporary design used during car development.
-- It includes the names of team members involved in the project.
-- The design is appreciated for its uniqueness and is seen as better than camo designs.
-- The community is excited for the final livery reveal.
+- The Cadillac F1 Testing Livery is a temporary design used during car development.
+- The livery includes the names of team members involved in the project.
+- The community appreciates the unique design and looks forward to the final livery.
+- The shakedown livery helps the team understand aerodynamics and performance.
 
-**Discussion Highlights:** The discussion highlights the appreciation for the unique design and the inclusion of team members' names. There is a consensus that the design is better than camo ones and excitement for the final livery.
+**Discussion Highlights:** The discussion highlights the community's appreciation for the unique design and the inclusion of team members' names. There is a consensus of excitement for the final livery, with positive feedback on the stretched-out logo and the overall design.
 
 ---
 
 ## 50. [[BWT Alpine on social media] BWT Alpine Formula One Team confirms it has reached a mutual agreement with Jack Doohan to not continue his driving services with the team for the 2026 FIA Formula One World Championship season and allow him to pursue other career opportunities.](https://reddit.com/r/formula1/comments/1qbmkqr/bwt_alpine_on_social_media_bwt_alpine_formula_one/)
 
-**Author:** u/krzysiek_aleks | **Upvotes:** 5621 | **Comments:** 443 | **Date:** 2026-01-13
+**Author:** u/krzysiek_aleks | **Upvotes:** 5629 | **Comments:** 443 | **Date:** 2026-01-13
 
-**Summary:** BWT Alpine Formula One Team has mutually agreed with Jack Doohan to not continue his driving services for the 2026 season, allowing him to pursue other opportunities. The decision has sparked significant discussion and criticism among fans.
+**Summary:** BWT Alpine Formula One Team has mutually agreed with Jack Doohan to not continue his driving services for the 2026 season, allowing him to pursue other opportunities. The decision has sparked criticism and disappointment among fans.
 
 **Key Points:**
-- Mutual agreement between BWT Alpine and Jack Doohan to part ways for the 2026 season.
-- Criticism of Alpine's management and handling of the situation.
-- Mixed opinions on Doohan's performance, with some defending him and others focusing on the team's actions.
-- References to past incidents involving Alpine's management decisions.
+- Mutual agreement to part ways with Jack Doohan for the 2026 season
+- Criticism of Alpine's management and handling of the situation
+- Disappointment and negative sentiment from fans towards the team
+- Comparison to Oscar Piastri's departure as a better-handled situation
 
-**Discussion Highlights:** The discussion highlights a consensus of criticism towards Alpine's management, with many users expressing disappointment and frustration. Some comments also reflect on past controversies involving the team.
+**Discussion Highlights:** The discussion highlights widespread criticism of Alpine's management and their handling of Jack Doohan's situation. Fans express disappointment and frustration, with many viewing the team's actions as shameless and poorly managed. There is a consensus that Alpine's recent decisions have been embarrassing and poorly executed.
 
 ---
 

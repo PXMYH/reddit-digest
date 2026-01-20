@@ -8,34 +8,34 @@
 
 ## 1. [The Retirement Crisis No One Warns You About: Mattering](https://reddit.com/r/financialindependence/comments/1qfj7ml/the_retirement_crisis_no_one_warns_you_about/)
 
-**Author:** u/zackenrollertaway | **Upvotes:** 347 | **Comments:** 160 | **Date:** 2026-01-17
+**Author:** u/zackenrollertaway | **Upvotes:** 349 | **Comments:** 160 | **Date:** 2026-01-17
 
-**Summary:** The post discusses the psychological challenge of retirement, focusing on the concept of 'mattering'—feeling significant, appreciated, invested in, and depended on. The author shares their personal experience of struggling with retirement and finding purpose through tutoring.
+**Summary:** The post discusses the psychological challenge of 'mattering' in retirement, defined by the SAID acronym (Significant, Appreciated, Invested in, Depended on). The author shares their personal struggle post-retirement and how tutoring helped them regain a sense of purpose.
 
 **Key Points:**
-- 'Mattering' is defined by the SAID acronym: significant, appreciated, invested in, and depended on.
-- The author felt a loss of purpose after retiring but found fulfillment through tutoring.
-- Community comments highlight varied perspectives on the importance of 'mattering' in retirement.
-- Suggestions for finding purpose include volunteering, tutoring, and joining clubs or groups.
+- 'Mattering' is crucial for psychological well-being in retirement, defined by the SAID acronym.
+- The author experienced a loss of purpose post-retirement but found fulfillment through tutoring.
+- Community responses highlight varied perspectives, from indifference to proactive coping strategies.
+- Activities like volunteering, tutoring, and social clubs are suggested as ways to regain a sense of mattering.
 
-**Discussion Highlights:** The discussion reveals a mix of experiences and attitudes towards 'mattering' in retirement. Some users express indifference or resignation, while others emphasize the importance of finding new ways to feel valued and engaged, such as through volunteering or social activities.
+**Discussion Highlights:** The discussion reveals a mix of experiences, with some finding coping strategies like volunteering and tutoring effective, while others express indifference or resignation. The consensus leans towards proactive engagement in meaningful activities to address the issue of 'mattering' in retirement.
 
 ---
 
 ## 2. [7 Years FIRE'd and My First Romance (42M)](https://reddit.com/r/financialindependence/comments/1qehdjt/7_years_fired_and_my_first_romance_42m/)
 
-**Author:** u/hungn3 | **Upvotes:** 512 | **Comments:** 162 | **Date:** 2026-01-16
+**Author:** u/hungn3 | **Upvotes:** 517 | **Comments:** 162 | **Date:** 2026-01-16
 
-**Summary:** A 42-year-old man who achieved financial independence in 2019 shares his experiences from the past year, including his first romantic relationship, new hobbies, extensive travel, and financial updates.
+**Summary:** A 42-year-old man, who retired early in 2019 with $1.10M, shares his experiences from 2025, including his first romantic relationship, new hobbies, extensive travel, and financial updates. His net worth increased to $2.36M, and he spent $43K with a 1.8% withdrawal rate.
 
 **Key Points:**
-- Author achieved FIRE in 2019 with $1.10M and now has a net worth of $2.36M.
-- Spent $43K with a 1.8% withdrawal rate and donated $15K in 2025.
-- Engaged in new hobbies like speed jigsaw puzzling and fusion dancing, and traveled extensively.
-- Volunteered at queer summer camp and climbing group, and climbed 10,000+ feet on 22 different days.
-- Community praised his emotional maturity and inspiring lifestyle.
+- Author achieved financial independence and retired early (FIRE) in 2019 with $1.10M.
+- In 2025, his net worth grew to $2.36M, with a spending of $43K and a 1.8% withdrawal rate.
+- He engaged in new hobbies, traveled extensively (146 nights away), and experienced his first romantic relationship.
+- Volunteered significantly and maintained an active lifestyle with outdoor adventures.
+- Discussion highlights include admiration for his emotional maturity and lifestyle.
 
-**Discussion Highlights:** The community found the post inspiring, particularly the author's emotional maturity in handling relationships and his active, fulfilling lifestyle post-FIRE.
+**Discussion Highlights:** The top comments praise the author's emotional maturity, especially in handling a breakup and maintaining friendship. There is also a discussion about the FIRE withdrawal rate and admiration for his lifestyle and experiences.
 
 ---
 
