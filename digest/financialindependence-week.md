@@ -8,35 +8,35 @@
 
 ## 1. [The Retirement Crisis No One Warns You About: Mattering](https://reddit.com/r/financialindependence/comments/1qfj7ml/the_retirement_crisis_no_one_warns_you_about/)
 
-**Author:** u/zackenrollertaway | **Upvotes:** 367 | **Comments:** 162 | **Date:** 2026-01-17
+**Author:** u/zackenrollertaway | **Upvotes:** 371 | **Comments:** 164 | **Date:** 2026-01-17
 
-**Summary:** The post discusses the often-overlooked challenge of finding purpose and 'mattering' in retirement, highlighting the importance of feeling significant, appreciated, invested in, and depended on. The author shares their personal journey of overcoming this challenge through tutoring.
+**Summary:** The post discusses the psychological challenge of 'mattering' in retirement, defined by feeling significant, appreciated, invested in, and depended on. The author shares their personal experience of struggling with this issue post-retirement and how tutoring helped them regain a sense of purpose.
 
 **Key Points:**
-- 'Mattering' is defined by feeling significant, appreciated, invested in, and depended on.
-- Retirement can lead to a loss of purpose, as illustrated by the author's initial struggle.
-- Finding activities like tutoring can help retirees regain a sense of mattering.
-- Discussion highlights include varying perspectives on the importance of mattering and suggestions for finding purpose in retirement.
-- Volunteering and social activities are suggested as ways to find purpose in retirement.
+- 'Mattering' is defined by the SAID acronym: significant, appreciated, invested in, and depended on.
+- Retirement can lead to a loss of purpose, as illustrated by the author's experience and the Twilight Zone analogy.
+- Finding new ways to contribute, such as tutoring or volunteering, can help regain a sense of mattering.
+- Community suggestions include activities like volunteering, tutoring, and joining clubs to find purpose.
+- Some commenters express indifference or resignation about the concept of mattering.
 
-**Discussion Highlights:** The discussion includes a mix of perspectives, with some users emphasizing the importance of finding purpose in retirement through activities like volunteering and social clubs, while others express indifference or resignation about the concept of mattering.
+**Discussion Highlights:** The discussion highlights a mix of personal experiences and suggestions for finding purpose in retirement. While some commenters share their struggles or indifference, others offer practical advice like volunteering, tutoring, and engaging in community activities to regain a sense of mattering.
 
 ---
 
 ## 2. [7 Years FIRE'd and My First Romance (42M)](https://reddit.com/r/financialindependence/comments/1qehdjt/7_years_fired_and_my_first_romance_42m/)
 
-**Author:** u/hungn3 | **Upvotes:** 539 | **Comments:** 166 | **Date:** 2026-01-16
+**Author:** u/hungn3 | **Upvotes:** 541 | **Comments:** 172 | **Date:** 2026-01-16
 
-**Summary:** A 42-year-old man who achieved financial independence in 2019 shares his experiences from the past year, including his first romantic relationship, new hobbies, extensive travel, and financial updates.
+**Summary:** The author, a 42-year-old man who achieved financial independence in 2019, shares his experiences from the past year, including his first romantic relationship, new hobbies, extensive travel, and financial updates. His net worth increased by $270K, and he spent $43K with a 1.8% withdrawal rate.
 
 **Key Points:**
-- Achieved financial independence in 2019 with $1.10M and now has a net worth of $2.36M.
-- Spent $43K with a 1.8% withdrawal rate and donated $15K in large gifts.
-- Engaged in new hobbies like speed jigsaw puzzling and fusion dancing, and traveled extensively.
-- Volunteered at a queer summer camp and climbing group, and climbed over 10,000 feet on 22 different days.
-- Top comments highlight emotional maturity, withdrawal rate insights, and inspiration for others.
+- Author achieved FIRE in 2019 with $1.10M and now has a net worth of $2.36M.
+- Engaged in new hobbies like speed jigsaw puzzling and fusion dancing.
+- Spent 146 nights away from home and volunteered extensively.
+- Maintained a low withdrawal rate of 1.8% and donated $15K.
+- Community praised his emotional maturity and inspiring lifestyle.
 
-**Discussion Highlights:** The discussion highlights the author's emotional maturity in handling a breakup, insights into the FIRE withdrawal rate, and inspiration for others pursuing financial independence and personal growth.
+**Discussion Highlights:** The top comments highlight the author's emotional maturity in handling relationships and the inspiring nature of his lifestyle. There is also a clarification about the FIRE withdrawal rate calculation and appreciation for the detailed updates over the years.
 
 ---
 
