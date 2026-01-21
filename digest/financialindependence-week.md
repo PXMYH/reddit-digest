@@ -10,33 +10,32 @@
 
 **Author:** u/zackenrollertaway | **Upvotes:** 371 | **Comments:** 164 | **Date:** 2026-01-17
 
-**Summary:** The post discusses the psychological challenge of 'mattering' in retirement, defined by feeling significant, appreciated, invested in, and depended on. The author shares their personal experience of struggling with this issue post-retirement and how tutoring helped them regain a sense of purpose.
+**Summary:** The post discusses the often-overlooked aspect of retirement: the need to feel like one 'matters.' The author shares their personal experience of struggling with this after retiring and finding purpose through tutoring.
 
 **Key Points:**
-- 'Mattering' is defined by the SAID acronym: significant, appreciated, invested in, and depended on.
-- Retirement can lead to a loss of purpose, as illustrated by the author's experience and the Twilight Zone analogy.
-- Finding new ways to contribute, such as tutoring or volunteering, can help regain a sense of mattering.
-- Community suggestions include activities like volunteering, tutoring, and joining clubs to find purpose.
-- Some commenters express indifference or resignation about the concept of mattering.
+- The concept of 'mattering' is defined by feeling significant, appreciated, invested in, and depended on.
+- The author's personal experience highlights the challenge of finding purpose post-retirement.
+- Tutoring provided the author with a sense of mattering.
+- Discussion includes varied perspectives on the importance of mattering and ways to achieve it.
 
-**Discussion Highlights:** The discussion highlights a mix of personal experiences and suggestions for finding purpose in retirement. While some commenters share their struggles or indifference, others offer practical advice like volunteering, tutoring, and engaging in community activities to regain a sense of mattering.
+**Discussion Highlights:** The discussion includes a mix of perspectives, with some users sharing their own experiences and others suggesting activities like volunteering, tutoring, and joining clubs to find a sense of mattering in retirement.
 
 ---
 
 ## 2. [7 Years FIRE'd and My First Romance (42M)](https://reddit.com/r/financialindependence/comments/1qehdjt/7_years_fired_and_my_first_romance_42m/)
 
-**Author:** u/hungn3 | **Upvotes:** 541 | **Comments:** 172 | **Date:** 2026-01-16
+**Author:** u/hungn3 | **Upvotes:** 540 | **Comments:** 172 | **Date:** 2026-01-16
 
-**Summary:** The author, a 42-year-old man who achieved financial independence in 2019, shares his experiences from the past year, including his first romantic relationship, new hobbies, extensive travel, and financial updates. His net worth increased by $270K, and he spent $43K with a 1.8% withdrawal rate.
+**Summary:** A 42-year-old man, who achieved financial independence and retired early (FIRE) in 2019 with $1.10M, shares his experiences from 2025. He entered his first romantic relationship at 41, picked up new hobbies like speed jigsaw puzzling and fusion dancing, traveled extensively, and volunteered in queer communities. His net worth grew to $2.36M with a 1.8% withdrawal rate.
 
 **Key Points:**
-- Author achieved FIRE in 2019 with $1.10M and now has a net worth of $2.36M.
-- Engaged in new hobbies like speed jigsaw puzzling and fusion dancing.
-- Spent 146 nights away from home and volunteered extensively.
-- Maintained a low withdrawal rate of 1.8% and donated $15K.
-- Community praised his emotional maturity and inspiring lifestyle.
+- Achieved FIRE in 2019 with $1.10M, now at $2.36M net worth in 2025.
+- First romantic relationship at 41, along with new hobbies and extensive travel.
+- Spent 146 nights away from home and volunteered in queer communities.
+- Withdrew 1.8% of portfolio ($43K) and donated $15K.
+- Discussion highlights emotional maturity in handling relationships and clarifies FIRE withdrawal rates.
 
-**Discussion Highlights:** The top comments highlight the author's emotional maturity in handling relationships and the inspiring nature of his lifestyle. There is also a clarification about the FIRE withdrawal rate calculation and appreciation for the detailed updates over the years.
+**Discussion Highlights:** The top comments praise the author's emotional maturity in maintaining friendships post-breakup and clarify that his withdrawal rate is around 4% based on the base year, not current portfolio value. Readers find his journey inspiring, especially for queer individuals pursuing FIRE.
 
 ---
 
