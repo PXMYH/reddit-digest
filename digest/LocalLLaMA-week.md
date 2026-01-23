@@ -1,73 +1,90 @@
 # r/LocalLLaMA Reading Digest
 
 **Period:** 2026-01-23 to 2026-01-23
-**Posts Summarized:** 44
-**Total Posts Analyzed:** 44
+**Posts Summarized:** 43
+**Total Posts Analyzed:** 43
 
 ---
 
 ## 1. [OpenAI CFO hinting at "Outcome-Based Pricing" (aka royalties on your work)? Makes the case for local even stronger.](https://reddit.com/r/LocalLLaMA/comments/1qkiylw/openai_cfo_hinting_at_outcomebased_pricing_aka/)
 
-**Author:** u/distalx | **Upvotes:** 149 | **Comments:** 53 | **Date:** 2026-01-23
+**Author:** u/distalx | **Upvotes:** 180 | **Comments:** 85 | **Date:** 2026-01-23
 
-**Summary:** OpenAI's CFO hints at a shift to outcome-based pricing, potentially taking a cut of customer discoveries, which strengthens the case for local AI solutions. The post discusses the implications of this pricing model and compares it to the grid vs. solar debate.
+**Summary:** The post discusses OpenAI's potential shift to outcome-based pricing for high-value enterprise deals, clarifying that it does not apply to regular users or indie developers. The author initially misunderstood the scope but corrected it after finding the primary source. Key points include OpenAI's CFO mentioning outcome-based pricing for enterprise deals, the pricing model being aimed at high-value industries like pharmaceuticals, the author correcting their initial misunderstanding, the importance of self-hosting and local stacks to avoid potential future costs, and users expressing concerns about OpenAI's potential to charge royalties on discoveries made using their AI. The discussion highlights a consensus on the importance of self-hosting and local stacks to maintain control over costs and terms, with users expressing skepticism and concern about OpenAI's potential pricing changes.
+
+---
+
+## 2. [Quiet Threadripper AI Workstation - 768GB DDR5 and 160GB VRAM (RTX 5090 + 4x R9700)](https://reddit.com/r/LocalLLaMA/comments/1qkghpk/quiet_threadripper_ai_workstation_768gb_ddr5_and/)
+
+**Author:** u/sloptimizer | **Upvotes:** 104 | **Comments:** 48 | **Date:** 2026-01-22
+
+**Summary:** The Reddit post describes a high-performance AI workstation featuring a Threadripper PRO 7975WX CPU, 768GB DDR5 RAM, an RTX 5090, and four R9700 GPUs, achieving impressive performance with DeepSeek-V3.1-Terminus. The build includes dual power supplies and custom cooling solutions to manage heat and power demands.
 
 **Key Points:**
-- OpenAI may move to outcome-based pricing, taking a cut of high-value customer discoveries.
-- This shift is compared to the grid vs. solar debate, emphasizing the benefits of local AI solutions.
-- The post highlights the potential risks of relying on cloud APIs and the advantages of self-hosting.
-- Top comments emphasize the importance of self-hosting and the potential unfairness of OpenAI's pricing model.
-- The discussion underscores the growing trend of hoarding GPUs for local AI solutions.
+- The workstation combines Nvidia and AMD GPUs using llama.cpp with specific compilation flags.
+- RAM cooling is critical for performance, with RAM fans providing a 30% boost.
+- Power and noise optimizations include limiting the RTX 5090 to 400W and adjusting R9700 performance levels.
+- The build achieves near-SOTA performance with DeepSeek-V3.1-Terminus at usable speeds.
+- The cost and complexity of the build sparked humorous discussions about its expense.
 
-**Discussion Highlights:** The discussion highlights a consensus on the importance of self-hosting AI solutions to avoid potential royalty fees and maintain control over terms. Users express concerns about OpenAI's pricing model and emphasize the benefits of local AI solutions.
-
----
-
-## 2. [Am I the only one who feels that, with all the AI boom, everyone is basically doing the same thing?](https://reddit.com/r/LocalLLaMA/comments/1qk8zj1/am_i_the_only_one_who_feels_that_with_all_the_ai/)
-
-**Author:** u/Empty_Enthusiasm_167 | **Upvotes:** 294 | **Comments:** 148 | **Date:** 2026-01-22
-
-**Summary:** The post discusses the redundancy of AI tools and applications during the AI boom, highlighting that many new tools are less polished versions of existing ones. The discussion reflects on the early days of AI technology and the enthusiasm driving shallow implementations. Key points include the low barrier to entry for AI development, the hype stage with many self-proclaimed AI experts, and the importance of focusing on unique, niche applications. The consensus is that while AI is exciting, the market is saturated with repetitive ideas.
+**Discussion Highlights:** The discussion highlights the impressive performance of the workstation, with users expressing admiration for its capabilities and humorously commenting on its likely high cost. Key takeaways include the effectiveness of combining Nvidia and AMD GPUs, the importance of RAM cooling, and optimizations for power and noise management.
 
 ---
 
-## 3. [vLLM raising $150M confirms it: We have moved from the "Throughput Era" to the "Latency(Cold Starts)."](https://reddit.com/r/LocalLLaMA/comments/1qk68n8/vllm_raising_150m_confirms_it_we_have_moved_from/)
+## 3. [Am I the only one who feels that, with all the AI boom, everyone is basically doing the same thing?](https://reddit.com/r/LocalLLaMA/comments/1qk8zj1/am_i_the_only_one_who_feels_that_with_all_the_ai/)
 
-**Author:** u/pmv143 | **Upvotes:** 139 | **Comments:** 81 | **Date:** 2026-01-22
+**Author:** u/Empty_Enthusiasm_167 | **Upvotes:** 322 | **Comments:** 156 | **Date:** 2026-01-22
+
+**Summary:** The post discusses the redundancy of AI projects during the AI boom, noting that many new tools and applications are essentially reinventing existing solutions. The author acknowledges the potential of AI but criticizes the lack of innovation and the financial waste involved in these redundant projects.
+
+**Key Points:**
+- Many AI projects are redundant, reinventing existing tools or applications.
+- The barrier to entry for AI development is low, leading to shallow implementations.
+- There is a lot of enthusiasm and hype around AI, with many people claiming expertise.
+- Some developers are focusing on niche tools and specific needs rather than reinventing the wheel.
+- The current phase is seen as a hype stage, similar to past technological trends.
+
+**Discussion Highlights:** The discussion highlights a consensus that the AI field is currently in a hype stage, with many redundant projects. However, there is also a focus on niche tools and specific applications that address unique needs. The community acknowledges the potential of AI but criticizes the lack of innovation and the financial waste involved in redundant projects.
+
+---
+
+## 4. [vLLM raising $150M confirms it: We have moved from the "Throughput Era" to the "Latency(Cold Starts)."](https://reddit.com/r/LocalLLaMA/comments/1qk68n8/vllm_raising_150m_confirms_it_we_have_moved_from/)
+
+**Author:** u/pmv143 | **Upvotes:** 151 | **Comments:** 86 | **Date:** 2026-01-22
 
 **Summary:** The Reddit post discusses the significant investment in vLLM, signaling a shift in focus from training to serving in the AI space. It highlights the importance of software over hardware and the race for standardization in inference engines.
 
 **Key Points:**
 - vLLM's $150M funding signals a shift from training to serving in AI.
-- Software optimization is crucial for efficient inference, not just hardware.
-- The next major challenge is reducing latency, particularly cold starts.
-- Discussion on whether vLLM will focus on horizontal compatibility or vertical optimization.
-- Debate on vLLM's role compared to other inference engines like llama.cpp.
+- Software optimization is crucial for efficient inference.
+- Standardization in inference engines is a key focus.
+- Latency, particularly cold starts, is the next major challenge.
+- Discussion includes debates on horizontal compatibility vs. vertical optimization.
 
-**Discussion Highlights:** The discussion includes debates on the significance of the investment, comparisons with other inference engines, and opinions on the future of AI serving. Some commenters question the valuation, while others discuss the technical challenges and potential solutions for latency and cold starts.
+**Discussion Highlights:** The discussion highlights debates on the role of vLLM in the inference space, with comparisons to other tools like llama.cpp. There is also a focus on the importance of latency and cold starts in cloud environments, and a consensus that local solutions may ultimately prevail.
 
 ---
 
-## 4. [Qwen have open-sourced the full family of Qwen3-TTS: VoiceDesign, CustomVoice, and Base, 5 models (0.6B &amp; 1.8B), Support for 10 languages](https://reddit.com/r/LocalLLaMA/comments/1qjul5t/qwen_have_opensourced_the_full_family_of_qwen3tts/)
+## 5. [Qwen have open-sourced the full family of Qwen3-TTS: VoiceDesign, CustomVoice, and Base, 5 models (0.6B &amp; 1.8B), Support for 10 languages](https://reddit.com/r/LocalLLaMA/comments/1qjul5t/qwen_have_opensourced_the_full_family_of_qwen3tts/)
 
-**Author:** u/Nunki08 | **Upvotes:** 635 | **Comments:** 90 | **Date:** 2026-01-22
+**Author:** u/Nunki08 | **Upvotes:** 654 | **Comments:** 91 | **Date:** 2026-01-22
 
-**Summary:** Qwen has open-sourced the Qwen3-TTS model family, including VoiceDesign, CustomVoice, and Base models in 0.6B and 1.8B sizes, supporting 10 languages. The release includes resources on GitHub, Hugging Face, and a demo, with mixed feedback on voice quality and requests for additional support.
+**Summary:** Qwen has open-sourced the Qwen3-TTS model family, including VoiceDesign, CustomVoice, and Base models in 0.6B and 1.8B sizes, supporting 10 languages. The release includes resources on GitHub, Hugging Face, and a demo.
 
 **Key Points:**
-- Qwen3-TTS models (0.6B & 1.8B) released with support for 10 languages
+- Open-sourced Qwen3-TTS models (0.6B & 1.8B)
+- Supports 10 languages
 - Resources available on GitHub, Hugging Face, blog, paper, and demo
-- Mixed feedback on voice quality, with some noting anime-like English voices
-- Requests for support in compiled languages like llama.cpp
-- Overall positive reception for open-sourcing efforts
+- Positive community reception with some concerns about voice quality
+- Requests for compatibility with other tools like llama.cpp
 
-**Discussion Highlights:** The discussion highlights mixed feedback on voice quality, with some users noting anime-like English voices. There are requests for additional support in compiled languages like llama.cpp, and overall appreciation for Qwen's open-sourcing efforts.
+**Discussion Highlights:** The community appreciates Qwen's open-sourcing efforts but has mixed feedback on voice quality and requests for broader tool compatibility.
 
 ---
 
-## 5. [Qwen dev on Twitter!!](https://reddit.com/r/LocalLLaMA/comments/1qjtyw8/qwen_dev_on_twitter/)
+## 6. [Qwen dev on Twitter!!](https://reddit.com/r/LocalLLaMA/comments/1qjtyw8/qwen_dev_on_twitter/)
 
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 682 | **Comments:** 60 | **Date:** 2026-01-22
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 701 | **Comments:** 60 | **Date:** 2026-01-22
 
 **Summary:** The Reddit post discusses Qwen's TTS model announcement, with community reactions and links to the model on Hugging Face.
 
@@ -82,597 +99,555 @@
 
 ---
 
-## 6. [GLM 4.7 flash FA fix for CUDA has been merged into llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qjrsur/glm_47_flash_fa_fix_for_cuda_has_been_merged_into/)
+## 7. [GLM 4.7 flash FA fix for CUDA has been merged into llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qjrsur/glm_47_flash_fa_fix_for_cuda_has_been_merged_into/)
 
-**Author:** u/jacek2023 | **Upvotes:** 160 | **Comments:** 48 | **Date:** 2026-01-22
+**Author:** u/jacek2023 | **Upvotes:** 155 | **Comments:** 48 | **Date:** 2026-01-22
 
-**Summary:** The Reddit post discusses the recent merge of GLM 4.7 flash FA fix for CUDA into llama.cpp, highlighting both successes and ongoing issues with performance and compatibility.
+**Summary:** The Reddit post announces the merge of GLM 4.7 flash FA fix for CUDA into llama.cpp, with users reporting mixed results including issues with quantized cache and performance on Pascal GPUs.
 
 **Key Points:**
 - GLM 4.7 flash FA fix for CUDA has been merged into llama.cpp
-- Quantized cache performance issues reported
-- Successful builds reported by users
-- Performance discrepancies noted on Pascal GPUs
-- General feedback on model performance and CPU usage
+- Quantized cache is not working well for some users
+- Performance on Pascal GPUs is reported to be half the speed of non-flash-attention kernels
+- Some users report successful builds and usage of the model
+- General feedback includes reports of the model 'thinking a lot'
 
-**Discussion Highlights:** The discussion highlights mixed experiences with the new merge, including successful builds and performance improvements, but also ongoing issues with quantized cache and GPU-specific performance discrepancies.
+**Discussion Highlights:** The discussion highlights issues with quantized cache and performance on Pascal GPUs, while some users report successful usage of the model. There is a consensus on the need for further bug fixes and optimizations.
 
 ---
 
-## 7. [Fei Fei Li dropped a non-JEPA world model, and the spatial intelligence is insane](https://reddit.com/r/LocalLLaMA/comments/1qjjrmq/fei_fei_li_dropped_a_nonjepa_world_model_and_the/)
+## 8. [Fei Fei Li dropped a non-JEPA world model, and the spatial intelligence is insane](https://reddit.com/r/LocalLLaMA/comments/1qjjrmq/fei_fei_li_dropped_a_nonjepa_world_model_and_the/)
 
-**Author:** u/coloradical5280 | **Upvotes:** 181 | **Comments:** 86 | **Date:** 2026-01-21
+**Author:** u/coloradical5280 | **Upvotes:** 182 | **Comments:** 86 | **Date:** 2026-01-21
 
-**Summary:** Fei-Fei Li's World Labs launched Marble, a generative world model using Neural Radiance Fields and Gaussian splatting, enabling fast creation of explorable 3D worlds with unique spatial intelligence and editing capabilities.
+**Summary:** Fei-Fei Li's World Labs launched Marble, a generative world model using Neural Radiance Fields (NeRF) and Gaussian splatting, enabling fast creation of explorable 3D worlds. The technology supports persistent, editable environments and is praised for its spatial intelligence, though it has faced criticism for not being open source and its limited scope.
 
 **Key Points:**
-- Marble uses Neural Radiance Fields (NeRF) and Gaussian splatting for 3D world generation.
-- It allows for persistent, editable, and stateful 3D environments.
-- The technology supports VR and exports to various platforms like Unreal and Unity.
-- Criticism includes lack of open-source availability and limited scope of generated environments.
-- Some users find the visual output underwhelming despite the technological innovation.
+- Marble uses NeRF and Gaussian splatting for fast 3D world generation.
+- The model supports persistent, editable environments and VR integration.
+- Criticism includes lack of open-source availability and limited scene sizes.
+- The technology is noted for its spatial intelligence and potential future impact.
+- Mixed reactions in comments, with some dismissing it as overhyped.
 
-**Discussion Highlights:** The discussion highlights mixed reactions, with some users criticizing the lack of open-source availability and the limited scope of the generated environments, while others acknowledge the technological innovation but find the visual output underwhelming.
-
----
-
-## 8. [Wrote a guide for running Claude Code with GLM-4.7 Flash locally with llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qjf6ys/wrote_a_guide_for_running_claude_code_with_glm47/)
-
-**Author:** u/tammamtech | **Upvotes:** 110 | **Comments:** 45 | **Date:** 2026-01-21
-
-**Summary:** The post provides a guide for running Claude Code with GLM-4.7 Flash locally using llama.cpp, including installation instructions and command examples for both direct and Docker setups. It highlights features like model swapping and GPU memory management.
-
-**Key Points:**
-- Guide for running Claude Code with GLM-4.7 Flash using llama.cpp
-- Includes installation instructions and command examples
-- Features like model swapping and GPU memory management are highlighted
-- Discussion includes comments on implementation details and open-source alternatives
-- Top comments provide additional context and suggestions for open-source tools
-
-**Discussion Highlights:** The discussion includes comments on the implementation details, such as the timing of the Anthropic API endpoint implementation and suggestions for open-source alternatives like OpenCode and Harbor. Users also inquire about performance metrics and the rationale behind focusing on Claude Code.
+**Discussion Highlights:** The discussion highlights a divide between appreciation for the technological innovation and skepticism about its practicality and accessibility. Many commenters criticized the lack of open-source availability and the limited size of generated environments, while others acknowledged the potential of the spatial intelligence demonstrated.
 
 ---
 
-## 9. [8x AMD MI50 32GB at 26 t/s (tg) with MiniMax-M2.1 and 15 t/s (tg) with GLM 4.7 (vllm-gfx906)](https://reddit.com/r/LocalLLaMA/comments/1qjaxfy/8x_amd_mi50_32gb_at_26_ts_tg_with_minimaxm21_and/)
+## 9. [Wrote a guide for running Claude Code with GLM-4.7 Flash locally with llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qjf6ys/wrote_a_guide_for_running_claude_code_with_glm47/)
 
-**Author:** u/ai-infos | **Upvotes:** 308 | **Comments:** 116 | **Date:** 2026-01-21
+**Author:** u/tammamtech | **Upvotes:** 112 | **Comments:** 45 | **Date:** 2026-01-21
+
+**Summary:** The Reddit post by u/tammamtech provides a guide for running Claude Code with GLM-4.7 Flash locally using llama.cpp. It includes installation instructions, commands for running the model, and a Docker setup. The post highlights the ability to replicate Ollama features in llama.cpp, such as model swapping and freeing GPU memory on idle. The discussion includes comments on the implementation details, such as the timing of the Anthropic API endpoint implementation and inquiries about performance metrics like VRAM usage and tokens per second. There are also suggestions for using open-source alternatives like OpenCode and Harbor.
+
+---
+
+## 10. [8x AMD MI50 32GB at 26 t/s (tg) with MiniMax-M2.1 and 15 t/s (tg) with GLM 4.7 (vllm-gfx906)](https://reddit.com/r/LocalLLaMA/comments/1qjaxfy/8x_amd_mi50_32gb_at_26_ts_tg_with_minimaxm21_and/)
+
+**Author:** u/ai-infos | **Upvotes:** 311 | **Comments:** 117 | **Date:** 2026-01-21
 
 **Summary:** The post discusses a cost-effective local inference setup using 8x AMD MI50 GPUs, achieving high token generation speeds with MiniMax-M2.1 and GLM 4.7 models. The setup is praised for its performance and affordability.
 
 **Key Points:**
-- MiniMax-M2.1 achieves 26.8 tok/s output and 3000 tok/s input with a context length of 196,608.
-- GLM 4.7 achieves 15.6 tok/s output and 3000 tok/s input with a context length of 95,000.
-- The setup costs $880 for 256GB VRAM and draws 280W idle / 1200W during inference.
-- The community highly praises the setup for its cost-effectiveness and performance.
-- The setup is stable for long context use cases like coding agents.
+- MiniMax-M2.1 achieves 26.8 tok/s output and 3000 tok/s input on vllm-gfx906 with a context length of 196608.
+- GLM 4.7 achieves 15.6 tok/s output and 3000 tok/s input on vllm-gfx906 with a context length of 95000.
+- The setup costs $880 for 256GB VRAM and has a power draw of 280W idle / 1200W during inference.
+- The goal is to create one of the most cost-effective solutions for fast intelligent local inference.
+- The community appreciates the setup for its performance and affordability.
 
-**Discussion Highlights:** The community response is overwhelmingly positive, with users expressing admiration for the cost-effectiveness and performance of the setup. Some users also express interest in replicating the setup but note the increased cost of GPUs on platforms like eBay.
+**Discussion Highlights:** The community response is overwhelmingly positive, with users praising the setup's performance and cost-effectiveness. Some users express interest in replicating the setup but note that current prices for the GPUs are higher than those mentioned in the post.
 
 ---
 
-## 10. [VibeVoice-ASR released!](https://reddit.com/r/LocalLLaMA/comments/1qj40er/vibevoiceasr_released/)
+## 11. [VibeVoice-ASR released!](https://reddit.com/r/LocalLLaMA/comments/1qj40er/vibevoiceasr_released/)
 
-**Author:** u/k_means_clusterfuck | **Upvotes:** 150 | **Comments:** 43 | **Date:** 2026-01-21
+**Author:** u/k_means_clusterfuck | **Upvotes:** 152 | **Comments:** 44 | **Date:** 2026-01-21
 
-**Summary:** Microsoft released VibeVoice-ASR, a multilingual automatic speech recognition model with 9B parameters. Users report good quality and multilingual support, though some note its large size and lack of benchmarks.
+**Summary:** Microsoft released VibeVoice-ASR, a multilingual ASR model with 9B parameters. Users report good quality and performance, though some concerns about benchmarks and comparisons with other models like Whisper exist.
 
 **Key Points:**
-- VibeVoice-ASR is a new ASR model by Microsoft
-- Model size is 9B parameters, which is relatively large
-- Users report good quality and multilingual capabilities
-- Lack of benchmarks is noted as a concern
-- Performance varies with different languages and contexts
+- VibeVoice-ASR is a new multilingual ASR model by Microsoft
+- Model size is 9B parameters
+- Users report good quality despite size
+- Lack of benchmarks and comparisons with other models noted
+- Performance metrics shared (e.g., 91% accuracy in Chinese audio tests)
 
-**Discussion Highlights:** Users highlight the model's good quality and multilingual support but express concerns about its large size and the absence of benchmarks. Some users report high accuracy in specific tests, while others note challenges with polyphonic characters.
-
----
-
-## 11. [One-shot single page web development: pacman clone - GLM 4.7 vs GLM 4.7 Flash vs GLM 4.5 Air vs Gemini 3 Pro vs Gemini 3 Flash - Results available for online testing - Prompt and instructions provided for testing with other models](https://reddit.com/r/LocalLLaMA/comments/1qj13uh/oneshot_single_page_web_development_pacman_clone/)
-
-**Author:** u/ex-arman68 | **Upvotes:** 104 | **Comments:** 47 | **Date:** 2026-01-21
-
-**Summary:** The Reddit post discusses a test comparing various AI models' ability to generate a Pacman clone webpage in a single shot. GLM 4.7 emerged as the clear winner, followed by Minimax M2.1, with Gemini models performing less effectively than expected. Key points include GLM 4.7's top performance, Minimax M2.1's impressive results with sound effects, and the underperformance of Gemini models. The discussion highlighted the effectiveness of the testing methodology and the unexpected superiority of GLM 4.7 over the Gemini models.
+**Discussion Highlights:** Positive feedback on quality and multilingual capabilities, concerns about model size and lack of benchmarks, comparisons with existing models like Whisper
 
 ---
 
-## 12. [GLM-4.7-Flash-GGUF bug fix - redownload for better outputs](https://reddit.com/r/LocalLLaMA/comments/1qiy0ha/glm47flashgguf_bug_fix_redownload_for_better/)
+## 12. [One-shot single page web development: pacman clone - GLM 4.7 vs GLM 4.7 Flash vs GLM 4.5 Air vs Gemini 3 Pro vs Gemini 3 Flash - Results available for online testing - Prompt and instructions provided for testing with other models](https://reddit.com/r/LocalLLaMA/comments/1qj13uh/oneshot_single_page_web_development_pacman_clone/)
 
-**Author:** u/etherd0t | **Upvotes:** 113 | **Comments:** 57 | **Date:** 2026-01-21
+**Author:** u/ex-arman68 | **Upvotes:** 103 | **Comments:** 47 | **Date:** 2026-01-21
 
-**Summary:** A bug fix for the GLM-4.7-Flash-GGUF model has been released, improving outputs and fixing looping issues. Users are advised to re-download the model and use recommended parameters for optimal performance.
+**Summary:** The post compares AI models' performance in generating a Pacman clone webpage, with GLM 4.7 ranking as the top performer, followed by Minimax M2.1 and Gemini 3 Flash. The discussion highlights the effectiveness of the testing methodology and the surprising performance of GLM 4.7. Key points include GLM 4.7's top performance, Minimax M2.1's sound implementation, Gemini 3 Pro's underperformance, the praised testing methodology, and GLM 4.7's superiority over Google's Gemini models. The discussion emphasized the effectiveness of the testing approach and the unexpected superiority of GLM 4.7 over Google's Gemini models, with users sharing additional results and insights on model performance.
+
+---
+
+## 13. [GLM-4.7-Flash-GGUF bug fix - redownload for better outputs](https://reddit.com/r/LocalLLaMA/comments/1qiy0ha/glm47flashgguf_bug_fix_redownload_for_better/)
+
+**Author:** u/etherd0t | **Upvotes:** 112 | **Comments:** 57 | **Date:** 2026-01-21
+
+**Summary:** The post announces a bug fix for the GLM-4.7-Flash-GGUF model, with updated GGUF files available for download. Users are advised to re-download the model for improved outputs and provided with recommended parameters for different use cases.
 
 **Key Points:**
-- Bug fix released for GLM-4.7-Flash-GGUF model, addressing looping and poor outputs
-- Recommended parameters provided for general use and tool-calling
-- Users report significant improvements in model performance post-update
-- Some users note the model is slower compared to alternatives like GPT-OSS-20b
-- Positive feedback on the fix and appreciation for the update
+- Bug fix for GLM-4.7-Flash-GGUF model addressing looping and poor outputs
+- Updated GGUF files available for download
+- Recommended parameters for general use and tool-calling provided
+- Users report significant improvements in the fixed version
+- Performance comparison with other models like GPT-OSS-20b mentioned
 
-**Discussion Highlights:** Users generally appreciate the bug fix and report improved performance. Some note the model's speed compared to alternatives, but overall consensus is positive about the update.
+**Discussion Highlights:** Users express satisfaction with the bug fix, noting improved performance and usability. Some discuss performance comparisons with other models and anticipate further optimizations.
 
 ---
 
-## 13. [Fix for GLM 4.7 Flash has been merged into llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qiwm3c/fix_for_glm_47_flash_has_been_merged_into_llamacpp/)
+## 14. [Fix for GLM 4.7 Flash has been merged into llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qiwm3c/fix_for_glm_47_flash_has_been_merged_into_llamacpp/)
 
-**Author:** u/jacek2023 | **Upvotes:** 308 | **Comments:** 86 | **Date:** 2026-01-21
+**Author:** u/jacek2023 | **Upvotes:** 311 | **Comments:** 86 | **Date:** 2026-01-21
 
-**Summary:** A fix for GLM 4.7 Flash has been merged into llama.cpp, with CUDA support in progress. The community is discussing performance metrics and compatibility issues.
+**Summary:** A fix for GLM 4.7 Flash has been merged into llama.cpp, with ongoing work on CUDA support. The update has received significant engagement, with users discussing performance metrics and sharing their experiences.
 
 **Key Points:**
 - Fix for GLM 4.7 Flash merged into llama.cpp
-- CUDA support is in progress
+- CUDA support in progress via a GitHub pull request
 - Performance metrics shared for different quantizations and GPUs
-- Discussion on CPU-only performance and compatibility issues
-- Positive feedback on model improvements and reduced gibberish
+- Users report improved model behavior with no gibberish or repetition
+- Discussion includes CPU-only performance and potential issues with LMStudio
 
-**Discussion Highlights:** The community is actively discussing performance metrics, compatibility issues, and improvements in model behavior. There is a consensus on the positive impact of the fix, with some users reporting slower prompt processing in specific environments like LMStudio.
+**Discussion Highlights:** Users are actively sharing performance data and experiences, with a consensus that the model is now more reliable. Some users report slow prompt processing in LMStudio, and there is interest in CPU-only performance for those without GPUs.
 
 ---
 
-## 14. [Knowledge distillation with Claude as the interface: trained a 0.6B model to match GPT-class performance on Text2SQL in a singe conversation](https://reddit.com/r/LocalLLaMA/comments/1qiu6jo/knowledge_distillation_with_claude_as_the/)
+## 15. [Knowledge distillation with Claude as the interface: trained a 0.6B model to match GPT-class performance on Text2SQL in a singe conversation](https://reddit.com/r/LocalLLaMA/comments/1qiu6jo/knowledge_distillation_with_claude_as_the/)
 
-**Author:** u/party-horse | **Upvotes:** 162 | **Comments:** 37 | **Date:** 2026-01-21
+**Author:** u/party-horse | **Upvotes:** 164 | **Comments:** 37 | **Date:** 2026-01-21
 
 **Summary:** The post describes a workflow for training small, task-specific models using knowledge distillation via Claude, achieving significant performance improvements in Text2SQL tasks with minimal setup overhead.
 
 **Key Points:**
-- Knowledge distillation via Claude simplifies the fine-tuning process for small models.
-- The approach uses a large teacher model (DeepSeek-V3) to generate synthetic training data.
-- The fine-tuned 0.6B model achieved a 74% score, compared to the base model's 36%.
-- The workflow includes task selection, data conversion, teacher evaluation, training, and packaging.
-- The method is praised for its efficiency and potential applications in on-device agents.
+- Off-the-shelf small models perform poorly on specialized tasks like Text2SQL.
+- Knowledge distillation using a large teacher model (DeepSeek-V3) and a small student model improves performance from 36% to 74%.
+- Claude handles task selection, data conversion, teacher evaluation, training, and packaging.
+- The approach reduces the need for extensive data preparation and training infrastructure.
+- Potential applications include training models for understanding service/OS logs and running local inference on devices.
 
-**Discussion Highlights:** The discussion highlights the effectiveness of the approach, its potential for on-device applications, and some technical considerations like using SQL AST for validation.
+**Discussion Highlights:** The discussion highlights the positive reception of the approach, with comments praising its potential for training small models for specific tasks and running local inference. Some users suggested improvements like using SQL AST for checking matches and noted that the process could be replicated with open-source tools.
 
 ---
 
-## 15. [vLLM v0.14.0 released](https://reddit.com/r/LocalLLaMA/comments/1qim0e9/vllm_v0140_released/)
+## 16. [vLLM v0.14.0 released](https://reddit.com/r/LocalLLaMA/comments/1qim0e9/vllm_v0140_released/)
 
-**Author:** u/jinnyjuice | **Upvotes:** 167 | **Comments:** 32 | **Date:** 2026-01-20
+**Author:** u/jinnyjuice | **Upvotes:** 169 | **Comments:** 32 | **Date:** 2026-01-20
 
-**Summary:** The Reddit post announces the release of vLLM v0.14.0, highlighting new features and updates. Users discuss the benefits of automatic context length fitting and the deprecation of certain quantization methods.
+**Summary:** The Reddit post announces the release of vLLM v0.14.0, highlighting new features and updates. Users discuss improvements like automatic context length fitting and the deprecation of certain quantization methods.
 
 **Key Points:**
 - Automatic context length fitting to GPU memory to prevent OOM failures
 - Deprecation of some quantization methods, including HQQ
 - Introduction of Marlin for Turing (sm75) as a major upgrade
-- User excitement about the new features and improvements
+- User interest in future sm120 optimizations
 
-**Discussion Highlights:** Users expressed enthusiasm for the automatic context length feature and discussed the implications of deprecated quantization methods. The Marlin for Turing upgrade was noted as a significant improvement.
+**Discussion Highlights:** Users expressed excitement about the automatic context length feature and discussed the implications of deprecated quantization methods. The Marlin upgrade for Turing was noted as a significant improvement, and there was anticipation for future optimizations.
 
 ---
 
-## 16. [Current GLM-4.7-Flash implementation confirmed to be broken in llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qih9r8/current_glm47flash_implementation_confirmed_to_be/)
+## 17. [Current GLM-4.7-Flash implementation confirmed to be broken in llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qih9r8/current_glm47flash_implementation_confirmed_to_be/)
 
-**Author:** u/Sweet_Albatross9772 | **Upvotes:** 244 | **Comments:** 57 | **Date:** 2026-01-20
+**Author:** u/Sweet_Albatross9772 | **Upvotes:** 241 | **Comments:** 57 | **Date:** 2026-01-20
 
-**Summary:** The current GLM-4.7-Flash implementation in llama.cpp is confirmed broken, with significant differences in logprobs compared to vLLM, leading to issues like looping and poor performance. A potential fix is already available in a pull request.
+**Summary:** The Reddit post confirms that the current GLM-4.7-Flash implementation in llama.cpp is broken, causing issues like looping and poor performance due to differences in logprobs compared to vLLM. A potential fix is already proposed in a PR.
 
 **Key Points:**
 - GLM-4.7-Flash implementation in llama.cpp is broken
 - Significant differences in logprobs compared to vLLM
-- Potential fix available in pull request #18980
-- Community acknowledges the issue and expects a quick resolution
-- Common practice to wait for bug fixes before using new models
+- Issues include looping, overthinking, and poor performance
+- Potential fix proposed in PR #18980
+- Community expects a quick resolution
 
-**Discussion Highlights:** The community is aware of the issue and expects it to be resolved quickly, with some users suggesting to wait for bug fixes before using new models. The consensus is that the issue is minor and will be fixed soon.
-
----
-
-## 17. [You have 64gb ram and 16gb VRAM; internet is permanently shut off: what 3 models are the ones you use?](https://reddit.com/r/LocalLLaMA/comments/1qids6a/you_have_64gb_ram_and_16gb_vram_internet_is/)
-
-**Author:** u/Adventurous-Gold6413 | **Upvotes:** 534 | **Comments:** 298 | **Date:** 2026-01-20
-
-**Summary:** The Reddit post discusses the selection of local models for use with 64GB RAM and 16GB VRAM when internet access is unavailable. The community shares their preferences and recommendations for the best models to use in this scenario. Key points include recommendations for models like Gemma 3 27B, GLM 4.5 Air, and GPT-OSS 120B, with GPT-OSS-120B being praised for its performance and versatility. The discussion highlights a consensus around these models and shows appreciation for the post and engagement in the discussion.
+**Discussion Highlights:** The community acknowledges the issue and is optimistic about a quick fix. Some users share their strategy of waiting before adopting new models to avoid initial bugs.
 
 ---
 
-## 18. [Liquid AI released the best thinking Language Model Under 1GB](https://reddit.com/r/LocalLLaMA/comments/1qi512t/liquid_ai_released_the_best_thinking_language/)
+## 18. [You have 64gb ram and 16gb VRAM; internet is permanently shut off: what 3 models are the ones you use?](https://reddit.com/r/LocalLLaMA/comments/1qids6a/you_have_64gb_ram_and_16gb_vram_internet_is/)
 
-**Author:** u/PauLabartaBajo | **Upvotes:** 224 | **Comments:** 52 | **Date:** 2026-01-20
+**Author:** u/Adventurous-Gold6413 | **Upvotes:** 531 | **Comments:** 298 | **Date:** 2026-01-20
 
-**Summary:** Liquid AI released LFM2.5-1.2B-Thinking, a compact reasoning model optimized for on-device use, claiming strong performance in math, tool use, and instruction following. The model is designed for edge deployment with low latency and memory efficiency, though some users question its real-world applicability and licensing terms.
+**Summary:** The post discusses selecting local models for use with 64GB RAM and 16GB VRAM when internet access is unavailable. Users share their preferred models and experiences.
 
 **Key Points:**
-- LFM2.5-1.2B-Thinking is a 1.2B parameter model optimized for on-device reasoning with 900 MB memory usage.
-- It excels in math, tool use, and instruction following, outperforming larger models in some benchmarks.
-- Users raise concerns about memory requirements, performance trade-offs, and non-permissive licensing.
-- The model is available on Hugging Face, LEAP, and Liquid AI Playground.
+- Users recommend models like Gemma 3 27B, GLM 4.5 Air, and GPT-OSS 120B
+- GPT-OSS-120B is highlighted for its performance and versatility
+- The discussion emphasizes the importance of model compatibility with the given hardware
+- Some users appreciate the contribution of models like GPT-OSS-120B to the community
 
-**Discussion Highlights:** The discussion highlights skepticism about memory efficiency claims, with users noting that quantization may be necessary for edge deployment. Some commenters compare its performance to other models, suggesting it excels in math but may lag in other areas. There is also criticism of the licensing terms and a desire for larger models.
+**Discussion Highlights:** The consensus leans towards models like GPT-OSS-120B for its balance of performance and compatibility with the specified hardware. Users also appreciate the variety of models available for local use.
 
 ---
 
-## 19. [768Gb Fully Enclosed 10x GPU Mobile AI Build](https://reddit.com/r/LocalLLaMA/comments/1qi4uj2/768gb_fully_enclosed_10x_gpu_mobile_ai_build/)
+## 19. [Liquid AI released the best thinking Language Model Under 1GB](https://reddit.com/r/LocalLLaMA/comments/1qi512t/liquid_ai_released_the_best_thinking_language/)
 
-**Author:** u/SweetHomeAbalama0 | **Upvotes:** 859 | **Comments:** 257 | **Date:** 2026-01-20
+**Author:** u/PauLabartaBajo | **Upvotes:** 228 | **Comments:** 52 | **Date:** 2026-01-20
 
-**Summary:** The post describes a custom-built, fully enclosed mobile AI system with 10 GPUs, designed for running large MoE models and supporting graphic design tasks. The build, costing around $17k, uses a mix of 3090 and 5090 GPUs to balance performance and budget, and addresses challenges like mobility and protection from pets.
+**Summary:** Liquid AI released LFM2.5-1.2B-Thinking, a compact reasoning model that runs on-device with 900 MB of memory, excelling in math, tool use, and instruction following. It outperforms larger models in speed and efficiency, with broad ecosystem support.
 
 **Key Points:**
-- Custom-built system with Threadripper Pro 3995WX, 512GB DDR4, and 10 GPUs (8x 3090 + 2x 5090)
-- Designed for large MoE models, video generation, and high-detail image generation
-- Fully enclosed and mobile, addressing challenges like pet protection and airflow
-- Budget-conscious build, avoiding unnecessary expenses for diminishing returns
-- Community reactions highlight the impressive nature of the build and its practicality
+- LFM2.5-1.2B-Thinking is optimized for on-device reasoning with low memory usage.
+- It generates internal thinking traces for systematic problem-solving.
+- The model outperforms larger models in speed and memory efficiency.
+- Concerns raised about memory requirements and quantization trade-offs.
+- Performance varies across benchmarks, with notable strength in math tasks.
 
-**Discussion Highlights:** The community praised the build for its innovation and practicality, with humorous comments about its portability and power requirements. The post gained significant attention, including a special flair and feature on Discord.
+**Discussion Highlights:** The discussion highlights concerns about memory requirements and the trade-offs of quantization. Users noted that while the model excels in math tasks, its performance is comparable to other models in other areas. There is also a desire for larger models and criticism of the licensing terms.
 
 ---
 
-## 20. [Over 6K novels with reasoning traces to train full book writing LLMs](https://reddit.com/r/LocalLLaMA/comments/1qi3nmd/over_6k_novels_with_reasoning_traces_to_train/)
+## 20. [768Gb Fully Enclosed 10x GPU Mobile AI Build](https://reddit.com/r/LocalLLaMA/comments/1qi4uj2/768gb_fully_enclosed_10x_gpu_mobile_ai_build/)
+
+**Author:** u/SweetHomeAbalama0 | **Upvotes:** 866 | **Comments:** 260 | **Date:** 2026-01-20
+
+**Summary:** The post describes a custom-built, fully enclosed mobile AI system with 10 GPUs, designed for running large MoE models and supporting graphic design tasks. The build balances performance and cost, with a focus on mobility and protection from pets.
+
+**Key Points:**
+- The system features a Threadripper Pro 3995WX, 512GB DDR4, and 10 GPUs (8x 3090 + 2x 5090).
+- It is designed for large MoE models, video generation, and high-detail image generation.
+- The enclosure was a major challenge, solved with a Thermaltake Core W200 case.
+- The total cost was around $17k, with a focus on avoiding unnecessary expenses.
+- The post received significant engagement, with comments highlighting its uniqueness and practicality.
+
+**Discussion Highlights:** The discussion highlights the system's impressive capabilities and the creative solution to the enclosure problem. Comments also joke about its portability and power requirements.
+
+---
+
+## 21. [Over 6K novels with reasoning traces to train full book writing LLMs](https://reddit.com/r/LocalLLaMA/comments/1qi3nmd/over_6k_novels_with_reasoning_traces_to_train/)
 
 **Author:** u/XMasterDE | **Upvotes:** 111 | **Comments:** 46 | **Date:** 2026-01-20
 
-**Summary:** The post announces an update to the LongPage dataset, expanding it to over 6,000 novels with hierarchical planning traces to train full-book writing LLMs. The team is also training a model on this dataset and plans to release it soon. The community shows enthusiasm and requests more details about the dataset and model.
-
-**Key Points:**
-- LongPage dataset expanded to 6K+ novels with hierarchical planning traces
-- Dataset aims to support training full-book writing LLMs
-- Team is training a model on LongPage and plans to release it soon
-- Community shows interest and requests more details
-- Links provided for further engagement and updates
-
-**Discussion Highlights:** The community is enthusiastic about the project, with users expressing interest in the dataset's potential for fiction writing and requesting more details about its functionality and future releases.
+**Summary:** The post announces an update to the LongPage dataset, expanding it to over 6,000 novels with hierarchical planning traces for training full-book writing LLMs. The team is also training a model on this dataset and plans to release it soon. Key points include the dataset's expansion, its support for training full-book writing LLMs, the team's ongoing model training, the dataset's availability on Hugging Face, and community interest. The discussion highlights enthusiasm for the dataset's potential in fiction writing, requests for more details on how the dataset works, and inquiries about the inclusion of specific works and the availability of data processing code.
 
 ---
 
-## 21. [glm-4.7-flash has the best thinking process with clear steps, I love it](https://reddit.com/r/LocalLLaMA/comments/1qhxlgy/glm47flash_has_the_best_thinking_process_with/)
+## 22. [glm-4.7-flash has the best thinking process with clear steps, I love it](https://reddit.com/r/LocalLLaMA/comments/1qhxlgy/glm47flash_has_the_best_thinking_process_with/)
 
-**Author:** u/uptonking | **Upvotes:** 143 | **Comments:** 34 | **Date:** 2026-01-20
+**Author:** u/uptonking | **Upvotes:** 141 | **Comments:** 34 | **Date:** 2026-01-20
 
-**Summary:** The Reddit post discusses the user's experience with the glm-4.7-flash model, highlighting its structured thinking process and comparing it favorably to other models like nemotron-nano and qwen3-30b. The user appreciates the model's clear reasoning steps but notes its slower performance and occasional looping issues. Key points include the model's detailed thinking process, longer thinking duration, performance issues, praised reasoning process, and the user's consideration to replace other models with glm-4.7-flash. The discussion highlights a consensus on the model's superior reasoning process, with users appreciating its structured and sensible approach.
+**Summary:** The author praises glm-4.7-flash for its structured thinking process and clear responses, despite its slower performance compared to other models. They share their configuration settings and seek advice on improving speed without disabling the thinking feature. Key points include the model's detailed 7-step thinking process, its slower speed (19 tokens/s), and the user's preference for it over other models. The community agrees on the model's excellent reasoning process, with suggestions to adjust temperature settings for better performance.
 
 ---
 
-## 22. [It's been one year since the release of Deepseek-R1](https://reddit.com/r/LocalLLaMA/comments/1qhs2sd/its_been_one_year_since_the_release_of_deepseekr1/)
+## 23. [It's been one year since the release of Deepseek-R1](https://reddit.com/r/LocalLLaMA/comments/1qhs2sd/its_been_one_year_since_the_release_of_deepseekr1/)
 
-**Author:** u/Recoil42 | **Upvotes:** 297 | **Comments:** 51 | **Date:** 2026-01-19
+**Author:** u/Recoil42 | **Upvotes:** 300 | **Comments:** 51 | **Date:** 2026-01-19
 
 **Summary:** The Reddit post commemorates the one-year anniversary of the Deepseek-R1 release, highlighting its significant impact on the AI community. The discussion reflects on the rapid advancements in AI over the past year and the model's disruptive influence.
 
 **Key Points:**
-- Deepseek-R1 had a major impact, reportedly causing significant changes in Meta's AI strategy.
+- Deepseek-R1 had a major impact, reportedly causing significant disruptions in the AI community.
 - The release is considered one of the most important in AI history, second only to the original Llama model.
-- The model's release led to reduced prices and increased transparency in AI reasoning outputs.
 - The rapid pace of AI advancements is noted, with the past year feeling much longer due to the volume of changes.
-- There is interest in comparing current smaller models to R1 to measure progress.
+- The model's release led to price reductions and increased transparency in AI reasoning outputs.
 
-**Discussion Highlights:** The discussion highlights the disruptive nature of Deepseek-R1, its impact on industry practices, and the rapid pace of AI development. There is a consensus on the model's significance and its role in shaping the current AI landscape.
-
----
-
-## 23. [Mosquito - 7.3M parameter tiny knowledge model](https://reddit.com/r/LocalLLaMA/comments/1qhqzsi/mosquito_73m_parameter_tiny_knowledge_model/)
-
-**Author:** u/Lopsided-Repair-3638 | **Upvotes:** 120 | **Comments:** 53 | **Date:** 2026-01-19
-
-**Summary:** The Reddit post introduces 'Mosquito,' a tiny 7.3M parameter language model that can answer general knowledge questions, though with some humorous inaccuracies. Users shared mixed reactions, highlighting both its surprising capabilities and notable limitations. Key points include the model's surprising capabilities but significant inaccuracies, user requests for improvements like quantization, and humorous examples of the model's limitations. The discussion highlights a mix of amusement at the model's quirks and constructive feedback, such as requests for quantization.
+**Discussion Highlights:** The community consensus highlights Deepseek-R1's disruptive impact, with comments emphasizing its role in forcing industry changes and accelerating AI progress. The discussion also reflects on the rapid pace of advancements in the field over the past year.
 
 ---
 
-## 24. [Bartowski comes through again. GLM 4.7 flash GGUF](https://reddit.com/r/LocalLLaMA/comments/1qhpima/bartowski_comes_through_again_glm_47_flash_gguf/)
+## 24. [Mosquito - 7.3M parameter tiny knowledge model](https://reddit.com/r/LocalLLaMA/comments/1qhqzsi/mosquito_73m_parameter_tiny_knowledge_model/)
 
-**Author:** u/RenewAi | **Upvotes:** 185 | **Comments:** 50 | **Date:** 2026-01-19
+**Author:** u/Lopsided-Repair-3638 | **Upvotes:** 119 | **Comments:** 53 | **Date:** 2026-01-19
 
-**Summary:** The post announces the release of GLM 4.7 Flash GGUF by Bartowski, with mixed user experiences reported in the comments.
+**Summary:** The post introduces 'Mosquito,' a tiny knowledge model with 7.3M parameters that can answer general knowledge questions, though with some humorous inaccuracies. The discussion highlights both amusement and criticism of the model's responses.
+
+**Key Points:**
+- Mosquito is a 7.3M parameter model capable of answering general knowledge questions.
+- The model has a demo and is available on Hugging Face.
+- Users found some answers humorous or inaccurate, such as defining a dog incorrectly.
+- There is a request for a quantized version of the model.
+- The model's knowledge gaps are noted, like knowing 'LLM' but not 'dog'.
+
+**Discussion Highlights:** The discussion is marked by a mix of amusement and criticism, with users pointing out inaccuracies in the model's responses, such as defining a dog incorrectly or providing odd answers to simple questions. There is also a request for a quantized version of the model.
+
+---
+
+## 25. [Bartowski comes through again. GLM 4.7 flash GGUF](https://reddit.com/r/LocalLLaMA/comments/1qhpima/bartowski_comes_through_again_glm_47_flash_gguf/)
+
+**Author:** u/RenewAi | **Upvotes:** 184 | **Comments:** 50 | **Date:** 2026-01-19
+
+**Summary:** The post announces the release of GLM 4.7 Flash GGUF by Bartowski, with mixed user experiences reported in the comments. Some users find the model ineffective, while others note recent updates.
 
 **Key Points:**
 - Bartowski released GLM 4.7 Flash GGUF on Hugging Face
-- Users report mixed results with different versions of the model
-- Some users find the model non-functional or 'brain dead'
-- Unsloth also released a version of GLM 4.7 Flash GGUF
-- Community interest in testing Bartowski's version
+- Some users report the model as ineffective or 'brain dead'
+- An 8-bit MLX and 16-bit Unsloth version were tried by users
+- Unsloth uploaded a version shortly after the post
+- Mixed experiences with different versions of the model
 
-**Discussion Highlights:** The discussion reveals mixed experiences with GLM 4.7 Flash, with some users reporting issues while others are interested in testing Bartowski's release. There is no clear consensus on the model's performance.
-
----
-
-## 25. [Unsloth GLM 4.7-Flash GGUF](https://reddit.com/r/LocalLLaMA/comments/1qhlnsv/unsloth_glm_47flash_gguf/)
-
-**Author:** u/Wooden-Deer-1276 | **Upvotes:** 227 | **Comments:** 44 | **Date:** 2026-01-19
-
-**Summary:** The Reddit post discusses the release of the Unsloth GLM 4.7-Flash GGUF model, with community feedback on its performance and recommendations for usage. Key points include: the model has been uploaded with various quantizations, with recommendations to use UD-Q4_K_XL and above; there are ongoing efforts to fix looping issues in quantized versions, with BF16 recommended for best results; specific parameters like `--temp 0.2 --top-k 50 --top-p 0.95 --min-p 0.01 --dry-multiplier 1.1` are suggested for optimal performance; and the community is actively engaged, with some users reporting issues and others providing updates on fixes. The discussion highlights a mix of enthusiasm and technical challenges, with users sharing tips for optimal usage and developers addressing ongoing issues.
+**Discussion Highlights:** Users are experimenting with different versions of GLM 4.7 Flash, with varying results. Some report issues with model performance, while others note recent updates from Unsloth. The consensus is still unclear, with ongoing testing and feedback.
 
 ---
 
-## 26. [GLM 4.7 Flash official support merged in llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qhitrj/glm_47_flash_official_support_merged_in_llamacpp/)
+## 26. [Unsloth GLM 4.7-Flash GGUF](https://reddit.com/r/LocalLLaMA/comments/1qhlnsv/unsloth_glm_47flash_gguf/)
 
-**Author:** u/ayylmaonade | **Upvotes:** 359 | **Comments:** 60 | **Date:** 2026-01-19
+**Author:** u/Wooden-Deer-1276 | **Upvotes:** 226 | **Comments:** 44 | **Date:** 2026-01-19
+
+**Summary:** The Reddit post discusses the release of the GLM-4.7-Flash GGUF model, with community feedback emphasizing patience for proper testing and recommendations for specific quantization settings and parameters. Key points include advising patience and thorough testing, recommending specific quantization settings and parameters, noting looping issues in quantized versions with BF16 suggested for best results, and providing environment details. The discussion highlights community enthusiasm and technical challenges, focusing on optimizing model performance and addressing issues like looping in quantized versions.
+
+---
+
+## 27. [GLM 4.7 Flash official support merged in llama.cpp](https://reddit.com/r/LocalLLaMA/comments/1qhitrj/glm_47_flash_official_support_merged_in_llamacpp/)
+
+**Author:** u/ayylmaonade | **Upvotes:** 360 | **Comments:** 60 | **Date:** 2026-01-19
 
 **Summary:** The Reddit post announces the official support for GLM 4.7 Flash in llama.cpp, highlighting its community-driven development and performance improvements.
 
 **Key Points:**
 - GLM 4.7 Flash now officially supported in llama.cpp
-- Support is community-driven, not by Z.ai developers
+- The implementation was a community effort, not by Z.ai developers
 - Performance improvements noted, with some users reporting faster execution with specific settings
-- Additional versions and resources shared by community members
+- Additional versions of the model have been uploaded to Hugging Face
 - Mixed feedback on performance, with some users experiencing slower speeds with flash-attention
 
-**Discussion Highlights:** The discussion highlights the community effort behind the integration, performance comparisons, and additional resources shared by users. There is a consensus on the significance of the update but mixed experiences regarding performance.
+**Discussion Highlights:** The discussion highlights the community's enthusiasm for the new support and the collaborative effort behind its development. Users share their experiences with performance, noting both improvements and potential issues with certain configurations.
 
 ---
 
-## 27. [My gpu poor comrades, GLM 4.7 Flash is your local agent](https://reddit.com/r/LocalLLaMA/comments/1qhii5v/my_gpu_poor_comrades_glm_47_flash_is_your_local/)
+## 28. [My gpu poor comrades, GLM 4.7 Flash is your local agent](https://reddit.com/r/LocalLLaMA/comments/1qhii5v/my_gpu_poor_comrades_glm_47_flash_is_your_local/)
 
-**Author:** u/__Maximum__ | **Upvotes:** 461 | **Comments:** 161 | **Date:** 2026-01-19
+**Author:** u/__Maximum__ | **Upvotes:** 458 | **Comments:** 161 | **Date:** 2026-01-19
 
-**Summary:** The post highlights GLM 4.7 Flash as a reliable local agent for GPU users, praised for its performance in agentic tasks and token generation. Users are eager for GGUF versions to test locally.
+**Summary:** The Reddit post highlights the effectiveness of GLM 4.7 Flash as a reliable local agent for various tasks, with users praising its performance and looking forward to its local availability. The discussion includes comparisons with other models and notes on its performance and output quality.
 
 **Key Points:**
-- GLM 4.7 Flash is reliable for agentic tasks
-- It generates hundreds of thousands of tokens without errors
-- Users are excited for local GGUF versions
-- Comparisons with other models like Nemotron 30B are of interest
-- Performance benchmarks suggest it is competitive with larger models
+- GLM 4.7 Flash is praised for its reliability and performance in agentic frameworks.
+- Users are eager for GGUFs to try the model locally.
+- Comparisons with other models like Nemotron 30B and Qwen3 are discussed.
+- The model's performance is noted to be fast on a 4090 GPU.
+- Initial benchmarks suggest it is as smart as SEED OSS 36B but with better performance.
 
-**Discussion Highlights:** The discussion focuses on the model's performance, comparisons with other models, and the anticipation for local testing with GGUF versions. Users are optimistic about its capabilities and speed.
+**Discussion Highlights:** The discussion highlights a positive consensus on GLM 4.7 Flash's performance and reliability. Users are interested in comparing it with other models and are eager to test it locally. Some users have already started testing it and report decent performance on high-end GPUs.
 
 ---
 
-## 28. [New in llama.cpp: Anthropic Messages API](https://reddit.com/r/LocalLLaMA/comments/1qhaq21/new_in_llamacpp_anthropic_messages_api/)
+## 29. [New in llama.cpp: Anthropic Messages API](https://reddit.com/r/LocalLLaMA/comments/1qhaq21/new_in_llamacpp_anthropic_messages_api/)
 
-**Author:** u/paf1138 | **Upvotes:** 163 | **Comments:** 50 | **Date:** 2026-01-19
+**Author:** u/paf1138 | **Upvotes:** 167 | **Comments:** 50 | **Date:** 2026-01-19
 
-**Summary:** The Reddit post announces the integration of Anthropic Messages API in llama.cpp, generating excitement among users. Practical tips and user experiences are shared in the comments.
+**Summary:** The Reddit post announces the introduction of the Anthropic Messages API in llama.cpp, which has been well-received by the community. Users are enthusiastic about trying it out and have shared practical tips for implementation.
 
 **Key Points:**
 - Introduction of Anthropic Messages API in llama.cpp
-- Enthusiasm and immediate interest from users
-- Practical implementation tips provided in comments
-- Mixed reactions regarding the timeliness of the news
-- Discussion on context usage and hardware compatibility
+- Enthusiastic community response with users trying it out immediately
+- Practical implementation tips shared, including a bash script for quick setup
+- Mentions of using the API with specific hardware like M3 Ultra
+- Discussion about context usage, noting that Claude codes use 12k of context from the start
 
-**Discussion Highlights:** Users expressed enthusiasm and shared practical tips for implementation. Some comments highlighted the age of the news, while others discussed hardware compatibility and context usage.
+**Discussion Highlights:** The discussion highlights a positive consensus around the new API, with users sharing practical advice and expressing excitement about its capabilities. Some users noted the age of the news and discussed specific hardware and context usage details.
 
 ---
 
-## 29. [zai-org/GLM-4.7-Flash · Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1qh5wdq/zaiorgglm47flash_hugging_face/)
+## 30. [zai-org/GLM-4.7-Flash · Hugging Face](https://reddit.com/r/LocalLLaMA/comments/1qh5wdq/zaiorgglm47flash_hugging_face/)
 
-**Author:** u/Dark_Fire_12 | **Upvotes:** 732 | **Comments:** 230 | **Date:** 2026-01-19
+**Author:** u/Dark_Fire_12 | **Upvotes:** 731 | **Comments:** 230 | **Date:** 2026-01-19
 
-**Summary:** The Reddit post discusses the release of the zai-org/GLM-4.7-Flash model on Hugging Face, highlighting its popularity and technical features like memory efficiency and large context support.
+**Summary:** The Reddit post discusses the release of zai-org/GLM-4.7-Flash on Hugging Face, highlighting its popularity and key features such as memory efficiency and large context support.
 
 **Key Points:**
-- The model release was highly anticipated
-- Users appreciate 30b models and miss larger ones like 70b
-- The model uses MLA, reducing KV cache memory usage
-- It supports a full 200k context, making it accessible to more users
+- The post has gained significant attention with 731 upvotes and 230 comments.
+- The model uses MLA, which reduces KV cache memory usage, allowing more users to run it at full 200k context.
+- There is excitement about the 30B model and mentions of a 3B thinking model.
+- Users express nostalgia for larger models like 70B.
+- The release is considered promising by the community.
 
-**Discussion Highlights:** The community is excited about the release, particularly noting its memory efficiency and large context support, with some users expressing nostalgia for larger models.
+**Discussion Highlights:** The community is enthusiastic about the new model, particularly its memory efficiency and large context capabilities. There is a consensus that this release is promising and will be accessible to a broader audience due to its reduced memory requirements.
 
 ---
 
-## 30. [I made a Top-K implementation that's up to 20x faster than PyTorch CPU (open source)](https://reddit.com/r/LocalLLaMA/comments/1qh0yq8/i_made_a_topk_implementation_thats_up_to_20x/)
+## 31. [I made a Top-K implementation that's up to 20x faster than PyTorch CPU (open source)](https://reddit.com/r/LocalLLaMA/comments/1qh0yq8/i_made_a_topk_implementation_thats_up_to_20x/)
 
-**Author:** u/andreabarbato | **Upvotes:** 146 | **Comments:** 104 | **Date:** 2026-01-19
+**Author:** u/andreabarbato | **Upvotes:** 148 | **Comments:** 104 | **Date:** 2026-01-19
 
-**Summary:** The author developed an AVX2-optimized Top-K implementation that significantly outperforms PyTorch CPU, achieving up to 20x speed improvements depending on vocabulary size. It has been integrated into llama.cpp, resulting in 63% faster prompt processing for a 120B MoE model.
+**Summary:** The author developed an AVX2-optimized Top-K implementation that significantly outperforms PyTorch CPU, achieving up to 20x speed improvements depending on vocabulary size. Integrated into llama.cpp, it resulted in 63% faster prompt processing for a large model. The implementation uses SIMD and cache optimizations and is open-source.
 
 **Key Points:**
-- AVX2-optimized batched Top-K implementation beats PyTorch CPU by 4-20x
-- Integrated into llama.cpp, improving prompt processing speed by 63%
-- Uses adaptive sampling, AVX2 SIMD, and cache-optimized scanning
-- GitHub repository provided for open-source access
-- Community feedback includes requests for PR submission and explanations of performance gains
+- AVX2-optimized Top-K implementation beats PyTorch CPU by 4-20x
+- Integrated into llama.cpp for 63% faster prompt processing
+- Uses SIMD, cache optimizations, and adaptive sampling
+- Open-source with pre-built DLLs and GitHub repository
+- Community feedback includes requests for PRs and explanations
 
-**Discussion Highlights:** The community shows strong interest in the implementation, with requests for a pull request to llama.cpp and explanations of the performance improvements. Some users express concerns about the lack of reproducible benchmarks and the authenticity of the post.
+**Discussion Highlights:** The community showed strong interest, with top comments requesting a pull request for llama.cpp, asking for simplified explanations of the speed improvements, and discussing the need for reproducible benchmarks. Some criticism was directed at the lack of detailed benchmarks and the authenticity of the post.
 
 ---
 
-## 31. [how do you pronounce “gguf”?](https://reddit.com/r/LocalLLaMA/comments/1qglyqz/how_do_you_pronounce_gguf/)
+## 32. [how do you pronounce “gguf”?](https://reddit.com/r/LocalLLaMA/comments/1qglyqz/how_do_you_pronounce_gguf/)
 
-**Author:** u/Hamfistbumhole | **Upvotes:** 106 | **Comments:** 154 | **Date:** 2026-01-18
+**Author:** u/Hamfistbumhole | **Upvotes:** 109 | **Comments:** 154 | **Date:** 2026-01-18
 
-**Summary:** The Reddit post asks how to pronounce 'gguf,' with users offering various interpretations and humorous responses. The discussion includes both literal and playful suggestions.
+**Summary:** The Reddit post discusses various ways to pronounce 'gguf,' with users suggesting options like 'jee-guff,' 'giguff,' or spelling out each letter. The discussion includes humorous and practical perspectives on the pronunciation.
 
 **Key Points:**
-- The post asks for the pronunciation of 'gguf'
-- Top comments include humorous responses like 'you don't pronounce gguf, you download it silently'
-- Some users suggest pronouncing each letter individually, similar to '.PNG'
-- Other suggestions include 'jee jee you eff' and 'guh-GUFF'
-- The discussion highlights a mix of serious and playful interpretations
+- The post asks for opinions on how to pronounce 'gguf'.
+- Top comments suggest pronouncing each letter individually, similar to '.PNG'.
+- Other suggestions include 'jee-guff,' 'giguff,' and 'guh-GUFF'.
+- Some users humorously suggest not pronouncing it at all, just downloading it.
 
-**Discussion Highlights:** The discussion features a range of opinions on how to pronounce 'gguf,' with some users offering literal interpretations and others providing humorous or creative responses. There is no clear consensus, but the playful nature of the discussion is notable.
+**Discussion Highlights:** The discussion highlights a lack of consensus on the pronunciation of 'gguf,' with users offering a variety of interpretations. The most upvoted comment suggests pronouncing each letter individually, while others provide creative or humorous alternatives.
 
 ---
 
-## 32. [4x AMD R9700 (128GB VRAM) + Threadripper 9955WX Build](https://reddit.com/r/LocalLLaMA/comments/1qgdb7f/4x_amd_r9700_128gb_vram_threadripper_9955wx_build/)
+## 33. [4x AMD R9700 (128GB VRAM) + Threadripper 9955WX Build](https://reddit.com/r/LocalLLaMA/comments/1qgdb7f/4x_amd_r9700_128gb_vram_threadripper_9955wx_build/)
 
 **Author:** u/NunzeCs | **Upvotes:** 349 | **Comments:** 93 | **Date:** 2026-01-18
 
-**Summary:** The author built a high-performance system with 4x AMD R9700 GPUs (128GB VRAM) and a Threadripper 9955WX CPU, leveraging a 50% subsidy to maximize VRAM for running large AI models locally. Benchmark results show impressive performance across various models, with the system costing around 9,800€ (effectively 4,900€ after refund).
+**Summary:** The author built a high-performance system with 4x AMD R9700 GPUs (128GB VRAM) and a Threadripper 9955WX CPU, leveraging a 50% subsidy to stay within a ~10,000€ budget. The system is designed for running large AI models locally, with benchmark results provided for various models. Key points include the system specifications, cost details, and discussion highlights such as admiration for the build and questions about sourcing components.
+
+---
+
+## 34. [Qwen 4 might be a long way off !? Lead Dev says they are "slowing down" to focus on quality.](https://reddit.com/r/LocalLLaMA/comments/1qfv1ms/qwen_4_might_be_a_long_way_off_lead_dev_says_they/)
+
+**Author:** u/Difficult-Cap-7527 | **Upvotes:** 456 | **Comments:** 71 | **Date:** 2026-01-17
+
+**Summary:** The Reddit post discusses the potential delay in Qwen 4 development, with the lead developer indicating a focus on quality over speed. The community generally supports this approach, appreciating the emphasis on quality improvements.
 
 **Key Points:**
-- Built a system with 4x AMD R9700 GPUs (128GB VRAM) and Threadripper 9955WX CPU
-- Leveraged a 50% subsidy to maximize VRAM for large AI models
-- Total cost was ~9,800€ (effectively ~4,900€ after refund)
-- Benchmark results show strong performance across various models
-- Community reaction includes admiration and curiosity about the build
+- Qwen 4 development may be delayed as the team focuses on quality
+- Community largely supports the decision to prioritize quality over speed
+- Some users caution against jumping to conclusions based on limited information
+- There is appreciation for meaningful advancements rather than incremental updates
+- The post gained significant attention with 456 upvotes and 71 comments
 
-**Discussion Highlights:** The community reacted with admiration and humor, with comments highlighting the impressive hardware and curiosity about the build process and cost. Some users noted similar builds, indicating a trend in high-VRAM setups for local AI model inference.
-
----
-
-## 33. [Qwen 4 might be a long way off !? Lead Dev says they are "slowing down" to focus on quality.](https://reddit.com/r/LocalLLaMA/comments/1qfv1ms/qwen_4_might_be_a_long_way_off_lead_dev_says_they/)
-
-**Author:** u/Difficult-Cap-7527 | **Upvotes:** 453 | **Comments:** 71 | **Date:** 2026-01-17
-
-**Summary:** The Reddit post discusses the potential delay in Qwen 4 development, with the lead developer indicating a focus on quality over speed. The community generally supports this approach, appreciating the emphasis on quality improvements. Key points include the potential slowdown in development, community appreciation for quality focus, uncertainty about the specificity of the statement regarding Qwen 4, and the post's significant attention with 453 upvotes and 71 comments. The discussion highlights a general consensus supporting the focus on quality, with some users expressing appreciation for the developer's approach, but also skepticism about the specificity of the statement regarding Qwen 4.
+**Discussion Highlights:** The discussion highlights a consensus that focusing on quality is beneficial for the Qwen series. Users appreciate the developer's approach and caution against spreading unconfirmed rumors. There is a shared sentiment that meaningful improvements are more valuable than frequent, minor updates.
 
 ---
 
-## 34. [128GB VRAM quad R9700 server](https://reddit.com/r/LocalLLaMA/comments/1qfscp5/128gb_vram_quad_r9700_server/)
+## 35. [128GB VRAM quad R9700 server](https://reddit.com/r/LocalLLaMA/comments/1qfscp5/128gb_vram_quad_r9700_server/)
 
-**Author:** u/Ulterior-Motive_ | **Upvotes:** 536 | **Comments:** 117 | **Date:** 2026-01-17
+**Author:** u/Ulterior-Motive_ | **Upvotes:** 539 | **Comments:** 117 | **Date:** 2026-01-17
 
-**Summary:** The author upgraded their server from a dual MI100 setup to a quad R9700 configuration, achieving 128GB VRAM and 128GB RAM for a cost-effective price. They detailed the hardware components and provided benchmarks for performance. Key points include the upgrade to quad R9700 GPUs, achieving 128GB VRAM and RAM, cost-effectiveness compared to RTX 6000 Blackwell, detailed hardware specifications and benchmarks, and positive community feedback. The community appreciated the build, with comments highlighting its popularity, financial irresponsibility humor, and overall admiration for the setup.
+**Summary:** The author transitioned from MI100 GPUs to R9700 GPUs for a new server build, detailing the specifications and performance benchmarks. The build includes 128GB VRAM and 128GB RAM, costing less than an RTX 6000 Blackwell. The post highlights the cost-effectiveness and performance gains of the R9700 setup. Key points include the transition to R9700 GPUs, detailed specifications of the build, performance benchmarks, and community appreciation. The discussion highlights strong community appreciation for the build, with comments on cost-effectiveness and performance gains, and some concerns about financial implications.
 
 ---
 
-## 35. [The Search for Uncensored AI (That Isn’t Adult-Oriented)](https://reddit.com/r/LocalLLaMA/comments/1qfq9ez/the_search_for_uncensored_ai_that_isnt/)
+## 36. [The Search for Uncensored AI (That Isn’t Adult-Oriented)](https://reddit.com/r/LocalLLaMA/comments/1qfq9ez/the_search_for_uncensored_ai_that_isnt/)
 
-**Author:** u/Fun-Situation-4358 | **Upvotes:** 278 | **Comments:** 216 | **Date:** 2026-01-17
+**Author:** u/Fun-Situation-4358 | **Upvotes:** 280 | **Comments:** 216 | **Date:** 2026-01-17
 
-**Summary:** The post discusses the challenge of finding uncensored AI models that prioritize reasoning and creativity over adult-oriented content, highlighting a gap between heavily restricted corporate AI and shallow adult-focused models.
+**Summary:** The post discusses the challenge of finding uncensored AI models that prioritize reasoning and creativity over adult-oriented content, highlighting a gap in the market between heavily restricted corporate AI and shallow adult-focused models.
 
 **Key Points:**
 - The author seeks an AI that is genuinely unfiltered and technically advanced, focusing on reasoning and creativity.
-- Most 'uncensored' models are optimized for adult use rather than intelligence or depth.
+- Most models marketed as 'uncensored' are optimized for adult use rather than intelligence or depth.
 - There is a perceived gap between heavily restricted corporate AI and shallow adult-focused models.
 - Suggestions include self-hosted models, open-source projects, or lesser-known platforms.
-- Decensoring techniques often reduce the intelligence of open-source models.
+- Top comments echo the sentiment and mention challenges with decensoring techniques.
 
-**Discussion Highlights:** The discussion highlights a shared frustration with the lack of AI models that balance uncensored capabilities with serious problem-solving and creativity. Many users agree that most 'uncensored' models are either too restricted or too focused on adult content, leaving a gap for models that prioritize reasoning and technical depth. Some users suggest exploring open-source projects or lesser-known platforms, while others note that decensoring techniques can compromise model intelligence.
+**Discussion Highlights:** The discussion highlights a shared frustration with the lack of uncensored AI models that focus on serious problem-solving and creativity. Users agree that most decensoring techniques compromise the model's intelligence. Some suggest exploring open-source projects and lesser-known platforms for potential solutions.
 
 ---
 
-## 36. [China's AGI-NEXT Conference (Qwen, Kimi, Zhipu, Tencent)](https://reddit.com/r/LocalLLaMA/comments/1qfmc05/chinas_aginext_conference_qwen_kimi_zhipu_tencent/)
+## 37. [China's AGI-NEXT Conference (Qwen, Kimi, Zhipu, Tencent)](https://reddit.com/r/LocalLLaMA/comments/1qfmc05/chinas_aginext_conference_qwen_kimi_zhipu_tencent/)
 
 **Author:** u/nuclearbananana | **Upvotes:** 119 | **Comments:** 22 | **Date:** 2026-01-17
 
-**Summary:** The Reddit post discusses China's AGI-NEXT Conference, highlighting insights on China vs US AGI development, paths to AGI, compute, and marketing. Key points include Qwen's internal advancements, the belief that the next paradigm may come from Open AI, and cultural differences in risk-taking for innovation.
+**Summary:** The Reddit post discusses China's AGI-NEXT Conference, highlighting insights on China vs US AGI development, paths to AGI, compute resources, and marketing strategies. Key points include Qwen's internal advancements, the belief that the next AI paradigm may come from OpenAI rather than Google, and observations about work culture and risk-taking in Chinese AI labs.
 
 **Key Points:**
-- Qwen already has Qwen3.5 internally with context windows in the millions.
-- The next paradigm in AGI is believed to likely come from Open AI rather than Google.
-- Chinese work culture is described as less willing to take risks for innovation.
-- Deepseek is noted as a top lab in talent concentration but was absent from the conference.
+- Qwen has internally developed Qwen3.5 and context windows in the millions.
+- The next AI paradigm is believed to likely come from OpenAI rather than Google.
+- Chinese AI labs are described as less willing to take risks for innovation.
+- Deepseek is noted for its talent concentration but was absent from the conference.
 
-**Discussion Highlights:** The discussion highlights Qwen's advancements and the belief in Open AI's potential for the next paradigm. There is also a note on the cultural differences in innovation and the absence of Deepseek from the conference.
+**Discussion Highlights:** The discussion highlights Qwen's advancements and the belief in OpenAI's potential for the next AI paradigm. There is also a consensus on the risk-averse culture in Chinese AI labs and the notable absence of Deepseek from the conference.
 
 ---
 
-## 37. [Best "End of world" model that will run on 24gb VRAM](https://reddit.com/r/LocalLLaMA/comments/1qfkn3a/best_end_of_world_model_that_will_run_on_24gb_vram/)
+## 38. [Best "End of world" model that will run on 24gb VRAM](https://reddit.com/r/LocalLLaMA/comments/1qfkn3a/best_end_of_world_model_that_will_run_on_24gb_vram/)
 
-**Author:** u/gggghhhhiiiijklmnop | **Upvotes:** 337 | **Comments:** 176 | **Date:** 2026-01-17
+**Author:** u/gggghhhhiiiijklmnop | **Upvotes:** 343 | **Comments:** 178 | **Date:** 2026-01-17
 
-**Summary:** The user is seeking recommendations for the best LLM model that can run on a PC with 24GB VRAM and 64GB RAM, in preparation for a hypothetical 'end of world' scenario where they have downloaded extensive data like Wikipedia and Khan Academy.
+**Summary:** The user is seeking recommendations for the best LLM model that can run on a PC with 24GB VRAM and 64GB RAM, motivated by a desire to hoard data in anticipation of a potential 'end of the world' scenario. The discussion includes suggestions for specific models and practical advice on data storage.
 
 **Key Points:**
-- User is hoarding data like Wikipedia, Wiktionary, and Khan Academy.
-- Seeking LLM models that fit within 24GB VRAM and 64GB RAM.
-- Top comment suggests saving the best LLM possible and running it off SSD if necessary.
-- Gemma3:27b is recommended for its capabilities, including vision.
-- Actual Wikipedia backups are suggested for long-term data preservation.
+- User wants to download and store large datasets like Wikipedia, Wiktionary, etc.
+- Looking for LLM models that fit within 24GB VRAM and 64GB RAM constraints
+- Suggestions include using the best available LLM and running it off SSD if necessary
+- Specific model recommendations: gemma3:27b (with vision capabilities)
+- Advice to download actual Wikipedia backups for offline access
 
-**Discussion Highlights:** The discussion highlights a focus on practicality, with recommendations for specific models like Gemma3:27b and suggestions for data preservation methods such as downloading Wikipedia backups. There is a consensus on prioritizing functionality and data accessibility in an 'end of world' scenario.
+**Discussion Highlights:** The discussion highlights practical considerations for data hoarding and model selection. There is a consensus on prioritizing the best available LLM, even if it requires running off SSD. Specific model recommendations and advice on downloading Wikipedia backups are also prominent.
 
 ---
 
-## 38. [DeepSeek Engram : A static memory unit for LLMs](https://reddit.com/r/LocalLLaMA/comments/1qf5oj0/deepseek_engram_a_static_memory_unit_for_llms/)
+## 39. [KoboldCpp v1.106 finally adds MCP server support, drop-in replacement for Claude Desktop](https://reddit.com/r/LocalLLaMA/comments/1qfb0gk/koboldcpp_v1106_finally_adds_mcp_server_support/)
 
-**Author:** u/Technical-Love-8479 | **Upvotes:** 322 | **Comments:** 48 | **Date:** 2026-01-17
+**Author:** u/HadesThrowaway | **Upvotes:** 100 | **Comments:** 22 | **Date:** 2026-01-17
 
-**Summary:** DeepSeek AI introduced Engram, a new memory unit for LLMs that separates remembering from reasoning, enabling O(1) knowledge lookup and improving reasoning, math, and code performance.
+**Summary:** KoboldCpp v1.106 introduces native MCP server support, offering a drop-in replacement for Claude Desktop with high compatibility and support for both HTTP and STDIO transports. The update includes a user-friendly interface for managing tools and has been well-received by the community.
 
 **Key Points:**
-- Engram introduces conditional memory, separating it from reasoning.
-- Knowledge is looked up in O(1) instead of being recomputed.
-- Improves reasoning, math, and code performance.
-- Enables massive memory scaling without GPU limits.
-- Frees attention for global reasoning rather than static knowledge.
+- KoboldCpp v1.106 adds native MCP server support
+- Designed as a drop-in replacement for Claude Desktop with high compatibility
+- Supports both HTTP and STDIO transports
+- User-friendly interface for managing tools and enabling tool call approvals
+- Positive community reception and additional resources like a guide are available
 
-**Discussion Highlights:** The discussion highlights the significance of separating memory from reasoning, with users appreciating the efficiency gains and the potential for scaling memory independently of model size.
+**Discussion Highlights:** The community has positively received the update, praising its compatibility with existing setups and the ease of integration. A guide for using MCP in KoboldCpp has been shared, and there is interest in seeing similar support in other tools like llama.cpp.
 
 ---
 
-## 39. ["Welcome to the Local Llama. How janky's your rig?](https://reddit.com/r/LocalLLaMA/comments/1qf514i/welcome_to_the_local_llama_how_jankys_your_rig/)
+## 40. [DeepSeek Engram : A static memory unit for LLMs](https://reddit.com/r/LocalLLaMA/comments/1qf5oj0/deepseek_engram_a_static_memory_unit_for_llms/)
 
-**Author:** u/ForsookComparison | **Upvotes:** 102 | **Comments:** 22 | **Date:** 2026-01-16
+**Author:** u/Technical-Love-8479 | **Upvotes:** 325 | **Comments:** 48 | **Date:** 2026-01-17
 
-**Summary:** The Reddit post in r/LocalLLaMA discusses various unconventional and humorous setups for running local AI models, highlighting the creative and sometimes 'janky' solutions users employ.
+**Summary:** DeepSeek AI introduced Engram, a memory unit for LLMs that separates remembering from reasoning, enabling efficient memory lookup and improved performance.
+
+**Key Points:**
+- Engram adds native memory lookup to LLMs
+- Separates remembering from reasoning
+- Improves reasoning, math, and code performance
+- Enables massive memory scaling without GPU limits
+- Frees attention for global reasoning rather than static knowledge
+
+**Discussion Highlights:** The discussion highlights the importance of separating memory and reasoning, with consensus on the scalability benefits of Engram and its potential to offload compute from GPUs.
+
+---
+
+## 41. ["Welcome to the Local Llama. How janky's your rig?](https://reddit.com/r/LocalLLaMA/comments/1qf514i/welcome_to_the_local_llama_how_jankys_your_rig/)
+
+**Author:** u/ForsookComparison | **Upvotes:** 104 | **Comments:** 22 | **Date:** 2026-01-16
+
+**Summary:** The Reddit post in r/LocalLLaMA discusses various unconventional and humorous setups for running local AI models, highlighting the creative and sometimes 'janky' solutions users have implemented.
 
 **Key Points:**
 - Users share unconventional hardware setups for running AI models.
 - Humorous and creative solutions are highlighted, such as using pallet wood to hold GPUs.
 - Discussion includes technical details about hardware modifications and limitations.
-- Some users mention specific hardware like MI50 GPUs and their cooling solutions.
+- Mentions of specific hardware like 3090 GPUs and MI50s.
+- Comments reflect a mix of technical advice and lighthearted banter.
 
-**Discussion Highlights:** The discussion is light-hearted and humorous, with users sharing their unique and sometimes improvised setups for running AI models. There is a focus on creativity and making do with available resources, as well as some technical details about hardware modifications.
-
----
-
-## 40. [Prompt Repetition Improves Non-Reasoning LLMs - a paper](https://reddit.com/r/LocalLLaMA/comments/1qeuh0z/prompt_repetition_improves_nonreasoning_llms_a/)
-
-**Author:** u/Foreign-Beginning-49 | **Upvotes:** 113 | **Comments:** 51 | **Date:** 2026-01-16
-
-**Summary:** The Reddit post discusses a paper showing that repeating prompts can significantly improve the performance of non-reasoning LLMs without affecting latency or output format. The technique is simple yet effective across various models and benchmarks.
-
-**Key Points:**
-- Prompt repetition improves non-reasoning LLM performance.
-- The technique does not impact latency or output format.
-- Deepseek is highlighted as an open weights model tested in the paper.
-- The simplicity of the technique raises questions about other untapped improvements.
-- Some users have already been using similar techniques for years.
-
-**Discussion Highlights:** The discussion highlights surprise at the effectiveness of such a simple technique and speculation about other potential improvements. Users also reflect on the lack of understanding of LLMs and the potential role of repetition in agentic coding performance.
+**Discussion Highlights:** The discussion is characterized by a mix of technical insights and humorous anecdotes about the challenges and creative solutions involved in setting up hardware for local AI models. Users share their experiences with hardware limitations and unconventional fixes, creating a lively and engaging conversation.
 
 ---
 
-## 41. [performance benchmarks (72GB VRAM) - llama.cpp server - January 2026](https://reddit.com/r/LocalLLaMA/comments/1qennp2/performance_benchmarks_72gb_vram_llamacpp_server/)
+## 42. [Prompt Repetition Improves Non-Reasoning LLMs - a paper](https://reddit.com/r/LocalLLaMA/comments/1qeuh0z/prompt_repetition_improves_nonreasoning_llms_a/)
+
+**Author:** u/Foreign-Beginning-49 | **Upvotes:** 110 | **Comments:** 51 | **Date:** 2026-01-16
+
+**Summary:** The Reddit post discusses a paper showing that repeating prompts can significantly improve the performance of non-reasoning LLMs without affecting latency or output format. The technique is simple yet effective across various models and benchmarks. Key points include: Prompt repetition improves non-reasoning LLM performance, the technique does not impact latency or output format, Deepseek is highlighted as an open weights model tested in the study, the simplicity of the technique raises questions about other untapped improvements, and some users suggest that repetition of context might contribute to agentic coder performance. The discussion highlights the surprising effectiveness of such a simple technique and speculates on other potential improvements that might be overlooked. Users also reflect on the broader implications for understanding and optimizing LLM performance.
+
+---
+
+## 43. [performance benchmarks (72GB VRAM) - llama.cpp server - January 2026](https://reddit.com/r/LocalLLaMA/comments/1qennp2/performance_benchmarks_72gb_vram_llamacpp_server/)
 
 **Author:** u/jacek2023 | **Upvotes:** 112 | **Comments:** 39 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post by u/jacek2023 presents performance benchmarks for various AI models run on a system with three RTX 3090 GPUs and 72GB VRAM. The benchmarks measure tokens per second for models like ERNIE-4.5-21B-A3B-Thinking-Q8_0 (147.85 tokens/s) and others, emphasizing speed over accuracy. The discussion includes suggestions for further testing and optimizations.
+**Summary:** The Reddit post discusses performance benchmarks for various models run on a setup with three RTX 3090 GPUs and 72GB VRAM. The author measures the speed of different models, noting that smaller models often run faster with fewer GPUs. The post includes a list of models and their respective tokens per second (tokens/s) performance.
 
 **Key Points:**
-- Performance benchmarks for multiple AI models on a 72GB VRAM system
-- Hardware setup includes three RTX 3090 GPUs and a Ryzen Threadripper 1920X
-- Top-performing model: ERNIE-4.5-21B-A3B-Thinking-Q8_0 at 147.85 tokens/s
-- Discussion suggests filling context to ~10k tokens for further testing
-- Optimization tips include using specific compilation flags for GPU performance
+- Performance benchmarks for various models on a 72GB VRAM setup with three RTX 3090 GPUs
+- ERNIE-4.5-21B-A3B-Thinking-Q8_0 achieved the highest speed at 147.85 tokens/s
+- The author uses the default 'llama-fit' mechanism and suggests manual tuning for better performance
+- Discussion includes suggestions for further testing and optimization techniques
+- The benchmarks are not scientific and focus solely on speed, not accuracy
 
-**Discussion Highlights:** The discussion highlights suggestions for additional performance testing, such as filling the context to ~10k tokens and using specific compilation flags for GPU optimization. Users also share their own performance experiences and ask about hardware configurations.
-
----
-
-## 42. [I reproduced DeepSeek's mHC at 1.7B params (8xH100). The instability is 3x worse than reported (10k vs 3k), but the model didn't explode.](https://reddit.com/r/LocalLLaMA/comments/1qek917/i_reproduced_deepseeks_mhc_at_17b_params_8xh100/)
-
-**Author:** u/poisson_labs | **Upvotes:** 178 | **Comments:** 29 | **Date:** 2026-01-16
-
-**Summary:** The author reproduced DeepSeek's mHC at 1.7B parameters and found that the instability was 3x worse than reported, with signal amplification of 10,924x. Despite this, the model continued learning, and the issue was mitigated using Manifold Hyper-Connections (mHC) with Sinkhorn projection.
-
-**Key Points:**
-- Signal amplification at 1.7B parameters was 10,924x, worse than the reported 3,000x.
-- The model did not diverge despite high signal amplification, possibly due to modern optimizers and gradient clipping.
-- Manifold Hyper-Connections (mHC) with Sinkhorn projection solved the instability issue with zero compute overhead.
-- The community discussed the feasibility of zero compute overhead and suggested alternative optimizers like muon.
-- The project was praised for its resourcefulness and potential to inspire other labs.
-
-**Discussion Highlights:** The community expressed skepticism about the zero compute overhead claim and discussed alternative optimizers. There was also praise for the project's resourcefulness and its potential to inspire other labs.
-
----
-
-## 43. [Maxsun joins Sparkle in making Intel Arc B60 Pro GPUs available to regular consumers, with up to 48GB VRAM](https://reddit.com/r/LocalLLaMA/comments/1qehf0p/maxsun_joins_sparkle_in_making_intel_arc_b60_pro/)
-
-**Author:** u/reps_up | **Upvotes:** 137 | **Comments:** 50 | **Date:** 2026-01-16
-
-**Summary:** Maxsun and Sparkle are making Intel Arc B60 Pro GPUs available to regular consumers, offering up to 48GB VRAM. The Reddit post discusses the availability and potential use cases for these GPUs.
-
-**Key Points:**
-- Intel Arc B60 Pro GPUs are now available to regular consumers.
-- The GPUs offer up to 48GB VRAM.
-- Users express interest in high VRAM configurations for AI/ML workloads.
-- Questions about software support (torch/JAX/ONNX) and availability in Europe are raised.
-
-**Discussion Highlights:** The discussion highlights a strong interest in high VRAM configurations for AI/ML tasks, with users requesting even higher VRAM options (e.g., 128GB). There are concerns about software support and availability in specific regions like Europe.
-
----
-
-## 44. [GPT-5.2 xhigh, GLM-4.7, Kimi K2 Thinking, DeepSeek v3.2 on Fresh SWE-rebench (December 2025)](https://reddit.com/r/LocalLLaMA/comments/1qefa7q/gpt52_xhigh_glm47_kimi_k2_thinking_deepseek_v32/)
-
-**Author:** u/CuriousPlatypus1881 | **Upvotes:** 386 | **Comments:** 89 | **Date:** 2026-01-16
-
-**Summary:** The post discusses the December 2025 update to the SWE-bench leaderboard, highlighting the performance of various AI models on GitHub PR tasks. Claude Opus 4.5 leads with a 63.3% resolved rate, followed closely by GPT-5.2 (extra high effort) at 61.5%. The post also notes the strong performance of open-source models like GLM-4.7.
-
-**Key Points:**
-- Claude Opus 4.5 leads the SWE-bench leaderboard with a 63.3% resolved rate.
-- GPT-5.2 (extra high effort) follows closely at 61.5%.
-- Gemini 3 Flash Preview outperforms Gemini 3 Pro Preview despite being smaller and cheaper.
-- GLM-4.7 is the strongest open-source model, ranking alongside closed models like GPT-5.1-codex.
-- GPT-OSS-120B shows significant performance improvement in high-effort reasoning mode.
-
-**Discussion Highlights:** The discussion highlights excitement around Gemini Flash's performance and the strong showing of open-source models like GLM-4.7. There is also anticipation for future releases like DeepSeek v4.
+**Discussion Highlights:** The discussion includes suggestions for further testing, such as filling the context to ~10k tokens and measuring performance. There are also recommendations for using specific flags during compilation to improve performance, like -DGGML_CUDA_PEER_COPY=ON for direct GPU data copying.
 
 ---
 
