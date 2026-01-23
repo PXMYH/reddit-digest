@@ -8,17 +8,17 @@
 
 ## 1. [The Retirement Crisis No One Warns You About: Mattering](https://reddit.com/r/financialindependence/comments/1qfj7ml/the_retirement_crisis_no_one_warns_you_about/)
 
-**Author:** u/zackenrollertaway | **Upvotes:** 376 | **Comments:** 165 | **Date:** 2026-01-17
+**Author:** u/zackenrollertaway | **Upvotes:** 379 | **Comments:** 165 | **Date:** 2026-01-17
 
-**Summary:** The post discusses the psychological challenge of 'mattering' in retirement, defined by feeling significant, appreciated, invested in, and depended on. The author shares their personal experience of struggling with purpose after retiring and finding fulfillment through tutoring.
+**Summary:** The post discusses the often-overlooked aspect of retirement: the need to feel significant, appreciated, invested in, and depended on, termed as 'mattering.' The author shares their personal experience of struggling with this after retiring and how tutoring helped them find purpose.
 
 **Key Points:**
-- 'Mattering' is defined by the SAID acronym: significant, appreciated, invested in, and depended on.
-- Retirement can lead to a loss of purpose, as illustrated by the author's experience and the Twilight Zone analogy.
-- Finding new ways to contribute, such as tutoring or volunteering, can help regain a sense of mattering.
-- Community responses vary, with some finding solace in low-stress jobs and others embracing retirement activities like clubs and travel.
+- 'Mattering' in retirement involves feeling significant, appreciated, invested in, and depended on.
+- The author initially struggled with finding purpose after retiring but found fulfillment in tutoring.
+- The discussion highlights various ways people find meaning in retirement, such as volunteering, tutoring, and joining clubs.
+- Some commenters express indifference towards the concept of 'mattering,' while others find it crucial.
 
-**Discussion Highlights:** The discussion highlights a range of perspectives on retirement, from those who struggle with finding purpose to others who embrace activities like volunteering, tutoring, and social clubs. Some commenters express indifference to the concept of 'mattering,' while others emphasize the importance of staying engaged in meaningful activities.
+**Discussion Highlights:** The discussion reveals a mix of perspectives on the importance of 'mattering' in retirement. Some find purpose through activities like volunteering and tutoring, while others feel indifferent or have never experienced a sense of mattering. There is a consensus that finding meaningful activities can significantly enhance the retirement experience.
 
 ---
 
