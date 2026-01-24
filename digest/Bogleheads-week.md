@@ -8,245 +8,254 @@
 
 ## 1. [Ugh! Pissed off my advisor!](https://reddit.com/r/Bogleheads/comments/1qlcm14/ugh_pissed_off_my_advisor/)
 
-**Author:** u/KelliSean | **Upvotes:** 163 | **Comments:** 78 | **Date:** 2026-01-23
+**Author:** u/KelliSean | **Upvotes:** 229 | **Comments:** 158 | **Date:** 2026-01-23
 
-**Summary:** The user left their advisor, feeling better about the decision despite the advisor's negative reaction. They are seeking advice on managing their portfolio, which includes 17 stocks, 5 mutual funds, and 8 ETFs with significant unrealized gains.
+**Summary:** The user left their financial advisor after feeling berated and now manages a diverse portfolio with significant unrealized gains. The community largely supports their decision and offers advice on handling their investments.
 
 **Key Points:**
-- The user left their advisor and felt better about the decision despite the advisor's negative reaction.
-- The user's portfolio includes 17 stocks, 5 mutual funds, and 8 ETFs with around $90,000 in unrealized gains.
-- The discussion highlights the importance of fiduciary advisors and the mixed experiences users have had with advisors.
-- Tax implications are a significant consideration when managing the portfolio.
+- User felt berated by their advisor but is confident in their decision to leave.
+- Portfolio includes 17 stocks, 5 mutual funds, and 8 ETFs with $90,000 in unrealized gains.
+- Community supports the decision to leave the advisor and suggests keeping investments for tax purposes.
+- Criticism of non-fiduciary advisors and praise for self-managed investing.
+- Suggestions to simplify investments, such as using broad-market ETFs like VT.
 
-**Discussion Highlights:** The discussion consensus emphasizes the importance of fiduciary advisors and careful tax planning. Users shared mixed experiences with advisors, with some reporting negative reactions when leaving their advisors.
+**Discussion Highlights:** The discussion highlights strong support for the user's decision to leave their advisor, with many sharing similar negative experiences. The consensus suggests keeping the current investments for tax efficiency while considering a simpler, more diversified approach in the future.
 
 ---
 
 ## 2. [32 yr old with 600k in savings. What do I do?](https://reddit.com/r/Bogleheads/comments/1qkp0og/32_yr_old_with_600k_in_savings_what_do_i_do/)
 
-**Author:** u/Resident-Welder5326 | **Upvotes:** 119 | **Comments:** 81 | **Date:** 2026-01-23
+**Author:** u/Resident-Welder5326 | **Upvotes:** 131 | **Comments:** 89 | **Date:** 2026-01-23
 
-**Summary:** A 32-year-old with $600k in savings, earning $150k annually, seeks advice on balancing their portfolio and managing financial anxiety to potentially take a career break. The post highlights concerns about job security, AI, and recession, alongside a conservative 50% bond allocation.
+**Summary:** A 32-year-old with $600k in savings, earning $150k annually, seeks advice on balancing their portfolio and managing financial anxiety. They are considering taking a break from work but fear financial instability.
 
 **Key Points:**
 - Author has significant savings but struggles with financial anxiety and spending.
-- Current portfolio is 50% bonds, which commenters suggest is too conservative for their age.
-- Author seeks a way to balance their portfolio to feel secure enough to take a break from work.
-- Commenters emphasize managing anxiety and mental health as crucial steps.
-- Suggestions include reducing bond allocation and ensuring sufficient cash reserves for expenses.
+- Current portfolio is 50% bonds and 50% ETFs, which is considered too conservative for their age.
+- Top comments suggest addressing mental health and rebalancing the portfolio.
+- Discussion highlights the importance of therapy and reducing bond allocation.
+- Consensus advises against quitting work abruptly and emphasizes financial planning.
 
-**Discussion Highlights:** The discussion consensus highlights the importance of addressing the author's financial anxiety through therapy or mental health support, while also adjusting their portfolio to a less conservative allocation (e.g., reducing bonds to 5-10%). Commenters stress the need for a balanced approach that includes both financial planning and emotional well-being.
+**Discussion Highlights:** The discussion consensus emphasizes the need to address the author's financial anxiety through therapy and rebalancing their portfolio to a less conservative allocation. Many commenters suggest reducing bond exposure and ensuring sufficient cash reserves before considering a career break.
 
 ---
 
 ## 3. [CFP’s Investment Recommendations](https://reddit.com/r/Bogleheads/comments/1qkhef6/cfps_investment_recommendations/)
 
-**Author:** u/rjbergen | **Upvotes:** 117 | **Comments:** 130 | **Date:** 2026-01-22
+**Author:** u/rjbergen | **Upvotes:** 127 | **Comments:** 132 | **Date:** 2026-01-22
 
-**Summary:** A couple in their mid-30s with a moderate risk tolerance and a 20+ year horizon until retirement received overly conservative investment recommendations from a CFP, sparking a discussion on the appropriateness of the advice.
+**Summary:** A couple in their mid-30s consulted a fee-only CFP for retirement planning but found the investment recommendations overly conservative for their 20+ year horizon. The CFP suggested a portfolio with significant bond and money market allocations, which the couple and commenters deemed inappropriate for their age and risk tolerance.
 
 **Key Points:**
-- The couple's risk tolerance was assessed as moderate, but the CFP's recommendations were seen as overly conservative.
-- The couple prefers a simpler, more aggressive portfolio like VT or VTI/VXUS.
-- Community consensus criticizes the CFP's recommendations as a 'Humpty Dumpty Portfolio' and overly conservative for their age.
-- Specific concerns include high bond allocation (28%) and money market recommendations in a 401k.
-- Suggestions for further analysis include requesting an R-squared analysis to check for fund overlap.
+- Couple (35M and 35F) seeking retirement at 57 with moderate risk tolerance.
+- CFP's recommendations seen as overly conservative with 28% in bonds/Tbills and 10% in money market.
+- Couple prefers a simpler, more aggressive portfolio like VT or VTI/VXUS.
+- Commenters criticize the CFP's recommendations as cookie-cutter and overly cautious.
+- Suggestions to ask for an R-squared analysis to check for fund overlap.
 
-**Discussion Highlights:** The community largely agrees that the CFP's recommendations are overly conservative and cookie-cutter, with many suggesting a more aggressive or simplified investment strategy would be more appropriate for the couple's age and goals.
+**Discussion Highlights:** The discussion consensus is that the CFP's recommendations are overly conservative and not tailored to the couple's long investment horizon. Commenters suggest the portfolio resembles a 'Humpty Dumpty Portfolio' and recommend a more aggressive, simpler approach.
 
 ---
 
 ## 4. [Why do I need bonds when I already keep a significant amount in my HYSA? I'm 30 years old](https://reddit.com/r/Bogleheads/comments/1qk02gk/why_do_i_need_bonds_when_i_already_keep_a/)
 
-**Author:** u/SurvivorFanatic236 | **Upvotes:** 197 | **Comments:** 106 | **Date:** 2026-01-22
+**Author:** u/SurvivorFanatic236 | **Upvotes:** 201 | **Comments:** 111 | **Date:** 2026-01-22
 
-**Summary:** The post questions the necessity of bonds when the author already maintains a significant amount in a High-Yield Savings Account (HYSA). The discussion highlights the differences between bonds and HYSA, focusing on interest rates, historical performance, and the role of bonds in preserving value. Key points include the author's HYSA holding one year of expenses, the minimal gains of bonds like BND, the importance of dividend yields, the historical performance of HYSA, and the potential role of bonds as volatility dampeners. The discussion consensus suggests that while HYSA provides liquidity and some interest, bonds offer stability and predictable returns, especially in volatile markets.
+**Summary:** The post questions the necessity of bonds when the author already has a significant amount in a High-Yield Savings Account (HYSA). The discussion highlights the role of bonds in providing stability and dividend yields, contrasting with the variable interest rates of HYSA.
+
+**Key Points:**
+- The author keeps one year of expenses ($45,000) in a HYSA, which is about 15% of their net worth.
+- Bonds provide dividend yields and stability, unlike the variable interest rates of HYSA.
+- Historically, HYSA returns have been low, and bonds held to maturity can preserve value.
+- At 30 years old, the author may not need bonds beyond their HYSA, but bonds can act as volatility dampeners.
+- The focus should be on total return from bonds, not just price fluctuations.
+
+**Discussion Highlights:** The discussion emphasizes the importance of bonds for stability and dividend yields, noting that while HYSA interest rates can fluctuate, bonds held to maturity can preserve value. There is a consensus that at 30 years old, the author may not need additional bonds beyond their HYSA, but bonds can still play a role in reducing volatility.
 
 ---
 
 ## 5. [Valuations are poor market timing indicators.](https://reddit.com/r/Bogleheads/comments/1qjyw25/valuations_are_poor_market_timing_indicators/)
 
-**Author:** u/sneakysocks544 | **Upvotes:** 151 | **Comments:** 37 | **Date:** 2026-01-22
+**Author:** u/sneakysocks544 | **Upvotes:** 154 | **Comments:** 37 | **Date:** 2026-01-22
 
-**Summary:** The post discusses the limited usefulness of stock valuations as market timing indicators, advocating for sticking to a predetermined asset allocation based on risk tolerance. The discussion highlights varying perspectives on the relevance of valuations for different investment horizons.
+**Summary:** The post discusses how stock valuations are not reliable indicators for market timing, advocating for a consistent buy-and-hold strategy based on individual risk tolerance. The discussion highlights varying perspectives on the relevance of valuations over different time horizons.
 
 **Key Points:**
-- Valuations are poor indicators for short-term market timing.
-- Investors should adhere to their asset allocation based on risk tolerance.
-- Long-term indicators like Shiller PE show better correlation with mid-to-long term performance.
-- Short-term PE ratios are less predictive of future returns.
-- The consensus leans towards maintaining investment strategies regardless of current valuations.
+- Valuations are poor indicators for market timing.
+- A buy-and-hold strategy aligned with risk tolerance is recommended.
+- Short-term valuations (e.g., trailing 12mo PE) are less predictive than long-term metrics like Shiller PE.
+- Higher valuations may correlate with lower returns but do not imply causation.
+- Long-term investors should focus less on valuations than those closer to retirement.
 
-**Discussion Highlights:** The discussion reveals a consensus that while short-term valuations may not be reliable for market timing, long-term indicators like the Shiller PE ratio can provide better insights. Most commenters agree that investors should stick to their investment plans rather than making changes based on current valuations.
+**Discussion Highlights:** The discussion reveals a consensus that while valuations may have some predictive power over longer time horizons (e.g., 10 years), they are not reliable for short-term market timing. Most commenters agree that investors should stick to their asset allocation regardless of valuation levels, though some acknowledge the potential utility of metrics like the Shiller PE for long-term planning.
 
 ---
 
 ## 6. [this just doesn't feel right](https://reddit.com/r/Bogleheads/comments/1qjlymx/this_just_doesnt_feel_right/)
 
-**Author:** u/turekstudent | **Upvotes:** 469 | **Comments:** 154 | **Date:** 2026-01-21
+**Author:** u/turekstudent | **Upvotes:** 475 | **Comments:** 154 | **Date:** 2026-01-21
 
-**Summary:** The author, a 23-year-old investor, expresses concern over the unusual market behavior where both the S&P 500 and gold have seen significant gains, while bonds have fallen. They question the sustainability of these trends and the high valuations in the market.
+**Summary:** The author expresses concern over the unusual simultaneous rise in both equities and gold, alongside falling bond prices, suggesting potential dollar devaluation and high asset valuations. The discussion highlights the impact of dollar devaluation and rising inequality as key drivers of these trends.
 
 **Key Points:**
-- The S&P 500 gained 78.6% from January 2023 to January 2026.
-- Gold gained 148.7% in the same period, outperforming the S&P 500.
+- S&P 500 gained 78.6% and gold gained 148.7% from January 2023 to January 2026, an unusual simultaneous rise.
 - Bond prices fell as the 10-year treasury yield rose from 3.5% to 4.24%.
-- The author is concerned about high valuations and the unusual simultaneous rise in equities and gold.
-- Top comments suggest dollar devaluation and rising inequality as key drivers of these trends.
+- High valuations are noted, with the S&P 500's Shiller CAPE at 40.32, the second highest in 100 years.
+- Discussion suggests dollar devaluation and rising inequality as key drivers of asset price increases.
+- Commenters highlight the impact of central banks buying gold and the broader economic context.
 
-**Discussion Highlights:** The discussion highlights a consensus around dollar devaluation as a primary explanation for the rising asset prices. Commenters also mention the impact of rising inequality and the behavior of central banks buying gold as contributing factors.
+**Discussion Highlights:** The discussion largely agrees that dollar devaluation is a significant factor behind the rising asset prices. Commenters also point to rising inequality and central bank actions as contributing factors. The consensus is that these trends are driven by broader economic forces rather than individual asset performance.
 
 ---
 
 ## 7. [Sold all my individual stocks](https://reddit.com/r/Bogleheads/comments/1qj1ql6/sold_all_my_individual_stocks/)
 
-**Author:** u/Sgsfsf | **Upvotes:** 148 | **Comments:** 108 | **Date:** 2026-01-21
+**Author:** u/Sgsfsf | **Upvotes:** 154 | **Comments:** 109 | **Date:** 2026-01-21
 
-**Summary:** The author sold all their individual stocks to invest entirely in QQQM, expressing frustration with the difficulty of outperforming the market. The community generally praised the move towards diversification but criticized the choice of QQQM for being too tech-heavy.
+**Summary:** The author sold all individual stocks to invest in QQQM, citing frustration with stock performance and market outperformance. The discussion praises the move away from individual stocks but critiques QQQM's lack of diversification.
 
 **Key Points:**
 - Author sold individual stocks to invest in QQQM
-- Community praised diversification but criticized QQQM's tech-heavy focus
-- Suggestions to consider more diversified funds like VT
-- General consensus on the difficulty of outperforming the market
-- Mixed reactions to the author's investment strategy
+- Frustration with stock performance and market outperformance
+- Discussion praises move away from individual stocks
+- Criticism of QQQM's tech-heavy focus
+- Suggestions for broader diversification (e.g., VT)
 
-**Discussion Highlights:** The discussion highlights a consensus on the benefits of diversification and the challenges of outperforming the market. However, there is criticism of the author's choice of QQQM for being too concentrated in the tech sector, with suggestions to consider more broadly diversified funds like VT.
+**Discussion Highlights:** The discussion consensus is that moving away from individual stocks is a good decision, but QQQM is still too concentrated in tech. Many commenters suggest broader diversification options like VT.
 
 ---
 
 ## 8. [How are the "US equities" only folks doing? Steady as she goes or time to rethink allocation?](https://reddit.com/r/Bogleheads/comments/1qiv3zn/how_are_the_us_equities_only_folks_doing_steady/)
 
-**Author:** u/cambeiu | **Upvotes:** 657 | **Comments:** 388 | **Date:** 2026-01-21
+**Author:** u/cambeiu | **Upvotes:** 653 | **Comments:** 388 | **Date:** 2026-01-21
 
-**Summary:** The post discusses whether US equities alone are sufficient for investment, given recent global economic shifts. The author questions the traditional advice of relying solely on US equities and asks if it's time to consider increasing international exposure. Key points include the traditional favor for US equities, recent global shifts challenging this approach, differing opinions on adjusting strategies, advocacy for staying the course, and suggestions for a globally weighted approach. The discussion highlights a mix of opinions, with a consensus leaning towards cautious optimism and staying the course, acknowledging the complexity of the issue.
+**Summary:** The post discusses the shifting global paradigm and questions whether US equities alone are sufficient for investment, referencing Jack Bogle's past arguments. The discussion explores the potential need for increased focus on international equities.
+
+**Key Points:**
+- Jack Bogle's argument for VTSAX as sufficient global exposure may be outdated due to changing global paradigms.
+- Mark Carney's speech at Davos highlights shifts in free trade and market access.
+- The discussion includes perspectives on maintaining steady investment strategies despite global changes.
+- Some commenters advocate for global market cap weighting as a strategy.
+- The concept of 'TACO' (This Could All Change Overnight) is mentioned as a reason to stay the course.
+
+**Discussion Highlights:** The discussion highlights a divide between those advocating for steady investment strategies and those considering adjustments due to global changes. Many commenters emphasize the importance of maintaining a long-term perspective and global market cap weighting.
 
 ---
 
-## 9. [It  is sometimes discouraging thinking if this strategy will actually work during my life time, it will only exacerbate inequality... (When I project my returns it, makes me think of this)](https://reddit.com/r/Bogleheads/comments/1qhu7q4/it_is_sometimes_discouraging_thinking_if_this/)
+## 9. [Have you ever received good advice from a Fiduciary or CPA?](https://reddit.com/r/Bogleheads/comments/1qibome/have_you_ever_received_good_advice_from_a/)
 
-**Author:** u/Artistic_Rub_1661 | **Upvotes:** 357 | **Comments:** 230 | **Date:** 2026-01-20
+**Author:** u/desertsnakes | **Upvotes:** 101 | **Comments:** 63 | **Date:** 2026-01-20
 
-**Summary:** The post expresses concerns about wealth inequality and the fairness of the financial system, questioning whether investment strategies like those advocated by Bogleheads can truly work for most people over their lifetimes. The discussion includes perspectives on systemic issues, personal success stories, and the role of individual actions versus broader societal changes.
+**Summary:** The Reddit post discusses mixed experiences with fee-based advice from fiduciaries and CPAs, particularly regarding tax optimization strategies for VTI/VXUS in taxable accounts. While some found the advice helpful, others felt it was not worth the cost or lacked specific analysis. Key points include mixed experiences with fee-based advice, vague or biased advice from some advisors, helpfulness in specific situations like inherited IRAs and RMDs, varying value of financial advisors based on individual needs, and empirical studies suggesting value through behavioral coaching and tax optimization. The discussion highlights a consensus that while some found value in consulting fiduciaries and CPAs, others felt the advice was not worth the cost, with specific situations like dealing with inherited assets or complex tax scenarios noted as areas where professional advice was particularly beneficial.
+
+---
+
+## 10. [It  is sometimes discouraging thinking if this strategy will actually work during my life time, it will only exacerbate inequality... (When I project my returns it, makes me think of this)](https://reddit.com/r/Bogleheads/comments/1qhu7q4/it_is_sometimes_discouraging_thinking_if_this/)
+
+**Author:** u/Artistic_Rub_1661 | **Upvotes:** 369 | **Comments:** 230 | **Date:** 2026-01-20
+
+**Summary:** The post expresses concern about wealth inequality and the sustainability of a system where most people struggle financially while the wealthy continue to accumulate wealth exponentially. The author acknowledges their relative privilege but questions the fairness and long-term viability of the current economic structure.
 
 **Key Points:**
 - Wealth inequality is a significant concern, with capital gains favoring the wealthy.
-- Personal investment strategies may not address systemic inequality but can help individuals secure their financial future.
-- Individual success stories exist, but systemic changes (e.g., taxation and redistribution) are seen as necessary for broader equity.
-- The Boglehead philosophy focuses on long-term investing, but its impact on inequality is debated.
-- Community and personal responsibility are highlighted as ways to mitigate individual financial struggles.
+- The system is perceived as unfair, with early success, inheritance, or luck playing major roles.
+- Individual actions like investing may not address systemic inequality, which requires broader solutions like redistribution.
+- Personal financial responsibility can lead to surplus resources to help the community.
+- Despite concerns, the author plans to continue investing as a personal strategy.
 
-**Discussion Highlights:** The discussion highlights a mix of personal experiences and broader systemic critiques. While some commenters emphasize the importance of individual financial responsibility and long-term investing, others argue that systemic changes are needed to address wealth inequality. There is a consensus that while individual actions can improve personal financial outcomes, broader societal changes are necessary to create a more equitable system.
+**Discussion Highlights:** The discussion highlights a consensus that wealth inequality is driven by systemic factors favoring capital over labor. While individual investing is encouraged for personal financial security, many agree that systemic change through redistribution is necessary to address broader inequality. Personal stories of upward mobility are shared, but the overall tone acknowledges the systemic challenges.
 
 ---
 
-## 10. [Boglehead perspective on buying vs renting. What am I missing?](https://reddit.com/r/Bogleheads/comments/1qhiyj2/boglehead_perspective_on_buying_vs_renting_what/)
+## 11. [Boglehead perspective on buying vs renting. What am I missing?](https://reddit.com/r/Bogleheads/comments/1qhiyj2/boglehead_perspective_on_buying_vs_renting_what/)
 
-**Author:** u/No-Definition2856 | **Upvotes:** 182 | **Comments:** 232 | **Date:** 2026-01-19
+**Author:** u/No-Definition2856 | **Upvotes:** 180 | **Comments:** 232 | **Date:** 2026-01-19
 
-**Summary:** The post questions why buying a house is discouraged as a way to preserve money, even if some portion is recovered upon sale, compared to renting where all payments are lost. The discussion highlights various perspectives on the financial and personal aspects of homeownership.
+**Summary:** The post questions why buying a house is not considered a good way to preserve money, even if mortgage payments are lower than rent and some money is recovered upon sale. The discussion highlights various perspectives on the financial and personal aspects of homeownership.
 
 **Key Points:**
 - Buying a house is not considered a good investment due to low or uncertain real returns, high transaction costs, taxes, maintenance, and opportunity cost versus index funds.
-- The author struggles to understand why buying is discouraged even when the total monthly cost of ownership is comparable to renting.
-- The discussion includes perspectives on the financial and personal aspects of homeownership, with some suggesting it is not purely an investment.
-- Realistic home ownership costs, such as property taxes and maintenance, are emphasized in the comments.
-- Some commenters suggest that renting is not necessarily worse than buying and can be about even in terms of financial outcomes.
+- The author struggles to understand why buying is discouraged even as a way to preserve money, given that some portion of the money can be recovered upon sale.
+- Top comments suggest that Bogleheads do not universally discourage homeownership, especially if mortgage and maintenance costs are lower than rent.
+- Personal factors such as individual wants, needs, locale, market conditions, and risk appetite play a significant role in the decision to buy or rent.
+- Realistic assessment of homeownership costs, including property taxes, maintenance, and unexpected expenses, is crucial for a fair comparison.
 
-**Discussion Highlights:** The discussion highlights that while buying a house may allow partial capital recovery, it is not purely an investment and should be considered based on individual circumstances. Realistic costs of homeownership are emphasized, and some commenters suggest that renting can be financially comparable to buying.
+**Discussion Highlights:** The discussion highlights that while buying a house may not be a great investment, it is not universally discouraged by Bogleheads, especially if the costs are lower than renting. Personal factors and realistic cost assessments are crucial in making the decision. The consensus is that both buying and renting can be financially comparable, depending on individual circumstances.
 
 ---
 
-## 11. [Retirement rich, after-tax less so](https://reddit.com/r/Bogleheads/comments/1qh7rgs/retirement_rich_aftertax_less_so/)
+## 12. [Retirement rich, after-tax less so](https://reddit.com/r/Bogleheads/comments/1qh7rgs/retirement_rich_aftertax_less_so/)
 
 **Author:** u/MidwestCard | **Upvotes:** 163 | **Comments:** 91 | **Date:** 2026-01-19
 
-**Summary:** A couple in their mid-thirties with $800,000 in retirement accounts questions whether their aggressive retirement contributions are excessive, considering their financial goals and lifestyle aspirations.
+**Summary:** A couple in their mid-thirties with $800,000 in retirement accounts questions whether their aggressive retirement contributions are excessive, seeking advice on balancing future financial security with current lifestyle improvements.
 
 **Key Points:**
 - The couple has $800,000 in retirement accounts and contributes over $100,000 annually.
-- They are considering reducing retirement contributions to improve their current lifestyle.
-- The post highlights the balance between future financial security and present quality of life.
-- Comments emphasize the importance of enjoying life now while also securing retirement.
-- Some commenters suggest continuing to max out tax-advantaged accounts until retirement goals are met.
+- They are considering reducing retirement contributions to enjoy more liquid funds for lifestyle improvements.
+- Top comments emphasize enjoying life now, the importance of tax-advantaged accounts, realistic investment returns, and detailed retirement planning.
+- There is a consensus on balancing current enjoyment with future financial security.
 
-**Discussion Highlights:** The discussion consensus leans towards balancing current lifestyle improvements with future financial security. Many commenters advise enjoying life now while continuing to save for retirement, emphasizing that there are no guarantees in life.
-
----
-
-## 12. [Why is ETF the only term I seem to hear](https://reddit.com/r/Bogleheads/comments/1qgg654/why_is_etf_the_only_term_i_seem_to_hear/)
-
-**Author:** u/spookymonsterscary | **Upvotes:** 114 | **Comments:** 107 | **Date:** 2026-01-18
-
-**Summary:** The Reddit post discusses the author's confusion about the prevalence of ETF discussions over mutual funds, despite their similarities. The comments highlight key differences such as trading flexibility and fees, with a general consensus that ETFs are more popular due to their accessibility and lower costs. Key points include: ETFs can be traded in real-time during market hours, while mutual funds are traded at the end of the day; ETFs are generally more accessible and easier to recommend across different brokers; mutual funds may have behavioral advantages by discouraging frequent trading; ETFs often have lower fees compared to mutual funds; and the popularity of ETFs may be driven by their perceived advantages in trading flexibility and cost-effectiveness. The discussion highlights the practical differences between ETFs and mutual funds, with a consensus that ETFs are favored for their trading flexibility, lower fees, and broader accessibility. However, mutual funds are noted for their potential behavioral benefits, such as reducing impulsive trading.
+**Discussion Highlights:** The discussion highlights the importance of balancing current lifestyle enjoyment with future financial security. Many commenters stress the value of enjoying youth and good health, while also emphasizing the benefits of tax-advantaged accounts and realistic financial planning.
 
 ---
 
-## 13. [How to protect spouse on my death from her lack of money common sense?](https://reddit.com/r/Bogleheads/comments/1qftg5r/how_to_protect_spouse_on_my_death_from_her_lack/)
+## 13. [Why is ETF the only term I seem to hear](https://reddit.com/r/Bogleheads/comments/1qgg654/why_is_etf_the_only_term_i_seem_to_hear/)
 
-**Author:** u/tooOldOriolesfan | **Upvotes:** 195 | **Comments:** 78 | **Date:** 2026-01-17
+**Author:** u/spookymonsterscary | **Upvotes:** 113 | **Comments:** 107 | **Date:** 2026-01-18
 
-**Summary:** A retired couple seeks ways to protect the spouse from poor financial decisions after the author's death, focusing on controlled monthly payments.
+**Summary:** The Reddit post discusses the author's confusion about why ETFs are more frequently mentioned than mutual funds in investment discussions, despite their similarities. The discussion highlights the differences between ETFs and mutual funds, such as trading times and fees, and explores reasons for ETFs' popularity. Key points include: ETFs can be traded in real-time during market hours, while mutual funds are traded at the end of the day; ETFs are often recommended due to their lower fees and broader availability across brokers; mutual funds may offer behavioral advantages by discouraging frequent trading; the author invested in VTSAX (mutual fund) and VTI (ETF), noting the minimum investment difference; and the discussion suggests that ETFs are more popular in conversations due to their accessibility and cost-effectiveness. The consensus in the discussion is that while ETFs and mutual funds are similar in many ways, ETFs are often preferred for their real-time trading capability, lower fees, and broader accessibility. However, mutual funds may offer behavioral benefits by reducing the temptation to trade frequently.
+
+---
+
+## 14. [How to protect spouse on my death from her lack of money common sense?](https://reddit.com/r/Bogleheads/comments/1qftg5r/how_to_protect_spouse_on_my_death_from_her_lack/)
+
+**Author:** u/tooOldOriolesfan | **Upvotes:** 193 | **Comments:** 77 | **Date:** 2026-01-17
+
+**Summary:** The post discusses a retired couple where the husband is concerned about his wife's lack of financial knowledge and tendency to give away money. He seeks advice on how to structure their assets to provide her with a monthly allowance after his death.
 
 **Key Points:**
-- The spouse lacks financial knowledge and tends to give money away.
-- Setting up a trust with monthly payments is a recommended solution.
-- Annuities and advisory services are also suggested as viable options.
-- Consolidating accounts and enrolling in advisory services can simplify management.
-- Professional help from a trust attorney is advised for proper setup.
+- The wife lacks financial knowledge and tends to give away money.
+- The husband wants to set up a monthly allowance for his wife after his death.
+- Setting up a trust with monthly payments is suggested as a viable option.
+- Annuities and advisory services are also mentioned as potential solutions.
+- Consolidating accounts and enrolling in advisory services now could simplify things for the wife later.
 
-**Discussion Highlights:** The discussion highlights the importance of setting up a trust or annuity to provide controlled monthly payments to the spouse. There is a consensus on seeking professional help from a trust attorney to ensure proper setup and management.
+**Discussion Highlights:** The discussion highlights the importance of setting up a trust or annuity to manage the wife's finances after the husband's death. There is a consensus that professional help, such as trust attorneys or advisory services, is beneficial. Consolidating accounts and planning ahead are also emphasized.
 
 ---
 
-## 14. [VTI + VXUS hold 12,158 number of stocks. VT holds 9,950 number of stocks. So which ETF would truly be total world.](https://reddit.com/r/Bogleheads/comments/1qfs4ej/vti_vxus_hold_12158_number_of_stocks_vt_holds/)
+## 15. [VTI + VXUS hold 12,158 number of stocks. VT holds 9,950 number of stocks. So which ETF would truly be total world.](https://reddit.com/r/Bogleheads/comments/1qfs4ej/vti_vxus_hold_12158_number_of_stocks_vt_holds/)
 
-**Author:** u/marzthemagnificent | **Upvotes:** 181 | **Comments:** 52 | **Date:** 2026-01-17
+**Author:** u/marzthemagnificent | **Upvotes:** 176 | **Comments:** 52 | **Date:** 2026-01-17
 
-**Summary:** The post discusses whether holding VTI and VXUS together, which cover more stocks than VT alone, is a better 'total world' ETF strategy. The discussion highlights the trade-offs between broader coverage and practicality.
+**Summary:** The post discusses whether holding both VTI and VXUS provides a more comprehensive world stock coverage than VT alone, noting that VTI + VXUS holds 2,208 more stocks. The discussion highlights the trade-offs between comprehensiveness and practicality.
 
 **Key Points:**
 - VTI + VXUS combined hold 12,158 stocks, while VT holds 9,950 stocks.
 - The extra 2,208 stocks in VTI + VXUS are likely global microcaps with minimal impact on returns.
-- VT is preferred for its simplicity and lower maintenance, despite fewer holdings.
-- Holding more stocks incurs additional costs for tracking and balancing.
-- Proper weighting is crucial if opting for VTI + VXUS to achieve true global representation.
+- VT is preferred for its simplicity and lower maintenance, despite holding fewer stocks.
+- Cost and rebalancing efforts are considerations when choosing between VT and VTI + VXUS.
+- Proper weighting is crucial if opting for VTI + VXUS to achieve true world coverage.
 
-**Discussion Highlights:** The consensus leans towards VT for its simplicity and ease of management, despite VTI + VXUS offering broader stock coverage. Users appreciate the 'one fund' approach of VT for its convenience and lower hassle.
-
----
-
-## 15. [Does this only work with post cold era world order?](https://reddit.com/r/Bogleheads/comments/1qfqpn6/does_this_only_work_with_post_cold_era_world_order/)
-
-**Author:** u/Active_Lemon_8260 | **Upvotes:** 119 | **Comments:** 84 | **Date:** 2026-01-17
-
-**Summary:** The post questions whether the Bogleheads investment philosophy remains valid in a potentially changing world order, such as the dissolution of NATO or shifts in global power dynamics. The discussion explores the robustness of passive investing strategies in uncertain geopolitical climates.
-
-**Key Points:**
-- Bogleheads philosophy has thrived in the post-WW2 world order but may face challenges if global power structures shift significantly.
-- The philosophy emphasizes broad market exposure and passive investing, which may mitigate risks even in uncertain times.
-- The discussion highlights the difficulty of predicting geopolitical changes and the futility of trying to time markets based on such predictions.
-- Global diversification is seen as a hedge against potential shifts in reserve currencies or geopolitical alliances.
-- The consensus leans toward sticking with the Bogleheads approach despite geopolitical uncertainties.
-
-**Discussion Highlights:** The discussion largely supports the Bogleheads philosophy, emphasizing the importance of global diversification and passive investing as strategies to weather geopolitical uncertainties. Many commenters argue that attempting to predict or react to geopolitical shifts is futile and that broad market exposure remains the best approach.
+**Discussion Highlights:** The consensus leans towards VT for its ease of use and sufficient coverage, despite VTI + VXUS offering a slightly broader range of stocks. Users appreciate the simplicity of a single fund and are willing to forgo the additional stocks for convenience.
 
 ---
 
-## 16. [100% VT For 500k?](https://reddit.com/r/Bogleheads/comments/1qfgzus/100_vt_for_500k/)
+## 16. [Does this only work with post cold era world order?](https://reddit.com/r/Bogleheads/comments/1qfqpn6/does_this_only_work_with_post_cold_era_world_order/)
 
-**Author:** u/SensiiNips_ | **Upvotes:** 152 | **Comments:** 147 | **Date:** 2026-01-17
+**Author:** u/Active_Lemon_8260 | **Upvotes:** 124 | **Comments:** 84 | **Date:** 2026-01-17
 
-**Summary:** The post discusses the idea of investing 100% in VT (Vanguard Total World Stock ETF) and withdrawing 5% annually for travel, with the user seeking advice on diversification. The discussion highlights the benefits of VT's diversification and suggests considering bonds at the user's age.
+**Summary:** The post questions whether the Bogleheads investment philosophy remains valid in a potentially changing world order, such as the dissolution of NATO or shifts in global power dynamics. The discussion emphasizes the philosophy's focus on broad market exposure and long-term investing, regardless of geopolitical changes.
 
 **Key Points:**
-- User prefers simplicity and is considering 100% VT investment.
-- User wants to withdraw 5% annually for travel.
-- VT is highly diversified and represents global market cap.
-- Some commenters suggest adding bonds for age-appropriate diversification.
-- More context is needed for a definitive answer.
+- Bogleheads philosophy has thrived in the post-WW2 world order but its validity in a changing geopolitical landscape is questioned.
+- The philosophy centers on broad market exposure via inexpensive passive funds and maintaining an appropriate equity allocation.
+- Market risk is inherent and attempting to forecast geopolitical changes is not part of the Bogleheads approach.
+- Global diversification is seen as a hedge against potential shifts in reserve currencies or world order.
+- The consensus is to stick with the long-term, passive investment strategy regardless of geopolitical uncertainties.
 
-**Discussion Highlights:** The consensus leans toward VT being a highly diversified option, but some commenters recommend adding bonds for stability, especially given the user's age. The discussion also emphasizes the need for more context about the user's goals and timeline.
+**Discussion Highlights:** The discussion highlights a strong consensus on adhering to the Bogleheads principles of broad market exposure and long-term investing. Commenters emphasize that geopolitical changes do not alter the fundamental approach of passive investing and global diversification. The top comments reinforce the idea that market swings, regardless of their cause, should not deter investors from their long-term strategy.
 
 ---
 
