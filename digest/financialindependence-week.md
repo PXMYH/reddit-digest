@@ -8,18 +8,17 @@
 
 ## 1. [The Retirement Crisis No One Warns You About: Mattering](https://reddit.com/r/financialindependence/comments/1qfj7ml/the_retirement_crisis_no_one_warns_you_about/)
 
-**Author:** u/zackenrollertaway | **Upvotes:** 382 | **Comments:** 165 | **Date:** 2026-01-17
+**Author:** u/zackenrollertaway | **Upvotes:** 380 | **Comments:** 165 | **Date:** 2026-01-17
 
-**Summary:** The post discusses the concept of 'mattering' in retirement, highlighting its importance through a personal anecdote and referencing an article that defines 'mattering' as feeling significant, appreciated, invested in, and depended on. The author shares their experience of finding purpose through tutoring after retiring.
+**Summary:** The post discusses the psychological challenge of 'mattering' in retirement, defined by the SAID acronym (Significant, Appreciated, Invested in, Depended on). The author shares their personal experience of feeling lost after retiring and how tutoring helped them regain a sense of purpose.
 
 **Key Points:**
-- 'Mattering' is defined by the acronym SAID: feeling significant, appreciated, invested in, and depended on.
-- The author retired in 2018 and initially struggled with finding purpose, but found fulfillment through tutoring.
-- The post references a Twilight Zone episode to illustrate the concept of not mattering.
-- Top comments discuss varying perspectives on the importance of mattering and ways to find purpose in retirement.
-- Suggestions for finding ways to matter include volunteering, tutoring, and joining clubs or groups.
+- 'Mattering' is crucial for psychological well-being in retirement, defined by the SAID acronym.
+- The author felt a loss of purpose after retiring but found fulfillment through tutoring.
+- Community comments highlight varied perspectives, from indifference to proactive suggestions like volunteering and joining clubs.
+- Some users express difficulty in feeling like they matter, while others find balance in low-stress jobs and increased vacation time.
 
-**Discussion Highlights:** The discussion highlights varying perspectives on the importance of 'mattering' in retirement. Some commenters express indifference or difficulty in feeling like they matter, while others suggest activities like volunteering, tutoring, and joining clubs as ways to find purpose and fulfillment in retirement.
+**Discussion Highlights:** The discussion reveals a mix of experiences and coping strategies. Some users feel indifferent about 'mattering,' while others actively seek purpose through volunteering, tutoring, and social activities. There is a consensus on the importance of finding meaningful engagement post-retirement.
 
 ---
 
