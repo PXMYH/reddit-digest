@@ -2,117 +2,125 @@
 
 **Period:** 2026-01-26 to 2026-01-26
 **Posts Summarized:** 7
-**Total Posts Analyzed:** 15
+**Total Posts Analyzed:** 14
 
 ---
 
-## 1. [CFP’s Investment Recommendations](https://reddit.com/r/Bogleheads/comments/1qkhef6/cfps_investment_recommendations/)
+## 1. [Worries about investing a windfall with the worsening US instability](https://reddit.com/r/Bogleheads/comments/1qmmwvx/worries_about_investing_a_windfall_with_the/)
 
-**Author:** u/rjbergen | **Upvotes:** 128 | **Comments:** 145 | **Date:** 2026-01-22
+**Author:** u/YouWouldIfYouReally | **Upvotes:** 142 | **Comments:** 208 | **Date:** 2026-01-25
 
-**Summary:** A couple in their mid-30s consulted a fee-only CFP for retirement planning but found the investment recommendations overly conservative for their 20+ year horizon. The CFP suggested a high allocation to bonds and money market funds, which the couple and commenters deemed inappropriate for their age and risk tolerance.
+**Summary:** The post discusses concerns about investing a windfall in a global index fund due to perceived increasing instability in the US, questioning the traditional Boglehead approach of ignoring geopolitical risks. The discussion highlights mixed views, with some advocating for staying the course with global passive investing and others suggesting caution or alternative strategies like equal weighting.
 
 **Key Points:**
-- Couple (35M and 35F) with a 20+ year investment horizon and moderate risk tolerance.
-- CFP's recommendations were seen as overly conservative, with 28% in bonds/T-bills and 10% in money market funds.
-- The couple prefers a simpler, more aggressive portfolio like VT or VTI/VXUS.
-- Commenters criticized the CFP's recommendations as a 'Humpty Dumpty Portfolio' and 'cookie cutter'.
-- Suggestions to ask for an R-squared analysis to check for fund overlap.
+- Author is concerned about US instability affecting global markets and their investment in a global index fund.
+- The post questions whether traditional Boglehead strategies (like DCA) are still appropriate given current geopolitical risks.
+- Discussion includes comments advocating for long-term passive investing despite short-term volatility.
+- Some commenters suggest maintaining a robust emergency fund but not altering investment strategies.
+- There is a debate about whether 'this time is different' regarding US instability and its potential market impact.
 
-**Discussion Highlights:** The consensus among commenters was that the CFP's recommendations were overly conservative and not tailored to the couple's age and risk tolerance. Many suggested the portfolio was a generic, one-size-fits-all approach rather than a personalized plan.
+**Discussion Highlights:** The discussion consensus leans towards maintaining a long-term, globally diversified investment strategy, with some commenters emphasizing the importance of an emergency fund. There is a recognition that while current US instability is concerning, historical precedent suggests that markets tend to recover over time. A few commenters advocate for alternative strategies like equal weighting as a hedge.
 
 ---
 
-## 2. [Why do I need bonds when I already keep a significant amount in my HYSA? I'm 30 years old](https://reddit.com/r/Bogleheads/comments/1qk02gk/why_do_i_need_bonds_when_i_already_keep_a/)
+## 2. [Is Vanguard really that bad as a brokerage, or is the criticism unwarranted and only from vocal, unhappy customers?](https://reddit.com/r/Bogleheads/comments/1qlt4ft/is_vanguard_really_that_bad_as_a_brokerage_or_is/)
 
-**Author:** u/SurvivorFanatic236 | **Upvotes:** 207 | **Comments:** 113 | **Date:** 2026-01-22
+**Author:** u/DiegoMilan | **Upvotes:** 197 | **Comments:** 280 | **Date:** 2026-01-24
 
-**Summary:** The post questions the necessity of bonds when the user already has a significant amount in a HYSA. The discussion highlights the role of bonds as volatility dampeners and their historical performance compared to HYSA.
+**Summary:** The Reddit post discusses whether Vanguard's criticism as a brokerage is warranted or overblown. Many users share positive long-term experiences with Vanguard, highlighting its reliability for buy-and-hold investors, despite criticisms about its website and app.
 
 **Key Points:**
-- Bonds provide stability and reduce volatility in a portfolio.
-- Historical performance of bonds (e.g., BND) shows fluctuations but includes dividend yields.
-- HYSA returns can vary significantly over time and may not always be favorable.
-- At 30 years old, the user may not need additional bonds beyond their HYSA.
-- The focus should be on total return, not just price changes, when evaluating bond funds.
+- Vanguard is praised for its low-fee ETFs and mutual funds, ideal for long-term wealth building.
+- Customer service experiences vary, with some users reporting positive interactions despite long wait times.
+- The website and app are criticized for being outdated and less user-friendly compared to competitors like Fidelity and Schwab.
+- Vanguard is recommended for buy-and-hold investors, while active traders may prefer other brokerages.
+- Overall, Vanguard, Fidelity, and Schwab are all considered solid choices for serious investors.
 
-**Discussion Highlights:** The consensus among commenters is that while bonds may not be necessary at the user's age, they serve as a hedge against market volatility. The importance of considering total return, including dividends, is emphasized, and the historical variability of HYSA returns is noted.
+**Discussion Highlights:** The consensus is that Vanguard is a strong brokerage for long-term investors who prioritize low fees and reliability over flashy features. While there are criticisms about its digital interface and occasional customer service issues, many users find these concerns overblown and continue to have positive experiences with Vanguard.
 
 ---
 
-## 3. [this just doesn't feel right](https://reddit.com/r/Bogleheads/comments/1qjlymx/this_just_doesnt_feel_right/)
+## 3. [Ugh! Pissed off my advisor!](https://reddit.com/r/Bogleheads/comments/1qlcm14/ugh_pissed_off_my_advisor/)
 
-**Author:** u/turekstudent | **Upvotes:** 502 | **Comments:** 160 | **Date:** 2026-01-21
+**Author:** u/KelliSean | **Upvotes:** 332 | **Comments:** 219 | **Date:** 2026-01-23
 
-**Summary:** The Reddit post discusses the unusual market behavior where both the S&P 500 and gold have seen significant gains over three years, despite typically inverse relationships. The author expresses concern about high valuations and the rapid rise in asset prices, questioning whether this reflects true productivity growth.
+**Summary:** The user left their financial advisor after feeling berated and now has a complex portfolio with 17 stocks, 5 mutual funds, and 8 ETFs in their taxable account. They are seeking advice on whether to keep certain investments like CIBR, FLQL, FLQM, GRID, SPLV, XMLV, DGRO, and ACWV, which have significant unrealized gains.
 
 **Key Points:**
-- The S&P 500 gained 78.6% and gold gained 148.7% from January 2023 to January 2026.
-- The author is concerned about high valuations and the rapid rise in asset prices.
-- Top comments suggest dollar devaluation as a key factor behind the rising asset prices.
-- Discussion highlights the impact of dollar devaluation and rising inequality on asset prices.
-- The post questions whether the rapid rise in asset prices reflects true productivity growth.
+- User left their advisor due to poor treatment and feels better about the decision.
+- Portfolio includes 17 stocks, 5 mutual funds, and 8 ETFs with $90,000 in unrealized gains.
+- Advisors may react negatively when clients leave, as seen in the top comments.
+- Tax implications are a key consideration when deciding whether to keep or sell investments.
+- Non-fiduciary advisors are often criticized for not acting in clients' best interests.
 
-**Discussion Highlights:** The discussion consensus points to dollar devaluation as the primary reason for the simultaneous rise in asset prices. Comments also mention the role of rising inequality and central bank actions in driving asset prices higher.
+**Discussion Highlights:** The discussion highlights the negative behavior of some advisors when clients leave and emphasizes the importance of considering tax implications before making changes to the portfolio. There is a consensus that non-fiduciary advisors may not always act in the best interest of their clients.
 
 ---
 
-## 4. [Sold all my individual stocks](https://reddit.com/r/Bogleheads/comments/1qj1ql6/sold_all_my_individual_stocks/)
+## 4. [32 yr old with 600k in savings. What do I do?](https://reddit.com/r/Bogleheads/comments/1qkp0og/32_yr_old_with_600k_in_savings_what_do_i_do/)
 
-**Author:** u/Sgsfsf | **Upvotes:** 157 | **Comments:** 112 | **Date:** 2026-01-21
+**Author:** u/Resident-Welder5326 | **Upvotes:** 170 | **Comments:** 103 | **Date:** 2026-01-23
 
-**Summary:** The author sold all their individual stocks to invest entirely in QQQM, citing the difficulty of outperforming the market and the risks of concentrated stock holdings. The discussion highlights mixed reactions, with some praising the move towards diversification but criticizing the choice of QQQM for being too tech-heavy.
+**Summary:** A 32-year-old with $600k in savings and a $150k annual income seeks advice on balancing their portfolio and managing financial anxiety. They are considering taking a break from work but fear financial instability.
 
 **Key Points:**
-- Author sold individual stocks to invest in QQQM
-- Difficulty of outperforming the market cited as a reason
-- QQQM is criticized for being too tech-heavy
-- Consensus suggests broader diversification is better
-- Mixed reactions from the community on the decision
+- Author has significant savings but struggles with financial anxiety and spending.
+- Current portfolio is 50% bonds and 50% ETFs, which some commenters suggest is too conservative for their age.
+- Author is considering taking a break from work but fears financial instability.
+- Commenters emphasize managing anxiety and seeking therapy as important steps.
+- Suggestions include adjusting portfolio allocation and ensuring sufficient cash reserves.
 
-**Discussion Highlights:** The discussion highlights a consensus that moving away from individual stocks towards broader diversification is a good move. However, many commenters criticize the choice of QQQM for being too tech-heavy and suggest more diversified options like VT.
-
----
-
-## 5. [Have you ever received good advice from a Fiduciary or CPA?](https://reddit.com/r/Bogleheads/comments/1qibome/have_you_ever_received_good_advice_from_a/)
-
-**Author:** u/desertsnakes | **Upvotes:** 100 | **Comments:** 64 | **Date:** 2026-01-20
-
-**Summary:** The Reddit post discusses mixed experiences with fee-based fiduciaries and CPAs, with some finding their advice vague or biased, while others found value in specific financial planning scenarios. Key points include mixed experiences with advisors, some finding advice vague or biased, others finding value in specific scenarios like retirement planning and inherited IRAs, and the discussion highlighting the variability in the quality of financial advice. The consensus is that while some financial advisors provide valuable, tailored advice, others may offer generic or biased recommendations, with the value often depending on the specific financial situation and the advisor's expertise.
+**Discussion Highlights:** The discussion highlights a consensus that the author's financial anxiety is a significant issue that needs addressing, possibly through therapy. There is also a strong suggestion to reconsider the conservative portfolio allocation (50% bonds) given the author's age and financial situation. Commenters advise ensuring sufficient cash reserves before considering a break from work.
 
 ---
 
-## 6. [It  is sometimes discouraging thinking if this strategy will actually work during my life time, it will only exacerbate inequality... (When I project my returns it, makes me think of this)](https://reddit.com/r/Bogleheads/comments/1qhu7q4/it_is_sometimes_discouraging_thinking_if_this/)
+## 5. [CFP’s Investment Recommendations](https://reddit.com/r/Bogleheads/comments/1qkhef6/cfps_investment_recommendations/)
 
-**Author:** u/Artistic_Rub_1661 | **Upvotes:** 368 | **Comments:** 231 | **Date:** 2026-01-20
+**Author:** u/rjbergen | **Upvotes:** 129 | **Comments:** 148 | **Date:** 2026-01-22
 
-**Summary:** The post expresses concerns about wealth inequality and the fairness of the financial system, questioning whether investing strategies like those advocated by Bogleheads can truly benefit most people over time. The discussion includes perspectives on systemic issues, personal experiences, and the role of individual actions versus broader societal changes.
+**Summary:** A Reddit user seeks feedback on their CFP's conservative investment recommendations, which seem misaligned with their moderate risk tolerance and 20+ year horizon. The community criticizes the recommendations as overly cautious and formulaic.
 
 **Key Points:**
-- Wealth inequality is a significant concern, with capital gains favoring the wealthy.
-- Personal experiences vary, with some achieving financial success despite starting with little.
-- Investing alone may not solve systemic inequality; broader societal changes like taxation and redistribution are needed.
-- Taking care of one's finances can provide resources to help others in the community.
-- The system is seen as unfair, but individual actions can still make a difference.
+- CFP's recommendations are perceived as overly conservative for a 35-year-old couple with a 20+ year horizon.
+- User prefers a simpler portfolio like VT or VTI/VXUS.
+- Community criticizes the recommendations as a 'Humpty Dumpty Portfolio' and overly formulaic.
+- Specific concerns include high bond/T-bill allocation (28%) and money market in 401k.
+- Suggestions to request an R-squared analysis to check for fund overlap.
 
-**Discussion Highlights:** The discussion highlights a mix of perspectives, with some emphasizing systemic issues and the need for broader societal changes, while others share personal success stories and the importance of individual financial responsibility. There is a consensus that while investing can help individuals, it may not address the root causes of wealth inequality.
+**Discussion Highlights:** The consensus among commenters is that the CFP's recommendations are overly conservative and lack personalization. Many suggest the user consider simpler, more aggressive portfolios aligned with their risk tolerance and long-term goals.
 
 ---
 
-## 7. [Retirement rich, after-tax less so](https://reddit.com/r/Bogleheads/comments/1qh7rgs/retirement_rich_aftertax_less_so/)
+## 6. [this just doesn't feel right](https://reddit.com/r/Bogleheads/comments/1qjlymx/this_just_doesnt_feel_right/)
 
-**Author:** u/MidwestCard | **Upvotes:** 161 | **Comments:** 91 | **Date:** 2026-01-19
+**Author:** u/turekstudent | **Upvotes:** 506 | **Comments:** 162 | **Date:** 2026-01-21
 
-**Summary:** A couple in their mid-thirties with $800,000 in retirement accounts questions whether their aggressive retirement contributions are excessive, considering their love for work and desire to improve their current lifestyle. The discussion highlights the importance of balancing future financial security with enjoying life in the present.
+**Summary:** The post discusses the unusual simultaneous rise in the S&P 500 and gold prices over three years, despite typically inverse relationships, and expresses concern about high valuations and potential dollar devaluation.
 
 **Key Points:**
-- The couple has $800,000 in retirement accounts and contributes over $100,000 annually.
-- They debate reducing retirement contributions to enjoy life now and invest in after-tax accounts.
-- The discussion emphasizes the importance of not delaying life experiences and memories.
-- Continuing to max out tax-advantaged accounts is recommended until retirement goals are met.
-- A 10% return over 25 years is considered unrealistic; 6% is more commonly cited.
+- S&P 500 gained 78.6% and gold gained 148.7% from January 2023 to January 2026.
+- Gold outperforming the S&P 500 by nearly 2x is unusual in a healthy market.
+- High valuations and rising asset prices suggest potential dollar devaluation.
+- Discussion highlights include dollar devaluation, rising inequality, and the impact on personal investments.
 
-**Discussion Highlights:** The consensus in the discussion leans towards balancing future financial security with present quality of life. Many commenters advise enjoying life now while continuing to save for retirement, emphasizing that good health and youth should not be wasted. There is also a recommendation to reassess the expected return rate and consider the long-term benefits of tax-advantaged accounts.
+**Discussion Highlights:** The discussion consensus points to dollar devaluation as a key driver of rising asset prices, with additional factors like rising inequality and central bank behavior influencing market dynamics.
+
+---
+
+## 7. [Boglehead perspective on buying vs renting. What am I missing?](https://reddit.com/r/Bogleheads/comments/1qhiyj2/boglehead_perspective_on_buying_vs_renting_what/)
+
+**Author:** u/[deleted] | **Upvotes:** 186 | **Comments:** 232 | **Date:** 2026-01-19
+
+**Summary:** The post questions why buying a house is discouraged as a way to preserve money, given that some capital can be recovered upon sale, unlike renting where all payments are lost. The discussion highlights various perspectives on the financial and personal aspects of homeownership.
+
+**Key Points:**
+- Buying a house is not considered a good investment due to low returns, high costs, and opportunity costs compared to index funds.
+- The author struggles with the idea that buying a house doesn't save money, as some capital can be recovered upon sale.
+- The discussion emphasizes that the decision to buy or rent depends on individual circumstances, including financial, personal, and market factors.
+- Top comments suggest that buying can be beneficial if mortgage and maintenance costs are lower than rent.
+- Realistic assessment of homeownership costs, such as property taxes and maintenance, is crucial for comparison.
+
+**Discussion Highlights:** The consensus is that while buying a house may not be a great investment, it can be financially sensible if the total cost of ownership is lower than renting. Personal preferences and local market conditions play a significant role in the decision. Realistic cost assessments are essential for accurate comparison.
 
 ---
 
