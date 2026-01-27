@@ -1,552 +1,536 @@
 # r/Bogleheads Reading Digest
 
 **Period:** 2026-01-26 to 2026-01-26
-**Posts Summarized:** 35
-**Total Posts Analyzed:** 35
+**Posts Summarized:** 36
+**Total Posts Analyzed:** 36
 
 ---
 
 ## 1. [Retired couple fined $3.6MM for failing to file FBAR](https://reddit.com/r/Bogleheads/comments/1qnkus1/retired_couple_fined_36mm_for_failing_to_file_fbar/)
 
-**Author:** u/UpbeatZoltar | **Upvotes:** 425 | **Comments:** 60 | **Date:** 2026-01-26
+**Author:** u/UpbeatZoltar | **Upvotes:** 495 | **Comments:** 71 | **Date:** 2026-01-26
 
-**Summary:** A Reddit post discusses a retired couple fined $3.6MM for failing to file FBAR, highlighting the importance of knowing FBAR requirements for US persons with overseas accounts. The discussion includes concerns about outdated thresholds and the challenges faced by Americans abroad.
-
-**Key Points:**
-- US persons with over $10k in overseas accounts must file FBAR.
-- The $10k threshold, set in the 1970s, is not inflation-adjusted, making it easy to exceed.
-- Foreign financial institutions often block US persons from opening accounts due to regulatory burdens.
-- Many Americans abroad are unaware of FBAR requirements.
-- The fine could leave the couple destitute, raising concerns about proportionality.
-
-**Discussion Highlights:** The discussion highlights the challenges faced by Americans abroad, including lack of awareness about FBAR requirements and difficulties in opening foreign accounts. There is consensus that the $10k threshold is outdated and the penalties are disproportionately harsh.
+**Summary:** A retired couple was fined $3.6 million for failing to file an FBAR, highlighting the importance of understanding FBAR requirements for US persons with overseas accounts exceeding $10k. Key points include: US persons with over $10k in overseas accounts must file an FBAR; the $10k threshold, set in the 1970s, is not inflation-adjusted; foreign financial institutions often block US persons from opening accounts due to compliance complexities; many US expats are unaware of FBAR requirements; penalties for non-compliance can be severe and financially devastating. The discussion emphasizes the lack of awareness among US expats about FBAR requirements and the disproportionate penalties relative to the original threshold, with consensus on the need for better education and potential policy reforms.
 
 ---
 
 ## 2. [How Do Financial Advisors Still Have Clients?](https://reddit.com/r/Bogleheads/comments/1qmx9fm/how_do_financial_advisors_still_have_clients/)
 
-**Author:** u/Time_Perception6669 | **Upvotes:** 739 | **Comments:** 704 | **Date:** 2026-01-25
+**Author:** u/Time_Perception6669 | **Upvotes:** 765 | **Comments:** 718 | **Date:** 2026-01-25
 
-**Summary:** The Reddit post questions why people still use financial advisors despite the availability of online resources, highlighting a couple earning $700k who rely on an advisor. The discussion explores reasons like convenience, lack of interest in self-management, and the value of professional guidance during market volatility. Key points include the preference for outsourcing financial management, the value of advisors in preventing panic during market downturns, and the recommendation to use fee-only advisors. The consensus is that while self-management is feasible, many people value the convenience and expertise of financial advisors.
+**Summary:** The Reddit post questions why people still use financial advisors despite the availability of online resources. The discussion highlights varying perspectives, including the convenience of outsourcing financial management and the potential benefits for high earners. Key points include the convenience of hiring advisors, personalized guidance, justification for high earners, lack of knowledge or discipline among many people, and the non-representative sample of r/Bogleheads. The discussion reveals a mix of opinions, with a consensus that while self-education is beneficial, financial advisors can still offer valuable services, especially for those with high incomes or limited financial knowledge.
 
 ---
 
-## 3. [Ugh! Pissed off my advisor!](https://reddit.com/r/Bogleheads/comments/1qlcm14/ugh_pissed_off_my_advisor/)
+## 3. [Is Vanguard really that bad as a brokerage, or is the criticism unwarranted and only from vocal, unhappy customers?](https://reddit.com/r/Bogleheads/comments/1qlt4ft/is_vanguard_really_that_bad_as_a_brokerage_or_is/)
 
-**Author:** u/KelliSean | **Upvotes:** 333 | **Comments:** 226 | **Date:** 2026-01-23
+**Author:** u/DiegoMilan | **Upvotes:** 200 | **Comments:** 287 | **Date:** 2026-01-24
 
-**Summary:** The user left their advisor, feels better about the decision, and is seeking advice on managing their portfolio with significant unrealized gains. The discussion is supportive and emphasizes careful consideration of tax implications.
+**Summary:** The Reddit post discusses whether Vanguard's criticism as a brokerage is justified or overblown. Many users share positive long-term experiences with Vanguard, praising its low fees and suitability for buy-and-hold investors, despite acknowledging its less modern website and app. Key points include Vanguard's low fees, outdated but functional platform, mixed customer service experiences, potential overblown criticism, and its standing alongside Fidelity and Schwab as solid choices. The consensus is that Vanguard is reliable for long-term investing, with criticism possibly stemming from a vocal minority.
+
+---
+
+## 4. [Ugh! Pissed off my advisor!](https://reddit.com/r/Bogleheads/comments/1qlcm14/ugh_pissed_off_my_advisor/)
+
+**Author:** u/KelliSean | **Upvotes:** 332 | **Comments:** 226 | **Date:** 2026-01-23
+
+**Summary:** User shares their experience of leaving a financial advisor who reacted negatively, and seeks advice on managing their diverse investment portfolio with significant unrealized gains.
 
 **Key Points:**
-- User left their advisor and feels better about the decision
-- User has a complex portfolio with significant unrealized gains
-- Advisors can react negatively when clients leave
-- Important to consider tax implications before making changes
-- Fiduciary advisors are preferred
+- User left their advisor and faced beratement, but feels confident in their decision.
+- Current portfolio includes 17 stocks, 5 mutual funds, and 8 ETFs with $90,000 in unrealized gains.
+- User is considering whether to keep certain ETFs like CIBR, FLQL, FLQM, GRID, SPLV, XMLV, DGRO, and ACWV.
+- Advisors may react negatively when clients leave, especially if the client is knowledgeable.
+- Tax implications are a significant consideration when deciding to sell or keep investments.
 
-**Discussion Highlights:** The consensus is supportive of the user's decision to leave their advisor. Many commenters share similar experiences with advisors reacting negatively. The discussion emphasizes the importance of careful consideration before making changes to the portfolio, especially due to tax implications.
+**Discussion Highlights:** The discussion highlights the negative behavior of some advisors when clients leave, the importance of considering tax implications before selling investments, and the general consensus that fiduciary advisors are preferable.
 
 ---
 
-## 4. [Why do I need bonds when I already keep a significant amount in my HYSA? I'm 30 years old](https://reddit.com/r/Bogleheads/comments/1qk02gk/why_do_i_need_bonds_when_i_already_keep_a/)
+## 5. [Why do I need bonds when I already keep a significant amount in my HYSA? I'm 30 years old](https://reddit.com/r/Bogleheads/comments/1qk02gk/why_do_i_need_bonds_when_i_already_keep_a/)
 
-**Author:** u/SurvivorFanatic236 | **Upvotes:** 207 | **Comments:** 115 | **Date:** 2026-01-22
+**Author:** u/SurvivorFanatic236 | **Upvotes:** 206 | **Comments:** 116 | **Date:** 2026-01-22
 
-**Summary:** The post questions the necessity of bonds when the author already has a significant amount in a High-Yield Savings Account (HYSA). The discussion highlights the role of bonds in providing stability and dividends, contrasting with the variable interest rates of HYSA.
+**Summary:** The post questions the necessity of bonds when the author already has a significant amount in a High-Yield Savings Account (HYSA). The discussion highlights the role of bonds in providing stability and dividends, contrasting with the variable interest rates of HYSA. Key points include: Bonds provide stability and dividends, HYSA interest rates are subject to change, historically HYSA returns have been inconsistent, at 30 years old the author may not need additional bonds beyond their HYSA, and the focus should be on total return from bonds, including interest, rather than just price performance. The consensus suggests that while bonds may not be necessary for someone in their 30s with a substantial HYSA, they offer benefits like stability, fixed interest rates, and dividends. The discussion emphasizes the importance of considering total return from bonds, including interest payments, rather than just their price performance.
+
+---
+
+## 6. [this just doesn't feel right](https://reddit.com/r/Bogleheads/comments/1qjlymx/this_just_doesnt_feel_right/)
+
+**Author:** u/turekstudent | **Upvotes:** 508 | **Comments:** 163 | **Date:** 2026-01-21
+
+**Summary:** The author expresses concern over the unusual simultaneous rise in both equities and gold, alongside falling bond prices, suggesting potential dollar devaluation and high asset valuations. The discussion highlights the impact of dollar devaluation and rising inequality as key drivers of these trends.
 
 **Key Points:**
-- The author has 15% of their net worth in a HYSA, questioning the need for additional bonds.
-- Bonds provide dividend yields and stability, unlike the variable interest rates of HYSA.
-- Historically, HYSA returns have been low, and bonds held to maturity can preserve value.
-- At 30 years old, the author may not need bonds beyond their HYSA.
-- The focus should be on total return from bonds, not just price appreciation.
+- The S&P 500 and gold have both seen significant gains (78.6% and 148.7% respectively) from 2023 to 2026, which is unusual.
+- Bond prices have fallen as treasury yields rose from 3.5% to 4.24%.
+- The Shiller CAPE ratio for the S&P 500 is at its second-highest level in 100 years, indicating high valuations.
+- Commenters suggest dollar devaluation and rising inequality as key drivers of these trends.
+- The discussion also mentions the impact of central banks buying gold and the broader economic context.
 
-**Discussion Highlights:** The discussion emphasizes the importance of bonds for stability and dividends, noting that HYSA interest rates can fluctuate. There is a consensus that at 30 years old, the author may not need additional bonds beyond their HYSA, but bonds can still play a role in preserving value and providing steady returns.
+**Discussion Highlights:** The consensus among commenters is that the simultaneous rise in asset prices and the fall in bond prices are likely due to dollar devaluation and rising inequality. Some commenters also mention the role of central banks in buying gold and the broader economic context.
 
 ---
 
-## 5. [this just doesn't feel right](https://reddit.com/r/Bogleheads/comments/1qjlymx/this_just_doesnt_feel_right/)
+## 7. [How are the "US equities" only folks doing? Steady as she goes or time to rethink allocation?](https://reddit.com/r/Bogleheads/comments/1qiv3zn/how_are_the_us_equities_only_folks_doing_steady/)
 
-**Author:** u/turekstudent | **Upvotes:** 504 | **Comments:** 163 | **Date:** 2026-01-21
+**Author:** u/cambeiu | **Upvotes:** 678 | **Comments:** 387 | **Date:** 2026-01-21
 
-**Summary:** The Reddit post discusses the unusual simultaneous rise in the prices of gold and the S&P 500 over a three-year period, despite traditionally inverse relationships. The author expresses concern about high valuations and the devaluation of the dollar, which is echoed in the top comments.
+**Summary:** The post discusses whether US equities alone are sufficient for global exposure, given recent shifts in global trade and market access. Many commenters advocate for staying the course with their current strategies, while others consider increasing international equity exposure.
 
 **Key Points:**
-- Gold and S&P 500 both saw significant gains from 2023 to 2026, which is atypical.
-- The author questions whether productivity growth justifies the rapid rise in asset prices.
-- Top comments suggest dollar devaluation as a key factor behind rising asset prices.
-- Inequality and central bank actions (e.g., buying gold) are also cited as contributing factors.
-- The discussion highlights a consensus around the idea that the dollar's value is declining relative to other assets.
+- Jack Bogle and others previously argued that US equities (e.g., VTSAX) were sufficient for global exposure.
+- Recent global paradigm shifts (e.g., reduced free trade) may challenge this view.
+- Some commenters advocate for maintaining current allocations, citing past resilience.
+- Others suggest adopting a global market cap approach to avoid timing the market.
+- The discussion highlights the difficulty of balancing conviction with adaptability in passive investing.
 
-**Discussion Highlights:** The discussion largely revolves around the idea of dollar devaluation driving up asset prices across the board. Many commenters agree that the dollar's decline is a significant factor, with additional mentions of inequality and central bank behavior influencing market dynamics.
-
----
-
-## 6. [How are the "US equities" only folks doing? Steady as she goes or time to rethink allocation?](https://reddit.com/r/Bogleheads/comments/1qiv3zn/how_are_the_us_equities_only_folks_doing_steady/)
-
-**Author:** u/cambeiu | **Upvotes:** 675 | **Comments:** 387 | **Date:** 2026-01-21
-
-**Summary:** The post discusses the shifting global paradigm and questions whether US equities alone are sufficient for investment, referencing Jack Bogle's past arguments. The discussion highlights varying perspectives on adjusting investment strategies in response to potential changes in global trade and market access.
-
-**Key Points:**
-- Jack Bogle's argument for VTSAX as sufficient global exposure may be outdated due to changing global paradigms.
-- Mark Carney's speech at Davos suggests a shift away from free trade and open markets.
-- The discussion includes perspectives on maintaining steady investment strategies despite potential changes.
-- Some commenters advocate for global market cap weighting as a strategy.
-- The concept of 'TACO' (This Could All Change Overnight) is mentioned as a reason to stay the course.
-
-**Discussion Highlights:** The discussion reveals a mix of opinions, with some advocating for maintaining steady investment strategies and others considering adjustments to include more international equities. There is a notable emphasis on the difficulty of predicting market changes and the value of passive investing strategies.
+**Discussion Highlights:** The consensus leans toward maintaining current strategies, with many emphasizing the importance of staying the course through market changes. Some advocate for a global market cap approach to avoid overthinking allocation shifts.
 
 ---
 
-## 7. [It  is sometimes discouraging thinking if this strategy will actually work during my life time, it will only exacerbate inequality... (When I project my returns it, makes me think of this)](https://reddit.com/r/Bogleheads/comments/1qhu7q4/it_is_sometimes_discouraging_thinking_if_this/)
+## 8. [It  is sometimes discouraging thinking if this strategy will actually work during my life time, it will only exacerbate inequality... (When I project my returns it, makes me think of this)](https://reddit.com/r/Bogleheads/comments/1qhu7q4/it_is_sometimes_discouraging_thinking_if_this/)
 
-**Author:** u/Artistic_Rub_1661 | **Upvotes:** 367 | **Comments:** 231 | **Date:** 2026-01-20
+**Author:** u/Artistic_Rub_1661 | **Upvotes:** 372 | **Comments:** 231 | **Date:** 2026-01-20
 
-**Summary:** The post expresses concerns about wealth inequality and the fairness of the financial system, questioning whether the Boglehead investment strategy can truly work for most people over their lifetime. The discussion includes perspectives on systemic inequality, personal success stories, and the role of individual financial responsibility versus systemic change.
+**Summary:** The post expresses concerns about wealth inequality and the fairness of the financial system, questioning whether investing strategies like those advocated by Bogleheads can truly benefit the average person over time. The discussion includes diverse perspectives, from personal success stories to arguments about systemic change.
 
 **Key Points:**
 - Wealth inequality is a significant concern, with capital gains favoring the wealthy.
-- Personal success is possible but challenging without early advantages or inheritance.
-- Individual financial responsibility can lead to community support and personal surplus.
-- Systemic change, such as redistribution through taxation, is seen as necessary to address inequality.
-- The Boglehead philosophy is discussed in the context of broader social and economic issues.
+- Personal success is possible but challenging without early advantages or luck.
+- Investing alone may not solve systemic inequality; broader solutions like taxation and redistribution are suggested.
+- Individual financial responsibility can lead to community support and positive impact.
+- The Boglehead philosophy intersects with broader social and economic questions.
 
-**Discussion Highlights:** The discussion highlights a mix of personal experiences and systemic critiques. While some commenters share success stories of overcoming adversity, others emphasize the need for systemic solutions like taxation and redistribution. There is a consensus that individual actions alone cannot solve wealth inequality, but personal financial responsibility is still valued.
-
----
-
-## 8. [Looking for advice: My spouse was recently hired on at Edward Jones and FINRA requirements could require me to transfer all my money to them](https://reddit.com/r/Bogleheads/comments/1qehw0m/looking_for_advice_my_spouse_was_recently_hired/)
-
-**Author:** u/Clinton_Reddit | **Upvotes:** 272 | **Comments:** 176 | **Date:** 2026-01-16
-
-**Summary:** The user's spouse works at Edward Jones, and due to FINRA regulations, the user may be required to transfer all accounts to Edward Jones. The user is concerned about hidden fees, poor reputation, and the impact on their financial goals, including buying a house.
-
-**Key Points:**
-- User's spouse works at Edward Jones as a branch office administrator.
-- FINRA regulations may require the user to transfer accounts to Edward Jones.
-- User is concerned about hidden fees and poor reputation of Edward Jones.
-- User needs liquidity for an upcoming house purchase.
-- Consensus in comments suggests FINRA requires disclosure/monitoring, not necessarily a transfer.
-
-**Discussion Highlights:** The discussion highlights that while FINRA may require disclosure or monitoring of accounts, it is likely Edward Jones' internal policy to require the transfer of assets for easier monitoring. Users suggest consulting a lawyer if the firm insists on the transfer.
+**Discussion Highlights:** The discussion highlights a mix of personal experiences, economic theories (e.g., Piketty's arguments on capital vs. labor), and practical advice. While some commenters emphasize individual effort and investing, others argue for systemic changes like redistribution to address inequality. There is no clear consensus, but the conversation reflects a shared concern about fairness and sustainability in the financial system.
 
 ---
 
-## 9. [Buffett's Stock Market Indicator Reaches All-Time High, Indicating Record-High Valuations in History](https://reddit.com/r/Bogleheads/comments/1qdwrxv/buffetts_stock_market_indicator_reaches_alltime/)
+## 9. [Looking for advice: My spouse was recently hired on at Edward Jones and FINRA requirements could require me to transfer all my money to them](https://reddit.com/r/Bogleheads/comments/1qehw0m/looking_for_advice_my_spouse_was_recently_hired/)
 
-**Author:** u/Useful_Tangerine4340 | **Upvotes:** 688 | **Comments:** 116 | **Date:** 2026-01-15
+**Author:** u/Clinton_Reddit | **Upvotes:** 270 | **Comments:** 176 | **Date:** 2026-01-16
 
-**Summary:** The Reddit post discusses Buffett's Stock Market Indicator reaching an all-time high, sparking a debate on market valuations and investment strategies. Users share mixed views on the indicator's reliability and the implications for the market.
+**Summary:** The user's spouse works at Edward Jones, and there is a potential requirement to transfer all accounts to Edward Jones due to FINRA regulations. The user is concerned about fees, liquidity, and the reputation of Edward Jones.
 
 **Key Points:**
-- Buffett's Stock Market Indicator has reached an all-time high, indicating record-high valuations.
-- Some users express concern about market valuations but trust in strategies like Dollar-Cost Averaging (DCA).
-- The Buffett indicator is criticized for its flaws, including its measurement of US companies' value against US GDP.
-- Global diversification is suggested as a strategy to mitigate high valuation risks.
+- The user's spouse works at Edward Jones as a branch office administrator.
+- FINRA regulations may require disclosure or monitoring of the user's accounts, but not necessarily a transfer.
+- The user is concerned about hidden fees and the impact on their conservative investment strategy.
+- The user needs liquidity for an upcoming house purchase.
+- Comments suggest that FINRA does not require a transfer of assets, but Edward Jones may have internal policies for oversight.
 
-**Discussion Highlights:** The discussion highlights skepticism about the Buffett indicator's reliability and emphasizes the importance of long-term investment strategies like DCA and global diversification. There is no clear consensus on an impending market crash.
+**Discussion Highlights:** The discussion highlights that FINRA likely requires monitoring or disclosure of the user's accounts rather than a mandatory transfer. Many commenters suggest that Edward Jones may have internal policies requiring accounts to be moved in-house for easier monitoring. Legal advice is recommended if Edward Jones insists on the transfer.
 
 ---
 
-## 10. [The Economist: Is passive investment fueling a stock market bubble? A widely-circulated working paper suggests show.](https://reddit.com/r/Bogleheads/comments/1qd7jqx/the_economist_is_passive_investment_fueling_a/)
+## 10. [Buffett's Stock Market Indicator Reaches All-Time High, Indicating Record-High Valuations in History](https://reddit.com/r/Bogleheads/comments/1qdwrxv/buffetts_stock_market_indicator_reaches_alltime/)
 
-**Author:** u/Turbodong | **Upvotes:** 396 | **Comments:** 134 | **Date:** 2026-01-14
+**Author:** u/Useful_Tangerine4340 | **Upvotes:** 684 | **Comments:** 116 | **Date:** 2026-01-15
 
-**Summary:** The Reddit post discusses a working paper suggesting that passive investment may be fueling a stock market bubble. The community engages in a debate about the impact of passive investing on market valuations and price discovery.
+**Summary:** The Reddit post discusses Buffett's Stock Market Indicator reaching an all-time high, indicating record-high valuations. The discussion includes perspectives on market timing, the historical context of the indicator, and strategies like diversification to mitigate risks.
 
 **Key Points:**
-- Critics warn about a 'passive bubble' distorting price discovery, yet active managers still underperform.
+- Buffett's Stock Market Indicator has reached an all-time high, signaling high market valuations.
+- The indicator has been a recurring topic of discussion for years, often cited as a warning sign.
+- Critics argue the indicator is flawed, as it measures US company valuations (including foreign revenues) against US GDP.
+- Dollar-cost averaging (DCA) and avoiding market timing are highlighted as successful strategies by some users.
+- Global diversification is suggested as a way to mitigate risks associated with high valuations.
+
+**Discussion Highlights:** The discussion highlights a mix of concern and skepticism about the Buffett indicator's reliability. While some users share success with DCA and staying invested, others emphasize the importance of diversification and caution against overreacting to valuation metrics. There is no clear consensus on an impending market crash, but diversification is widely recommended.
+
+---
+
+## 11. [The Economist: Is passive investment fueling a stock market bubble? A widely-circulated working paper suggests show.](https://reddit.com/r/Bogleheads/comments/1qd7jqx/the_economist_is_passive_investment_fueling_a/)
+
+**Author:** u/Turbodong | **Upvotes:** 394 | **Comments:** 134 | **Date:** 2026-01-14
+
+**Summary:** The post discusses a debate on whether passive investment is inflating a stock market bubble, referencing a working paper from The Economist. The community shares mixed views on the impact of passive investing on market valuations.
+
+**Key Points:**
+- Critics argue passive investing may distort price discovery, yet active managers still underperform.
 - The debate about passive investing's impact on valuations has been ongoing for years.
-- Passive investing may create opportunities for active management, which in turn reinforces passive investing's dominance.
-- Empirical evidence on the topic is mixed, with no clear consensus.
+- Passive investing may create opportunities for active strategies, reinforcing its dominance.
+- Empirical evidence on the topic remains mixed.
 
-**Discussion Highlights:** The discussion highlights a long-standing debate with mixed empirical evidence. While some argue that passive investing distorts valuations, others point out that active managers still fail to outperform, and the cycle between passive and active investing continues.
+**Discussion Highlights:** The discussion highlights a long-standing debate with no clear consensus. Some argue passive investing distorts markets, while others see it as a self-reinforcing cycle that benefits investors. Empirical evidence is inconclusive.
 
 ---
 
-## 11. [How do you contribute exactly the 401K limit?](https://reddit.com/r/Bogleheads/comments/1qc0nzt/how_do_you_contribute_exactly_the_401k_limit/)
+## 12. [How do you contribute exactly the 401K limit?](https://reddit.com/r/Bogleheads/comments/1qc0nzt/how_do_you_contribute_exactly_the_401k_limit/)
 
-**Author:** u/fungus_among_us_art | **Upvotes:** 220 | **Comments:** 98 | **Date:** 2026-01-13
+**Author:** u/fungus_among_us_art | **Upvotes:** 217 | **Comments:** 98 | **Date:** 2026-01-13
 
 **Summary:** The post discusses strategies for contributing exactly the 401K limit of $24,500, considering employer matching and variable bonuses. The author shares insights on managing contributions to avoid missing out on employer matches.
 
 **Key Points:**
 - Employer contributions do not count toward the $24,500 limit.
 - Employers may offer 'true up' to cover missed matching contributions.
-- Without 'true up,' periodic adjustments to contribution percentages are necessary.
-- Some 401K plans offer 'After Tax' contributions that can be rolled over into a Roth.
+- Without 'true up,' periodic adjustments to contributions are necessary.
+- Some plans offer 'After Tax' contributions that can be rolled into a Roth.
 - Payroll systems typically cap contributions at the federal limit.
 
-**Discussion Highlights:** The discussion highlights the importance of understanding employer contribution policies and the availability of 'true up' options. Consensus suggests that without 'true up,' periodic adjustments to contribution percentages are necessary to hit the limit accurately.
+**Discussion Highlights:** The discussion highlights that employer contributions are separate from the federal limit and suggests strategies like overshooting contributions if 'true up' is available. Consensus indicates that periodic adjustments are necessary for precise contributions.
 
 ---
 
-## 12. [does it bother anyone else that the emergency fund just slowly loses value to inflation?](https://reddit.com/r/Bogleheads/comments/1qbnqbs/does_it_bother_anyone_else_that_the_emergency/)
+## 13. [does it bother anyone else that the emergency fund just slowly loses value to inflation?](https://reddit.com/r/Bogleheads/comments/1qbnqbs/does_it_bother_anyone_else_that_the_emergency/)
 
-**Author:** u/Designer-Jacket-5111 | **Upvotes:** 464 | **Comments:** 458 | **Date:** 2026-01-13
+**Author:** u/Designer-Jacket-5111 | **Upvotes:** 466 | **Comments:** 458 | **Date:** 2026-01-13
 
-**Summary:** The author expresses frustration about their emergency fund losing value to inflation despite understanding its purpose as insurance rather than an investment. They question the strict 'cash only' approach and wonder if others optimize part of their emergency fund to keep pace with inflation.
+**Summary:** The post discusses the frustration of having an emergency fund in a high-yield savings account (HYSA) that barely keeps up with inflation, questioning whether alternatives like treasury bills or I-bonds could be better. The community generally agrees that the emergency fund is optimized for liquidity and safety, not growth. Key points include: Emergency funds in HYSA may lose value to inflation; the primary purpose of an emergency fund is liquidity and safety, not growth; alternatives like treasury bills or I-bonds are mentioned but not universally recommended; the community consensus is to prioritize liquidity and safety over inflation protection; and over time, investments will outgrow the emergency fund, making inflation concerns less significant. The discussion highlights a consensus that emergency funds are optimized for liquidity and safety, not growth. While some users explore alternatives like treasury bills or I-bonds, the majority emphasize the importance of having readily accessible cash for emergencies. The community generally agrees that the long-term growth of investments will outweigh the inflation impact on the emergency fund.
+
+---
+
+## 14. [Historical returns by decade from the 1930s to the 2020s for stocks, bonds, cash, housing &amp; gold by Ben Carlson](https://reddit.com/r/Bogleheads/comments/1qazipr/historical_returns_by_decade_from_the_1930s_to/)
+
+**Author:** u/ac106 | **Upvotes:** 731 | **Comments:** 116 | **Date:** 2026-01-12
+
+**Summary:** The post highlights the unpredictable nature of markets, noting that gold had two consecutive decades of negative returns but overall performed second best with a 5.6% CAGR. The discussion emphasizes the need for inflation-adjusted returns and clarifies the metrics used in the chart.
 
 **Key Points:**
-- Emergency funds are meant for liquidity, not growth.
-- The author acknowledges the standard advice but finds it unsatisfying.
-- Alternatives like treasury bills, I-bonds, or stablecoin yields are mentioned.
-- The community largely agrees that the emergency fund's purpose is not to maximize returns.
-- Over time, investments grow to outsize the emergency fund, making its inflation drag less significant.
+- Gold had two consecutive decades of negative returns but overall second-best performance with 5.6% CAGR.
+- The unpredictability of markets is a key theme.
+- Inflation adjustment is crucial for accurate return interpretation.
+- Clarification on return metrics (cumulative, average, CAGR) is needed.
+- Generational perspectives on bond performance vary.
 
-**Discussion Highlights:** The consensus in the discussion is that emergency funds are optimized for liquidity and safety, not growth. Many commenters emphasize the importance of having cash readily available in case of emergencies, comparing it to essential resources like oxygen. While some alternatives are mentioned, the majority of the community adheres to the 'cash only' approach, prioritizing the fund's primary purpose over inflation concerns.
-
----
-
-## 13. [Historical returns by decade from the 1930s to the 2020s for stocks, bonds, cash, housing &amp; gold by Ben Carlson](https://reddit.com/r/Bogleheads/comments/1qazipr/historical_returns_by_decade_from_the_1930s_to/)
-
-**Author:** u/ac106 | **Upvotes:** 730 | **Comments:** 116 | **Date:** 2026-01-12
-
-**Summary:** The Reddit post discusses historical returns by decade for various asset classes, highlighting gold's unique performance and the unpredictable nature of markets. The discussion emphasizes the need for inflation-adjusted returns and clarifies the metrics used. Key points include gold's performance, the unpredictability of markets, the importance of inflation adjustment, clarification on return metrics, and generational differences in bond performance. The discussion highlights the importance of adjusting returns for inflation and clarifying the metrics used in the chart, with notable observations about generational differences in bond performance and the historical context of market crises.
+**Discussion Highlights:** The discussion highlights the importance of adjusting returns for inflation and clarifying the metrics used. It also reflects on historical market events and generational differences in bond performance perceptions.
 
 ---
 
-## 14. [Should my investments be so diversified after dumping financial advisor?](https://reddit.com/r/Bogleheads/comments/1q9n2f6/should_my_investments_be_so_diversified_after/)
+## 15. [Should my investments be so diversified after dumping financial advisor?](https://reddit.com/r/Bogleheads/comments/1q9n2f6/should_my_investments_be_so_diversified_after/)
 
-**Author:** u/gtdl1 | **Upvotes:** 444 | **Comments:** 238 | **Date:** 2026-01-10
+**Author:** u/gtdl1 | **Upvotes:** 437 | **Comments:** 238 | **Date:** 2026-01-10
 
-**Summary:** The author, a 40-year-old with a long-term investment horizon, questions the necessity of a highly diversified 401k portfolio after leaving their financial advisor. The community suggests consolidating into a few solid Fidelity funds and critiques the advisor's approach as overly complex.
+**Summary:** The author, a 40-year-old with a long-term investment horizon, questions the necessity of a highly diversified 401k portfolio after leaving a financial advisor. The discussion highlights the advisor's over-complex strategy and suggests simplifying investments into a few solid Fidelity funds.
 
 **Key Points:**
-- Author seeks to simplify their 401k portfolio after leaving a financial advisor.
-- Current portfolio is seen as overly diversified and complex.
-- Community recommends consolidating into a few solid Fidelity funds (e.g., FZROX, FZILX, FXNAX).
-- Criticism of the financial advisor's approach as potentially fee-driven and unnecessarily complicated.
-- Emphasis on long-term growth and simplicity in investment strategy.
+- Financial advisor's strategy criticized for over-diversification
+- Consensus to simplify investments into a few solid Fidelity funds
+- Specific fund recommendations: FZROX, FZILX, FXNAX
+- Importance of tax sensitivity if the account is taxable
+- Long-term investment horizon allows for less conservatism
 
-**Discussion Highlights:** The discussion highlights a consensus that the author's portfolio is overly complex and could benefit from simplification. Top comments recommend consolidating into a few broad, low-cost index funds and critique the financial advisor's approach as not well-educated or potentially driven by fees.
+**Discussion Highlights:** The discussion emphasizes simplifying the investment portfolio, with recommendations to consolidate into a few solid Fidelity funds. Commenters criticize the financial advisor's strategy for being overly complex and not necessarily more diversified. The consensus is to aim for a simpler, more understandable investment approach.
 
 ---
 
-## 15. [How I recently explained bogleheads theory to “trader“ friend](https://reddit.com/r/Bogleheads/comments/1q9bv0l/how_i_recently_explained_bogleheads_theory_to/)
+## 16. [How I recently explained bogleheads theory to “trader“ friend](https://reddit.com/r/Bogleheads/comments/1q9bv0l/how_i_recently_explained_bogleheads_theory_to/)
 
-**Author:** u/groovinup | **Upvotes:** 525 | **Comments:** 132 | **Date:** 2026-01-10
+**Author:** u/groovinup | **Upvotes:** 524 | **Comments:** 132 | **Date:** 2026-01-10
 
-**Summary:** The post uses an analogy comparing investment trading to rolling dice for height changes, arguing that frequent trading is akin to gambling rather than a reliable strategy for beating the market average. The discussion highlights the Bogleheads philosophy of passive investing versus active trading.
+**Summary:** The post uses an analogy comparing investment trading to rolling dice for a chance to be better than average height, arguing that constant trading is akin to gambling rather than a sound investment strategy. The discussion highlights the Bogleheads philosophy of passive investing versus active trading.
 
 **Key Points:**
-- The analogy compares investment trading to rolling dice for height changes, emphasizing the risk of active trading.
-- The Bogleheads philosophy advocates for passive investing and avoiding frequent trading.
-- Active trading incurs additional fees and tax drag, making it less favorable compared to passive investing.
-- Some traders believe they can beat the odds, but the analogy suggests this is akin to gambling.
-- A suggestion to allocate a small portion (e.g., 5%) for active trading if one insists on doing so.
+- The analogy compares investment trading to rolling dice for a chance to be better than average height.
+- The post argues that constant trading is akin to gambling rather than a sound investment strategy.
+- Top comments emphasize the benefits of passive investing and the risks of active trading.
+- Fees, tax drag, and other costs are mentioned as additional downsides to active investing.
+- Some commenters suggest setting aside a small portion for active trading if desired.
 
-**Discussion Highlights:** The discussion largely supports the Bogleheads philosophy, with top comments reinforcing the idea of passive investing and the risks associated with active trading. There is a consensus that frequent trading is foolish and that the fees and tax drag make it less beneficial. Some comments also humorously acknowledge the sanitized analogy used in the post.
+**Discussion Highlights:** The discussion highlights a consensus around the Bogleheads philosophy of passive investing, with many commenters agreeing that active trading is risky and often less effective. The analogy is well-received, though some point out additional factors like fees and taxes that make active investing even less favorable.
 
 ---
 
-## 16. [Where to park 550k in cash](https://reddit.com/r/Bogleheads/comments/1q70cdg/where_to_park_550k_in_cash/)
+## 17. [Where to park 550k in cash](https://reddit.com/r/Bogleheads/comments/1q70cdg/where_to_park_550k_in_cash/)
 
-**Author:** u/Worried-Ad1268 | **Upvotes:** 587 | **Comments:** 408 | **Date:** 2026-01-07
+**Author:** u/Worried-Ad1268 | **Upvotes:** 584 | **Comments:** 408 | **Date:** 2026-01-07
 
 **Summary:** The user has $550k in cash from a property sale and needs suggestions for parking it for a potential down payment in 2-3 years, ideally generating $30k annual income. The community recommends low-risk, short-term investments.
 
 **Key Points:**
-- User has $550k in cash from a property sale
-- Funds may be needed for a down payment in 2-3 years
-- Desires $30k annual income
-- Community recommends cash equivalents like HYSA, CD, Money Market Fund, T-Bills, or treasury floating rate note ETF
-- Importance of specifying the time horizon for needing the funds is emphasized
+- User has $550k in cash and may need it for a down payment in 2-3 years.
+- Desires $30k annual income, similar to previous rental income.
+- Community strongly recommends cash equivalents like HYSA, CD, Money Market Fund, T-Bills, or treasury floating rate note ETF.
+- Emphasis on low-risk investments due to short time horizon.
+- Importance of specifying the time horizon for needing the funds is highlighted.
 
-**Discussion Highlights:** The discussion highlights a strong consensus on using low-risk, short-term investment options such as HYSA, CD, Money Market Fund, T-Bills, or treasury floating rate note ETF. The community appreciates the user specifying the time horizon for needing the funds, which is crucial for providing appropriate advice.
+**Discussion Highlights:** The discussion consensus is to use low-risk, short-term investments such as HYSA, CD, Money Market Fund, T-Bills, or treasury floating rate note ETF. The community appreciates the user specifying the time horizon, which is crucial for investment advice.
 
 ---
 
-## 17. [Why keep maxing a 401k when taxable seems almost as good?](https://reddit.com/r/Bogleheads/comments/1q60m6f/why_keep_maxing_a_401k_when_taxable_seems_almost/)
+## 18. [Why keep maxing a 401k when taxable seems almost as good?](https://reddit.com/r/Bogleheads/comments/1q60m6f/why_keep_maxing_a_401k_when_taxable_seems_almost/)
 
-**Author:** u/Essay_Few | **Upvotes:** 582 | **Comments:** 559 | **Date:** 2026-01-06
+**Author:** u/Essay_Few | **Upvotes:** 581 | **Comments:** 559 | **Date:** 2026-01-06
 
-**Summary:** The post discusses the trade-offs between maxing out a 401k and investing in a taxable brokerage account, highlighting the marginal benefits and the desire for financial flexibility in mid-career.
+**Summary:** The post discusses the trade-offs between maxing out a 401k and investing in a taxable brokerage account, highlighting the marginal tax benefits and the value of flexibility in accessing funds.
 
 **Key Points:**
-- Tax implications of 401k vs. taxable accounts
-- Rule of 55 for early 401k access
-- Creditor protection benefits of 401k
-- Flexibility vs. tax benefits debate
-- Questioning the 'always max the 401k' advice with a large balance
+- The author questions the traditional advice of always maxing out a 401k, especially when the tax benefits seem marginal.
+- Flexibility and accessibility of funds in a taxable account are valued more as the author ages.
+- The Rule of 55 allows for early withdrawal from a 401k without penalties, which can be a significant factor.
+- 401k funds are protected from creditors in lawsuits or bankruptcy, unlike taxable accounts.
+- The consensus leans towards the importance of tax deferral and the potential underestimation of the benefits of a 401k.
 
-**Discussion Highlights:** The discussion highlights differing viewpoints on the importance of tax benefits versus financial flexibility, with some emphasizing the Rule of 55 and creditor protection as key advantages of 401k accounts.
+**Discussion Highlights:** The discussion highlights the importance of showing accurate math, the benefits of tax deferral, the Rule of 55 for early withdrawal, and the protection of 401k funds from creditors. While the consensus acknowledges the value of flexibility, it generally supports the traditional advice of maxing out a 401k.
 
 ---
 
-## 18. [I auto-buy 300$ of VOO daily when markets are open, is this a bad strategy?](https://reddit.com/r/Bogleheads/comments/1q5vh30/i_autobuy_300_of_voo_daily_when_markets_are_open/)
+## 19. [I auto-buy 300$ of VOO daily when markets are open, is this a bad strategy?](https://reddit.com/r/Bogleheads/comments/1q5vh30/i_autobuy_300_of_voo_daily_when_markets_are_open/)
 
-**Author:** u/AetherialMan | **Upvotes:** 270 | **Comments:** 276 | **Date:** 2026-01-06
+**Author:** u/AetherialMan | **Upvotes:** 269 | **Comments:** 276 | **Date:** 2026-01-06
 
-**Summary:** The post discusses the strategy of auto-buying $300 of VOO daily and seeks feedback on its long-term viability. The comments generally support the strategy, emphasizing consistency and long-term holding.
+**Summary:** The Reddit post discusses the strategy of auto-buying $300 of VOO daily and seeks feedback on its long-term viability. The comments generally support the strategy, emphasizing consistency and long-term holding, while also noting potential pitfalls like insufficient funds for essentials. Key points include the importance of consistent investing, long-term holding, and ensuring sufficient funds for essentials. The discussion highlights the importance of consistent investing and long-term holding, with a consensus that the strategy is sound as long as essential expenses are covered.
+
+---
+
+## 20. [How Marginal Tax Rates Actually Work](https://reddit.com/r/Bogleheads/comments/1q57ud7/how_marginal_tax_rates_actually_work/)
+
+**Author:** u/Old_Claim_5500 | **Upvotes:** 1701 | **Comments:** 288 | **Date:** 2026-01-05
+
+**Summary:** The Reddit post explains how marginal tax rates work, emphasizing that earning more does not necessarily result in taking home less money due to progressive taxation. The discussion highlights common misconceptions and provides insights from different countries' tax systems. Key points include: Marginal tax rates apply only to income within specific brackets, not the entire income; earning more does not always result in taking home less money; different countries have varying tax structures and brackets; understanding tax rates is crucial for making informed financial decisions; and certain income-based aids or benefits may have cliffs that affect take-home pay. The discussion includes a mix of basic explanations, critiques of common misconceptions, and comparisons with international tax systems, with a consensus that understanding marginal tax rates is essential for personal finance.
+
+---
+
+## 21. [Inheritance $400k. VT , VOO, VTI, VXUS, Target Date Funds. Overwhelmed](https://reddit.com/r/Bogleheads/comments/1q525qs/inheritance_400k_vt_voo_vti_vxus_target_date/)
+
+**Author:** u/rasberrybliss | **Upvotes:** 268 | **Comments:** 81 | **Date:** 2026-01-05
+
+**Summary:** A 43-year-old woman inherited $400k and seeks advice on investing it. She plans to max out her Roth IRA contributions and invest the rest in a taxable account. She is overwhelmed by the options and seeks guidance on target date funds and taxable investments.
 
 **Key Points:**
-- The strategy involves auto-buying $300 of VOO every market day.
-- The difference between lump sum and daily investments is minor.
-- Consistency and long-term holding are key to success.
-- Potential pitfalls include not having enough money for essential needs.
-- Mathematically, lump sum investments may be slightly better.
+- Inherited $400k and wants to invest it wisely
+- Plans to max out Roth IRA contributions for 2025 and 2026
+- Considers switching to a more aggressive target date fund
+- Plans to invest the remaining $385,500 in VT in a taxable account
+- Lives a simple life and prioritizes her parents' care
 
-**Discussion Highlights:** The consensus is that the strategy is sound, with emphasis on consistency and avoiding panic selling. Some comments suggest that lump sum investments might be mathematically superior, but the overall sentiment is positive towards the daily investment approach.
-
----
-
-## 19. [How Marginal Tax Rates Actually Work](https://reddit.com/r/Bogleheads/comments/1q57ud7/how_marginal_tax_rates_actually_work/)
-
-**Author:** u/Old_Claim_5500 | **Upvotes:** 1700 | **Comments:** 288 | **Date:** 2026-01-05
-
-**Summary:** The Reddit post explains how marginal tax rates work, emphasizing that earning more does not necessarily result in taking home less money. The discussion highlights common misconceptions about tax brackets and the importance of understanding tax implications. Key points include: Marginal tax rates mean only the income within a specific bracket is taxed at that rate; Earning more does not necessarily result in taking home less money; Tax brackets and deductions vary significantly by country, as seen in the comparison with the Netherlands; Understanding tax implications is crucial for financial planning; Certain income-based aids or benefits may have cliffs where earning more could reduce overall take-home pay. The discussion highlights common misconceptions about tax brackets and the importance of understanding how marginal tax rates work. Many users emphasized that earning more generally results in taking home more money, despite higher tax rates. There was also a comparison with tax systems in other countries, such as the Netherlands, to provide context.
+**Discussion Highlights:** The discussion highlights the importance of checking the 401k details and possibly rolling it over to an IRA for lower fees. There is consensus that using a later date target date fund for more aggression is acceptable. Some suggest separating investments in the taxable account for better management.
 
 ---
 
-## 20. [Inheritance $400k. VT , VOO, VTI, VXUS, Target Date Funds. Overwhelmed](https://reddit.com/r/Bogleheads/comments/1q525qs/inheritance_400k_vt_voo_vti_vxus_target_date/)
+## 22. [Over funded 529](https://reddit.com/r/Bogleheads/comments/1q4ye2y/over_funded_529/)
 
-**Author:** u/rasberrybliss | **Upvotes:** 269 | **Comments:** 81 | **Date:** 2026-01-05
+**Author:** u/LazyBatter | **Upvotes:** 205 | **Comments:** 203 | **Date:** 2026-01-05
 
-**Summary:** A 43-year-old woman inherited $400k and seeks advice on investing it, considering her current financial situation and future plans. She is overwhelmed by the options and wants to maximize her Roth IRA contributions while also investing the rest in a taxable account. Key points include her plans to max out Roth IRA contributions, invest the remaining amount in a taxable account at Vanguard, and the discussion highlights the importance of checking her 401k and potentially rolling it over to an IRA for lower fees. There is consensus that using a later date target date fund is acceptable for a more aggressive investment strategy. The discussion emphasizes the need to review the 401k and consider rolling it over to an IRA for potential cost savings. There is general agreement that using a later date target date fund is a valid strategy for a more aggressive investment approach. The community also suggests separating investments in the taxable account for better management.
-
----
-
-## 21. [Over funded 529](https://reddit.com/r/Bogleheads/comments/1q4ye2y/over_funded_529/)
-
-**Author:** u/LazyBatter | **Upvotes:** 210 | **Comments:** 203 | **Date:** 2026-01-05
-
-**Summary:** The post discusses an overfunded 529 plan with $1.1mm for two children, exceeding estimated college costs by $600k. The author seeks advice on managing the excess funds, with suggestions including Roth IRA conversions or reallocating for future education needs.
+**Summary:** The user has overfunded 529 accounts for their children, with $1.1mm saved for two kids who may only need $300k each for college, leaving approximately $600k excess. They seek advice on managing the surplus funds.
 
 **Key Points:**
-- 529 plans are overfunded by approximately $600k for two children in 8th and 10th grade.
-- Suggestions include converting some funds to a Roth IRA or reallocating for future education expenses.
-- Considerations about potential graduate school costs and changing education plans are highlighted.
-- Market performance and family contributions have led to the overfunding situation.
+- The 529 accounts are overfunded by approximately $600k.
+- The user has already allocated $250k each in target enrollment date funds.
+- Suggestions include converting some funds to Roth IRAs or reallocating for future family education needs.
+- Some commenters advise considering potential future graduate education costs.
+- The user is unsure whether to let the excess funds ride in VOO/VXUS.
 
-**Discussion Highlights:** The discussion emphasizes exploring options like Roth IRA conversions and reallocating funds for broader family education needs. There is also a consensus on reconsidering the assumption about graduate school, as many users point out the potential for future education expenses.
+**Discussion Highlights:** The discussion highlights various options for managing the excess funds, including converting to Roth IRAs, reallocating for future education needs, and considering potential graduate school costs. There is a consensus that the user should explore these options rather than letting the funds ride in VOO/VXUS.
 
 ---
 
-## 22. [I just learned that my wife of 20 years has $114K in VGT](https://reddit.com/r/Bogleheads/comments/1q4xkb6/i_just_learned_that_my_wife_of_20_years_has_114k/)
+## 23. [I just learned that my wife of 20 years has $114K in VGT](https://reddit.com/r/Bogleheads/comments/1q4xkb6/i_just_learned_that_my_wife_of_20_years_has_114k/)
 
-**Author:** u/No-Court7265 | **Upvotes:** 276 | **Comments:** 100 | **Date:** 2026-01-05
+**Author:** u/No-Court7265 | **Upvotes:** 282 | **Comments:** 100 | **Date:** 2026-01-05
 
 **Summary:** The author considers selling part of their wife's VGT holdings to fund Roth IRAs and reallocating the remainder to VOO, seeking community advice on the tax implications and strategy.
 
 **Key Points:**
-- The wife's VGT holdings predate their marriage and have seen significant growth.
+- The wife's VGT holdings predates their marriage and has seen significant growth.
 - The author plans to sell $14K of VGT to max out Roth IRAs for 2026.
-- The community discusses tax implications, legal ownership, and the benefits of Roth IRAs.
-- Some commenters advise letting the wife control her own money.
-- The author is considering reallocating the remaining VGT to VOO.
+- Community advice includes considering long-term capital gains tax implications and spousal financial autonomy.
+- Legal considerations about pre-marital assets are highlighted.
+- The author is open to reallocating the remainder to VOO.
 
-**Discussion Highlights:** The community generally supports the idea of funding Roth IRAs but advises considering tax implications and legal ownership. There is also a consensus on the importance of mutual agreement and transparency in financial decisions.
+**Discussion Highlights:** The community generally supports the idea but advises considering tax implications, especially long-term capital gains, and suggests respecting the wife's financial autonomy. Some commenters highlight legal aspects of pre-marital assets.
 
 ---
 
-## 23. [Retiring after this year. 42 years old.](https://reddit.com/r/Bogleheads/comments/1q3c8u3/retiring_after_this_year_42_years_old/)
+## 24. [Retiring after this year. 42 years old.](https://reddit.com/r/Bogleheads/comments/1q3c8u3/retiring_after_this_year_42_years_old/)
 
-**Author:** u/Ok-Computer1234567 | **Upvotes:** 422 | **Comments:** 282 | **Date:** 2026-01-03
+**Author:** u/Ok-Computer1234567 | **Upvotes:** 428 | **Comments:** 282 | **Date:** 2026-01-03
 
-**Summary:** A 42-year-old plans to retire next year with a $60–65k pension, $500k in a 457(b), $250k in crypto, and a paid-off house. They aim to never work again and seek feedback on their retirement plan.
+**Summary:** The author plans to retire at 43 with a $60–65k pension, significant savings in a 457(b), crypto holdings, and a paid-off house. They aim to never work again and seek feedback on potential oversights.
 
 **Key Points:**
-- Retiring at 43 with a $60–65k pension and additional savings.
-- Concerns about inflation eroding the pension over time.
-- Criticism of having 33% of savings in crypto.
-- Discussion about future spending needs and Social Security.
-- Suggestions to post in the FIRE subreddit for more tailored advice.
+- Author has a substantial pension and savings, including a fully invested 457(b) and crypto holdings.
+- Concerns about inflation eroding the pension's value over time.
+- Comments highlight potential underestimation of future spending needs and the risk of holding a large portion of savings in crypto.
+- Suggestions to consider Social Security benefits in the future.
+- Recommendation to post in the FIRE (Financial Independence, Retire Early) subreddit for more targeted advice.
 
-**Discussion Highlights:** The discussion highlights concerns about the high allocation to crypto and the potential impact of inflation on the pension. There is also a consensus that the poster should consider future spending needs and the possibility of Social Security benefits in their 60s.
-
----
-
-## 24. [Is there a smarter place to keep my emergency fund than a savings account with a decent interest rate?](https://reddit.com/r/Bogleheads/comments/1q2ip4d/is_there_a_smarter_place_to_keep_my_emergency/)
-
-**Author:** u/xxjosephchristxx | **Upvotes:** 332 | **Comments:** 363 | **Date:** 2026-01-02
-
-**Summary:** The post discusses whether an emergency fund should be kept in a savings account or other potentially higher-yielding options. The consensus leans towards liquidity and accessibility, with some suggesting alternatives like money market accounts, I-bonds, or other investments. Key points include prioritizing liquidity, using money market accounts or HYSA, diversifying across HYSA, I-bonds, and other investments, and considering alternatives like SGOV. The discussion highlights a balance between liquidity and earning potential.
+**Discussion Highlights:** The discussion primarily focuses on the risks of holding a significant portion of savings in crypto and the potential underestimation of future spending needs. There is also a consensus on the importance of considering Social Security benefits and seeking advice from the FIRE community.
 
 ---
 
-## 25. [VTI or VOO is a choice that truly doesn’t matter. But the year is now 2026, and the S&amp;P 500 is a long-outdated investment for buy &amp; hold purposes.](https://reddit.com/r/Bogleheads/comments/1q1fy9m/vti_or_voo_is_a_choice_that_truly_doesnt_matter/)
+## 25. [Is there a smarter place to keep my emergency fund than a savings account with a decent interest rate?](https://reddit.com/r/Bogleheads/comments/1q2ip4d/is_there_a_smarter_place_to_keep_my_emergency/)
 
-**Author:** u/Kashmir79 | **Upvotes:** 1644 | **Comments:** 301 | **Date:** 2026-01-01
+**Author:** u/xxjosephchristxx | **Upvotes:** 339 | **Comments:** 363 | **Date:** 2026-01-02
 
-**Summary:** The post discusses the historical context and merits of the S&P 500 (VOO) versus the total US market fund (VTI), arguing that the choice between the two makes little meaningful difference in long-term returns. It highlights the S&P 500's origins and its role as a benchmark, while also addressing common investor debates.
+**Summary:** The post discusses the best place to keep an emergency fund, with users suggesting various options like money market accounts, savings accounts, and other investment vehicles.
 
 **Key Points:**
-- The S&P 500 was originally created in 1926 as a 90-stock index to better represent the US stock market compared to the Dow Jones Industrials Average.
-- The choice between VOO (S&P 500) and VTI (total US market) is unlikely to significantly impact long-term investment returns.
-- The S&P 500 has been a widely recognized benchmark and recommended by notable investors like Warren Buffett.
-- The debate between VOO and VTI is common but often overemphasized, as both funds perform similarly over time.
-- The post aims to provide a comprehensive explanation to settle the recurring debate in investing communities.
+- Money market accounts are a popular choice for emergency funds.
+- Liquidity is a key consideration for emergency funds.
+- Some users suggest diversifying emergency funds across different investment options.
+- High-yield savings accounts (HYSA) are also recommended.
+- Interest rates above 3.5% APY are considered acceptable.
 
-**Discussion Highlights:** The top comments reinforce the post's main point, with one highly upvoted comment summarizing that the S&P 500's returns are statistically indistinguishable from the total US market over nearly a century. Other comments humorously suggest expanding the discussion to include international funds like VT (Vanguard Total World Stock ETF).
+**Discussion Highlights:** The discussion highlights a consensus on the importance of liquidity for emergency funds, with various options like money market accounts, savings accounts, and diversified investments being recommended.
 
 ---
 
-## 26. [Warren Buffet Officially Retired - Loved Bogleheads](https://reddit.com/r/Bogleheads/comments/1q179i6/warren_buffet_officially_retired_loved_bogleheads/)
+## 26. [VTI or VOO is a choice that truly doesn’t matter. But the year is now 2026, and the S&amp;P 500 is a long-outdated investment for buy &amp; hold purposes.](https://reddit.com/r/Bogleheads/comments/1q1fy9m/vti_or_voo_is_a_choice_that_truly_doesnt_matter/)
 
-**Author:** u/groovinup | **Upvotes:** 945 | **Comments:** 100 | **Date:** 2026-01-01
+**Author:** u/Kashmir79 | **Upvotes:** 1646 | **Comments:** 301 | **Date:** 2026-01-01
 
-**Summary:** Warren Buffett, at age 95, has officially retired and was revealed to be a 'superfan' of Jack Bogle, praising his contributions to American investors and supporting index investing, which some find counter-intuitive given Buffett's reputation as a stock picker.
+**Summary:** The post discusses the historical context and merits of the S&P 500 (VOO) versus the total US market fund (VTI), arguing that the choice between the two makes little meaningful difference in long-term returns. It highlights the S&P 500's origins and its role as a benchmark, while also addressing common investor debates. Key points include the S&P 500's creation in 1926, the insignificance of the choice between VTI and VOO for long-term returns, and the community consensus that the choice is inconsequential. Discussion highlights reinforce the post's argument, with comments supporting the idea that the S&P 500's returns are statistically indistinguishable from the total US market over time.
+
+---
+
+## 27. [Warren Buffet Officially Retired - Loved Bogleheads](https://reddit.com/r/Bogleheads/comments/1q179i6/warren_buffet_officially_retired_loved_bogleheads/)
+
+**Author:** u/groovinup | **Upvotes:** 941 | **Comments:** 100 | **Date:** 2026-01-01
+
+**Summary:** Warren Buffett, at age 95, has officially retired and was revealed to be a 'superfan' of Jack Bogle, praising his contributions to American investors and supporting index investing.
 
 **Key Points:**
-- Warren Buffett retired at age 95 and admired Jack Bogle.
-- Buffett praised Bogle's contributions to American investors.
-- Buffett supported index investing despite being a renowned stock picker.
+- Warren Buffett retired at age 95.
+- Buffett admired Jack Bogle and supported index investing.
 - Buffett and Munger advised inexperienced investors to use index funds.
-- The discussion highlights a consensus on the value of index investing for average investors.
+- The Bogleheads community appreciates Buffett's endorsement of their investment philosophy.
+- Diversification is seen as a hedge against ignorance in investing.
 
-**Discussion Highlights:** The discussion highlights a consensus that Buffett and Munger consistently advised household investors to use index funds and avoid stock picking, emphasizing the value of diversification and simplicity in investing.
+**Discussion Highlights:** The discussion highlights Buffett's long-standing advice for household investors to use index funds, with many commenters noting the alignment between Buffett's recommendations and the Bogleheads investment philosophy. There is a consensus that inexperienced investors should opt for index funds rather than stock picking.
 
 ---
 
-## 27. [Do you own individual stocks for any weird reasons?](https://reddit.com/r/Bogleheads/comments/1q16xfv/do_you_own_individual_stocks_for_any_weird_reasons/)
+## 28. [Do you own individual stocks for any weird reasons?](https://reddit.com/r/Bogleheads/comments/1q16xfv/do_you_own_individual_stocks_for_any_weird_reasons/)
 
-**Author:** u/Mysterious_Remote584 | **Upvotes:** 263 | **Comments:** 348 | **Date:** 2026-01-01
+**Author:** u/Mysterious_Remote584 | **Upvotes:** 261 | **Comments:** 348 | **Date:** 2026-01-01
 
-**Summary:** The Reddit post discusses unusual reasons for owning individual stocks, such as receiving perks, supporting friends, or as reminders of past mistakes. Commenters share personal anecdotes and experiences with individual stock ownership.
+**Summary:** The Reddit post discusses unusual reasons for owning individual stocks, such as receiving perks, supporting friends, or as reminders of past mistakes. The comments highlight personal anecdotes and lessons learned from investing in individual stocks.
 
 **Key Points:**
-- Some own stocks for perks like free snacks or event access
-- Others hold stocks as reminders of investment mistakes
-- Personal connections, like supporting a friend's company, influence stock ownership
-- Long-term bets on companies are another reason for owning individual stocks
-- Many commenters share stories of significant gains or losses from individual stocks
+- Some users own stocks for perks like free snacks or event access.
+- Others hold stocks as reminders of past investment mistakes.
+- Personal connections, such as friends working at a company, influence stock ownership.
+- Long-term bets on companies like Amazon or Berkshire Hathaway are mentioned.
+- The discussion reflects a mix of humor, regret, and personal investment strategies.
 
-**Discussion Highlights:** The discussion highlights a mix of humorous, personal, and cautionary tales about individual stock ownership. While some see it as a way to gain perks or support personal connections, others view it as a reminder of past investment mistakes. There is a general consensus that individual stocks can be risky but also rewarding in unique ways.
+**Discussion Highlights:** The discussion reveals a variety of personal and sometimes humorous reasons for owning individual stocks, with a common theme of learning from past experiences and the importance of long-term thinking in investing.
 
 ---
 
-## 28. [Lost a decade of growth due to a fiduciary financial advisor](https://reddit.com/r/Bogleheads/comments/1q0f40h/lost_a_decade_of_growth_due_to_a_fiduciary/)
+## 29. [Lost a decade of growth due to a fiduciary financial advisor](https://reddit.com/r/Bogleheads/comments/1q0f40h/lost_a_decade_of_growth_due_to_a_fiduciary/)
 
-**Author:** u/Factoverfallacy | **Upvotes:** 645 | **Comments:** 359 | **Date:** 2025-12-31
+**Author:** u/Factoverfallacy | **Upvotes:** 646 | **Comments:** 359 | **Date:** 2025-12-31
 
-**Summary:** The author shares their experience of losing a decade of financial growth due to a fiduciary financial advisor who mismanaged their investments. They emphasize the importance of being financially literate and not trusting others blindly with one's money. The post highlights the need for transparency and understanding in financial management.
+**Summary:** The author expresses regret over trusting a fiduciary financial advisor who mismanaged their investments, leading to lost growth over a decade. The post highlights the importance of financial literacy and self-management of investments.
 
 **Key Points:**
-- The author trusted a financial advisor due to a family connection and the advisor's fiduciary title, but the advisor mismanaged their investments.
-- The author emphasizes the importance of being financially literate and not trusting others blindly with one's money.
-- The advisor's constant strategy changes and lack of transparency led to significant financial losses.
-- The community responds with empathy and shares similar experiences, emphasizing the importance of passive investing and financial literacy.
-- The discussion highlights the need for transparency and understanding in financial management.
+- Trusting a fiduciary advisor does not guarantee good outcomes.
+- Financial literacy is crucial for managing personal investments.
+- Self-management of investments can lead to better outcomes.
+- Muni bonds in early 20s are considered a poor investment choice.
+- Many people have similar experiences with financial advisors.
 
-**Discussion Highlights:** The community responds with empathy and shares similar experiences. Many emphasize the importance of passive investing and financial literacy. The discussion highlights the need for transparency and understanding in financial management, with several commenters noting that financial advisors may not always act in the best interest of their clients.
+**Discussion Highlights:** The discussion highlights the importance of financial literacy and self-management of investments. Many commenters share similar experiences and emphasize the need for individuals to take control of their financial future.
 
 ---
 
-## 29. [Warren Buffett steps down as Berkshire Hathaway CEO after six decades - Los Angeles Times](https://reddit.com/r/Bogleheads/comments/1q0ezet/warren_buffett_steps_down_as_berkshire_hathaway/)
+## 30. [Warren Buffett steps down as Berkshire Hathaway CEO after six decades - Los Angeles Times](https://reddit.com/r/Bogleheads/comments/1q0ezet/warren_buffett_steps_down_as_berkshire_hathaway/)
 
 **Author:** u/humdinger44 | **Upvotes:** 2035 | **Comments:** 52 | **Date:** 2025-12-31
 
-**Summary:** Warren Buffett has stepped down as CEO of Berkshire Hathaway after six decades, marking the end of an era. The announcement has sparked discussions about the company's future and the unique leadership of Buffett and Charlie Munger.
+**Summary:** Warren Buffett has stepped down as CEO of Berkshire Hathaway after six decades, marking the end of an era. The Reddit discussion highlights nostalgia for his leadership and appreciation for the company's employee-friendly policies.
 
 **Key Points:**
-- End of an era with Buffett's departure
-- Impact on Berkshire Hathaway's culture and employee retention
-- The uniqueness of Buffett and Munger's partnership
-- Discussion about the FIRE (Financial Independence, Retire Early) trend
+- End of an era with Warren Buffett stepping down as CEO
+- Appreciation for Berkshire Hathaway's employee-friendly policies and stability
+- Recognition of the unique partnership between Buffett and Charlie Munger
+- Nostalgia for Buffett's annual letters and leadership style
+- Humorous reference to financial independence (FIRE trend)
 
-**Discussion Highlights:** The discussion highlights the emotional impact of Buffett's departure, with many users expressing nostalgia and admiration for his leadership. There is also a focus on the company's culture of investing in its people and the challenges of replacing such a iconic leadership duo.
+**Discussion Highlights:** The discussion consensus emphasizes the end of a significant era in finance, with many users expressing admiration for Buffett's leadership and the stability of Berkshire Hathaway. There is also a shared sentiment that the company will not be the same without Buffett and Munger's unique partnership.
 
 ---
 
-## 30. [Why do people read A Random Walk Down Wall Street and end up with the wrong conclusion from the author?](https://reddit.com/r/Bogleheads/comments/1q0btcp/why_do_people_read_a_random_walk_down_wall_street/)
+## 31. [Why do people read A Random Walk Down Wall Street and end up with the wrong conclusion from the author?](https://reddit.com/r/Bogleheads/comments/1q0btcp/why_do_people_read_a_random_walk_down_wall_street/)
 
-**Author:** u/AndrewNiccol | **Upvotes:** 300 | **Comments:** 128 | **Date:** 2025-12-31
+**Author:** u/AndrewNiccol | **Upvotes:** 299 | **Comments:** 128 | **Date:** 2025-12-31
 
-**Summary:** The post discusses how people often misinterpret the book 'A Random Walk Down Wall Street,' which advocates for index funds and ETFs, instead using it to justify stock picking. The author shares personal anecdotes and highlights a common misunderstanding of the book's core message.
+**Summary:** The post discusses how people often misinterpret 'A Random Walk Down Wall Street' by continuing to pick stocks despite the book's advice to invest in index funds/ETFs. Many readers ignore the core message due to cognitive biases and emotional factors.
 
 **Key Points:**
-- The book 'A Random Walk Down Wall Street' clearly states that stock picking and technical analysis are ineffective.
-- Many people, including the author's family, misinterpret the book's message and continue to pick stocks.
-- The discussion highlights cognitive biases and personal preferences that lead to misinterpretation.
-- Some people enjoy the process of stock picking as a hobby or for a sense of control.
-- The consensus is that most people struggle to consistently beat the market through stock picking.
+- Multiple individuals misinterpret the book's message about index funds/ETFs
+- People often believe they can beat the market despite evidence to the contrary
+- Psychological factors like desire for control and gambling tendencies influence behavior
+- The book clearly states that stock picking and technical analysis are ineffective
 
-**Discussion Highlights:** The discussion emphasizes that people often believe what they want to believe, and cognitive biases play a significant role in misinterpreting the book's message. Many enjoy the thrill of stock picking or feel a sense of control, making it hard to accept the book's advice on index funds.
+**Discussion Highlights:** The discussion highlights a consensus that many people ignore the book's core message due to cognitive biases, emotional factors, and a desire to feel in control of their financial future. Some enjoy the process of stock picking as a hobby or form of gambling.
 
 ---
 
-## 31. [Why does nobody believe us?](https://reddit.com/r/Bogleheads/comments/1pzrpg4/why_does_nobody_believe_us/)
+## 32. [Why does nobody believe us?](https://reddit.com/r/Bogleheads/comments/1pzrpg4/why_does_nobody_believe_us/)
 
-**Author:** u/JPCool1 | **Upvotes:** 1022 | **Comments:** 611 | **Date:** 2025-12-30
+**Author:** u/JPCool1 | **Upvotes:** 1025 | **Comments:** 611 | **Date:** 2025-12-30
 
 **Summary:** The post discusses the author's frustration with family members who prefer stock picking over ETF investing, highlighting the challenges of convincing others about the benefits of a conservative investment approach.
 
 **Key Points:**
-- The author prefers ETFs for their long-term growth potential and lower risk compared to individual stocks.
-- Family members are confident in their stock-picking abilities, often citing successful picks while ignoring losses.
-- The author feels it's a waste of time trying to convince others about the benefits of ETFs.
-- The discussion highlights a general consensus that people prefer the excitement and potential quick gains of stock picking over the boring, long-term approach of ETF investing.
-- Many commenters agree that trying to convince others about investment strategies is often futile.
+- Author prefers ETFs for long-term growth and diversification.
+- Family members focus on individual stock successes without mentioning failures.
+- Comments suggest it's difficult to convince others about conservative investing.
+- People often prefer quick wins over long-term, boring strategies.
+- Simplicity in investing is counterintuitive but effective.
 
-**Discussion Highlights:** The top comments reflect a consensus that people are drawn to the excitement and potential quick gains of stock picking, and that trying to convince others about the benefits of ETFs is often futile. Many commenters also note that the simplicity of ETF investing is counterintuitive to those who equate complexity with smart investing.
+**Discussion Highlights:** The consensus in the comments is that convincing others about conservative investing is challenging, as people prefer the excitement of stock picking and quick gains over the long-term benefits of ETFs.
 
 ---
 
-## 32. [401k- haven’t touched in years, should I change anything?](https://reddit.com/r/Bogleheads/comments/1pz116u/401k_havent_touched_in_years_should_i_change/)
+## 33. [401k- haven’t touched in years, should I change anything?](https://reddit.com/r/Bogleheads/comments/1pz116u/401k_havent_touched_in_years_should_i_change/)
 
-**Author:** u/Icy-Neighborhood6207 | **Upvotes:** 613 | **Comments:** 171 | **Date:** 2025-12-29
+**Author:** u/Icy-Neighborhood6207 | **Upvotes:** 601 | **Comments:** 171 | **Date:** 2025-12-29
 
-**Summary:** The user has a 401k invested in a target date fund that has grown significantly over 10 years. They are considering whether to make changes at age 35.
+**Summary:** The user has a 401k invested in a target date fund for over 10 years and is considering whether to make changes at age 35. The community generally advises leaving it as is.
 
 **Key Points:**
-- The target date fund has performed well over the years.
-- The general advice is to leave the investment as is if it's performing well.
-- Consider checking the expense ratio of the target date fund compared to other options.
-- Avoid unnecessary changes if the current strategy is effective.
+- User has not made changes to their 401k in over 10 years.
+- Investment is in a target date fund.
+- User is 35 years old and considering whether to tweak the investment.
+- Community advises against making changes if the fund is performing well.
+- Expense ratio of the fund is a consideration for potential changes.
 
-**Discussion Highlights:** The consensus among commenters is that target date funds are generally a good choice and that the user should avoid making changes unless there are significant issues like high expense ratios.
+**Discussion Highlights:** The consensus among commenters is that the target date fund is performing well and no changes are necessary. Some suggest checking the expense ratio of the fund as a potential reason to consider changes.
 
 ---
 
-## 33. [Can I fund my Roth IRA account with $7500 on January 1st?](https://reddit.com/r/Bogleheads/comments/1py7tk6/can_i_fund_my_roth_ira_account_with_7500_on/)
+## 34. [Can I fund my Roth IRA account with $7500 on January 1st?](https://reddit.com/r/Bogleheads/comments/1py7tk6/can_i_fund_my_roth_ira_account_with_7500_on/)
 
-**Author:** u/go4rabbit | **Upvotes:** 348 | **Comments:** 161 | **Date:** 2025-12-28
+**Author:** u/go4rabbit | **Upvotes:** 349 | **Comments:** 161 | **Date:** 2025-12-28
 
 **Summary:** The post discusses whether it's possible to fund a Roth IRA with $7500 on January 1st, without waiting for accumulated take-home pay. The consensus is that it is allowed, provided the contributor earns at least $7500 by the end of the year.
 
 **Key Points:**
 - You can fund your Roth IRA with $7500 on January 1st, even before earning the income, as long as you earn at least $7500 by the end of the year.
-- The contribution limit for 2026 is $7500 for individuals under 50.
+- The contribution limit for those under 50 is $7500 in 2026, up from $7000 in 2025.
 - It's advisable to ensure you will meet the income requirement before making the contribution.
 - If you haven't maxed out your 2025 contributions, you have until April 15th to do so.
 
-**Discussion Highlights:** The discussion highlights that early funding of a Roth IRA is permissible, but caution is advised to ensure the income requirement is met. There is also a reminder to prioritize maxing out previous year contributions if not already done.
+**Discussion Highlights:** The discussion highlights that early funding of a Roth IRA is permissible, but contributors should be confident in meeting the annual income requirement. There is also a reminder to prioritize maxing out contributions for the previous year if not already done.
 
 ---
 
-## 34. [Why do Bogleheads discourage use of AI search for investing information? Because it is too often wrong or misleading.](https://reddit.com/r/Bogleheads/comments/1py0ajm/why_do_bogleheads_discourage_use_of_ai_search_for/)
+## 35. [Why do Bogleheads discourage use of AI search for investing information? Because it is too often wrong or misleading.](https://reddit.com/r/Bogleheads/comments/1py0ajm/why_do_bogleheads_discourage_use_of_ai_search_for/)
 
-**Author:** u/Kashmir79 | **Upvotes:** 264 | **Comments:** 146 | **Date:** 2025-12-28
+**Author:** u/Kashmir79 | **Upvotes:** 265 | **Comments:** 146 | **Date:** 2025-12-28
 
-**Summary:** The Reddit post discusses why Bogleheads discourage the use of AI search for investing information due to its tendency to provide incorrect or misleading information. The post highlights issues such as hallucinations, reliance on prompt quality, and the lack of firsthand knowledge in AI-generated content.
+**Summary:** The post discusses why Bogleheads discourage the use of AI search for investing information due to inaccuracies and misleading content. It highlights concerns about AI-generated responses being unreliable and potentially harmful for novice investors.
 
 **Key Points:**
-- AI-generated content is prone to errors and biases due to its reliance on aggregated sources.
-- LLMs can confidently provide incorrect information, known as hallucinations.
-- The quality of AI responses heavily depends on the user's ability to craft effective prompts.
-- AI is not a substitute for firsthand knowledge or authoritative sources in investing.
-- Policies against AI-generated content aim to ensure the quality and reliability of information shared in the community.
+- AI-generated content is prone to errors and biases.
+- AI can confidently provide incorrect information, known as 'hallucinations'.
+- The quality of AI responses depends heavily on the user's prompt-crafting skills.
+- Policies against AI-generated content aim to ensure substantive and reliable discussions.
+- AI is not banned outright but is discouraged for novice investors due to reliability concerns.
 
-**Discussion Highlights:** The discussion highlights several instances where AI provided incorrect information, such as wrong expense ratios for index funds. Users emphasize the importance of human experience and authoritative sources over algorithmically generated responses. There is a consensus that while AI has potential, it is not yet reliable for providing accurate investing advice, especially for novices.
+**Discussion Highlights:** The discussion consensus is that while AI has potential, it is currently unreliable for investing advice, especially for beginners. Users share personal experiences of AI providing incorrect information, reinforcing the subreddit's policy against AI-generated content.
 
 ---
 
-## 35. [In a Wild Year for Markets, Investors Who Did Nothing Did Just Fine](https://reddit.com/r/Bogleheads/comments/1pxz1wt/in_a_wild_year_for_markets_investors_who_did/)
+## 36. [In a Wild Year for Markets, Investors Who Did Nothing Did Just Fine](https://reddit.com/r/Bogleheads/comments/1pxz1wt/in_a_wild_year_for_markets_investors_who_did/)
 
-**Author:** u/Hefty-Report6360 | **Upvotes:** 809 | **Comments:** 77 | **Date:** 2025-12-28
+**Author:** u/Hefty-Report6360 | **Upvotes:** 808 | **Comments:** 77 | **Date:** 2025-12-28
 
-**Summary:** The Reddit post highlights that investors who adopted a passive, hands-off approach during market volatility performed well, reinforcing the effectiveness of long-term strategies like dollar-cost averaging (DCA) and consistent contributions.
-
-**Key Points:**
-- Passive investing strategies like DCA and consistent contributions yield strong results.
-- Financial media often promotes active trading to benefit Wall Street, not individual investors.
-- Most investors lack the expertise to trade effectively, making passive strategies preferable.
-- Long-term, forgotten investments often perform well due to compounding.
-- Automated contributions and minimal intervention lead to positive outcomes.
-
-**Discussion Highlights:** The discussion consensus emphasizes the superiority of passive investing strategies, such as DCA and automated contributions, over active trading. Commenters agree that financial media often misleads investors to encourage trading, while long-term, hands-off approaches consistently deliver results.
+**Summary:** The Reddit post highlights that investors who adopted a passive strategy, such as doing nothing, performed well in a volatile market year. The discussion emphasizes the benefits of long-term investing and the pitfalls of active trading. Key points include the effectiveness of passive strategies like DCA, the negative influence of financial media promoting anxiety, and the value of consistent contributions to retirement accounts. The consensus in the discussion is that passive investing strategies, such as setting up automatic contributions and avoiding frequent trading, are more effective for most investors. The community values long-term consistency over short-term market timing.
 
 ---
 
